@@ -1,0 +1,1073 @@
+player_id,player_name,match_id,team_id,team_name,team_final_table_position,scored,assisted,previous_score_home,previous_score_away,go_ahead_goal,game_winning_goal,tying_goal,game_tying_goal,only_goal,only_goal_team,away_goal
+4192,Paul Pogba,453873,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,False,False
+4120,Luke Shaw,453873,149,Manchester United FC,6,True,False,1,0,False,False,False,False,False,False,False
+3221,Jamie Vardy,453873,108,Leicester City FC,9,True,False,2,0,False,False,False,False,False,True,True
+3146,Jan Vertonghen,453874,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,False,True
+1724,José Luis Sanmartín Mato,453874,157,Newcastle United FC,13,True,False,0,1,False,False,True,False,False,True,False
+3152,Bamidele Alli,453874,92,Tottenham Hotspur FC,4,True,False,1,1,True,True,False,False,False,False,True
+4215,Ryan Fraser,453875,148,AFC Bournemouth,14,True,False,0,0,True,False,False,False,False,False,False
+4116,Callum Wilson,453875,148,AFC Bournemouth,14,True,False,1,0,False,False,False,False,False,False,False
+3307,Jeffrey Schlupp,453876,143,Crystal Palace FC,12,True,False,0,0,True,False,False,False,False,False,True
+3982,Wilfried Zaha,453876,143,Crystal Palace FC,12,True,False,0,1,False,False,False,False,False,False,True
+4167,N'Golo Kanté,453877,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,True
+3020,Jorge Luiz Frello Filho,453877,152,Chelsea FC,3,True,False,0,1,False,False,False,False,False,False,True
+4178,Pedro Eliezer Rodríguez Ledesma,453877,152,Chelsea FC,3,True,False,0,2,False,False,False,False,False,False,True
+4230,Roberto Maximiliano Pereyra,453878,155,Watford FC,11,True,False,0,0,True,False,False,False,False,False,False
+4230,Roberto Maximiliano Pereyra,453878,155,Watford FC,11,True,False,1,0,False,False,False,False,False,False,False
+24367,Richarlison de Andrade,453879,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,True
+2922,Rúben Diogo Da Silva Neves,453879,223,Wolverhampton Wanderers FC,7,True,False,0,1,False,False,True,False,False,False,False
+24367,Richarlison de Andrade,453879,144,Everton FC,8,True,False,1,1,True,False,False,False,False,False,True
+3351,Raúl Alonso Jiménez Rodríguez,453879,223,Wolverhampton Wanderers FC,7,True,False,1,2,False,False,True,True,False,False,False
+464988,Mohamed Salah Ghaly,453880,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,False
+4151,Sadio Mané,453880,151,Liverpool FC,2,True,False,1,0,False,False,False,False,False,False,False
+4151,Sadio Mané,453880,151,Liverpool FC,2,True,False,2,0,False,False,False,False,False,False,False
+461507,Daniel Andre Sturridge,453880,151,Liverpool FC,2,True,False,3,0,False,False,False,False,False,False,False
+465666,Raheem Shaquille Sterling,453882,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,True
+469097,Bernardo Mota Veiga de Carvalho e Silva,453882,93,Manchester City FC,1,True,False,0,1,False,False,False,False,False,False,True
+3319,Theo Walcott,453885,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,False
+24367,Richarlison de Andrade,453885,144,Everton FC,8,True,False,1,0,False,False,False,False,False,False,False
+4490,Daniel William John Ings,453885,146,Southampton FC,16,True,False,2,0,False,False,False,False,False,True,True
+7418,Matt Doherty,453886,108,Leicester City FC,9,True,False,0,0,True,False,False,False,False,False,False
+839,James Maddison,453886,108,Leicester City FC,9,True,False,1,0,False,False,False,False,False,False,False
+2977,Lucas Rodrigues Moura da Silva,453887,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,False,False
+4474,Aleksandar Mitrović,453887,162,Fulham FC,19,True,False,1,0,False,False,True,False,False,True,True
+3160,Kieran Trippier,453887,92,Tottenham Hotspur FC,4,True,False,1,1,True,False,False,False,False,False,False
+3154,Harry Kane,453887,92,Tottenham Hotspur FC,4,True,False,2,1,False,False,False,False,False,False,False
+3460,Marko Arnautović,453888,153,West Ham United FC,10,True,False,0,0,True,False,False,False,False,True,False
+4116,Callum Wilson,453888,148,AFC Bournemouth,14,True,False,1,0,False,False,True,False,False,False,True
+4111,Steve Cook,453888,148,AFC Bournemouth,14,True,False,1,1,True,True,False,False,False,False,True
+4178,Pedro Eliezer Rodríguez Ledesma,453889,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,False
+3184,Álvaro Borja Morata Martín,453889,152,Chelsea FC,3,True,False,1,0,False,False,False,False,False,False,False
+1571,Henrikh Mkhitaryan,453889,59,Arsenal FC,5,True,False,2,0,False,False,False,False,False,False,True
+2972,Alex Iwobi,453889,59,Arsenal FC,5,True,False,2,1,False,False,True,False,False,False,True
+4262,Marcos Alonso Mendoza,453889,152,Chelsea FC,3,True,False,2,2,True,True,False,False,False,False,False
+3947,Andre Gray,453884,155,Watford FC,11,True,False,0,0,True,False,False,False,False,False,True
+3964,James Tarkowski,453884,145,Burnley FC,15,True,False,0,1,False,False,True,False,False,True,False
+4077,Troy Deeney,453884,155,Watford FC,11,True,False,1,1,True,False,False,False,False,False,True
+7274,Will Hughes,453884,155,Watford FC,11,True,False,1,2,False,False,False,False,False,False,True
+216091,Sergio Leonel Agüero del Castillo,453890,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,False
+470871,Gabriel Fernando de Jesus,453890,93,Manchester City FC,1,True,False,1,0,False,False,False,False,False,False,False
+216091,Sergio Leonel Agüero del Castillo,453890,93,Manchester City FC,1,True,False,2,0,False,False,False,False,False,False,False
+1710,Jon Gorenc Stankovič,453890,217,Huddersfield Town FC,20,True,False,3,0,False,False,False,False,False,True,True
+461296,David Josué Jiménez Silva,453890,93,Manchester City FC,1,True,False,3,1,False,False,False,False,False,False,False
+216091,Sergio Leonel Agüero del Castillo,453890,93,Manchester City FC,1,True,False,4,1,False,False,False,False,False,False,False
+14578,Terence Kongolo,453890,93,Manchester City FC,1,True,False,5,1,False,False,False,False,False,False,False
+4433,Glenn Murray,453891,209,Brighton & Hove Albion FC,17,True,False,0,0,True,False,False,False,False,False,False
+7222,Shane Duffy,453891,209,Brighton & Hove Albion FC,17,True,False,1,0,False,False,False,False,False,False,False
+463911,Romelu Lukaku Menama,453891,149,Manchester United FC,6,True,False,2,0,False,False,False,False,False,False,True
+1100,Pascal Groß,453891,209,Brighton & Hove Albion FC,17,True,False,2,1,False,False,False,False,False,False,False
+4192,Paul Pogba,453891,149,Manchester United FC,6,True,False,3,1,False,False,False,False,False,False,True
+461248,James Philip Milner,453892,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,True
+4151,Sadio Mané,453892,151,Liverpool FC,2,True,False,0,1,False,False,False,False,False,False,True
+3239,Willy Boly,453893,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,False,False,False,False,True,False
+10561,Aymeric Laporte,453893,93,Manchester City FC,1,True,False,1,0,False,False,True,True,False,True,True
+3319,Theo Walcott,453894,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,True
+3941,Michael Keane,453894,144,Everton FC,8,True,False,0,1,False,False,False,False,False,False,True
+4117,Joshua King,453894,148,AFC Bournemouth,14,True,False,0,2,False,False,False,False,False,False,False
+4135,Nathan Aké,453894,148,AFC Bournemouth,14,True,False,1,2,False,False,True,True,False,False,False
+3460,Marko Arnautović,453895,153,West Ham United FC,10,True,False,0,0,True,False,False,False,False,True,True
+2963,Ignacio Monreal Eraso,453895,59,Arsenal FC,5,True,False,0,1,False,False,True,False,False,False,False
+17398,Issa Diop,453895,59,Arsenal FC,5,True,False,1,1,True,False,False,False,False,False,False
+3406,Daniel Nii Tackie Mensah Welbeck,453895,59,Arsenal FC,5,True,False,2,1,False,False,False,False,False,False,False
+4227,Ryan Bertrand,453898,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,True,False
+3231,Demarai Gray,453898,108,Leicester City FC,9,True,False,1,0,False,False,True,False,False,False,True
+4233,Harry Maguire,453898,108,Leicester City FC,9,True,False,1,1,True,True,False,False,False,False,True
+464988,Mohamed Salah Ghaly,453899,151,Liverpool FC,2,True,False,0,0,True,True,False,False,True,True,False
+4230,Roberto Maximiliano Pereyra,453900,155,Watford FC,11,True,False,0,0,True,False,False,False,False,False,False
+4070,José Holebas,453900,155,Watford FC,11,True,False,1,0,False,False,False,False,False,False,False
+3982,Wilfried Zaha,453900,143,Crystal Palace FC,12,True,False,2,0,False,False,False,False,False,True,True
+6093,Jean Michaël Seri,453896,162,Fulham FC,19,True,False,0,0,True,False,False,False,False,False,False
+4244,Jeff Hendrick,453896,145,Burnley FC,15,True,False,1,0,False,False,True,False,False,False,True
+4474,Aleksandar Mitrović,453896,162,Fulham FC,19,True,False,1,1,True,False,False,False,False,False,False
+4474,Aleksandar Mitrović,453896,162,Fulham FC,19,True,False,2,1,False,False,False,False,False,False,False
+3964,James Tarkowski,453896,145,Burnley FC,15,True,False,3,1,False,False,False,False,False,False,True
+1017,André Schürrle,453896,162,Fulham FC,19,True,False,3,2,False,False,False,False,False,False,False
+4165,Eden Hazard,453901,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,True
+1724,José Luis Sanmartín Mato,453901,157,Newcastle United FC,13,True,False,0,1,False,False,True,False,False,True,False
+4532,DeAndre Yedlin,453901,152,Chelsea FC,3,True,False,1,1,True,True,False,False,False,False,True
+3154,Harry Kane,453902,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,False,True
+2977,Lucas Rodrigues Moura da Silva,453902,92,Tottenham Hotspur FC,4,True,False,0,1,False,False,False,False,False,False,True
+2977,Lucas Rodrigues Moura da Silva,453902,92,Tottenham Hotspur FC,4,True,False,0,2,False,False,False,False,False,False,True
+4151,Sadio Mané,453903,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,True
+464647,Roberto Firmino Barbosa de Oliveira,453903,151,Liverpool FC,2,True,False,0,1,False,False,False,False,False,False,True
+3253,Rachid Ghezzal,453903,108,Leicester City FC,9,True,False,0,2,False,False,False,False,False,True,False
+1017,André Schürrle,453904,162,Fulham FC,19,True,False,0,0,True,False,False,False,False,False,True
+4474,Aleksandar Mitrović,453904,162,Fulham FC,19,True,False,0,1,False,False,False,False,False,False,True
+4433,Glenn Murray,453904,209,Brighton & Hove Albion FC,17,True,False,0,2,False,False,False,False,False,False,False
+4433,Glenn Murray,453904,209,Brighton & Hove Albion FC,17,True,False,1,2,False,False,True,True,False,False,False
+4178,Pedro Eliezer Rodríguez Ledesma,453906,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,False
+4165,Eden Hazard,453906,152,Chelsea FC,3,True,False,1,0,False,False,False,False,False,False,False
+4490,Daniel William John Ings,453907,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,False,True
+1520,Pierre-Emile Højbjerg,453907,146,Southampton FC,16,True,False,0,1,False,False,False,False,False,False,True
+7602,Philip Billing,453908,217,Huddersfield Town FC,20,True,False,0,0,True,False,False,False,False,True,True
+4308,Dominic Calvert-Lewin,453908,144,Everton FC,8,True,False,0,1,False,False,True,True,False,True,False
+4251,Adama Traoré Diarra,453909,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,True,False,False,True,True,True
+465666,Raheem Shaquille Sterling,453910,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,False
+4532,DeAndre Yedlin,453910,157,Newcastle United FC,13,True,False,1,0,False,False,True,False,False,True,True
+3147,Kyle Walker,453910,93,Manchester City FC,1,True,False,1,1,True,True,False,False,False,False,False
+2965,Shkodran Mustafi,453911,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,True
+10611,Víctor Camarasa Ferrando,453911,161,Cardiff City FC,18,True,False,0,1,False,False,True,False,False,False,False
+1020,Pierre-Emerick Aubameyang,453911,59,Arsenal FC,5,True,False,1,1,True,False,False,False,False,False,True
+7415,Danny Ward,453911,161,Cardiff City FC,18,True,False,1,2,False,False,True,False,False,False,False
+3345,Alexandre Lacazette,453911,59,Arsenal FC,5,True,False,2,2,True,True,False,False,False,False,True
+463911,Romelu Lukaku Menama,453905,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,False,True
+463911,Romelu Lukaku Menama,453905,149,Manchester United FC,6,True,False,0,1,False,False,False,False,False,False,True
+4201,Abdoulaye Doucouré,453912,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,True,True
+4077,Troy Deeney,453912,155,Watford FC,11,True,False,0,1,False,False,True,False,False,False,False
+4072,Craig Cathcart,453912,155,Watford FC,11,True,False,1,1,True,True,False,False,False,False,False
+4147,Georginio Wijnaldum,453913,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,True
+464647,Roberto Firmino Barbosa de Oliveira,453913,151,Liverpool FC,2,True,False,0,1,False,False,False,False,False,False,True
+3150,Erik Lamela,453913,92,Tottenham Hotspur FC,4,True,False,0,2,False,False,False,False,False,True,False
+4215,Ryan Fraser,453914,148,AFC Bournemouth,14,True,False,0,0,True,False,False,False,False,False,False
+4215,Ryan Fraser,453914,148,AFC Bournemouth,14,True,False,1,0,False,False,False,False,False,False,False
+4117,Joshua King,453914,148,AFC Bournemouth,14,True,False,2,0,False,False,False,False,False,False,False
+4110,Adam Smith,453914,148,AFC Bournemouth,14,True,False,3,0,False,False,False,False,False,False,False
+839,James Maddison,453914,108,Leicester City FC,9,True,False,4,0,False,False,False,False,False,False,True
+3216,Marc Albrighton,453914,108,Leicester City FC,9,True,False,4,1,False,False,False,False,False,False,True
+7444,Souleymane Bamba,453915,161,Cardiff City FC,18,True,False,0,0,True,False,False,False,False,True,True
+4165,Eden Hazard,453915,152,Chelsea FC,3,True,False,0,1,False,False,True,False,False,False,False
+4165,Eden Hazard,453915,152,Chelsea FC,3,True,False,1,1,True,False,False,False,False,False,False
+4165,Eden Hazard,453915,152,Chelsea FC,3,True,False,2,1,False,False,False,False,False,False,False
+461579,Willian Borges da Silva,453915,152,Chelsea FC,3,True,False,3,1,False,False,False,False,False,False,False
+3982,Wilfried Zaha,453916,143,Crystal Palace FC,12,True,False,0,0,True,True,False,False,True,True,True
+1541,Leroy Sané,453917,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,False
+461296,David Josué Jiménez Silva,453917,93,Manchester City FC,1,True,False,1,0,False,False,False,False,False,False,False
+465666,Raheem Shaquille Sterling,453917,93,Manchester City FC,1,True,False,2,0,False,False,False,False,False,False,False
+1573,Granit Xhaka,453918,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,True
+2967,Mesut Özil,453918,59,Arsenal FC,5,True,False,0,1,False,False,False,False,False,False,True
+4410,Ciaran Clark,453918,157,Newcastle United FC,13,True,False,0,2,False,False,False,False,False,True,False
+463911,Romelu Lukaku Menama,453919,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,False,True
+4193,Chris Smalling,453919,149,Manchester United FC,6,True,False,0,1,False,False,False,False,False,False,True
+3947,Andre Gray,453919,155,Watford FC,11,True,False,0,2,False,False,False,False,False,True,False
+3351,Raúl Alonso Jiménez Rodríguez,453920,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,True,False,False,True,True,False
+3013,Andriy Yarmolenko,453921,153,West Ham United FC,10,True,False,0,0,True,False,False,False,False,False,True
+3013,Andriy Yarmolenko,453921,153,West Ham United FC,10,True,False,0,1,False,False,False,False,False,False,True
+463422,Gylfi Þór Sigurðsson,453921,144,Everton FC,8,True,False,0,2,False,False,False,False,False,True,False
+3460,Marko Arnautović,453921,153,West Ham United FC,10,True,False,1,2,False,False,False,False,False,False,True
+1520,Pierre-Emile Højbjerg,453922,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,False,False
+4490,Daniel William John Ings,453922,146,Southampton FC,16,True,False,1,0,False,False,False,False,False,False,False
+7222,Shane Duffy,453922,209,Brighton & Hove Albion FC,17,True,False,2,0,False,False,False,False,False,False,True
+4433,Glenn Murray,453922,209,Brighton & Hove Albion FC,17,True,False,2,1,False,False,True,True,False,False,True
+3947,Andre Gray,453923,155,Watford FC,11,True,False,0,0,True,False,False,False,False,True,True
+4474,Aleksandar Mitrović,453923,162,Fulham FC,19,True,False,0,1,False,False,True,True,False,True,False
+4089,Matěj Vydra,453924,145,Burnley FC,15,True,False,0,0,True,False,False,False,False,False,False
+4021,Aaron Lennon,453924,145,Burnley FC,15,True,False,1,0,False,False,False,False,False,False,False
+4305,Ashley Barnes,453924,145,Burnley FC,15,True,False,2,0,False,False,False,False,False,False,False
+4305,Ashley Barnes,453924,145,Burnley FC,15,True,False,3,0,False,False,False,False,False,False,False
+216091,Sergio Leonel Agüero del Castillo,453925,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,True
+469097,Bernardo Mota Veiga de Carvalho e Silva,453925,93,Manchester City FC,1,True,False,0,1,False,False,False,False,False,False,True
+1572,İlkay Gündoğan,453925,93,Manchester City FC,1,True,False,0,2,False,False,False,False,False,False,True
+3218,Riyad Mahrez,453925,93,Manchester City FC,1,True,False,0,3,False,False,False,False,False,False,True
+3218,Riyad Mahrez,453925,93,Manchester City FC,1,True,False,0,4,False,False,False,False,False,False,True
+2287,Mathias Jattah-Njie Jørgensen,453927,217,Huddersfield Town FC,20,True,False,0,0,True,False,False,False,False,True,True
+469776,Kelechi Promise Iheanacho,453927,108,Leicester City FC,9,True,False,0,1,False,False,True,False,False,False,False
+839,James Maddison,453927,108,Leicester City FC,9,True,False,1,1,True,False,False,False,False,False,False
+3221,Jamie Vardy,453927,108,Leicester City FC,9,True,False,2,1,False,False,False,False,False,False,False
+15063,Wesley Hoedt,453928,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,False
+464606,Joël Andre Job Matip,453928,151,Liverpool FC,2,True,False,1,0,False,False,False,False,False,False,False
+464988,Mohamed Salah Ghaly,453928,151,Liverpool FC,2,True,False,2,0,False,False,False,False,False,False,False
+2705,Frederico Rodrigues Santos,453929,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,True,False
+461919,João Filipe Iria Santos Moutinho,453929,223,Wolverhampton Wanderers FC,7,True,False,1,0,False,False,True,True,False,True,True
+3154,Harry Kane,453930,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,False,True
+3150,Erik Lamela,453930,92,Tottenham Hotspur FC,4,True,False,0,1,False,False,False,False,False,False,True
+4630,Anthony Knockaert,453930,209,Brighton & Hove Albion FC,17,True,False,0,2,False,False,False,False,False,True,False
+3345,Alexandre Lacazette,453932,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,False
+1020,Pierre-Emerick Aubameyang,453932,59,Arsenal FC,5,True,False,1,0,False,False,False,False,False,False,False
+18332,Felipe Anderson Pereira Gomes,453933,153,West Ham United FC,10,True,False,0,0,True,False,False,False,False,False,False
+3040,Victor Nilsson Lindelöf,453933,153,West Ham United FC,10,True,False,1,0,False,False,False,False,False,False,False
+4140,Marcus Rashford,453933,149,Manchester United FC,6,True,False,2,0,False,False,False,False,False,True,True
+3460,Marko Arnautović,453933,153,West Ham United FC,10,True,False,2,1,False,False,False,False,False,False,False
+4072,Craig Cathcart,453934,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,False
+2967,Mesut Özil,453934,59,Arsenal FC,5,True,False,1,0,False,False,False,False,False,False,False
+463422,Gylfi Þór Sigurðsson,453935,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,False
+3066,Cenk Tosun,453935,144,Everton FC,8,True,False,1,0,False,False,False,False,False,False,False
+463422,Gylfi Þór Sigurðsson,453935,144,Everton FC,8,True,False,2,0,False,False,False,False,False,False,False
+3154,Harry Kane,453936,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,False,True
+3154,Harry Kane,453936,92,Tottenham Hotspur FC,4,True,False,0,1,False,False,False,False,False,False,True
+465666,Raheem Shaquille Sterling,453937,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,False
+216091,Sergio Leonel Agüero del Castillo,453937,93,Manchester City FC,1,True,False,1,0,False,False,False,False,False,False,False
+3221,Jamie Vardy,453938,108,Leicester City FC,9,True,False,0,0,True,False,False,False,False,False,True
+4233,Harry Maguire,453938,108,Leicester City FC,9,True,False,0,1,False,False,False,False,False,False,True
+2789,Ivan Ricardo Neves Abreu Cavaleiro,453939,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,False,False,False,False,False,False
+467254,Jonathan Castro Otto,453939,223,Wolverhampton Wanderers FC,7,True,False,1,0,False,False,False,False,False,False,False
+4165,Eden Hazard,453940,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,True,False
+461507,Daniel Andre Sturridge,453940,151,Liverpool FC,2,True,False,1,0,False,False,True,True,False,True,True
+3959,Johann Berg Guðmunds­son,453941,145,Burnley FC,15,True,False,0,0,True,False,False,False,False,False,True
+4877,Josh Murphy,453941,161,Cardiff City FC,18,True,False,0,1,False,False,True,False,False,True,False
+3946,Sam Vokes,453941,145,Burnley FC,15,True,False,1,1,True,True,False,False,False,False,True
+9039,David Brooks,453942,148,AFC Bournemouth,14,True,False,0,0,True,False,False,False,False,False,False
+4095,Patrick van Aanholt,453942,143,Crystal Palace FC,12,True,False,1,0,False,False,True,False,False,True,True
+4241,Junior Stanislas,453942,148,AFC Bournemouth,14,True,False,1,1,True,True,False,False,False,False,False
+4433,Glenn Murray,453943,209,Brighton & Hove Albion FC,17,True,False,0,0,True,True,False,False,True,True,False
+3946,Sam Vokes,453944,145,Burnley FC,15,True,False,0,0,True,False,False,False,False,True,False
+7287,Christopher Schindler,453944,217,Huddersfield Town FC,20,True,False,1,0,False,False,True,True,False,True,True
+7418,Matt Doherty,453945,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,True,False,False,True,True,True
+24367,Richarlison de Andrade,453947,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,True
+5996,Ricardo Domingos Barbosa Pereira,453947,108,Leicester City FC,9,True,False,0,1,False,False,True,False,False,True,False
+463422,Gylfi Þór Sigurðsson,453947,144,Everton FC,8,True,False,1,1,True,True,False,False,False,False,True
+3153,Eric Dier,453951,92,Tottenham Hotspur FC,4,True,False,0,0,True,True,False,False,True,True,False
+9039,David Brooks,453952,148,AFC Bournemouth,14,True,False,0,0,True,False,False,False,False,False,True
+4117,Joshua King,453952,148,AFC Bournemouth,14,True,False,0,1,False,False,False,False,False,False,True
+4117,Joshua King,453952,148,AFC Bournemouth,14,True,False,0,2,False,False,False,False,False,False,True
+4116,Callum Wilson,453952,148,AFC Bournemouth,14,True,False,0,3,False,False,False,False,False,False,True
+4272,Robert Kenedy Nunes do Nascimento,453949,157,Newcastle United FC,13,True,False,0,0,True,False,False,False,False,False,True
+1040,Yoshinori Muto,453949,157,Newcastle United FC,13,True,False,0,1,False,False,False,False,False,False,True
+4124,Juan Manuel Mata García,453949,149,Manchester United FC,6,True,False,0,2,False,False,False,False,False,False,False
+4128,Anthony Martial,453949,149,Manchester United FC,6,True,False,1,2,False,False,True,False,False,False,False
+461319,Alexis Alejandro Sánchez Sánchez,453949,149,Manchester United FC,6,True,False,2,2,True,True,False,False,False,False,False
+3345,Alexandre Lacazette,453946,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,True
+1017,André Schürrle,453946,162,Fulham FC,19,True,False,0,1,False,False,True,False,False,True,False
+3345,Alexandre Lacazette,453946,59,Arsenal FC,5,True,False,1,1,True,False,False,False,False,False,True
+3357,Aaron Ramsey,453946,59,Arsenal FC,5,True,False,1,2,False,False,False,False,False,False,True
+1020,Pierre-Emerick Aubameyang,453946,59,Arsenal FC,5,True,False,1,3,False,False,False,False,False,False,True
+1020,Pierre-Emerick Aubameyang,453946,59,Arsenal FC,5,True,False,1,4,False,False,False,False,False,False,True
+4165,Eden Hazard,453950,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,True
+4017,Ross Barkley,453950,152,Chelsea FC,3,True,False,0,1,False,False,False,False,False,False,True
+3184,Álvaro Borja Morata Martín,453950,152,Chelsea FC,3,True,False,0,2,False,False,False,False,False,False,True
+1787,Antonio Rüdiger,453956,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,False
+4128,Anthony Martial,453956,149,Manchester United FC,6,True,False,1,0,False,False,True,False,False,False,True
+4128,Anthony Martial,453956,149,Manchester United FC,6,True,False,1,1,True,False,False,False,False,False,True
+4017,Ross Barkley,453956,152,Chelsea FC,3,True,False,1,2,False,False,True,True,False,False,False
+1017,André Schürrle,453955,162,Fulham FC,19,True,False,0,0,True,False,False,False,False,False,True
+4877,Josh Murphy,453955,161,Cardiff City FC,18,True,False,0,1,False,False,True,False,False,False,False
+7255,Bobby Reid,453955,161,Cardiff City FC,18,True,False,1,1,True,False,False,False,False,False,False
+7496,Kouassi Ryan Sessegnon,453955,162,Fulham FC,19,True,False,2,1,False,False,True,False,False,False,True
+746,Callum Paterson,453955,161,Cardiff City FC,18,True,False,2,2,True,False,False,False,False,False,False
+7516,Kadeem Harris,453955,161,Cardiff City FC,18,True,False,3,2,False,False,False,False,False,False,False
+216091,Sergio Leonel Agüero del Castillo,453959,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,False
+469097,Bernardo Mota Veiga de Carvalho e Silva,453959,93,Manchester City FC,1,True,False,1,0,False,False,False,False,False,False,False
+566675,Fernando Luiz Rosa,453959,93,Manchester City FC,1,True,False,2,0,False,False,False,False,False,False,False
+3218,Riyad Mahrez,453959,93,Manchester City FC,1,True,False,3,0,False,False,False,False,False,False,False
+1541,Leroy Sané,453959,93,Manchester City FC,1,True,False,4,0,False,False,False,False,False,False,False
+7271,Beram Kayal,453960,209,Brighton & Hove Albion FC,17,True,False,0,0,True,True,False,False,True,True,True
+3150,Erik Lamela,453961,92,Tottenham Hotspur FC,4,True,False,0,0,True,True,False,False,True,True,True
+4074,Etienne Capoue,453962,155,Watford FC,11,True,False,0,0,True,False,False,False,False,False,True
+4230,Roberto Maximiliano Pereyra,453962,155,Watford FC,11,True,False,0,1,False,False,False,False,False,False,True
+464988,Mohamed Salah Ghaly,453958,151,Liverpool FC,2,True,False,0,0,True,True,False,False,True,True,True
+4308,Dominic Calvert-Lewin,453957,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,False
+3066,Cenk Tosun,453957,144,Everton FC,8,True,False,1,0,False,False,False,False,False,False,False
+2966,Héctor Bellerín Moruno,453954,108,Leicester City FC,9,True,False,0,0,True,False,False,False,False,True,True
+2967,Mesut Özil,453954,59,Arsenal FC,5,True,False,0,1,False,False,True,False,False,False,False
+1020,Pierre-Emerick Aubameyang,453954,59,Arsenal FC,5,True,False,1,1,True,False,False,False,False,False,False
+1020,Pierre-Emerick Aubameyang,453954,59,Arsenal FC,5,True,False,2,1,False,False,False,False,False,False,False
+4433,Glenn Murray,453963,209,Brighton & Hove Albion FC,17,True,False,0,0,True,True,False,False,True,True,False
+4116,Callum Wilson,453966,148,AFC Bournemouth,14,True,False,0,0,True,False,False,False,False,False,True
+9039,David Brooks,453966,148,AFC Bournemouth,14,True,False,0,1,False,False,False,False,False,False,True
+4116,Callum Wilson,453966,148,AFC Bournemouth,14,True,False,0,2,False,False,False,False,False,False,True
+464988,Mohamed Salah Ghaly,453968,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,False
+4151,Sadio Mané,453968,151,Liverpool FC,2,True,False,1,0,False,False,False,False,False,False,False
+746,Callum Paterson,453968,161,Cardiff City FC,18,True,False,2,0,False,False,False,False,False,True,True
+1714,Xherdan Shaqiri,453968,151,Liverpool FC,2,True,False,2,1,False,False,False,False,False,False,False
+4151,Sadio Mané,453968,151,Liverpool FC,2,True,False,3,1,False,False,False,False,False,False,False
+4230,Roberto Maximiliano Pereyra,453972,155,Watford FC,11,True,False,0,0,True,False,False,False,False,False,False
+4019,Gerard Deulofeu Lázaro,453972,155,Watford FC,11,True,False,1,0,False,False,False,False,False,False,False
+4232,Isaac Ajayi Success,453972,155,Watford FC,11,True,False,2,0,False,False,False,False,False,False,False
+24320,Fabián Cornelio Balbuena González,453967,153,West Ham United FC,10,True,False,0,0,True,False,False,False,False,True,True
+3401,Onyinye Wilfred Ndidi,453967,108,Leicester City FC,9,True,False,0,1,False,False,True,True,False,True,False
+3184,Álvaro Borja Morata Martín,453964,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,True
+4017,Ross Barkley,453964,152,Chelsea FC,3,True,False,0,1,False,False,False,False,False,False,True
+461579,Willian Borges da Silva,453964,152,Chelsea FC,3,True,False,0,2,False,False,False,False,False,False,True
+4183,Ruben Loftus-Cheek,453964,152,Chelsea FC,3,True,False,0,3,False,False,False,False,False,False,True
+2799,Luka Milivojević,453965,143,Crystal Palace FC,12,True,False,0,0,True,False,False,False,False,False,False
+1573,Granit Xhaka,453965,59,Arsenal FC,5,True,False,1,0,False,False,True,False,False,False,True
+1020,Pierre-Emerick Aubameyang,453965,59,Arsenal FC,5,True,False,1,1,True,False,False,False,False,False,True
+2799,Luka Milivojević,453965,143,Crystal Palace FC,12,True,False,1,2,False,False,True,True,False,False,False
+4192,Paul Pogba,453969,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,False,False
+4128,Anthony Martial,453969,149,Manchester United FC,6,True,False,1,0,False,False,False,False,False,False,False
+463422,Gylfi Þór Sigurðsson,453969,144,Everton FC,8,True,False,2,0,False,False,False,False,False,True,True
+3218,Riyad Mahrez,453971,93,Manchester City FC,1,True,False,0,0,True,True,False,False,True,True,True
+4116,Callum Wilson,453973,148,AFC Bournemouth,14,True,False,0,0,True,False,False,False,False,True,False
+4128,Anthony Martial,453973,149,Manchester United FC,6,True,False,1,0,False,False,True,False,False,False,True
+4140,Marcus Rashford,453973,149,Manchester United FC,6,True,False,1,1,True,True,False,False,False,False,True
+3231,Demarai Gray,453975,108,Leicester City FC,9,True,False,0,0,True,True,False,False,True,True,True
+24367,Richarlison de Andrade,453977,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,False
+7270,Lewis Dunk,453977,209,Brighton & Hove Albion FC,17,True,False,1,0,False,False,True,False,False,True,True
+4264,Séamus Coleman,453977,144,Everton FC,8,True,False,1,1,True,False,False,False,False,False,False
+24367,Richarlison de Andrade,453977,144,Everton FC,8,True,False,2,1,False,False,False,False,False,False,False
+4476,Ayoze Pérez Gutiérrez,453980,157,Newcastle United FC,13,True,False,0,0,True,True,False,False,True,True,False
+3460,Marko Arnautović,453981,153,West Ham United FC,10,True,False,0,0,True,False,False,False,False,False,False
+3959,Johann Berg Guðmunds­son,453981,145,Burnley FC,15,True,False,1,0,False,False,True,False,False,False,True
+18332,Felipe Anderson Pereira Gomes,453981,153,West Ham United FC,10,True,False,1,1,True,False,False,False,False,False,False
+4631,Chris Wood,453981,145,Burnley FC,15,True,False,2,1,False,False,True,False,False,False,True
+18332,Felipe Anderson Pereira Gomes,453981,153,West Ham United FC,10,True,False,2,2,True,False,False,False,False,False,False
+463275,Javier Hernández Balcázar,453981,153,West Ham United FC,10,True,False,3,2,False,False,False,False,False,False,False
+461248,James Philip Milner,453974,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,True,True
+3345,Alexandre Lacazette,453974,59,Arsenal FC,5,True,False,0,1,False,False,True,True,False,True,False
+3150,Erik Lamela,453982,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,False,True
+2977,Lucas Rodrigues Moura da Silva,453982,92,Tottenham Hotspur FC,4,True,False,0,1,False,False,False,False,False,False,True
+3154,Harry Kane,453982,92,Tottenham Hotspur FC,4,True,False,0,2,False,False,False,False,False,False,True
+2922,Rúben Diogo Da Silva Neves,453982,223,Wolverhampton Wanderers FC,7,True,False,0,3,False,False,False,False,False,False,False
+3351,Raúl Alonso Jiménez Rodríguez,453982,223,Wolverhampton Wanderers FC,7,True,False,1,3,False,False,False,False,False,False,False
+15063,Wesley Hoedt,453979,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,False
+216091,Sergio Leonel Agüero del Castillo,453979,93,Manchester City FC,1,True,False,1,0,False,False,False,False,False,False,False
+461296,David Josué Jiménez Silva,453979,93,Manchester City FC,1,True,False,2,0,False,False,False,False,False,False,False
+4490,Daniel William John Ings,453979,146,Southampton FC,16,True,False,3,0,False,False,False,False,False,True,True
+465666,Raheem Shaquille Sterling,453979,93,Manchester City FC,1,True,False,3,1,False,False,False,False,False,False,False
+465666,Raheem Shaquille Sterling,453979,93,Manchester City FC,1,True,False,4,1,False,False,False,False,False,False,False
+1541,Leroy Sané,453979,93,Manchester City FC,1,True,False,5,1,False,False,False,False,False,False,False
+3184,Álvaro Borja Morata Martín,453976,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,False
+3981,Andros Townsend,453976,143,Crystal Palace FC,12,True,False,1,0,False,False,True,False,False,True,True
+3184,Álvaro Borja Morata Martín,453976,152,Chelsea FC,3,True,False,1,1,True,False,False,False,False,False,False
+4178,Pedro Eliezer Rodríguez Ledesma,453976,152,Chelsea FC,3,True,False,2,1,False,False,False,False,False,False,False
+4280,Timothy Fosu-Mensah,453978,217,Huddersfield Town FC,20,True,False,0,0,True,True,False,False,True,True,False
+7270,Lewis Dunk,453984,209,Brighton & Hove Albion FC,17,True,False,0,0,True,False,False,False,False,True,True
+746,Callum Paterson,453984,161,Cardiff City FC,18,True,False,0,1,False,False,True,False,False,False,False
+7444,Souleymane Bamba,453984,161,Cardiff City FC,18,True,False,1,1,True,True,False,False,False,False,False
+4519,Alex Pritchard,453987,217,Huddersfield Town FC,20,True,False,0,0,True,False,False,False,False,True,False
+18332,Felipe Anderson Pereira Gomes,453987,153,West Ham United FC,10,True,False,1,0,False,False,True,True,False,True,True
+463459,José Salomón Rondón Giménez,453991,157,Newcastle United FC,13,True,False,0,0,True,False,False,False,False,False,False
+463459,José Salomón Rondón Giménez,453991,157,Newcastle United FC,13,True,False,1,0,False,False,False,False,False,False,False
+468886,Jefferson Andrés Lerma Solís,453991,148,AFC Bournemouth,14,True,False,2,0,False,False,False,False,False,True,True
+3033,Manolo Gabbiadini,453992,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,True,False
+4070,José Holebas,453992,155,Watford FC,11,True,False,1,0,False,False,True,True,False,True,True
+29147,Juan Marcos Foyth,453986,92,Tottenham Hotspur FC,4,True,False,0,0,True,True,False,False,True,True,True
+464988,Mohamed Salah Ghaly,453989,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,False
+1714,Xherdan Shaqiri,453989,151,Liverpool FC,2,True,False,1,0,False,False,False,False,False,False,False
+2789,Ivan Ricardo Neves Abreu Cavaleiro,453983,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,False,False,False,False,True,True
+1571,Henrikh Mkhitaryan,453983,59,Arsenal FC,5,True,False,0,1,False,False,True,True,False,True,False
+461296,David Josué Jiménez Silva,453990,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,False
+216091,Sergio Leonel Agüero del Castillo,453990,93,Manchester City FC,1,True,False,1,0,False,False,False,False,False,False,False
+4128,Anthony Martial,453990,149,Manchester United FC,6,True,False,2,0,False,False,False,False,False,True,True
+1572,İlkay Gündoğan,453990,93,Manchester City FC,1,True,False,2,1,False,False,False,False,False,False,False
+4433,Glenn Murray,453994,209,Brighton & Hove Albion FC,17,True,False,0,0,True,False,False,False,False,True,False
+3221,Jamie Vardy,453994,108,Leicester City FC,9,True,False,1,0,False,False,True,True,False,True,True
+463422,Gylfi Þór Sigurðsson,453996,144,Everton FC,8,True,False,0,0,True,True,False,False,True,True,False
+762,Stuart Armstrong,453997,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,False,True
+4474,Aleksandar Mitrović,453997,162,Fulham FC,19,True,False,0,1,False,False,True,False,False,False,False
+1017,André Schürrle,453997,162,Fulham FC,19,True,False,1,1,True,False,False,False,False,False,False
+762,Stuart Armstrong,453997,146,Southampton FC,16,True,False,2,1,False,False,True,False,False,False,True
+4474,Aleksandar Mitrović,453997,162,Fulham FC,19,True,False,2,2,True,True,False,False,False,False,False
+464988,Mohamed Salah Ghaly,454000,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,True
+4156,Trent Alexander-Arnold,454000,151,Liverpool FC,2,True,False,0,1,False,False,False,False,False,False,True
+464647,Roberto Firmino Barbosa de Oliveira,454000,151,Liverpool FC,2,True,False,0,2,False,False,False,False,False,False,True
+461296,David Josué Jiménez Silva,454001,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,True
+465666,Raheem Shaquille Sterling,454001,93,Manchester City FC,1,True,False,0,1,False,False,False,False,False,False,True
+1541,Leroy Sané,454001,93,Manchester City FC,1,True,False,0,2,False,False,False,False,False,False,True
+1541,Leroy Sané,454001,93,Manchester City FC,1,True,False,0,3,False,False,False,False,False,False,True
+3152,Bamidele Alli,453999,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,False,False
+3154,Harry Kane,453999,92,Tottenham Hotspur FC,4,True,False,1,0,False,False,False,False,False,False,False
+1523,Heung-Min Son,453999,92,Tottenham Hotspur FC,4,True,False,2,0,False,False,False,False,False,False,False
+2979,Olivier Giroud,453999,152,Chelsea FC,3,True,False,3,0,False,False,False,False,False,True,True
+468886,Jefferson Andrés Lerma Solís,453993,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,True
+4117,Joshua King,453993,148,AFC Bournemouth,14,True,False,0,1,False,False,True,False,False,True,False
+1020,Pierre-Emerick Aubameyang,453993,59,Arsenal FC,5,True,False,1,1,True,True,False,False,False,False,True
+7291,Aaron Mooy,454002,217,Huddersfield Town FC,20,True,False,0,0,True,False,False,False,False,False,True
+7291,Aaron Mooy,454002,217,Huddersfield Town FC,20,True,False,0,1,False,False,False,False,False,False,True
+3940,Ben Mee,453995,157,Newcastle United FC,13,True,False,0,0,True,False,False,False,False,False,True
+4410,Ciaran Clark,453995,157,Newcastle United FC,13,True,False,0,1,False,False,False,False,False,False,True
+3946,Sam Vokes,453995,145,Burnley FC,15,True,False,0,2,False,False,False,False,False,True,False
+7418,Matt Doherty,454004,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,False,False,False,False,True,True
+4811,Aron Einar Gunnarsson,454004,161,Cardiff City FC,18,True,False,0,1,False,False,True,False,False,False,False
+4644,David Junior Hoilett,454004,161,Cardiff City FC,18,True,False,1,1,True,True,False,False,False,False,False
+4221,James McArthur,454006,143,Crystal Palace FC,12,True,False,0,0,True,False,False,False,False,False,False
+3981,Andros Townsend,454006,143,Crystal Palace FC,12,True,False,1,0,False,False,False,False,False,False,False
+2287,Mathias Jattah-Njie Jørgensen,454007,217,Huddersfield Town FC,20,True,False,0,0,True,False,False,False,False,True,False
+7222,Shane Duffy,454007,209,Brighton & Hove Albion FC,17,True,False,1,0,False,False,True,False,False,False,True
+10481,Florin Andone,454007,209,Brighton & Hove Albion FC,17,True,False,1,1,True,True,False,False,False,False,True
+3221,Jamie Vardy,454008,108,Leicester City FC,9,True,False,0,0,True,False,False,False,False,False,False
+839,James Maddison,454008,108,Leicester City FC,9,True,False,1,0,False,False,False,False,False,False,False
+469097,Bernardo Mota Veiga de Carvalho e Silva,454010,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,False
+4116,Callum Wilson,454010,148,AFC Bournemouth,14,True,False,1,0,False,False,True,False,False,True,True
+465666,Raheem Shaquille Sterling,454010,93,Manchester City FC,1,True,False,1,1,True,False,False,False,False,False,False
+1572,İlkay Gündoğan,454010,93,Manchester City FC,1,True,False,2,1,False,False,False,False,False,False,False
+463275,Javier Hernández Balcázar,454011,153,West Ham United FC,10,True,False,0,0,True,False,False,False,False,False,True
+463275,Javier Hernández Balcázar,454011,153,West Ham United FC,10,True,False,0,1,False,False,False,False,False,False,True
+18332,Felipe Anderson Pereira Gomes,454011,153,West Ham United FC,10,True,False,0,2,False,False,False,False,False,False,True
+762,Stuart Armstrong,454012,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,False,False
+464928,Cédric Ricardo Alves Soares,454012,146,Southampton FC,16,True,False,1,0,False,False,False,False,False,False,False
+463911,Romelu Lukaku Menama,454012,149,Manchester United FC,6,True,False,2,0,False,False,False,False,False,False,True
+4125,Ander Herrera Agüera,454012,149,Manchester United FC,6,True,False,2,1,False,False,True,True,False,False,True
+4178,Pedro Eliezer Rodríguez Ledesma,454005,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,False
+4183,Ruben Loftus-Cheek,454005,152,Chelsea FC,3,True,False,1,0,False,False,False,False,False,False,False
+1020,Pierre-Emerick Aubameyang,454003,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,False
+3153,Eric Dier,454003,92,Tottenham Hotspur FC,4,True,False,1,0,False,False,True,False,False,False,True
+3154,Harry Kane,454003,92,Tottenham Hotspur FC,4,True,False,1,1,True,False,False,False,False,False,True
+1020,Pierre-Emerick Aubameyang,454003,59,Arsenal FC,5,True,False,1,2,False,False,True,False,False,False,False
+3345,Alexandre Lacazette,454003,59,Arsenal FC,5,True,False,2,2,True,False,False,False,False,False,False
+470522,Lucas Torreira Di Pascua,454003,59,Arsenal FC,5,True,False,3,2,False,False,False,False,False,False,False
+462267,Divock Okoth Origi,454009,151,Liverpool FC,2,True,False,0,0,True,True,False,False,True,True,False
+4116,Callum Wilson,454013,148,AFC Bournemouth,14,True,False,0,0,True,False,False,False,False,False,False
+4215,Ryan Fraser,454013,148,AFC Bournemouth,14,True,False,1,0,False,False,False,False,False,False,False
+14578,Terence Kongolo,454013,217,Huddersfield Town FC,20,True,False,2,0,False,False,False,False,False,True,True
+4433,Glenn Murray,454014,209,Brighton & Hove Albion FC,17,True,False,0,0,True,False,False,False,False,False,False
+462734,Leon-Aderemi Balogun,454014,209,Brighton & Hove Albion FC,17,True,False,1,0,False,False,False,False,False,False,False
+10481,Florin Andone,454014,209,Brighton & Hove Albion FC,17,True,False,2,0,False,False,False,False,False,False,False
+2799,Luka Milivojević,454014,143,Crystal Palace FC,12,True,False,3,0,False,False,False,False,False,True,True
+2982,Lucas Pérez Martínez,454018,153,West Ham United FC,10,True,False,0,0,True,False,False,False,False,False,False
+2982,Lucas Pérez Martínez,454018,153,West Ham United FC,10,True,False,1,0,False,False,False,False,False,False,False
+4174,Michail Antonio,454018,153,West Ham United FC,10,True,False,2,0,False,False,False,False,False,False,False
+4877,Josh Murphy,454018,161,Cardiff City FC,18,True,False,3,0,False,False,False,False,False,True,True
+1541,Leroy Sané,454017,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,True
+3218,Riyad Mahrez,454017,93,Manchester City FC,1,True,False,0,1,False,False,False,False,False,False,True
+4201,Abdoulaye Doucouré,454017,155,Watford FC,11,True,False,0,2,False,False,False,False,False,True,False
+3954,Jack Cork,454015,145,Burnley FC,15,True,False,0,0,True,False,False,False,False,True,False
+461248,James Philip Milner,454015,151,Liverpool FC,2,True,False,1,0,False,False,True,False,False,False,True
+464647,Roberto Firmino Barbosa de Oliveira,454015,151,Liverpool FC,2,True,False,1,1,True,False,False,False,False,False,True
+1714,Xherdan Shaqiri,454015,151,Liverpool FC,2,True,False,1,2,False,False,False,False,False,False,True
+17756,Aboubakar Kamara,454016,162,Fulham FC,19,True,False,0,0,True,False,False,False,False,True,False
+839,James Maddison,454016,108,Leicester City FC,9,True,False,1,0,False,False,True,True,False,True,True
+4183,Ruben Loftus-Cheek,454019,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,True,True
+3351,Raúl Alonso Jiménez Rodríguez,454019,223,Wolverhampton Wanderers FC,7,True,False,0,1,False,False,True,False,False,False,False
+3238,Diogo José Teixeira da Silva,454019,223,Wolverhampton Wanderers FC,7,True,False,1,1,True,True,False,False,False,False,False
+463459,José Salomón Rondón Giménez,454021,157,Newcastle United FC,13,True,False,0,0,True,False,False,False,False,True,True
+24367,Richarlison de Andrade,454021,144,Everton FC,8,True,False,0,1,False,False,True,True,False,True,False
+2965,Shkodran Mustafi,454020,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,True
+4128,Anthony Martial,454020,149,Manchester United FC,6,True,False,0,1,False,False,True,False,False,False,False
+4139,Faustino Marcos Alberto Rojo,454020,59,Arsenal FC,5,True,False,1,1,True,False,False,False,False,False,True
+4239,Jesse Lingard,454020,149,Manchester United FC,6,True,False,1,2,False,False,True,True,False,False,False
+3154,Harry Kane,454022,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,False,False
+2977,Lucas Rodrigues Moura da Silva,454022,92,Tottenham Hotspur FC,4,True,False,1,0,False,False,False,False,False,False,False
+1523,Heung-Min Son,454022,92,Tottenham Hotspur FC,4,True,False,2,0,False,False,False,False,False,False,False
+4079,Charlie Austin,454022,146,Southampton FC,16,True,False,3,0,False,False,False,False,False,True,True
+464988,Mohamed Salah Ghaly,454023,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,True
+464988,Mohamed Salah Ghaly,454023,151,Liverpool FC,2,True,False,0,1,False,False,False,False,False,False,True
+4111,Steve Cook,454023,151,Liverpool FC,2,True,False,0,2,False,False,False,False,False,False,True
+464988,Mohamed Salah Ghaly,454023,151,Liverpool FC,2,True,False,0,3,False,False,False,False,False,False,True
+470522,Lucas Torreira Di Pascua,454024,59,Arsenal FC,5,True,False,0,0,True,True,False,False,True,True,False
+3964,James Tarkowski,454025,145,Burnley FC,15,True,False,0,0,True,True,False,False,True,True,False
+746,Callum Paterson,454026,161,Cardiff City FC,18,True,False,0,0,True,True,False,False,True,True,False
+4194,Ashley Young,454030,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,False,False
+4124,Juan Manuel Mata García,454030,149,Manchester United FC,6,True,False,1,0,False,False,False,False,False,False,False
+463911,Romelu Lukaku Menama,454030,149,Manchester United FC,6,True,False,2,0,False,False,False,False,False,False,False
+17756,Aboubakar Kamara,454030,162,Fulham FC,19,True,False,3,0,False,False,False,False,False,True,True
+4140,Marcus Rashford,454030,149,Manchester United FC,6,True,False,3,1,False,False,False,False,False,False,False
+4221,James McArthur,454032,143,Crystal Palace FC,12,True,False,0,0,True,False,False,False,False,False,True
+3923,Robert Snodgrass,454032,153,West Ham United FC,10,True,False,0,1,False,False,True,False,False,False,False
+463275,Javier Hernández Balcázar,454032,153,West Ham United FC,10,True,False,1,1,True,False,False,False,False,False,False
+18332,Felipe Anderson Pereira Gomes,454032,153,West Ham United FC,10,True,False,2,1,False,False,False,False,False,False,False
+3307,Jeffrey Schlupp,454032,143,Crystal Palace FC,12,True,False,3,1,False,False,False,False,False,False,True
+4167,N'Golo Kanté,454027,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,False
+461917,David Luiz Moreira Marinho,454027,152,Chelsea FC,3,True,False,1,0,False,False,False,False,False,False,False
+1523,Heung-Min Son,454029,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,False,True
+3152,Bamidele Alli,454029,92,Tottenham Hotspur FC,4,True,False,0,1,False,False,False,False,False,False,True
+3238,Diogo José Teixeira da Silva,454031,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,False,False,False,False,False,True
+4476,Ayoze Pérez Gutiérrez,454031,157,Newcastle United FC,13,True,False,0,1,False,False,True,False,False,True,False
+7418,Matt Doherty,454031,223,Wolverhampton Wanderers FC,7,True,False,1,1,True,True,False,False,False,False,True
+24367,Richarlison de Andrade,454028,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,False
+4264,Séamus Coleman,454028,155,Watford FC,11,True,False,1,0,False,False,True,False,False,False,True
+4201,Abdoulaye Doucouré,454028,155,Watford FC,11,True,False,1,1,True,False,False,False,False,False,True
+3087,Lucas Digne,454028,144,Everton FC,8,True,False,1,2,False,False,True,True,False,False,False
+470871,Gabriel Fernando de Jesus,454038,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,False
+470871,Gabriel Fernando de Jesus,454038,93,Manchester City FC,1,True,False,1,0,False,False,False,False,False,False,False
+4308,Dominic Calvert-Lewin,454038,144,Everton FC,8,True,False,2,0,False,False,False,False,False,True,True
+465666,Raheem Shaquille Sterling,454038,93,Manchester City FC,1,True,False,2,1,False,False,False,False,False,False,False
+2799,Luka Milivojević,454034,143,Crystal Palace FC,12,True,False,0,0,True,True,False,False,True,True,False
+463459,José Salomón Rondón Giménez,454036,157,Newcastle United FC,13,True,False,0,0,True,True,False,False,True,True,True
+464526,Christian Dannemann Eriksen,454040,92,Tottenham Hotspur FC,4,True,False,0,0,True,True,False,False,True,True,False
+4019,Gerard Deulofeu Lázaro,454041,155,Watford FC,11,True,False,0,0,True,False,False,False,False,False,False
+4070,José Holebas,454041,155,Watford FC,11,True,False,1,0,False,False,False,False,False,False,False
+4328,Domingos Quina,454041,155,Watford FC,11,True,False,2,0,False,False,False,False,False,False,False
+4644,David Junior Hoilett,454041,161,Cardiff City FC,18,True,False,3,0,False,False,False,False,False,False,True
+7255,Bobby Reid,454041,161,Cardiff City FC,18,True,False,3,1,False,False,False,False,False,False,True
+3351,Raúl Alonso Jiménez Rodríguez,454042,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,False,False,False,False,False,False
+2789,Ivan Ricardo Neves Abreu Cavaleiro,454042,223,Wolverhampton Wanderers FC,7,True,False,1,0,False,False,False,False,False,False,False
+3923,Robert Snodgrass,454035,153,West Ham United FC,10,True,False,0,0,True,False,False,False,False,False,True
+4174,Michail Antonio,454035,153,West Ham United FC,10,True,False,0,1,False,False,False,False,False,False,True
+4178,Pedro Eliezer Rodríguez Ledesma,454033,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,True
+4165,Eden Hazard,454033,152,Chelsea FC,3,True,False,0,1,False,False,False,False,False,False,True
+7604,Solomon March,454033,209,Brighton & Hove Albion FC,17,True,False,0,2,False,False,False,False,False,True,False
+4490,Daniel William John Ings,454039,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,False,False
+1571,Henrikh Mkhitaryan,454039,59,Arsenal FC,5,True,False,1,0,False,False,True,False,False,False,True
+4490,Daniel William John Ings,454039,146,Southampton FC,16,True,False,1,1,True,False,False,False,False,False,False
+1571,Henrikh Mkhitaryan,454039,59,Arsenal FC,5,True,False,2,1,False,False,True,False,False,False,True
+4079,Charlie Austin,454039,146,Southampton FC,16,True,False,2,2,True,True,False,False,False,False,False
+4151,Sadio Mané,454037,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,False
+4239,Jesse Lingard,454037,149,Manchester United FC,6,True,False,1,0,False,False,True,False,False,True,True
+1714,Xherdan Shaqiri,454037,151,Liverpool FC,2,True,False,1,1,True,False,False,False,False,False,False
+1714,Xherdan Shaqiri,454037,151,Liverpool FC,2,True,False,2,1,False,False,False,False,False,False,False
+464988,Mohamed Salah Ghaly,454052,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,True
+4062,Virgil van Dijk,454052,151,Liverpool FC,2,True,False,0,1,False,False,False,False,False,False,True
+1020,Pierre-Emerick Aubameyang,454044,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,False
+1020,Pierre-Emerick Aubameyang,454044,59,Arsenal FC,5,True,False,1,0,False,False,False,False,False,False,False
+4305,Ashley Barnes,454044,145,Burnley FC,15,True,False,2,0,False,False,False,False,False,True,True
+2972,Alex Iwobi,454044,59,Arsenal FC,5,True,False,2,1,False,False,False,False,False,False,False
+9039,David Brooks,454043,148,AFC Bournemouth,14,True,False,0,0,True,False,False,False,False,False,False
+9039,David Brooks,454043,148,AFC Bournemouth,14,True,False,1,0,False,False,False,False,False,False,False
+3221,Jamie Vardy,454046,108,Leicester City FC,9,True,False,0,0,True,True,False,False,True,True,True
+4066,Nathan Redmond,454048,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,False,True
+4490,Daniel William John Ings,454048,146,Southampton FC,16,True,False,0,1,False,False,False,False,False,False,True
+7602,Philip Billing,454048,217,Huddersfield Town FC,20,True,False,0,2,False,False,False,False,False,True,False
+120222,Michael Obafemi,454048,146,Southampton FC,16,True,False,1,2,False,False,False,False,False,False,True
+1572,İlkay Gündoğan,454049,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,False
+3307,Jeffrey Schlupp,454049,143,Crystal Palace FC,12,True,False,1,0,False,False,True,False,False,False,True
+3981,Andros Townsend,454049,143,Crystal Palace FC,12,True,False,1,1,True,False,False,False,False,False,True
+2799,Luka Milivojević,454049,143,Crystal Palace FC,12,True,False,1,2,False,False,False,False,False,False,True
+1578,Kevin De Bruyne,454049,93,Manchester City FC,1,True,False,1,3,False,False,False,False,False,False,False
+4077,Troy Deeney,454051,155,Watford FC,11,True,False,0,0,True,False,False,False,False,False,True
+4019,Gerard Deulofeu Lázaro,454051,155,Watford FC,11,True,False,0,1,False,False,False,False,False,False,True
+4140,Marcus Rashford,454045,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,False,True
+4125,Ander Herrera Agüera,454045,149,Manchester United FC,6,True,False,0,1,False,False,False,False,False,False,True
+10611,Víctor Camarasa Ferrando,454045,161,Cardiff City FC,18,True,False,0,2,False,False,False,False,False,True,False
+4128,Anthony Martial,454045,149,Manchester United FC,6,True,False,1,2,False,False,False,False,False,False,True
+4239,Jesse Lingard,454045,149,Manchester United FC,6,True,False,1,3,False,False,False,False,False,False,True
+4239,Jesse Lingard,454045,149,Manchester United FC,6,True,False,1,4,False,False,False,False,False,False,True
+3319,Theo Walcott,454047,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,False
+1523,Heung-Min Son,454047,92,Tottenham Hotspur FC,4,True,False,1,0,False,False,True,False,False,False,True
+3152,Bamidele Alli,454047,92,Tottenham Hotspur FC,4,True,False,1,1,True,False,False,False,False,False,True
+3154,Harry Kane,454047,92,Tottenham Hotspur FC,4,True,False,1,2,False,False,False,False,False,False,True
+464526,Christian Dannemann Eriksen,454047,92,Tottenham Hotspur FC,4,True,False,1,3,False,False,False,False,False,False,True
+463422,Gylfi Þór Sigurðsson,454047,144,Everton FC,8,True,False,1,4,False,False,False,False,False,False,False
+1523,Heung-Min Son,454047,92,Tottenham Hotspur FC,4,True,False,2,4,False,False,False,False,False,False,True
+3154,Harry Kane,454047,92,Tottenham Hotspur FC,4,True,False,2,5,False,False,False,False,False,False,True
+7496,Kouassi Ryan Sessegnon,454056,162,Fulham FC,19,True,False,0,0,True,False,False,False,False,True,False
+7570,Romain Saïss,454056,223,Wolverhampton Wanderers FC,7,True,False,1,0,False,False,True,True,False,True,True
+24399,Yerry Fernando Mina González,454054,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,True
+3087,Lucas Digne,454054,144,Everton FC,8,True,False,0,1,False,False,False,False,False,False,True
+463422,Gylfi Þór Sigurðsson,454054,144,Everton FC,8,True,False,0,2,False,False,False,False,False,False,True
+4031,Ben Gibson,454054,145,Burnley FC,15,True,False,0,3,False,False,False,False,False,True,False
+3087,Lucas Digne,454054,144,Everton FC,8,True,False,1,3,False,False,False,False,False,False,True
+24367,Richarlison de Andrade,454054,144,Everton FC,8,True,False,1,4,False,False,False,False,False,False,True
+469097,Bernardo Mota Veiga de Carvalho e Silva,454057,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,True,True
+3216,Marc Albrighton,454057,108,Leicester City FC,9,True,False,0,1,False,False,True,False,False,False,False
+5996,Ricardo Domingos Barbosa Pereira,454057,108,Leicester City FC,9,True,False,1,1,True,True,False,False,False,False,False
+4144,Dejan Lovren,454058,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,False
+464988,Mohamed Salah Ghaly,454058,151,Liverpool FC,2,True,False,1,0,False,False,False,False,False,False,False
+1714,Xherdan Shaqiri,454058,151,Liverpool FC,2,True,False,2,0,False,False,False,False,False,False,False
+467624,Fábio Henrique Tavares,454058,151,Liverpool FC,2,True,False,3,0,False,False,False,False,False,False,False
+4164,Nemanja Matić,454059,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,False,False
+4192,Paul Pogba,454059,149,Manchester United FC,6,True,False,1,0,False,False,False,False,False,False,False
+4192,Paul Pogba,454059,149,Manchester United FC,6,True,False,2,0,False,False,False,False,False,False,False
+2287,Mathias Jattah-Njie Jørgensen,454059,217,Huddersfield Town FC,20,True,False,3,0,False,False,False,False,False,True,True
+464526,Christian Dannemann Eriksen,454061,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,False,False
+1523,Heung-Min Son,454061,92,Tottenham Hotspur FC,4,True,False,1,0,False,False,False,False,False,False,False
+2977,Lucas Rodrigues Moura da Silva,454061,92,Tottenham Hotspur FC,4,True,False,2,0,False,False,False,False,False,False,False
+3154,Harry Kane,454061,92,Tottenham Hotspur FC,4,True,False,3,0,False,False,False,False,False,False,False
+1523,Heung-Min Son,454061,92,Tottenham Hotspur FC,4,True,False,4,0,False,False,False,False,False,False,False
+1020,Pierre-Emerick Aubameyang,454053,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,True,True
+14493,Jürgen Locadia,454053,209,Brighton & Hove Albion FC,17,True,False,0,1,False,False,True,True,False,True,False
+4165,Eden Hazard,454062,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,True
+4230,Roberto Maximiliano Pereyra,454062,155,Watford FC,11,True,False,0,1,False,False,True,False,False,True,False
+4165,Eden Hazard,454062,152,Chelsea FC,3,True,False,1,1,True,True,False,False,False,False,True
+4066,Nathan Redmond,454060,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,True,False
+18332,Felipe Anderson Pereira Gomes,454060,153,West Ham United FC,10,True,False,1,0,False,False,True,False,False,False,True
+18332,Felipe Anderson Pereira Gomes,454060,153,West Ham United FC,10,True,False,1,1,True,True,False,False,False,False,True
+14493,Jürgen Locadia,454063,209,Brighton & Hove Albion FC,17,True,False,0,0,True,True,False,False,True,True,False
+4474,Aleksandar Mitrović,454066,162,Fulham FC,19,True,False,0,0,True,True,False,False,True,True,False
+10611,Víctor Camarasa Ferrando,454067,161,Cardiff City FC,18,True,False,0,0,True,True,False,False,True,True,True
+3154,Harry Kane,454071,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,True,False
+3239,Willy Boly,454071,223,Wolverhampton Wanderers FC,7,True,False,1,0,False,False,True,False,False,False,True
+3351,Raúl Alonso Jiménez Rodríguez,454071,223,Wolverhampton Wanderers FC,7,True,False,1,1,True,False,False,False,False,False,True
+6339,Hélder Wander Sousa Azevedo Costa,454071,223,Wolverhampton Wanderers FC,7,True,False,1,2,False,False,False,False,False,False,True
+463459,José Salomón Rondón Giménez,454072,157,Newcastle United FC,13,True,False,0,0,True,False,False,False,False,True,True
+4201,Abdoulaye Doucouré,454072,155,Watford FC,11,True,False,0,1,False,False,True,True,False,True,False
+3358,Ainsley Maitland-Niles,454068,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,True,True
+464647,Roberto Firmino Barbosa de Oliveira,454068,151,Liverpool FC,2,True,False,0,1,False,False,True,False,False,False,False
+464647,Roberto Firmino Barbosa de Oliveira,454068,151,Liverpool FC,2,True,False,1,1,True,False,False,False,False,False,False
+4151,Sadio Mané,454068,151,Liverpool FC,2,True,False,2,1,False,False,False,False,False,False,False
+464988,Mohamed Salah Ghaly,454068,151,Liverpool FC,2,True,False,3,1,False,False,False,False,False,False,False
+464647,Roberto Firmino Barbosa de Oliveira,454068,151,Liverpool FC,2,True,False,4,1,False,False,False,False,False,False,False
+4167,N'Golo Kanté,454065,152,Chelsea FC,3,True,False,0,0,True,True,False,False,True,True,True
+4631,Chris Wood,454064,145,Burnley FC,15,True,False,0,0,True,False,False,False,False,False,False
+171045,Dwight McNeil,454064,145,Burnley FC,15,True,False,1,0,False,False,False,False,False,False,False
+461296,David Josué Jiménez Silva,454070,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,True
+1520,Pierre-Emile Højbjerg,454070,146,Southampton FC,16,True,False,0,1,False,False,True,False,False,True,False
+4067,James Ward-Prowse,454070,93,Manchester City FC,1,True,False,1,1,True,False,False,False,False,False,True
+216091,Sergio Leonel Agüero del Castillo,454070,93,Manchester City FC,1,True,False,1,2,False,False,False,False,False,False,True
+4192,Paul Pogba,454069,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,False,False
+4192,Paul Pogba,454069,149,Manchester United FC,6,True,False,1,0,False,False,False,False,False,False,False
+4140,Marcus Rashford,454069,149,Manchester United FC,6,True,False,2,0,False,False,False,False,False,False,False
+4135,Nathan Aké,454069,148,AFC Bournemouth,14,True,False,3,0,False,False,False,False,False,True,True
+463911,Romelu Lukaku Menama,454069,149,Manchester United FC,6,True,False,3,1,False,False,False,False,False,False,False
+3221,Jamie Vardy,454077,108,Leicester City FC,9,True,False,0,0,True,True,False,False,True,True,True
+1573,Granit Xhaka,454074,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,False
+3345,Alexandre Lacazette,454074,59,Arsenal FC,5,True,False,1,0,False,False,False,False,False,False,False
+17756,Aboubakar Kamara,454074,162,Fulham FC,19,True,False,2,0,False,False,False,False,False,True,True
+3357,Aaron Ramsey,454074,59,Arsenal FC,5,True,False,2,1,False,False,False,False,False,False,False
+1020,Pierre-Emerick Aubameyang,454074,59,Arsenal FC,5,True,False,3,1,False,False,False,False,False,False,False
+3154,Harry Kane,454075,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,False,True
+464526,Christian Dannemann Eriksen,454075,92,Tottenham Hotspur FC,4,True,False,0,1,False,False,False,False,False,False,True
+1523,Heung-Min Son,454075,92,Tottenham Hotspur FC,4,True,False,0,2,False,False,False,False,False,False,True
+17229,Steve Mounié,454078,217,Huddersfield Town FC,20,True,False,0,0,True,False,False,False,False,True,False
+4631,Chris Wood,454078,145,Burnley FC,15,True,False,1,0,False,False,True,False,False,False,True
+4305,Ashley Barnes,454078,145,Burnley FC,15,True,False,1,1,True,True,False,False,False,False,True
+7475,Dale Stephens,454081,209,Brighton & Hove Albion FC,17,True,False,0,0,True,False,False,False,False,False,True
+7222,Shane Duffy,454081,209,Brighton & Hove Albion FC,17,True,False,0,1,False,False,False,False,False,False,True
+3460,Marko Arnautović,454081,153,West Ham United FC,10,True,False,0,2,False,False,False,False,False,False,False
+3460,Marko Arnautović,454081,153,West Ham United FC,10,True,False,1,2,False,False,True,True,False,False,False
+4370,Jordan Ayew,454082,143,Crystal Palace FC,12,True,False,0,0,True,False,False,False,False,False,True
+2799,Luka Milivojević,454082,143,Crystal Palace FC,12,True,False,0,1,False,False,False,False,False,False,True
+4077,Troy Deeney,454073,155,Watford FC,11,True,False,0,0,True,False,False,False,False,False,True
+4077,Troy Deeney,454073,155,Watford FC,11,True,False,0,1,False,False,False,False,False,False,True
+4135,Nathan Aké,454073,148,AFC Bournemouth,14,True,False,0,2,False,False,False,False,False,False,False
+4116,Callum Wilson,454073,148,AFC Bournemouth,14,True,False,1,2,False,False,True,False,False,False,False
+26549,Ken Sema,454073,155,Watford FC,11,True,False,2,2,True,False,False,False,False,False,True
+4215,Ryan Fraser,454073,148,AFC Bournemouth,14,True,False,2,3,False,False,True,True,False,False,False
+463911,Romelu Lukaku Menama,454080,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,False,True
+4140,Marcus Rashford,454080,149,Manchester United FC,6,True,False,0,1,False,False,False,False,False,False,True
+216091,Sergio Leonel Agüero del Castillo,454079,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,False
+464647,Roberto Firmino Barbosa de Oliveira,454079,151,Liverpool FC,2,True,False,1,0,False,False,True,False,False,True,True
+1541,Leroy Sané,454079,93,Manchester City FC,1,True,False,1,1,True,True,False,False,False,False,False
+4337,Declan Rice,454092,153,West Ham United FC,10,True,False,0,0,True,True,False,False,True,True,False
+464988,Mohamed Salah Ghaly,454083,151,Liverpool FC,2,True,False,0,0,True,True,False,False,True,True,True
+1017,André Schürrle,454084,162,Fulham FC,19,True,False,0,0,True,False,False,False,False,True,True
+7241,Joe Bryan,454084,145,Burnley FC,15,True,False,0,1,False,False,True,False,False,False,False
+7185,Denis Odoi,454084,145,Burnley FC,15,True,False,1,1,True,True,False,False,False,False,False
+4072,Craig Cathcart,454087,143,Crystal Palace FC,12,True,False,0,0,True,False,False,False,False,True,False
+4072,Craig Cathcart,454087,155,Watford FC,11,True,False,1,0,False,False,True,False,False,False,True
+4022,Tom Cleverley,454087,155,Watford FC,11,True,False,1,1,True,True,False,False,False,False,True
+4067,James Ward-Prowse,454089,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,False,True
+4068,Shane Long,454089,146,Southampton FC,16,True,False,0,1,False,False,False,False,False,False,True
+3401,Onyinye Wilfred Ndidi,454089,108,Leicester City FC,9,True,False,0,2,False,False,False,False,False,True,False
+4178,Pedro Eliezer Rodríguez Ledesma,454086,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,False
+4410,Ciaran Clark,454086,157,Newcastle United FC,13,True,False,1,0,False,False,True,False,False,True,True
+461579,Willian Borges da Silva,454086,152,Chelsea FC,3,True,False,1,1,True,True,False,False,False,False,False
+4330,Kurt Zouma,454088,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,False
+4308,Dominic Calvert-Lewin,454088,144,Everton FC,8,True,False,1,0,False,False,False,False,False,False,False
+4140,Marcus Rashford,454091,149,Manchester United FC,6,True,False,0,0,True,True,False,False,True,True,True
+470871,Gabriel Fernando de Jesus,454090,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,False
+470871,Gabriel Fernando de Jesus,454090,93,Manchester City FC,1,True,False,1,0,False,False,False,False,False,False,False
+7432,Conor Coady,454090,93,Manchester City FC,1,True,False,2,0,False,False,False,False,False,False,False
+3238,Diogo José Teixeira da Silva,454102,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,False,False,False,False,False,False
+4438,Ryan Bennett,454102,223,Wolverhampton Wanderers FC,7,True,False,1,0,False,False,False,False,False,False,False
+3231,Demarai Gray,454102,108,Leicester City FC,9,True,False,2,0,False,False,False,False,False,False,True
+7432,Conor Coady,454102,108,Leicester City FC,9,True,False,2,1,False,False,True,False,False,False,True
+3238,Diogo José Teixeira da Silva,454102,223,Wolverhampton Wanderers FC,7,True,False,2,2,True,False,False,False,False,False,False
+3214,Wes Morgan,454102,108,Leicester City FC,9,True,False,3,2,False,False,True,False,False,False,True
+3238,Diogo José Teixeira da Silva,454102,223,Wolverhampton Wanderers FC,7,True,False,3,3,True,True,False,False,False,False,False
+4116,Callum Wilson,454093,148,AFC Bournemouth,14,True,False,0,0,True,False,False,False,False,False,False
+4117,Joshua King,454093,148,AFC Bournemouth,14,True,False,1,0,False,False,False,False,False,False,False
+3981,Andros Townsend,454097,143,Crystal Palace FC,12,True,False,0,0,True,False,False,False,False,False,True
+464988,Mohamed Salah Ghaly,454097,151,Liverpool FC,2,True,False,0,1,False,False,True,False,False,False,False
+464647,Roberto Firmino Barbosa de Oliveira,454097,151,Liverpool FC,2,True,False,1,1,True,False,False,False,False,False,False
+4199,James Tomkins,454097,143,Crystal Palace FC,12,True,False,2,1,False,False,True,False,False,False,True
+464988,Mohamed Salah Ghaly,454097,151,Liverpool FC,2,True,False,2,2,True,False,False,False,False,False,False
+4151,Sadio Mané,454097,151,Liverpool FC,2,True,False,3,2,False,False,False,False,False,False,False
+1172,Max Meyer,454097,143,Crystal Palace FC,12,True,False,4,2,False,False,False,False,False,False,True
+4192,Paul Pogba,454098,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,False,False
+4140,Marcus Rashford,454098,149,Manchester United FC,6,True,False,1,0,False,False,False,False,False,False,False
+1100,Pascal Groß,454098,209,Brighton & Hove Albion FC,17,True,False,2,0,False,False,False,False,False,True,True
+464679,Fabian Lukas Schär,454099,157,Newcastle United FC,13,True,False,0,0,True,False,False,False,False,False,False
+464679,Fabian Lukas Schär,454099,157,Newcastle United FC,13,True,False,1,0,False,False,False,False,False,False,False
+4476,Ayoze Pérez Gutiérrez,454099,157,Newcastle United FC,13,True,False,2,0,False,False,False,False,False,False,False
+4067,James Ward-Prowse,454100,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,False,False
+3087,Lucas Digne,454100,146,Southampton FC,16,True,False,1,0,False,False,False,False,False,False,False
+463422,Gylfi Þór Sigurðsson,454100,144,Everton FC,8,True,False,2,0,False,False,False,False,False,True,True
+3345,Alexandre Lacazette,454094,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,False
+2964,Laurent Koscielny,454094,59,Arsenal FC,5,True,False,1,0,False,False,False,False,False,False,False
+463847,Danilo Luiz da Silva,454096,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,True
+465666,Raheem Shaquille Sterling,454096,93,Manchester City FC,1,True,False,0,1,False,False,False,False,False,False,True
+1541,Leroy Sané,454096,93,Manchester City FC,1,True,False,0,2,False,False,False,False,False,False,True
+3957,Fernando Llorente Torres,454095,162,Fulham FC,19,True,False,0,0,True,False,False,False,False,True,False
+3152,Bamidele Alli,454095,92,Tottenham Hotspur FC,4,True,False,1,0,False,False,True,False,False,False,True
+3298,Harry Winks,454095,92,Tottenham Hotspur FC,4,True,False,1,1,True,True,False,False,False,False,True
+1020,Pierre-Emerick Aubameyang,454104,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,False
+3345,Alexandre Lacazette,454104,59,Arsenal FC,5,True,False,1,0,False,False,False,False,False,False,False
+8810,Nathaniel Mendez-Laing,454104,161,Cardiff City FC,18,True,False,2,0,False,False,False,False,False,True,True
+4433,Glenn Murray,454105,209,Brighton & Hove Albion FC,17,True,False,0,0,True,False,False,False,False,False,True
+4433,Glenn Murray,454105,209,Brighton & Hove Albion FC,17,True,False,0,1,False,False,False,False,False,False,True
+4142,Calum Chambers,454105,162,Fulham FC,19,True,False,0,2,False,False,False,False,False,False,False
+4474,Aleksandar Mitrović,454105,162,Fulham FC,19,True,False,1,2,False,False,True,False,False,False,False
+4474,Aleksandar Mitrović,454105,162,Fulham FC,19,True,False,2,2,True,False,False,False,False,False,False
+3291,Luciano Vietto,454105,162,Fulham FC,19,True,False,3,2,False,False,False,False,False,False,False
+24367,Richarlison de Andrade,454106,144,Everton FC,8,True,False,0,0,True,True,False,False,True,True,True
+7570,Romain Saïss,454107,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,False,False,False,False,False,False
+3351,Raúl Alonso Jiménez Rodríguez,454107,223,Wolverhampton Wanderers FC,7,True,False,1,0,False,False,False,False,False,False,False
+3351,Raúl Alonso Jiménez Rodríguez,454107,223,Wolverhampton Wanderers FC,7,True,False,2,0,False,False,False,False,False,False,False
+4305,Ashley Barnes,454108,145,Burnley FC,15,True,False,0,0,True,False,False,False,False,False,True
+4631,Chris Wood,454108,145,Burnley FC,15,True,False,0,1,False,False,False,False,False,False,True
+4192,Paul Pogba,454108,149,Manchester United FC,6,True,False,0,2,False,False,False,False,False,False,False
+3040,Victor Nilsson Lindelöf,454108,149,Manchester United FC,6,True,False,1,2,False,False,True,True,False,False,False
+216091,Sergio Leonel Agüero del Castillo,454109,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,True,True
+463459,José Salomón Rondón Giménez,454109,157,Newcastle United FC,13,True,False,0,1,False,False,True,False,False,False,False
+4408,Matt Ritchie,454109,157,Newcastle United FC,13,True,False,1,1,True,True,False,False,False,False,False
+4117,Joshua King,454103,148,AFC Bournemouth,14,True,False,0,0,True,False,False,False,False,False,False
+9039,David Brooks,454103,148,AFC Bournemouth,14,True,False,1,0,False,False,False,False,False,False,False
+4117,Joshua King,454103,148,AFC Bournemouth,14,True,False,2,0,False,False,False,False,False,False,False
+4109,Charlie Daniels,454103,148,AFC Bournemouth,14,True,False,3,0,False,False,False,False,False,False,False
+3982,Wilfried Zaha,454110,143,Crystal Palace FC,12,True,False,0,0,True,False,False,False,False,True,True
+4067,James Ward-Prowse,454110,146,Southampton FC,16,True,False,0,1,False,False,True,True,False,True,False
+4151,Sadio Mané,454111,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,True,False
+4233,Harry Maguire,454111,108,Leicester City FC,9,True,False,1,0,False,False,True,True,False,True,True
+4072,Craig Cathcart,454112,155,Watford FC,11,True,False,0,0,True,False,False,False,False,True,True
+1523,Heung-Min Son,454112,92,Tottenham Hotspur FC,4,True,False,0,1,False,False,True,False,False,False,False
+3957,Fernando Llorente Torres,454112,92,Tottenham Hotspur FC,4,True,False,1,1,True,True,False,False,False,False,False
+1523,Heung-Min Son,454121,92,Tottenham Hotspur FC,4,True,False,0,0,True,True,False,False,True,True,False
+4066,Nathan Redmond,454114,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,True,True
+4305,Ashley Barnes,454114,145,Burnley FC,15,True,False,0,1,False,False,True,True,False,True,False
+461525,Gonzalo Gerardo Higuaín,454116,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,False
+4165,Eden Hazard,454116,152,Chelsea FC,3,True,False,1,0,False,False,False,False,False,False,False
+4165,Eden Hazard,454116,152,Chelsea FC,3,True,False,2,0,False,False,False,False,False,False,False
+461525,Gonzalo Gerardo Higuaín,454116,152,Chelsea FC,3,True,False,3,0,False,False,False,False,False,False,False
+461917,David Luiz Moreira Marinho,454116,152,Chelsea FC,3,True,False,4,0,False,False,False,False,False,False,False
+2799,Luka Milivojević,454117,143,Crystal Palace FC,12,True,False,0,0,True,False,False,False,False,False,False
+3307,Jeffrey Schlupp,454117,143,Crystal Palace FC,12,True,False,1,0,False,False,False,False,False,False,False
+2922,Rúben Diogo Da Silva Neves,454118,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,False,False,False,False,False,True
+3078,André Filipe Tavares Gomes,454118,144,Everton FC,8,True,False,0,1,False,False,True,False,False,True,False
+3351,Raúl Alonso Jiménez Rodríguez,454118,223,Wolverhampton Wanderers FC,7,True,False,1,1,True,False,False,False,False,False,True
+2647,Leander Dendoncker,454118,223,Wolverhampton Wanderers FC,7,True,False,1,2,False,False,False,False,False,False,True
+7255,Bobby Reid,454115,161,Cardiff City FC,18,True,False,0,0,True,False,False,False,False,False,False
+7255,Bobby Reid,454115,161,Cardiff City FC,18,True,False,1,0,False,False,False,False,False,False,False
+4140,Marcus Rashford,454119,149,Manchester United FC,6,True,False,0,0,True,True,False,False,True,True,True
+216091,Sergio Leonel Agüero del Castillo,454120,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,False
+2964,Laurent Koscielny,454120,59,Arsenal FC,5,True,False,1,0,False,False,True,False,False,True,True
+216091,Sergio Leonel Agüero del Castillo,454120,93,Manchester City FC,1,True,False,1,1,True,False,False,False,False,False,False
+216091,Sergio Leonel Agüero del Castillo,454120,93,Manchester City FC,1,True,False,2,1,False,False,False,False,False,False,False
+4151,Sadio Mané,454122,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,True,True
+4174,Michail Antonio,454122,153,West Ham United FC,10,True,False,0,1,False,False,True,True,False,True,False
+10561,Aymeric Laporte,454138,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,True
+470871,Gabriel Fernando de Jesus,454138,93,Manchester City FC,1,True,False,0,1,False,False,False,False,False,False,True
+4192,Paul Pogba,454125,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,False,True
+4128,Anthony Martial,454125,149,Manchester United FC,6,True,False,0,1,False,False,False,False,False,False,True
+4192,Paul Pogba,454125,149,Manchester United FC,6,True,False,0,2,False,False,False,False,False,False,True
+4172,Mark Noble,454124,153,West Ham United FC,10,True,False,0,0,True,False,False,False,False,True,True
+3982,Wilfried Zaha,454124,143,Crystal Palace FC,12,True,False,0,1,False,False,True,True,False,True,False
+2972,Alex Iwobi,454126,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,True
+3345,Alexandre Lacazette,454126,59,Arsenal FC,5,True,False,0,1,False,False,False,False,False,False,True
+1170,Sead Kolašinac,454126,217,Huddersfield Town FC,20,True,False,0,2,False,False,False,False,False,True,False
+4151,Sadio Mané,454127,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,False
+4147,Georginio Wijnaldum,454127,151,Liverpool FC,2,True,False,1,0,False,False,False,False,False,False,False
+464988,Mohamed Salah Ghaly,454127,151,Liverpool FC,2,True,False,2,0,False,False,False,False,False,False,False
+7444,Souleymane Bamba,454129,161,Cardiff City FC,18,True,False,0,0,True,False,False,False,False,False,True
+4304,Jack Stephens,454129,146,Southampton FC,16,True,False,0,1,False,False,True,False,False,True,False
+7218,Kenneth Dahrup Zohorè,454129,161,Cardiff City FC,18,True,False,1,1,True,True,False,False,False,False,True
+3947,Andre Gray,454131,155,Watford FC,11,True,False,0,0,True,True,False,False,True,True,False
+4631,Chris Wood,454123,145,Burnley FC,15,True,False,0,0,True,False,False,False,False,False,True
+4631,Chris Wood,454123,145,Burnley FC,15,True,False,0,1,False,False,False,False,False,False,True
+4305,Ashley Barnes,454123,145,Burnley FC,15,True,False,0,2,False,False,False,False,False,False,True
+7222,Shane Duffy,454123,209,Brighton & Hove Albion FC,17,True,False,0,3,False,False,False,False,False,True,False
+2871,Davinson Sánchez Mina,454130,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,False,False
+464526,Christian Dannemann Eriksen,454130,92,Tottenham Hotspur FC,4,True,False,1,0,False,False,False,False,False,False,False
+3221,Jamie Vardy,454130,108,Leicester City FC,9,True,False,2,0,False,False,False,False,False,True,True
+1523,Heung-Min Son,454130,92,Tottenham Hotspur FC,4,True,False,2,1,False,False,False,False,False,False,False
+465666,Raheem Shaquille Sterling,454128,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,False
+216091,Sergio Leonel Agüero del Castillo,454128,93,Manchester City FC,1,True,False,1,0,False,False,False,False,False,False,False
+216091,Sergio Leonel Agüero del Castillo,454128,93,Manchester City FC,1,True,False,2,0,False,False,False,False,False,False,False
+1572,İlkay Gündoğan,454128,93,Manchester City FC,1,True,False,3,0,False,False,False,False,False,False,False
+216091,Sergio Leonel Agüero del Castillo,454128,93,Manchester City FC,1,True,False,4,0,False,False,False,False,False,False,False
+465666,Raheem Shaquille Sterling,454128,93,Manchester City FC,1,True,False,5,0,False,False,False,False,False,False,False
+4887,Isaac Hayden,454132,157,Newcastle United FC,13,True,False,0,0,True,False,False,False,False,True,True
+3239,Willy Boly,454132,223,Wolverhampton Wanderers FC,7,True,False,0,1,False,False,True,True,False,True,False
+4019,Gerard Deulofeu Lázaro,454136,155,Watford FC,11,True,False,0,0,True,False,False,False,False,False,True
+4019,Gerard Deulofeu Lázaro,454136,155,Watford FC,11,True,False,0,1,False,False,False,False,False,False,True
+4019,Gerard Deulofeu Lázaro,454136,155,Watford FC,11,True,False,0,2,False,False,False,False,False,False,True
+4077,Troy Deeney,454136,155,Watford FC,11,True,False,0,3,False,False,False,False,False,False,True
+7444,Souleymane Bamba,454136,161,Cardiff City FC,18,True,False,0,4,False,False,False,False,False,True,False
+4077,Troy Deeney,454136,155,Watford FC,11,True,False,1,4,False,False,False,False,False,False,True
+6727,Ryan Guno Babel,454142,162,Fulham FC,19,True,False,0,0,True,False,False,False,False,True,True
+463275,Javier Hernández Balcázar,454142,153,West Ham United FC,10,True,False,0,1,False,False,True,False,False,False,False
+17398,Issa Diop,454142,153,West Ham United FC,10,True,False,1,1,True,False,False,False,False,False,False
+4174,Michail Antonio,454142,153,West Ham United FC,10,True,False,2,1,False,False,False,False,False,False,False
+4631,Chris Wood,454135,145,Burnley FC,15,True,False,0,0,True,False,False,False,False,False,False
+3154,Harry Kane,454135,92,Tottenham Hotspur FC,4,True,False,1,0,False,False,True,False,False,True,True
+4305,Ashley Barnes,454135,145,Burnley FC,15,True,False,1,1,True,True,False,False,False,False,False
+4117,Joshua King,454133,148,AFC Bournemouth,14,True,False,0,0,True,False,False,False,False,True,False
+3351,Raúl Alonso Jiménez Rodríguez,454133,223,Wolverhampton Wanderers FC,7,True,False,1,0,False,False,True,True,False,True,True
+463459,José Salomón Rondón Giménez,454141,157,Newcastle United FC,13,True,False,0,0,True,False,False,False,False,False,False
+4476,Ayoze Pérez Gutiérrez,454141,157,Newcastle United FC,13,True,False,1,0,False,False,False,False,False,False,False
+466228,Michy Batshuayi Tunga,454139,143,Crystal Palace FC,12,True,False,0,0,True,False,False,False,False,False,True
+3987,Jonny Evans,454139,108,Leicester City FC,9,True,False,0,1,False,False,True,False,False,True,False
+3982,Wilfried Zaha,454139,143,Crystal Palace FC,12,True,False,1,1,True,False,False,False,False,False,True
+2799,Luka Milivojević,454139,143,Crystal Palace FC,12,True,False,1,2,False,False,False,False,False,False,True
+3982,Wilfried Zaha,454139,143,Crystal Palace FC,12,True,False,1,3,False,False,False,False,False,False,True
+3345,Alexandre Lacazette,454134,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,False
+1571,Henrikh Mkhitaryan,454134,59,Arsenal FC,5,True,False,1,0,False,False,False,False,False,False,False
+463422,Gylfi Þór Sigurðsson,454144,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,True
+463422,Gylfi Þór Sigurðsson,454144,144,Everton FC,8,True,False,0,1,False,False,False,False,False,False,True
+4308,Dominic Calvert-Lewin,454144,144,Everton FC,8,True,False,0,2,False,False,False,False,False,False,True
+17229,Steve Mounié,454145,217,Huddersfield Town FC,20,True,False,0,0,True,True,False,False,True,True,False
+3231,Demarai Gray,454146,108,Leicester City FC,9,True,False,0,0,True,False,False,False,False,False,False
+3221,Jamie Vardy,454146,108,Leicester City FC,9,True,False,1,0,False,False,False,False,False,False,False
+3097,Davy Pröpper,454146,209,Brighton & Hove Albion FC,17,True,False,2,0,False,False,False,False,False,True,True
+464679,Fabian Lukas Schär,454149,157,Newcastle United FC,13,True,False,0,0,True,False,False,False,False,False,False
+897,Sean Longstaff,454149,157,Newcastle United FC,13,True,False,1,0,False,False,False,False,False,False,False
+2967,Mesut Özil,454143,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,False
+1571,Henrikh Mkhitaryan,454143,59,Arsenal FC,5,True,False,1,0,False,False,False,False,False,False,False
+4281,Lys Mousset,454143,148,AFC Bournemouth,14,True,False,2,0,False,False,False,False,False,True,True
+2964,Laurent Koscielny,454143,59,Arsenal FC,5,True,False,2,1,False,False,False,False,False,False,False
+1020,Pierre-Emerick Aubameyang,454143,59,Arsenal FC,5,True,False,3,1,False,False,False,False,False,False,False
+3345,Alexandre Lacazette,454143,59,Arsenal FC,5,True,False,4,1,False,False,False,False,False,False,False
+1788,Oriol Romeu Vidal,454150,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,False,False
+4067,James Ward-Prowse,454150,146,Southampton FC,16,True,False,1,0,False,False,False,False,False,False,False
+463911,Romelu Lukaku Menama,454147,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,False,True
+463911,Romelu Lukaku Menama,454147,149,Manchester United FC,6,True,False,0,1,False,False,False,False,False,False,True
+3976,Joel Ward,454147,143,Crystal Palace FC,12,True,False,0,2,False,False,False,False,False,True,False
+4194,Ashley Young,454147,149,Manchester United FC,6,True,False,1,2,False,False,False,False,False,False,True
+4178,Pedro Eliezer Rodríguez Ledesma,454148,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,False
+3160,Kieran Trippier,454148,152,Chelsea FC,3,True,False,1,0,False,False,False,False,False,False,False
+4151,Sadio Mané,454151,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,False
+4151,Sadio Mané,454151,151,Liverpool FC,2,True,False,1,0,False,False,False,False,False,False,False
+462267,Divock Okoth Origi,454151,151,Liverpool FC,2,True,False,2,0,False,False,False,False,False,False,False
+4062,Virgil van Dijk,454151,151,Liverpool FC,2,True,False,3,0,False,False,False,False,False,False,False
+4062,Virgil van Dijk,454151,151,Liverpool FC,2,True,False,4,0,False,False,False,False,False,False,False
+216091,Sergio Leonel Agüero del Castillo,454152,93,Manchester City FC,1,True,False,0,0,True,True,False,False,True,True,False
+3357,Aaron Ramsey,454159,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,True,True
+3154,Harry Kane,454159,92,Tottenham Hotspur FC,4,True,False,0,1,False,False,True,True,False,True,False
+3218,Riyad Mahrez,454153,93,Manchester City FC,1,True,False,0,0,True,True,False,False,True,True,True
+10481,Florin Andone,454154,209,Brighton & Hove Albion FC,17,True,False,0,0,True,True,False,False,True,True,False
+4041,Phil Bardsley,454155,143,Crystal Palace FC,12,True,False,0,0,True,False,False,False,False,False,True
+466228,Michy Batshuayi Tunga,454155,143,Crystal Palace FC,12,True,False,0,1,False,False,False,False,False,False,True
+3982,Wilfried Zaha,454155,143,Crystal Palace FC,12,True,False,0,2,False,False,False,False,False,False,True
+4305,Ashley Barnes,454155,145,Burnley FC,15,True,False,0,3,False,False,False,False,False,True,False
+123536,Yann Valery,454158,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,False,True
+468588,Andreas Hoelgebaum Pereira,454158,149,Manchester United FC,6,True,False,0,1,False,False,True,False,False,False,False
+463911,Romelu Lukaku Menama,454158,149,Manchester United FC,6,True,False,1,1,True,False,False,False,False,False,False
+4067,James Ward-Prowse,454158,146,Southampton FC,16,True,False,2,1,False,False,True,False,False,False,True
+463911,Romelu Lukaku Menama,454158,149,Manchester United FC,6,True,False,2,2,True,True,False,False,False,False,False
+3238,Diogo José Teixeira da Silva,454162,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,False,False,False,False,False,False
+3351,Raúl Alonso Jiménez Rodríguez,454162,223,Wolverhampton Wanderers FC,7,True,False,1,0,False,False,False,False,False,False,False
+4337,Declan Rice,454161,153,West Ham United FC,10,True,False,0,0,True,False,False,False,False,False,False
+4172,Mark Noble,454161,153,West Ham United FC,10,True,False,1,0,False,False,False,False,False,False,False
+4077,Troy Deeney,454160,155,Watford FC,11,True,False,0,0,True,False,False,False,False,False,False
+3221,Jamie Vardy,454160,108,Leicester City FC,9,True,False,1,0,False,False,True,False,False,True,True
+3947,Andre Gray,454160,155,Watford FC,11,True,False,1,1,True,True,False,False,False,False,False
+461525,Gonzalo Gerardo Higuaín,454157,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,True
+4142,Calum Chambers,454157,162,Fulham FC,19,True,False,0,1,False,False,True,False,False,True,False
+3020,Jorge Luiz Frello Filho,454157,152,Chelsea FC,3,True,False,1,1,True,True,False,False,False,False,True
+4433,Glenn Murray,454166,209,Brighton & Hove Albion FC,17,True,False,0,0,True,False,False,False,False,False,True
+2799,Luka Milivojević,454166,143,Crystal Palace FC,12,True,False,0,1,False,False,True,False,False,True,False
+4630,Anthony Knockaert,454166,209,Brighton & Hove Albion FC,17,True,False,1,1,True,True,False,False,False,False,True
+4644,David Junior Hoilett,454164,161,Cardiff City FC,18,True,False,0,0,True,False,False,False,False,False,False
+10611,Víctor Camarasa Ferrando,454164,161,Cardiff City FC,18,True,False,1,0,False,False,False,False,False,False,False
+4116,Callum Wilson,454167,148,AFC Bournemouth,14,True,False,0,0,True,False,False,False,False,False,True
+4215,Ryan Fraser,454167,148,AFC Bournemouth,14,True,False,0,1,False,False,False,False,False,False,True
+2648,Youri Tielemans,454168,108,Leicester City FC,9,True,False,0,0,True,False,False,False,False,False,False
+7188,Floyd Ayité,454168,162,Fulham FC,19,True,False,1,0,False,False,True,False,False,True,True
+3221,Jamie Vardy,454168,108,Leicester City FC,9,True,False,1,1,True,False,False,False,False,False,False
+3221,Jamie Vardy,454168,108,Leicester City FC,9,True,False,2,1,False,False,False,False,False,False,False
+4308,Dominic Calvert-Lewin,454171,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,True
+24367,Richarlison de Andrade,454171,144,Everton FC,8,True,False,0,1,False,False,False,False,False,False,True
+463459,José Salomón Rondón Giménez,454171,157,Newcastle United FC,13,True,False,0,2,False,False,False,False,False,False,False
+4476,Ayoze Pérez Gutiérrez,454171,157,Newcastle United FC,13,True,False,1,2,False,False,True,False,False,False,False
+4476,Ayoze Pérez Gutiérrez,454171,157,Newcastle United FC,13,True,False,2,2,True,True,False,False,False,False,False
+3154,Harry Kane,454172,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,True,True
+123536,Yann Valery,454172,146,Southampton FC,16,True,False,0,1,False,False,True,False,False,False,False
+4067,James Ward-Prowse,454172,146,Southampton FC,16,True,False,1,1,True,True,False,False,False,False,False
+465666,Raheem Shaquille Sterling,454170,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,False
+465666,Raheem Shaquille Sterling,454170,93,Manchester City FC,1,True,False,1,0,False,False,False,False,False,False,False
+465666,Raheem Shaquille Sterling,454170,93,Manchester City FC,1,True,False,2,0,False,False,False,False,False,False,False
+4019,Gerard Deulofeu Lázaro,454170,155,Watford FC,11,True,False,3,0,False,False,False,False,False,True,True
+4368,Ashley Westwood,454169,145,Burnley FC,15,True,False,0,0,True,False,False,False,False,False,True
+464647,Roberto Firmino Barbosa de Oliveira,454169,151,Liverpool FC,2,True,False,0,1,False,False,True,False,False,False,False
+4151,Sadio Mané,454169,151,Liverpool FC,2,True,False,1,1,True,False,False,False,False,False,False
+464647,Roberto Firmino Barbosa de Oliveira,454169,151,Liverpool FC,2,True,False,2,1,False,False,False,False,False,False,False
+3959,Johann Berg Guðmunds­son,454169,145,Burnley FC,15,True,False,3,1,False,False,False,False,False,False,True
+4151,Sadio Mané,454169,151,Liverpool FC,2,True,False,3,2,False,False,False,False,False,False,False
+3351,Raúl Alonso Jiménez Rodríguez,454165,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,False,False,False,False,True,True
+4165,Eden Hazard,454165,152,Chelsea FC,3,True,False,0,1,False,False,True,True,False,True,False
+1573,Granit Xhaka,454163,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,False
+1020,Pierre-Emerick Aubameyang,454163,59,Arsenal FC,5,True,False,1,0,False,False,False,False,False,False,False
+4117,Joshua King,454173,148,AFC Bournemouth,14,True,False,0,0,True,False,False,False,False,False,False
+463459,José Salomón Rondón Giménez,454173,157,Newcastle United FC,13,True,False,1,0,False,False,True,False,False,False,True
+4117,Joshua King,454173,148,AFC Bournemouth,14,True,False,1,1,True,False,False,False,False,False,False
+4408,Matt Ritchie,454173,157,Newcastle United FC,13,True,False,2,1,False,False,True,True,False,False,True
+839,James Maddison,454175,108,Leicester City FC,9,True,False,0,0,True,False,False,False,False,False,True
+171045,Dwight McNeil,454175,145,Burnley FC,15,True,False,0,1,False,False,True,False,False,True,False
+3214,Wes Morgan,454175,108,Leicester City FC,9,True,False,1,1,True,True,False,False,False,False,True
+4172,Mark Noble,454181,153,West Ham United FC,10,True,False,0,0,True,False,False,False,False,False,False
+14591,Juninho Bacuna,454181,217,Huddersfield Town FC,20,True,False,1,0,False,False,True,False,False,False,True
+8062,Karlan Ahearne-Grant,454181,217,Huddersfield Town FC,20,True,False,1,1,True,False,False,False,False,False,True
+8062,Karlan Ahearne-Grant,454181,217,Huddersfield Town FC,20,True,False,1,2,False,False,False,False,False,False,True
+4190,Angelo Obinze Ogbonna,454181,153,West Ham United FC,10,True,False,1,3,False,False,False,False,False,False,False
+463275,Javier Hernández Balcázar,454181,153,West Ham United FC,10,True,False,2,3,False,False,True,False,False,False,False
+463275,Javier Hernández Balcázar,454181,153,West Ham United FC,10,True,False,3,3,True,True,False,False,False,False,False
+4151,Sadio Mané,454177,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,True
+6727,Ryan Guno Babel,454177,162,Fulham FC,19,True,False,0,1,False,False,True,False,False,True,False
+461248,James Philip Milner,454177,151,Liverpool FC,2,True,False,1,1,True,True,False,False,False,False,True
+24367,Richarlison de Andrade,454176,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,False
+463422,Gylfi Þór Sigurðsson,454176,144,Everton FC,8,True,False,1,0,False,False,False,False,False,False,False
+469097,Bernardo Mota Veiga de Carvalho e Silva,454188,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,True
+216091,Sergio Leonel Agüero del Castillo,454188,93,Manchester City FC,1,True,False,0,1,False,False,False,False,False,False,True
+1520,Pierre-Emile Højbjerg,454184,146,Southampton FC,16,True,False,0,0,True,True,False,False,True,True,True
+7432,Conor Coady,454185,145,Burnley FC,15,True,False,0,0,True,False,False,False,False,False,False
+171045,Dwight McNeil,454185,145,Burnley FC,15,True,False,1,0,False,False,False,False,False,False,False
+2799,Luka Milivojević,454187,143,Crystal Palace FC,12,True,False,0,0,True,False,False,False,False,False,False
+4095,Patrick van Aanholt,454187,143,Crystal Palace FC,12,True,False,1,0,False,False,False,False,False,False,False
+3214,Wes Morgan,454189,108,Leicester City FC,9,True,False,0,0,True,False,False,False,False,False,False
+3221,Jamie Vardy,454189,108,Leicester City FC,9,True,False,1,0,False,False,False,False,False,False,False
+4140,Marcus Rashford,454191,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,False,False
+4128,Anthony Martial,454191,149,Manchester United FC,6,True,False,1,0,False,False,False,False,False,False,False
+4201,Abdoulaye Doucouré,454191,155,Watford FC,11,True,False,2,0,False,False,False,False,False,True,True
+4330,Kurt Zouma,454192,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,True
+2704,Bernard Anício Caldeira Duarte,454192,144,Everton FC,8,True,False,0,1,False,False,False,False,False,False,True
+10611,Víctor Camarasa Ferrando,454186,161,Cardiff City FC,18,True,False,0,0,True,False,False,False,False,True,False
+4162,César Azpilicueta Tanco,454186,152,Chelsea FC,3,True,False,1,0,False,False,True,False,False,False,True
+4183,Ruben Loftus-Cheek,454186,152,Chelsea FC,3,True,False,1,1,True,True,False,False,False,False,True
+464647,Roberto Firmino Barbosa de Oliveira,454190,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,False
+2977,Lucas Rodrigues Moura da Silva,454190,92,Tottenham Hotspur FC,4,True,False,1,0,False,False,True,False,False,True,True
+3148,Toby Alderweireld,454190,151,Liverpool FC,2,True,False,1,1,True,True,False,False,False,False,False
+3357,Aaron Ramsey,454183,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,False
+3345,Alexandre Lacazette,454183,59,Arsenal FC,5,True,False,1,0,False,False,False,False,False,False,False
+4201,Abdoulaye Doucouré,454201,155,Watford FC,11,True,False,0,0,True,False,False,False,False,False,False
+6727,Ryan Guno Babel,454201,162,Fulham FC,19,True,False,1,0,False,False,True,False,False,True,True
+7274,Will Hughes,454201,155,Watford FC,11,True,False,1,1,True,False,False,False,False,False,False
+4077,Troy Deeney,454201,155,Watford FC,11,True,False,2,1,False,False,False,False,False,False,False
+10603,Francisco Femenía Far,454201,155,Watford FC,11,True,False,3,1,False,False,False,False,False,False,False
+4389,Scott McTominay,454202,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,True,True
+3238,Diogo José Teixeira da Silva,454202,223,Wolverhampton Wanderers FC,7,True,False,0,1,False,False,True,False,False,False,False
+4193,Chris Smalling,454202,223,Wolverhampton Wanderers FC,7,True,False,1,1,True,True,False,False,False,False,False
+2979,Olivier Giroud,454137,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,False
+4165,Eden Hazard,454137,152,Chelsea FC,3,True,False,1,0,False,False,False,False,False,False,False
+4183,Ruben Loftus-Cheek,454137,152,Chelsea FC,3,True,False,2,0,False,False,False,False,False,False,False
+1523,Heung-Min Son,454179,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,False,False
+464526,Christian Dannemann Eriksen,454179,92,Tottenham Hotspur FC,4,True,False,1,0,False,False,False,False,False,False,False
+1578,Kevin De Bruyne,454197,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,False
+1541,Leroy Sané,454197,93,Manchester City FC,1,True,False,1,0,False,False,False,False,False,False,False
+4068,Shane Long,454199,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,True,False
+1331,Naby Deco Keïta,454199,151,Liverpool FC,2,True,False,1,0,False,False,True,False,False,False,True
+464988,Mohamed Salah Ghaly,454199,151,Liverpool FC,2,True,False,1,1,True,False,False,False,False,False,True
+4149,Jordan Brian Henderson,454199,151,Liverpool FC,2,True,False,1,2,False,False,False,False,False,False,True
+4305,Ashley Barnes,454193,148,AFC Bournemouth,14,True,False,0,0,True,False,False,False,False,True,False
+4631,Chris Wood,454193,145,Burnley FC,15,True,False,1,0,False,False,True,False,False,False,True
+4368,Ashley Westwood,454193,145,Burnley FC,15,True,False,1,1,True,False,False,False,False,False,True
+4305,Ashley Barnes,454193,145,Burnley FC,15,True,False,1,2,False,False,False,False,False,False,True
+2648,Youri Tielemans,454196,108,Leicester City FC,9,True,False,0,0,True,False,False,False,False,False,True
+3221,Jamie Vardy,454196,108,Leicester City FC,9,True,False,0,1,False,False,False,False,False,False,True
+7291,Aaron Mooy,454196,217,Huddersfield Town FC,20,True,False,0,2,False,False,False,False,False,True,False
+839,James Maddison,454196,108,Leicester City FC,9,True,False,1,2,False,False,False,False,False,False,True
+3221,Jamie Vardy,454196,108,Leicester City FC,9,True,False,1,3,False,False,False,False,False,False,True
+2799,Luka Milivojević,454198,143,Crystal Palace FC,12,True,False,0,0,True,True,False,False,True,True,True
+4010,Phil Jagielka,454195,144,Everton FC,8,True,False,0,0,True,True,False,False,True,True,False
+4165,Eden Hazard,454194,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,False
+4165,Eden Hazard,454194,152,Chelsea FC,3,True,False,1,0,False,False,False,False,False,False,False
+4476,Ayoze Pérez Gutiérrez,454207,157,Newcastle United FC,13,True,False,0,0,True,True,False,False,True,True,True
+3158,Victor Wanyama,454211,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,False,False
+2977,Lucas Rodrigues Moura da Silva,454211,92,Tottenham Hotspur FC,4,True,False,1,0,False,False,False,False,False,False,False
+2977,Lucas Rodrigues Moura da Silva,454211,92,Tottenham Hotspur FC,4,True,False,2,0,False,False,False,False,False,False,False
+2977,Lucas Rodrigues Moura da Silva,454211,92,Tottenham Hotspur FC,4,True,False,3,0,False,False,False,False,False,False,False
+4133,Dan Gosling,454203,148,AFC Bournemouth,14,True,False,0,0,True,False,False,False,False,False,True
+4215,Ryan Fraser,454203,148,AFC Bournemouth,14,True,False,0,1,False,False,False,False,False,False,True
+9039,David Brooks,454203,148,AFC Bournemouth,14,True,False,0,2,False,False,False,False,False,False,True
+4116,Callum Wilson,454203,148,AFC Bournemouth,14,True,False,0,3,False,False,False,False,False,False,True
+4241,Junior Stanislas,454203,148,AFC Bournemouth,14,True,False,0,4,False,False,False,False,False,False,True
+4631,Chris Wood,454204,145,Burnley FC,15,True,False,0,0,True,False,False,False,False,False,False
+4631,Chris Wood,454204,145,Burnley FC,15,True,False,1,0,False,False,False,False,False,False,False
+7189,Tom Cairney,454206,162,Fulham FC,19,True,False,0,0,True,False,False,False,False,False,False
+6727,Ryan Guno Babel,454206,162,Fulham FC,19,True,False,1,0,False,False,False,False,False,False,False
+4066,Nathan Redmond,454210,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,False,False
+3239,Willy Boly,454210,223,Wolverhampton Wanderers FC,7,True,False,1,0,False,False,True,False,False,True,True
+4066,Nathan Redmond,454210,146,Southampton FC,16,True,False,1,1,True,False,False,False,False,False,False
+4068,Shane Long,454210,146,Southampton FC,16,True,False,2,1,False,False,False,False,False,False,False
+4192,Paul Pogba,454209,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,False,False
+18332,Felipe Anderson Pereira Gomes,454209,153,West Ham United FC,10,True,False,1,0,False,False,True,False,False,True,True
+4192,Paul Pogba,454209,149,Manchester United FC,6,True,False,1,1,True,True,False,False,False,False,False
+465666,Raheem Shaquille Sterling,454205,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,True
+465666,Raheem Shaquille Sterling,454205,93,Manchester City FC,1,True,False,0,1,False,False,False,False,False,False,True
+2799,Luka Milivojević,454205,143,Crystal Palace FC,12,True,False,0,2,False,False,False,False,False,True,False
+470871,Gabriel Fernando de Jesus,454205,93,Manchester City FC,1,True,False,1,2,False,False,False,False,False,False,True
+4151,Sadio Mané,454208,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,False
+464988,Mohamed Salah Ghaly,454208,151,Liverpool FC,2,True,False,1,0,False,False,False,False,False,False,False
+1020,Pierre-Emerick Aubameyang,454212,59,Arsenal FC,5,True,False,0,0,True,True,False,False,True,True,True
+8810,Nathaniel Mendez-Laing,454174,161,Cardiff City FC,18,True,False,0,0,True,False,False,False,False,False,True
+7219,Sean Morrison,454174,161,Cardiff City FC,18,True,False,0,1,False,False,False,False,False,False,True
+3386,Philip Foden,454219,93,Manchester City FC,1,True,False,0,0,True,True,False,False,True,True,False
+4474,Aleksandar Mitrović,454213,162,Fulham FC,19,True,False,0,0,True,True,False,False,True,True,True
+4019,Gerard Deulofeu Lázaro,454218,155,Watford FC,11,True,False,0,0,True,False,False,False,False,False,True
+4019,Gerard Deulofeu Lázaro,454218,155,Watford FC,11,True,False,0,1,False,False,False,False,False,False,True
+8062,Karlan Ahearne-Grant,454218,217,Huddersfield Town FC,20,True,False,0,2,False,False,False,False,False,True,False
+4174,Michail Antonio,454221,153,West Ham United FC,10,True,False,0,0,True,False,False,False,False,False,False
+3221,Jamie Vardy,454221,108,Leicester City FC,9,True,False,1,0,False,False,True,False,False,False,True
+2982,Lucas Pérez Martínez,454221,153,West Ham United FC,10,True,False,1,1,True,False,False,False,False,False,False
+3392,Harvey Lewis Barnes,454221,108,Leicester City FC,9,True,False,2,1,False,False,True,True,False,False,True
+4476,Ayoze Pérez Gutiérrez,454220,157,Newcastle United FC,13,True,False,0,0,True,False,False,False,False,False,False
+4476,Ayoze Pérez Gutiérrez,454220,157,Newcastle United FC,13,True,False,1,0,False,False,False,False,False,False,False
+3269,Mario Lemina,454220,146,Southampton FC,16,True,False,2,0,False,False,False,False,False,True,True
+4476,Ayoze Pérez Gutiérrez,454220,157,Newcastle United FC,13,True,False,2,1,False,False,False,False,False,False,False
+24367,Richarlison de Andrade,454217,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,False
+463422,Gylfi Þór Sigurðsson,454217,144,Everton FC,8,True,False,1,0,False,False,False,False,False,False,False
+3087,Lucas Digne,454217,144,Everton FC,8,True,False,2,0,False,False,False,False,False,False,False
+3319,Theo Walcott,454217,144,Everton FC,8,True,False,3,0,False,False,False,False,False,False,False
+463244,Christian Benteke Liolo,454214,143,Crystal Palace FC,12,True,False,0,0,True,False,False,False,False,False,True
+2967,Mesut Özil,454214,59,Arsenal FC,5,True,False,0,1,False,False,True,False,False,False,False
+3982,Wilfried Zaha,454214,143,Crystal Palace FC,12,True,False,1,1,True,False,False,False,False,False,True
+4221,James McArthur,454214,143,Crystal Palace FC,12,True,False,1,2,False,False,False,False,False,False,True
+1020,Pierre-Emerick Aubameyang,454214,59,Arsenal FC,5,True,False,1,3,False,False,False,False,False,False,False
+4147,Georginio Wijnaldum,454215,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,True
+461248,James Philip Milner,454215,151,Liverpool FC,2,True,False,0,1,False,False,False,False,False,False,True
+4244,Jeff Hendrick,454216,145,Burnley FC,15,True,False,0,0,True,False,False,False,False,False,True
+4167,N'Golo Kanté,454216,152,Chelsea FC,3,True,False,0,1,False,False,True,False,False,False,False
+461525,Gonzalo Gerardo Higuaín,454216,152,Chelsea FC,3,True,False,1,1,True,False,False,False,False,False,False
+4305,Ashley Barnes,454216,145,Burnley FC,15,True,False,2,1,False,False,True,True,False,False,True
+4068,Shane Long,454180,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,True,True
+3947,Andre Gray,454180,155,Watford FC,11,True,False,0,1,False,False,True,True,False,True,False
+464526,Christian Dannemann Eriksen,454200,92,Tottenham Hotspur FC,4,True,False,0,0,True,True,False,False,True,True,False
+2922,Rúben Diogo Da Silva Neves,454182,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,False,False,False,False,False,False
+7418,Matt Doherty,454182,223,Wolverhampton Wanderers FC,7,True,False,1,0,False,False,False,False,False,False,False
+3238,Diogo José Teixeira da Silva,454182,223,Wolverhampton Wanderers FC,7,True,False,2,0,False,False,False,False,False,False,False
+1011,Sokratis Papastathopoulos,454182,59,Arsenal FC,5,True,False,3,0,False,False,False,False,False,True,True
+469097,Bernardo Mota Veiga de Carvalho e Silva,454178,93,Manchester City FC,1,True,False,0,0,True,False,False,False,False,False,True
+1541,Leroy Sané,454178,93,Manchester City FC,1,True,False,0,1,False,False,False,False,False,False,True
+1331,Naby Deco Keïta,454228,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,False
+4151,Sadio Mané,454228,151,Liverpool FC,2,True,False,1,0,False,False,False,False,False,False,False
+464988,Mohamed Salah Ghaly,454228,151,Liverpool FC,2,True,False,2,0,False,False,False,False,False,False,False
+4151,Sadio Mané,454228,151,Liverpool FC,2,True,False,3,0,False,False,False,False,False,False,False
+464988,Mohamed Salah Ghaly,454228,151,Liverpool FC,2,True,False,4,0,False,False,False,False,False,False,False
+4174,Michail Antonio,454231,153,West Ham United FC,10,True,False,0,0,True,True,False,False,True,True,True
+6727,Ryan Guno Babel,454226,162,Fulham FC,19,True,False,0,0,True,True,False,False,True,True,False
+4068,Shane Long,454230,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,False,False
+4133,Dan Gosling,454230,148,AFC Bournemouth,14,True,False,1,0,False,False,True,False,False,False,True
+4116,Callum Wilson,454230,148,AFC Bournemouth,14,True,False,1,1,True,False,False,False,False,False,True
+4067,James Ward-Prowse,454230,146,Southampton FC,16,True,False,1,2,False,False,True,False,False,False,False
+4063,Matt Targett,454230,146,Southampton FC,16,True,False,2,2,True,False,False,False,False,False,False
+4116,Callum Wilson,454230,148,AFC Bournemouth,14,True,False,3,2,False,False,True,True,False,False,True
+3351,Raúl Alonso Jiménez Rodríguez,454232,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,False,False,False,False,False,True
+3947,Andre Gray,454232,155,Watford FC,11,True,False,0,1,False,False,True,False,False,True,False
+3238,Diogo José Teixeira da Silva,454232,223,Wolverhampton Wanderers FC,7,True,False,1,1,True,True,False,False,False,False,True
+4476,Ayoze Pérez Gutiérrez,454223,157,Newcastle United FC,13,True,False,0,0,True,False,False,False,False,True,True
+1100,Pascal Groß,454223,209,Brighton & Hove Albion FC,17,True,False,0,1,False,False,True,True,False,True,False
+2648,Youri Tielemans,454227,108,Leicester City FC,9,True,False,0,0,True,False,False,False,False,False,False
+3221,Jamie Vardy,454227,108,Leicester City FC,9,True,False,1,0,False,False,False,False,False,False,False
+3221,Jamie Vardy,454227,108,Leicester City FC,9,True,False,2,0,False,False,False,False,False,False,False
+216091,Sergio Leonel Agüero del Castillo,454224,93,Manchester City FC,1,True,False,0,0,True,True,False,False,True,True,True
+4124,Juan Manuel Mata García,454229,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,True,False
+4262,Marcos Alonso Mendoza,454229,152,Chelsea FC,3,True,False,1,0,False,False,True,True,False,True,True
+3940,Ben Mee,454237,144,Everton FC,8,True,False,0,0,True,False,False,False,False,False,False
+4264,Séamus Coleman,454237,144,Everton FC,8,True,False,1,0,False,False,False,False,False,False,False
+4135,Nathan Aké,454233,148,AFC Bournemouth,14,True,False,0,0,True,True,False,False,True,True,False
+3460,Marko Arnautović,454241,153,West Ham United FC,10,True,False,0,0,True,False,False,False,False,False,False
+3460,Marko Arnautović,454241,153,West Ham United FC,10,True,False,1,0,False,False,False,False,False,False,False
+4894,Ryan Fredericks,454241,153,West Ham United FC,10,True,False,2,0,False,False,False,False,False,False,False
+2647,Leander Dendoncker,454242,223,Wolverhampton Wanderers FC,7,True,False,0,0,True,True,False,False,True,True,False
+3982,Wilfried Zaha,454235,143,Crystal Palace FC,12,True,False,0,0,True,False,False,False,False,False,True
+3997,Martin Kelly,454235,161,Cardiff City FC,18,True,False,0,1,False,False,True,False,False,False,False
+466228,Michy Batshuayi Tunga,454235,143,Crystal Palace FC,12,True,False,1,1,True,False,False,False,False,False,True
+3981,Andros Townsend,454235,143,Crystal Palace FC,12,True,False,1,2,False,False,False,False,False,False,True
+7255,Bobby Reid,454235,161,Cardiff City FC,18,True,False,1,3,False,False,False,False,False,False,False
+4062,Virgil van Dijk,454240,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,True
+4634,Christian Atsu Twasam,454240,157,Newcastle United FC,13,True,False,0,1,False,False,True,False,False,False,False
+464988,Mohamed Salah Ghaly,454240,151,Liverpool FC,2,True,False,1,1,True,False,False,False,False,False,True
+463459,José Salomón Rondón Giménez,454240,157,Newcastle United FC,13,True,False,1,2,False,False,True,False,False,False,False
+462267,Divock Okoth Origi,454240,151,Liverpool FC,2,True,False,2,2,True,True,False,False,False,False,True
+4183,Ruben Loftus-Cheek,454236,152,Chelsea FC,3,True,False,0,0,True,False,False,False,False,False,False
+461917,David Luiz Moreira Marinho,454236,152,Chelsea FC,3,True,False,1,0,False,False,False,False,False,False,False
+461525,Gonzalo Gerardo Higuaín,454236,152,Chelsea FC,3,True,False,2,0,False,False,False,False,False,False,False
+4389,Scott McTominay,454238,149,Manchester United FC,6,True,False,0,0,True,False,False,False,False,True,True
+17577,Isaac Mbenza,454238,217,Huddersfield Town FC,20,True,False,0,1,False,False,True,True,False,True,False
+1020,Pierre-Emerick Aubameyang,454234,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,True,False
+4433,Glenn Murray,454234,209,Brighton & Hove Albion FC,17,True,False,1,0,False,False,True,True,False,True,True
+3362,Vincent Kompany,454239,93,Manchester City FC,1,True,False,0,0,True,True,False,False,True,True,False
+4433,Glenn Murray,454243,209,Brighton & Hove Albion FC,17,True,False,0,0,True,False,False,False,False,True,False
+216091,Sergio Leonel Agüero del Castillo,454243,93,Manchester City FC,1,True,False,1,0,False,False,True,False,False,False,True
+10561,Aymeric Laporte,454243,93,Manchester City FC,1,True,False,1,1,True,False,False,False,False,False,True
+3218,Riyad Mahrez,454243,93,Manchester City FC,1,True,False,1,2,False,False,False,False,False,False,True
+1572,İlkay Gündoğan,454243,93,Manchester City FC,1,True,False,1,3,False,False,False,False,False,False,True
+1020,Pierre-Emerick Aubameyang,454244,59,Arsenal FC,5,True,False,0,0,True,False,False,False,False,False,True
+1020,Pierre-Emerick Aubameyang,454244,59,Arsenal FC,5,True,False,0,1,False,False,False,False,False,False,True
+4305,Ashley Barnes,454244,145,Burnley FC,15,True,False,0,2,False,False,False,False,False,True,False
+123381,Edward Nketiah,454244,59,Arsenal FC,5,True,False,1,2,False,False,False,False,False,False,True
+466228,Michy Batshuayi Tunga,454245,143,Crystal Palace FC,12,True,False,0,0,True,False,False,False,False,False,False
+466228,Michy Batshuayi Tunga,454245,143,Crystal Palace FC,12,True,False,1,0,False,False,False,False,False,False,False
+227805,Jack Simpson,454245,143,Crystal Palace FC,12,True,False,2,0,False,False,False,False,False,False,False
+468886,Jefferson Andrés Lerma Solís,454245,148,AFC Bournemouth,14,True,False,3,0,False,False,False,False,False,False,True
+4114,Jordon Ibe,454245,148,AFC Bournemouth,14,True,False,3,1,False,False,False,False,False,False,True
+4095,Patrick van Aanholt,454245,143,Crystal Palace FC,12,True,False,3,2,False,False,False,False,False,False,False
+4117,Joshua King,454245,148,AFC Bournemouth,14,True,False,4,2,False,False,False,False,False,False,True
+3981,Andros Townsend,454245,143,Crystal Palace FC,12,True,False,4,3,False,False,False,False,False,False,False
+4457,Jonjo Shelvey,454246,157,Newcastle United FC,13,True,False,0,0,True,False,False,False,False,False,True
+4476,Ayoze Pérez Gutiérrez,454246,157,Newcastle United FC,13,True,False,0,1,False,False,False,False,False,False,True
+464679,Fabian Lukas Schär,454246,157,Newcastle United FC,13,True,False,0,2,False,False,False,False,False,False,True
+463459,José Salomón Rondón Giménez,454246,157,Newcastle United FC,13,True,False,0,3,False,False,False,False,False,False,True
+4151,Sadio Mané,454248,151,Liverpool FC,2,True,False,0,0,True,False,False,False,False,False,False
+4151,Sadio Mané,454248,151,Liverpool FC,2,True,False,1,0,False,False,False,False,False,False,False
+8810,Nathaniel Mendez-Laing,454249,161,Cardiff City FC,18,True,False,0,0,True,False,False,False,False,False,True
+8810,Nathaniel Mendez-Laing,454249,161,Cardiff City FC,18,True,False,0,1,False,False,False,False,False,False,True
+4066,Nathan Redmond,454250,146,Southampton FC,16,True,False,0,0,True,False,False,False,False,True,False
+4519,Alex Pritchard,454250,217,Huddersfield Town FC,20,True,False,1,0,False,False,True,True,False,True,True
+3153,Eric Dier,454251,92,Tottenham Hotspur FC,4,True,False,0,0,True,False,False,False,False,False,False
+3319,Theo Walcott,454251,144,Everton FC,8,True,False,1,0,False,False,True,False,False,False,True
+3066,Cenk Tosun,454251,144,Everton FC,8,True,False,1,1,True,False,False,False,False,False,True
+464526,Christian Dannemann Eriksen,454251,92,Tottenham Hotspur FC,4,True,False,1,2,False,False,True,True,False,False,False
+4172,Mark Noble,454252,153,West Ham United FC,10,True,False,0,0,True,False,False,False,False,False,True
+4238,Manuel Lanzini,454252,153,West Ham United FC,10,True,False,0,1,False,False,False,False,False,False,True
+4019,Gerard Deulofeu Lázaro,454252,155,Watford FC,11,True,False,0,2,False,False,False,False,False,True,False
+3460,Marko Arnautović,454252,153,West Ham United FC,10,True,False,1,2,False,False,False,False,False,False,True
+4172,Mark Noble,454252,153,West Ham United FC,10,True,False,1,3,False,False,False,False,False,False,True

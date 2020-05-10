@@ -1,0 +1,677 @@
+player_id,player_name,match_id,team_id,team_name,team_final_table_position,scored,assisted,previous_score_home,previous_score_away,go_ahead_goal,game_winning_goal,tying_goal,game_tying_goal,only_goal,only_goal_team,away_goal
+77465,Flavio Germán Ciampichetti,539703,4323,CSD Macará,1,True,False,0,0,True,False,False,False,False,True,True
+184233,John Jairo Jiménez,539703,4320,Guayaquil City FC,12,True,False,0,1,False,False,True,True,False,True,False
+52678,Carlos John Garcés Acosta,539704,4324,Delfin SC,4,True,False,0,0,True,False,False,False,False,False,True
+75369,Sergio Daniel López,539704,4324,Delfin SC,4,True,False,0,1,False,False,False,False,False,False,True
+7753,Juan Luis Anangonó León,539705,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,False,False,False,False,False,False
+7845,Luis Alberto Bolaños León,539705,4335,CD Olmedo,11,True,False,1,0,False,False,True,False,False,False,True
+123634,Jefferson Alfredo Intriago Mendoza,539705,4319,Liga Deportiva Universitaria de Quito,6,True,False,1,1,True,False,False,False,False,False,False
+29206,Nicolás Darío Ortiz,539705,4335,CD Olmedo,11,True,False,2,1,False,False,True,False,False,False,True
+29289,Nicolás Omar Freire,539705,4319,Liga Deportiva Universitaria de Quito,6,True,False,2,2,True,True,False,False,False,False,False
+51570,Fidel Francisco Martínez Tenorio,539706,4322,Barcelona SC,2,True,False,0,0,True,False,False,False,False,False,False
+123904,José Stalin Caicedo Porozo,539706,4322,Barcelona SC,2,True,False,1,0,False,False,False,False,False,False,False
+51570,Fidel Francisco Martínez Tenorio,539706,4322,Barcelona SC,2,True,False,2,0,False,False,False,False,False,False,False
+123846,Jordy Josué Caicedo Medina,539706,4327,CD El Nacional,8,True,False,3,0,False,False,False,False,False,False,True
+123846,Jordy Josué Caicedo Medina,539706,4327,CD El Nacional,8,True,False,3,1,False,False,False,False,False,False,True
+197058,Ayrton Alexander Cisneros Montenegro,539706,4322,Barcelona SC,2,True,False,3,2,False,False,False,False,False,False,False
+123925,Angel Fernando Quiñonez Guerrero,539706,4322,Barcelona SC,2,True,False,4,2,False,False,False,False,False,False,False
+123803,Efrén Alexander Mera Moreira,539707,4321,CSD Independiente del Valle,5,True,False,0,0,True,False,False,False,False,False,True
+29466,Raúl Oscar Becerra,539707,4325,CD Cuenca,10,True,False,0,1,False,False,True,False,False,False,False
+123798,Alejandro Jair Cabeza Jiménez,539707,4321,CSD Independiente del Valle,5,True,False,1,1,True,False,False,False,False,False,True
+123813,Pedro Sebastián Larrea Arellano,539707,4325,CD Cuenca,10,True,False,1,2,False,False,True,False,False,False,False
+29466,Raúl Oscar Becerra,539707,4325,CD Cuenca,10,True,False,2,2,True,True,False,False,False,False,False
+123800,Gabriel Jhon Cortéz Casierra,539708,4326,CS Emelec,9,True,False,0,0,True,False,False,False,False,False,True
+24911,Fernando Alexander Guerrero Vásquez,539708,4326,CS Emelec,9,True,False,0,1,False,False,False,False,False,False,True
+124204,Roberto Patricio Valarezo Romero,539709,4340,CD Técnico Universitario,14,True,False,0,0,True,False,False,False,False,True,False
+138811,Luis Antonio Amarilla Lencina,539709,4328,CD Universidad Católica del Ecuador,3,True,False,1,0,False,False,True,False,False,False,True
+138811,Luis Antonio Amarilla Lencina,539709,4328,CD Universidad Católica del Ecuador,3,True,False,1,1,True,True,False,False,False,False,True
+29411,Horacio De Dios Orzán,539710,4330,Mushuc Runa SC,13,True,False,0,0,True,True,False,False,True,True,True
+29556,Pablo César Burzio,539711,4331,SD Aucas,7,True,False,0,0,True,False,False,False,False,False,True
+98070,Enson Jesús Rodríguez Mesa,539711,4331,SD Aucas,7,True,False,0,1,False,False,False,False,False,False,True
+123699,Ángel Fernando Gracia Toral,539711,4331,SD Aucas,7,True,False,0,2,False,False,False,False,False,False,True
+123846,Jordy Josué Caicedo Medina,539711,4327,CD El Nacional,8,True,False,0,3,False,False,False,False,False,True,False
+77726,Juan Muriel Orlando,539712,4335,CD Olmedo,11,True,False,0,0,True,True,False,False,True,True,False
+197178,Luis Joel Estupiñán García,539715,4330,Mushuc Runa SC,13,True,False,0,0,True,False,False,False,False,True,False
+123748,Luis Miguel Escalada,539715,4325,CD Cuenca,10,True,False,1,0,False,False,True,True,False,True,True
+123883,Héctor Miguel Penayo Quiñónez,539716,4318,Fuerza Amarilla SC,16,True,False,0,0,True,False,False,False,False,False,True
+123795,Billy Vladimir Arce Mina,539716,4326,CS Emelec,9,True,False,0,1,False,False,True,False,False,True,False
+123726,Armando Julián Solís Quentero,539716,4318,Fuerza Amarilla SC,16,True,False,1,1,True,True,False,False,False,False,True
+123964,Pablo José Mancilla George,539717,4320,Guayaquil City FC,12,True,False,0,0,True,True,False,False,True,True,True
+30057,Richard Hernán Schunke,539718,4321,CSD Independiente del Valle,5,True,False,0,0,True,True,False,False,True,True,False
+29466,Raúl Oscar Becerra,539719,4325,CD Cuenca,10,True,False,0,0,True,True,False,False,True,True,False
+77726,Juan Muriel Orlando,539720,4335,CD Olmedo,11,True,False,0,0,True,False,False,False,False,False,True
+123726,Armando Julián Solís Quentero,539720,4318,Fuerza Amarilla SC,16,True,False,0,1,False,False,True,False,False,True,False
+124124,Willian Daniel Cevallos Caicedo,539720,4335,CD Olmedo,11,True,False,1,1,True,False,False,False,False,False,True
+124510,Kevin Josué Mina Quiñónez,539720,4335,CD Olmedo,11,True,False,1,2,False,False,False,False,False,False,True
+124510,Kevin Josué Mina Quiñónez,539720,4335,CD Olmedo,11,True,False,1,3,False,False,False,False,False,False,True
+7753,Juan Luis Anangonó León,539721,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,True,False,False,True,True,True
+123679,Carlos Alfredo Feraud Silva,539722,4323,CSD Macará,1,True,False,0,0,True,False,False,False,False,False,True
+123809,Carlos Alexi Arboleda Ruiz,539722,4323,CSD Macará,1,True,False,0,1,False,False,False,False,False,False,True
+123843,Facundo Martín Martínez Montagnoli,539723,4328,CD Universidad Católica del Ecuador,3,True,False,0,0,True,False,False,False,False,True,True
+24157,Edson Eli Montaño Angulo,539723,4331,SD Aucas,7,True,False,0,1,False,False,True,False,False,False,False
+123711,Luis Manuel Romero Véliz,539723,4331,SD Aucas,7,True,False,1,1,True,False,False,False,False,False,False
+124074,Jhonny Raúl Quiñónez Ruiz,539723,4331,SD Aucas,7,True,False,2,1,False,False,False,False,False,False,False
+39670,Oscar Eduardo Estupiñán Vallesilla,539724,4322,Barcelona SC,2,True,False,0,0,True,False,False,False,False,False,False
+123925,Angel Fernando Quiñonez Guerrero,539724,4322,Barcelona SC,2,True,False,1,0,False,False,False,False,False,False,False
+52922,Roberto Javier Ordóñez Ayoví,539725,4324,Delfin SC,4,True,False,0,0,True,True,False,False,True,True,True
+75137,Cristián Andrés Dájome Arboleda,539726,4321,CSD Independiente del Valle,5,True,False,0,0,True,True,False,False,True,True,True
+51976,Jonathan David González Valencia,539727,4325,CD Cuenca,10,True,False,0,0,True,False,False,False,False,False,False
+123756,Segundo Arlen Portocarrero Rodríguez,539727,4325,CD Cuenca,10,True,False,1,0,False,False,False,False,False,False,False
+52922,Roberto Javier Ordóñez Ayoví,539728,4324,Delfin SC,4,True,False,0,0,True,False,False,False,False,False,False
+123786,Luis David Cangá Sánchez,539728,4324,Delfin SC,4,True,False,1,0,False,False,False,False,False,False,False
+29556,Pablo César Burzio,539728,4331,SD Aucas,7,True,False,2,0,False,False,False,False,False,False,True
+52678,Carlos John Garcés Acosta,539728,4324,Delfin SC,4,True,False,2,1,False,False,False,False,False,False,False
+51901,Maximiliano Fabián Barreiro,539728,4331,SD Aucas,7,True,False,3,1,False,False,False,False,False,False,True
+123713,Juan Diego Rojas Caicedo,539728,4324,Delfin SC,4,True,False,3,2,False,False,False,False,False,False,False
+123634,Jefferson Alfredo Intriago Mendoza,539729,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,False,False,False,False,False,False
+29289,Nicolás Omar Freire,539729,4319,Liga Deportiva Universitaria de Quito,6,True,False,1,0,False,False,False,False,False,False,False
+29289,Nicolás Omar Freire,539729,4319,Liga Deportiva Universitaria de Quito,6,True,False,2,0,False,False,False,False,False,False,False
+52060,Cristian Martínez Borja,539729,4319,Liga Deportiva Universitaria de Quito,6,True,False,3,0,False,False,False,False,False,False,False
+123739,Brayan Dennis Angulo Tenorio,539730,4326,CS Emelec,9,True,False,0,0,True,True,False,False,True,True,False
+123819,Faberth Manuel Balda Rodríguez,539731,4327,CD El Nacional,8,True,False,0,0,True,True,False,False,True,True,True
+30057,Richard Hernán Schunke,539732,4321,CSD Independiente del Valle,5,True,False,0,0,True,False,False,False,False,False,False
+29378,Juan José Govea Tenorio,539732,4321,CSD Independiente del Valle,5,True,False,1,0,False,False,False,False,False,False,False
+75137,Cristián Andrés Dájome Arboleda,539732,4321,CSD Independiente del Valle,5,True,False,2,0,False,False,False,False,False,False,False
+123675,Moisés David Corozo Cañizares,539733,4323,CSD Macará,1,True,False,0,0,True,False,False,False,False,False,True
+123836,Michael Steveen Estrada Martínez,539733,4323,CSD Macará,1,True,False,0,1,False,False,False,False,False,False,True
+138811,Luis Antonio Amarilla Lencina,539734,4328,CD Universidad Católica del Ecuador,3,True,False,0,0,True,False,False,False,False,False,False
+97413,Yuber Antonio Mosquera Perea,539734,4328,CD Universidad Católica del Ecuador,3,True,False,1,0,False,False,False,False,False,False,False
+28925,Bruno Leonel Vides,539734,4328,CD Universidad Católica del Ecuador,3,True,False,2,0,False,False,False,False,False,False,False
+123899,Jeison Daniel Chala Vásquez,539734,4328,CD Universidad Católica del Ecuador,3,True,False,3,0,False,False,False,False,False,False,False
+28925,Bruno Leonel Vides,539734,4328,CD Universidad Católica del Ecuador,3,True,False,4,0,False,False,False,False,False,False,False
+138811,Luis Antonio Amarilla Lencina,539734,4328,CD Universidad Católica del Ecuador,3,True,False,5,0,False,False,False,False,False,False,False
+124438,Jhon Clovis Carabalí Sandoval,539742,4335,CD Olmedo,11,True,False,0,0,True,False,False,False,False,False,True
+124124,Willian Daniel Cevallos Caicedo,539742,4335,CD Olmedo,11,True,False,0,1,False,False,False,False,False,False,True
+124068,Marcos Vinicio Romero Nazareno,539742,4335,CD Olmedo,11,True,False,0,2,False,False,False,False,False,False,True
+77952,Juan Manuel Tévez,539740,4331,SD Aucas,7,True,False,0,0,True,False,False,False,False,True,False
+124274,Jorge Luis Palacios Ávila,539740,4330,Mushuc Runa SC,13,True,False,1,0,False,False,True,True,False,True,True
+123790,Janner Hitcler Corozo Alman,539736,4323,CSD Macará,1,True,False,0,0,True,False,False,False,False,False,False
+123836,Michael Steveen Estrada Martínez,539736,4323,CSD Macará,1,True,False,1,0,False,False,False,False,False,False,False
+123790,Janner Hitcler Corozo Alman,539736,4323,CSD Macará,1,True,False,2,0,False,False,False,False,False,False,False
+197856,José Bonilla,539741,4318,Fuerza Amarilla SC,16,True,False,0,0,True,False,False,False,False,True,True
+20969,Gonzalo Mathías Mastriani Borges,539741,4320,Guayaquil City FC,12,True,False,0,1,False,False,True,True,False,True,False
+97413,Yuber Antonio Mosquera Perea,539737,4328,CD Universidad Católica del Ecuador,3,True,False,0,0,True,False,False,False,False,False,True
+138811,Luis Antonio Amarilla Lencina,539737,4328,CD Universidad Católica del Ecuador,3,True,False,0,1,False,False,False,False,False,False,True
+123661,Washington Wilfrido Vera Gines,539737,4322,Barcelona SC,2,True,False,0,2,False,False,False,False,False,True,False
+29466,Raúl Oscar Becerra,539738,4325,CD Cuenca,10,True,False,0,0,True,False,False,False,False,True,True
+123819,Faberth Manuel Balda Rodríguez,539738,4327,CD El Nacional,8,True,False,0,1,False,False,True,True,False,True,False
+124104,Angelo Smit Preciado Quiñónez,539746,4321,CSD Independiente del Valle,5,True,False,0,0,True,False,False,False,False,False,True
+51642,Cristian Alberto Pellerano,539746,4321,CSD Independiente del Valle,5,True,False,0,1,False,False,False,False,False,False,True
+77726,Juan Muriel Orlando,539744,4335,CD Olmedo,11,True,False,0,0,True,False,False,False,False,True,False
+29546,Michael Ryan Hoyos,539744,4320,Guayaquil City FC,12,True,False,1,0,False,False,True,True,False,True,True
+52678,Carlos John Garcés Acosta,539750,4324,Delfin SC,4,True,False,0,0,True,False,False,False,False,True,True
+28925,Bruno Leonel Vides,539750,4328,CD Universidad Católica del Ecuador,3,True,False,0,1,False,False,True,False,False,False,False
+52824,Geovanny Enrique Nazareno Simisterra,539750,4328,CD Universidad Católica del Ecuador,3,True,False,1,1,True,True,False,False,False,False,False
+123681,Ronald Erick Champang Zambrano,539748,4323,CSD Macará,1,True,False,0,0,True,True,False,False,True,True,True
+123632,Édison Fernando Vega Obando,539747,4331,SD Aucas,7,True,False,0,0,True,True,False,False,True,True,True
+123868,Pedro Pablo Velasco Arboleda,539743,4322,Barcelona SC,2,True,False,0,0,True,False,False,False,False,False,True
+51570,Fidel Francisco Martínez Tenorio,539743,4322,Barcelona SC,2,True,False,0,1,False,False,False,False,False,False,True
+41089,Christian Fernando Alemán Alegría,539743,4322,Barcelona SC,2,True,False,0,2,False,False,False,False,False,False,True
+123821,Ronaldo Iván Johnson Mina,539745,4327,CD El Nacional,8,True,False,0,0,True,False,False,False,False,True,True
+123857,Carlos Alfredo Orejuela Quiñónez,539745,4326,CS Emelec,9,True,False,0,1,False,False,True,False,False,False,False
+123795,Billy Vladimir Arce Mina,539745,4326,CS Emelec,9,True,False,1,1,True,True,False,False,False,False,False
+51976,Jonathan David González Valencia,539749,4325,CD Cuenca,10,True,False,0,0,True,False,False,False,False,False,False
+124529,Fernando David Mora Peñaranda,539749,4340,CD Técnico Universitario,14,True,False,1,0,False,False,True,False,False,False,True
+30052,Sergio Maximiliano Ojeda,539749,4340,CD Técnico Universitario,14,True,False,1,1,True,False,False,False,False,False,True
+28862,Leandro Emmanuel Martínez,539749,4325,CD Cuenca,10,True,False,1,2,False,False,True,False,False,False,False
+29466,Raúl Oscar Becerra,539749,4325,CD Cuenca,10,True,False,2,2,True,False,False,False,False,False,False
+123653,Jonny Alexander Uchuari Pintado,539749,4325,CD Cuenca,10,True,False,3,2,False,False,False,False,False,False,False
+123956,Jose Ignacio Flor Blanco,539749,4340,CD Técnico Universitario,14,True,False,4,2,False,False,False,False,False,False,True
+77952,Juan Manuel Tévez,539754,4331,SD Aucas,7,True,False,0,0,True,True,False,False,True,True,False
+123681,Ronald Erick Champang Zambrano,539753,4323,CSD Macará,1,True,False,0,0,True,True,False,False,True,True,False
+51570,Fidel Francisco Martínez Tenorio,539752,4322,Barcelona SC,2,True,False,0,0,True,False,False,False,False,True,False
+18602,Rodrigo Sebastián Aguirre Soto,539752,4319,Liga Deportiva Universitaria de Quito,6,True,False,1,0,False,False,True,True,False,True,True
+123835,Luis Fernando León Bermeo,539751,4321,CSD Independiente del Valle,5,True,False,0,0,True,True,False,False,True,True,False
+197062,Luis Arturo Arce Mina,539758,4327,CD El Nacional,8,True,False,0,0,True,False,False,False,False,True,False
+77726,Juan Muriel Orlando,539758,4335,CD Olmedo,11,True,False,1,0,False,False,True,True,False,True,True
+75369,Sergio Daniel López,539756,4324,Delfin SC,4,True,False,0,0,True,True,False,False,True,True,False
+124580,Charles Ariel Vélez Plaza,539757,4340,CD Técnico Universitario,14,True,False,0,0,True,False,False,False,False,False,False
+123883,Héctor Miguel Penayo Quiñónez,539757,4318,Fuerza Amarilla SC,16,True,False,1,0,False,False,True,False,False,True,True
+124529,Fernando David Mora Peñaranda,539757,4340,CD Técnico Universitario,14,True,False,1,1,True,True,False,False,False,False,False
+123900,Joffre Andrés Escobar Moyano,539755,4338,CD América de Quito,15,True,False,0,0,True,False,False,False,False,True,True
+20969,Gonzalo Mathías Mastriani Borges,539755,4320,Guayaquil City FC,12,True,False,0,1,False,False,True,True,False,True,False
+124462,Marco Alexander Carrasco Bonilla,539760,4330,Mushuc Runa SC,13,True,False,0,0,True,False,False,False,False,False,False
+124166,Bagner Samuel Delgado Loor,539760,4330,Mushuc Runa SC,13,True,False,1,0,False,False,False,False,False,False,False
+123709,Marcos Fabián Cangá Casierra,539760,4320,Guayaquil City FC,12,True,False,2,0,False,False,False,False,False,False,True
+123955,Alex Guillermo George Cedeño,539760,4330,Mushuc Runa SC,13,True,False,2,1,False,False,False,False,False,False,False
+29546,Michael Ryan Hoyos,539760,4320,Guayaquil City FC,12,True,False,3,1,False,False,False,False,False,False,True
+75369,Sergio Daniel López,539766,4324,Delfin SC,4,True,False,0,0,True,False,False,False,False,False,True
+29810,Williams Riveros Ibáñez,539766,4324,Delfin SC,4,True,False,0,1,False,False,False,False,False,False,True
+52678,Carlos John Garcés Acosta,539766,4324,Delfin SC,4,True,False,0,2,False,False,False,False,False,False,True
+29466,Raúl Oscar Becerra,539766,4325,CD Cuenca,10,True,False,0,3,False,False,False,False,False,False,False
+29466,Raúl Oscar Becerra,539766,4325,CD Cuenca,10,True,False,1,3,False,False,False,False,False,False,False
+124493,Jorge Daniel Valencia Angulo,539759,4338,CD América de Quito,15,True,False,0,0,True,False,False,False,False,False,False
+51570,Fidel Francisco Martínez Tenorio,539759,4322,Barcelona SC,2,True,False,1,0,False,False,True,False,False,False,True
+123900,Joffre Andrés Escobar Moyano,539759,4338,CD América de Quito,15,True,False,1,1,True,False,False,False,False,False,False
+39670,Oscar Eduardo Estupiñán Vallesilla,539759,4322,Barcelona SC,2,True,False,2,1,False,False,True,True,False,False,True
+123794,Anthony Rigoberto Landázuri Estacio,539762,4321,CSD Independiente del Valle,5,True,False,0,0,True,True,False,False,True,True,True
+123739,Brayan Dennis Angulo Tenorio,539764,4326,CS Emelec,9,True,False,0,0,True,True,False,False,True,True,False
+123846,Jordy Josué Caicedo Medina,539761,4327,CD El Nacional,8,True,False,0,0,True,False,False,False,False,True,True
+138811,Luis Antonio Amarilla Lencina,539761,4328,CD Universidad Católica del Ecuador,3,True,False,0,1,False,False,True,False,False,False,False
+28925,Bruno Leonel Vides,539761,4328,CD Universidad Católica del Ecuador,3,True,False,1,1,True,False,False,False,False,False,False
+123831,Edison Javier Carcelén Chalá,539761,4328,CD Universidad Católica del Ecuador,3,True,False,2,1,False,False,False,False,False,False,False
+124068,Marcos Vinicio Romero Nazareno,539763,4335,CD Olmedo,11,True,False,0,0,True,False,False,False,False,False,False
+123711,Luis Manuel Romero Véliz,539763,4331,SD Aucas,7,True,False,1,0,False,False,True,False,False,True,True
+124010,Marvin Richard Corozo Angulo,539763,4335,CD Olmedo,11,True,False,1,1,True,True,False,False,False,False,False
+51570,Fidel Francisco Martínez Tenorio,539770,4322,Barcelona SC,2,True,False,0,0,True,False,False,False,False,False,False
+51570,Fidel Francisco Martínez Tenorio,539770,4322,Barcelona SC,2,True,False,1,0,False,False,False,False,False,False,False
+39670,Oscar Eduardo Estupiñán Vallesilla,539770,4322,Barcelona SC,2,True,False,2,0,False,False,False,False,False,False,False
+123924,Anthony Patricio Bedoya Caicedo,539770,4325,CD Cuenca,10,True,False,3,0,False,False,False,False,False,False,True
+29466,Raúl Oscar Becerra,539770,4325,CD Cuenca,10,True,False,3,1,False,False,False,False,False,False,True
+123925,Angel Fernando Quiñonez Guerrero,539770,4322,Barcelona SC,2,True,False,3,2,False,False,False,False,False,False,False
+41089,Christian Fernando Alemán Alegría,539770,4322,Barcelona SC,2,True,False,4,2,False,False,False,False,False,False,False
+123672,Richard Rodrigo Calderón Llori,539770,4322,Barcelona SC,2,True,False,5,2,False,False,False,False,False,False,False
+124166,Bagner Samuel Delgado Loor,539772,4330,Mushuc Runa SC,13,True,False,0,0,True,False,False,False,False,True,True
+123697,Galo Ricardo Corozo Junco,539772,4323,CSD Macará,1,True,False,0,1,False,False,True,True,False,True,False
+138811,Luis Antonio Amarilla Lencina,539769,4328,CD Universidad Católica del Ecuador,3,True,False,0,0,True,False,False,False,False,True,True
+7700,Claudio Daniel Bieler,539769,4321,CSD Independiente del Valle,5,True,False,0,1,False,False,True,False,False,False,False
+123853,Luis Geovanny Segovia Vega,539769,4321,CSD Independiente del Valle,5,True,False,1,1,True,True,False,False,False,False,False
+75369,Sergio Daniel López,539774,4324,Delfin SC,4,True,False,0,0,True,False,False,False,False,False,False
+52922,Roberto Javier Ordóñez Ayoví,539774,4324,Delfin SC,4,True,False,1,0,False,False,False,False,False,False,False
+52678,Carlos John Garcés Acosta,539774,4324,Delfin SC,4,True,False,2,0,False,False,False,False,False,False,False
+123977,Pedro Pablo Perlaza Caicedo,539774,4324,Delfin SC,4,True,False,3,0,False,False,False,False,False,False,False
+123846,Jordy Josué Caicedo Medina,539768,4327,CD El Nacional,8,True,False,0,0,True,False,False,False,False,False,False
+51818,José Manuel Ayoví Plata,539768,4319,Liga Deportiva Universitaria de Quito,6,True,False,1,0,False,False,True,False,False,False,True
+123767,Jonathan Darwin Borja Colorado,539768,4327,CD El Nacional,8,True,False,1,1,True,False,False,False,False,False,False
+123854,Adolfo Alejandro Muñoz Cervantes,539768,4319,Liga Deportiva Universitaria de Quito,6,True,False,2,1,False,False,True,True,False,False,True
+124580,Charles Ariel Vélez Plaza,539771,4340,CD Técnico Universitario,14,True,False,0,0,True,False,False,False,False,False,False
+150589,Jefferson Steven Caicedo Figueroa,539771,4340,CD Técnico Universitario,14,True,False,1,0,False,False,False,False,False,False,False
+123628,Luis Gonzalo Congo Minda,539771,4338,CD América de Quito,15,True,False,2,0,False,False,False,False,False,False,True
+29675,Federico Raúl Laurito,539771,4338,CD América de Quito,15,True,False,2,1,False,False,True,False,False,False,True
+124580,Charles Ariel Vélez Plaza,539771,4340,CD Técnico Universitario,14,True,False,2,2,True,True,False,False,False,False,False
+20969,Gonzalo Mathías Mastriani Borges,539767,4320,Guayaquil City FC,12,True,False,0,0,True,True,False,False,True,True,False
+123711,Luis Manuel Romero Véliz,539773,4331,SD Aucas,7,True,False,0,0,True,False,False,False,False,False,False
+123883,Héctor Miguel Penayo Quiñónez,539773,4318,Fuerza Amarilla SC,16,True,False,1,0,False,False,True,False,False,True,True
+51901,Maximiliano Fabián Barreiro,539773,4331,SD Aucas,7,True,False,1,1,True,True,False,False,False,False,False
+28998,Favio Durán,539780,4335,CD Olmedo,11,True,False,0,0,True,False,False,False,False,False,False
+77726,Juan Muriel Orlando,539780,4335,CD Olmedo,11,True,False,1,0,False,False,False,False,False,False,False
+123799,Jacson Mauricio Pita Mina,539780,4325,CD Cuenca,10,True,False,2,0,False,False,False,False,False,True,True
+123628,Luis Gonzalo Congo Minda,539779,4338,CD América de Quito,15,True,False,0,0,True,False,False,False,False,True,False
+51901,Maximiliano Fabián Barreiro,539779,4331,SD Aucas,7,True,False,1,0,False,False,True,True,False,True,True
+28925,Bruno Leonel Vides,539776,4328,CD Universidad Católica del Ecuador,3,True,False,0,0,True,True,False,False,True,True,False
+123739,Brayan Dennis Angulo Tenorio,539775,4326,CS Emelec,9,True,False,0,0,True,False,False,False,False,True,True
+123635,Anderson Andrés Julio Santos,539775,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,1,False,False,True,False,False,False,False
+123852,Franklin Joshua Guerra Cedeño,539775,4319,Liga Deportiva Universitaria de Quito,6,True,False,1,1,True,True,False,False,False,False,False
+124274,Jorge Luis Palacios Ávila,539782,4330,Mushuc Runa SC,13,True,False,0,0,True,False,False,False,False,False,True
+123755,Byron Andrés Mina Cuero,539782,4330,Mushuc Runa SC,13,True,False,0,1,False,False,False,False,False,False,True
+123883,Héctor Miguel Penayo Quiñónez,539782,4318,Fuerza Amarilla SC,16,True,False,0,2,False,False,False,False,False,True,False
+52922,Roberto Javier Ordóñez Ayoví,539781,4324,Delfin SC,4,True,False,0,0,True,False,False,False,False,True,True
+51570,Fidel Francisco Martínez Tenorio,539781,4322,Barcelona SC,2,True,False,0,1,False,False,True,False,False,False,False
+51618,Robert Fabián Herrera Rosas,539781,4322,Barcelona SC,2,True,False,1,1,True,False,False,False,False,False,False
+198623,Leonardo Campana Romero,539781,4322,Barcelona SC,2,True,False,2,1,False,False,False,False,False,False,False
+123803,Efrén Alexander Mera Moreira,539778,4321,CSD Independiente del Valle,5,True,False,0,0,True,False,False,False,False,True,True
+123681,Ronald Erick Champang Zambrano,539778,4323,CSD Macará,1,True,False,0,1,False,False,True,True,False,True,False
+123838,Yilmar Steven Zamora Palomino,539777,4327,CD El Nacional,8,True,False,0,0,True,False,False,False,False,False,True
+124015,Luis Bernardo Santana Vera,539777,4327,CD El Nacional,8,True,False,0,1,False,False,False,False,False,False,True
+138811,Luis Antonio Amarilla Lencina,539785,4328,CD Universidad Católica del Ecuador,3,True,False,0,0,True,False,False,False,False,False,True
+138811,Luis Antonio Amarilla Lencina,539785,4328,CD Universidad Católica del Ecuador,3,True,False,0,1,False,False,False,False,False,False,True
+29466,Raúl Oscar Becerra,539785,4325,CD Cuenca,10,True,False,0,2,False,False,False,False,False,True,False
+123846,Jordy Josué Caicedo Medina,539789,4327,CD El Nacional,8,True,False,0,0,True,False,False,False,False,False,False
+123767,Jonathan Darwin Borja Colorado,539789,4327,CD El Nacional,8,True,False,1,0,False,False,False,False,False,False,False
+123767,Jonathan Darwin Borja Colorado,539789,4327,CD El Nacional,8,True,False,2,0,False,False,False,False,False,False,False
+123803,Efrén Alexander Mera Moreira,539790,4321,CSD Independiente del Valle,5,True,False,0,0,True,False,False,False,False,False,False
+77726,Juan Muriel Orlando,539790,4335,CD Olmedo,11,True,False,1,0,False,False,True,False,False,True,True
+123865,Washington Bryan Corozo Becerra,539790,4321,CSD Independiente del Valle,5,True,False,1,1,True,True,False,False,False,False,False
+41089,Christian Fernando Alemán Alegría,539783,4322,Barcelona SC,2,True,False,0,0,True,False,False,False,False,False,True
+51570,Fidel Francisco Martínez Tenorio,539783,4322,Barcelona SC,2,True,False,0,1,False,False,False,False,False,False,True
+29556,Pablo César Burzio,539783,4331,SD Aucas,7,True,False,0,2,False,False,False,False,False,False,False
+24157,Edson Eli Montaño Angulo,539783,4331,SD Aucas,7,True,False,1,2,False,False,True,False,False,False,False
+123918,Felix Eduardo Torres Caicedo,539783,4322,Barcelona SC,2,True,False,2,2,True,False,False,False,False,False,True
+39670,Oscar Eduardo Estupiñán Vallesilla,539783,4322,Barcelona SC,2,True,False,2,3,False,False,False,False,False,False,True
+24157,Edson Eli Montaño Angulo,539783,4331,SD Aucas,7,True,False,2,4,False,False,False,False,False,False,False
+123635,Anderson Andrés Julio Santos,539784,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,False,False,False,False,False,True
+123635,Anderson Andrés Julio Santos,539784,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,1,False,False,False,False,False,False,True
+51818,José Manuel Ayoví Plata,539784,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,2,False,False,False,False,False,False,True
+52060,Cristian Martínez Borja,539784,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,3,False,False,False,False,False,False,True
+123980,Jonathan Perlaza,539787,4320,Guayaquil City FC,12,True,False,0,0,True,False,False,False,False,False,False
+29546,Michael Ryan Hoyos,539787,4320,Guayaquil City FC,12,True,False,1,0,False,False,False,False,False,False,False
+123980,Jonathan Perlaza,539787,4320,Guayaquil City FC,12,True,False,2,0,False,False,False,False,False,False,False
+124069,Willer Paul Marret Acosta,539787,4340,CD Técnico Universitario,14,True,False,3,0,False,False,False,False,False,True,True
+123890,Robert Javier Burbano Cobeña,539786,4324,Delfin SC,4,True,False,0,0,True,False,False,False,False,True,False
+123836,Michael Steveen Estrada Martínez,539786,4323,CSD Macará,1,True,False,1,0,False,False,True,True,False,True,True
+123836,Michael Steveen Estrada Martínez,539795,4323,CSD Macará,1,True,False,0,0,True,False,False,False,False,False,False
+123675,Moisés David Corozo Cañizares,539795,4323,CSD Macará,1,True,False,1,0,False,False,False,False,False,False,False
+77465,Flavio Germán Ciampichetti,539795,4323,CSD Macará,1,True,False,2,0,False,False,False,False,False,False,False
+124124,Willian Daniel Cevallos Caicedo,539791,4335,CD Olmedo,11,True,False,0,0,True,False,False,False,False,False,False
+124068,Marcos Vinicio Romero Nazareno,539791,4335,CD Olmedo,11,True,False,1,0,False,False,False,False,False,False,False
+123739,Brayan Dennis Angulo Tenorio,539791,4326,CS Emelec,9,True,False,2,0,False,False,False,False,False,True,True
+77726,Juan Muriel Orlando,539791,4335,CD Olmedo,11,True,False,2,1,False,False,False,False,False,False,False
+123865,Washington Bryan Corozo Becerra,539794,4321,CSD Independiente del Valle,5,True,False,0,0,True,False,False,False,False,True,True
+123635,Anderson Andrés Julio Santos,539794,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,1,False,False,True,True,False,True,False
+52474,Walter Leodán Chalá Vázquez,539798,4328,CD Universidad Católica del Ecuador,3,True,False,0,0,True,True,False,False,True,True,False
+51976,Jonathan David González Valencia,539796,4325,CD Cuenca,10,True,False,0,0,True,False,False,False,False,False,True
+123883,Héctor Miguel Penayo Quiñónez,539796,4318,Fuerza Amarilla SC,16,True,False,0,1,False,False,True,False,False,False,False
+25113,Alex Leonardo Bolaños Reascos,539796,4325,CD Cuenca,10,True,False,1,1,True,False,False,False,False,False,True
+197051,Davinson Alexander Jama Guzmán,539796,4318,Fuerza Amarilla SC,16,True,False,1,2,False,False,True,True,False,False,False
+75369,Sergio Daniel López,539797,4324,Delfin SC,4,True,False,0,0,True,False,False,False,False,False,True
+52678,Carlos John Garcés Acosta,539797,4324,Delfin SC,4,True,False,0,1,False,False,False,False,False,False,True
+124580,Charles Ariel Vélez Plaza,539797,4340,CD Técnico Universitario,14,True,False,0,2,False,False,False,False,False,True,False
+198623,Leonardo Campana Romero,539792,4322,Barcelona SC,2,True,False,0,0,True,True,False,False,True,True,False
+123767,Jonathan Darwin Borja Colorado,539793,4327,CD El Nacional,8,True,False,0,0,True,False,False,False,False,False,True
+123767,Jonathan Darwin Borja Colorado,539793,4327,CD El Nacional,8,True,False,0,1,False,False,False,False,False,False,True
+124014,Armando Andrés Monteverde,539793,4338,CD América de Quito,15,True,False,0,2,False,False,False,False,False,True,False
+123846,Jordy Josué Caicedo Medina,539793,4327,CD El Nacional,8,True,False,1,2,False,False,False,False,False,False,True
+123836,Michael Steveen Estrada Martínez,539803,4323,CSD Macará,1,True,False,0,0,True,False,False,False,False,False,True
+29466,Raúl Oscar Becerra,539803,4325,CD Cuenca,10,True,False,0,1,False,False,True,False,False,True,False
+123836,Michael Steveen Estrada Martínez,539803,4323,CSD Macará,1,True,False,1,1,True,True,False,False,False,False,True
+123726,Armando Julián Solís Quentero,539805,4318,Fuerza Amarilla SC,16,True,False,0,0,True,False,False,False,False,False,False
+25113,Alex Leonardo Bolaños Reascos,539805,4318,Fuerza Amarilla SC,16,True,False,1,0,False,False,False,False,False,False,False
+124581,José Alberto Valdiviezo Ordóñez,539805,4318,Fuerza Amarilla SC,16,True,False,2,0,False,False,False,False,False,False,False
+51901,Maximiliano Fabián Barreiro,539802,4331,SD Aucas,7,True,False,0,0,True,False,False,False,False,False,False
+75137,Cristián Andrés Dájome Arboleda,539802,4321,CSD Independiente del Valle,5,True,False,1,0,False,False,True,False,False,True,True
+24157,Edson Eli Montaño Angulo,539802,4331,SD Aucas,7,True,False,1,1,True,True,False,False,False,False,False
+123818,Jorge Antonio Ordoñez Galarce,539800,4327,CD El Nacional,8,True,False,0,0,True,False,False,False,False,False,False
+123698,Pablo Cesar Cifuentes Cortez,539800,4320,Guayaquil City FC,12,True,False,1,0,False,False,True,False,False,True,True
+123818,Jorge Antonio Ordoñez Galarce,539800,4327,CD El Nacional,8,True,False,1,1,True,True,False,False,False,False,False
+123955,Alex Guillermo George Cedeño,539804,4330,Mushuc Runa SC,13,True,False,0,0,True,False,False,False,False,False,False
+124529,Fernando David Mora Peñaranda,539804,4340,CD Técnico Universitario,14,True,False,1,0,False,False,True,False,False,False,True
+150589,Jefferson Steven Caicedo Figueroa,539804,4340,CD Técnico Universitario,14,True,False,1,1,True,False,False,False,False,False,True
+97474,Julio César Caicedo Saad,539804,4340,CD Técnico Universitario,14,True,False,1,2,False,False,False,False,False,False,True
+197179,Glendys Carlos Mina Cortez,539804,4330,Mushuc Runa SC,13,True,False,1,3,False,False,False,False,False,False,False
+124166,Bagner Samuel Delgado Loor,539804,4330,Mushuc Runa SC,13,True,False,2,3,False,False,True,False,False,False,False
+124204,Roberto Patricio Valarezo Romero,539804,4340,CD Técnico Universitario,14,True,False,3,3,True,True,False,False,False,False,True
+18602,Rodrigo Sebastián Aguirre Soto,539801,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,False,False,False,False,True,True
+52922,Roberto Javier Ordóñez Ayoví,539801,4324,Delfin SC,4,True,False,0,1,False,False,True,False,False,False,False
+123890,Robert Javier Burbano Cobeña,539801,4324,Delfin SC,4,True,False,1,1,True,True,False,False,False,False,False
+51570,Fidel Francisco Martínez Tenorio,539799,4322,Barcelona SC,2,True,False,0,0,True,True,False,False,True,True,True
+28925,Bruno Leonel Vides,539806,4328,CD Universidad Católica del Ecuador,3,True,False,0,0,True,False,False,False,False,False,False
+28925,Bruno Leonel Vides,539806,4328,CD Universidad Católica del Ecuador,3,True,False,1,0,False,False,False,False,False,False,False
+123835,Luis Fernando León Bermeo,539809,4321,CSD Independiente del Valle,5,True,False,0,0,True,True,False,False,True,True,False
+123836,Michael Steveen Estrada Martínez,539814,4323,CSD Macará,1,True,False,0,0,True,False,False,False,False,False,False
+123681,Ronald Erick Champang Zambrano,539814,4323,CSD Macará,1,True,False,1,0,False,False,False,False,False,False,False
+197051,Davinson Alexander Jama Guzmán,539814,4318,Fuerza Amarilla SC,16,True,False,2,0,False,False,False,False,False,True,True
+123836,Michael Steveen Estrada Martínez,539814,4323,CSD Macará,1,True,False,2,1,False,False,False,False,False,False,False
+123836,Michael Steveen Estrada Martínez,539814,4323,CSD Macará,1,True,False,3,1,False,False,False,False,False,False,False
+123836,Michael Steveen Estrada Martínez,539814,4323,CSD Macará,1,True,False,4,1,False,False,False,False,False,False,False
+123739,Brayan Dennis Angulo Tenorio,539808,4326,CS Emelec,9,True,False,0,0,True,True,False,False,True,True,False
+18602,Rodrigo Sebastián Aguirre Soto,539811,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,False,False,False,False,False,False
+123653,Jonny Alexander Uchuari Pintado,539811,4325,CD Cuenca,10,True,False,1,0,False,False,True,False,False,False,True
+28687,Carlos Emiliano Rodríguez Rodríguez,539811,4319,Liga Deportiva Universitaria de Quito,6,True,False,1,1,True,False,False,False,False,False,False
+28862,Leandro Emmanuel Martínez,539811,4325,CD Cuenca,10,True,False,2,1,False,False,True,True,False,False,True
+123928,Bryan Paul Hernández Porozo,539812,4338,CD América de Quito,15,True,False,0,0,True,False,False,False,False,True,False
+29810,Williams Riveros Ibáñez,539812,4324,Delfin SC,4,True,False,1,0,False,False,True,True,False,True,True
+41089,Christian Fernando Alemán Alegría,539807,4322,Barcelona SC,2,True,False,0,0,True,False,False,False,False,False,True
+39670,Oscar Eduardo Estupiñán Vallesilla,539807,4322,Barcelona SC,2,True,False,0,1,False,False,False,False,False,False,True
+123918,Felix Eduardo Torres Caicedo,539807,4322,Barcelona SC,2,True,False,0,2,False,False,False,False,False,False,True
+75733,Marcelo Raúl Bergese Costamagna,539813,4330,Mushuc Runa SC,13,True,False,0,0,True,False,False,False,False,True,True
+124438,Jhon Clovis Carabalí Sandoval,539813,4335,CD Olmedo,11,True,False,0,1,False,False,True,True,False,True,False
+29546,Michael Ryan Hoyos,539810,4320,Guayaquil City FC,12,True,False,0,0,True,False,False,False,False,True,False
+77952,Juan Manuel Tévez,539810,4331,SD Aucas,7,True,False,1,0,False,False,True,True,False,True,True
+124494,Diego Andrés Armas Benavides,539821,4328,CD Universidad Católica del Ecuador,3,True,False,0,0,True,True,False,False,True,True,False
+123663,Ely Jair Esterilla Castro,539822,4322,Barcelona SC,2,True,False,0,0,True,False,False,False,False,False,False
+41089,Christian Fernando Alemán Alegría,539822,4322,Barcelona SC,2,True,False,1,0,False,False,False,False,False,False,False
+28687,Carlos Emiliano Rodríguez Rodríguez,539817,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,False,False,False,False,True,True
+125120,Ignacio Lautaro Avilés Rodríguez,539817,4318,Fuerza Amarilla SC,16,True,False,0,1,False,False,True,True,False,True,False
+123818,Jorge Antonio Ordoñez Galarce,539819,4327,CD El Nacional,8,True,False,0,0,True,False,False,False,False,True,False
+123675,Moisés David Corozo Cañizares,539819,4323,CSD Macará,1,True,False,1,0,False,False,True,False,False,False,True
+123679,Carlos Alfredo Feraud Silva,539819,4323,CSD Macará,1,True,False,1,1,True,True,False,False,False,False,True
+28862,Leandro Emmanuel Martínez,539816,4325,CD Cuenca,10,True,False,0,0,True,False,False,False,False,False,False
+29466,Raúl Oscar Becerra,539816,4325,CD Cuenca,10,True,False,1,0,False,False,False,False,False,False,False
+51901,Maximiliano Fabián Barreiro,539820,4331,SD Aucas,7,True,False,0,0,True,True,False,False,True,True,False
+18108,Bryan Alfredo Cabezas Segura,539815,4326,CS Emelec,9,True,False,0,0,True,False,False,False,False,False,True
+123862,Joao Josimar Rojas López,539815,4326,CS Emelec,9,True,False,0,1,False,False,False,False,False,False,True
+123817,Roberto Daniel Garcés Salazar,539818,4321,CSD Independiente del Valle,5,True,False,0,0,True,True,False,False,True,True,True
+123798,Alejandro Jair Cabeza Jiménez,539828,4321,CSD Independiente del Valle,5,True,False,0,0,True,False,False,False,False,False,False
+123835,Luis Fernando León Bermeo,539828,4321,CSD Independiente del Valle,5,True,False,1,0,False,False,False,False,False,False,False
+123680,Orlen Marcelo Quintero Mercado,539827,4340,CD Técnico Universitario,14,True,False,0,0,True,False,False,False,False,False,True
+52474,Walter Leodán Chalá Vázquez,539827,4328,CD Universidad Católica del Ecuador,3,True,False,0,1,False,False,True,False,False,False,False
+52474,Walter Leodán Chalá Vázquez,539827,4328,CD Universidad Católica del Ecuador,3,True,False,1,1,True,False,False,False,False,False,False
+138811,Luis Antonio Amarilla Lencina,539827,4328,CD Universidad Católica del Ecuador,3,True,False,2,1,False,False,False,False,False,False,False
+28925,Bruno Leonel Vides,539827,4328,CD Universidad Católica del Ecuador,3,True,False,3,1,False,False,False,False,False,False,False
+123948,Diego Fernando Dorregaray,539827,4340,CD Técnico Universitario,14,True,False,4,1,False,False,False,False,False,False,True
+138811,Luis Antonio Amarilla Lencina,539827,4328,CD Universidad Católica del Ecuador,3,True,False,4,2,False,False,False,False,False,False,False
+138811,Luis Antonio Amarilla Lencina,539827,4328,CD Universidad Católica del Ecuador,3,True,False,5,2,False,False,False,False,False,False,False
+123910,Dennis Fabian Quintero Loor,539829,4330,Mushuc Runa SC,13,True,False,0,0,True,False,False,False,False,False,False
+140499,Juan Martín Amieva,539829,4330,Mushuc Runa SC,13,True,False,1,0,False,False,False,False,False,False,False
+178339,Daniel Isaías Segura González,539829,4338,CD América de Quito,15,True,False,2,0,False,False,False,False,False,True,True
+52060,Cristian Martínez Borja,539825,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,False,False,False,False,False,True
+123902,Jhojan Esmaides Julio Palacios,539825,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,1,False,False,False,False,False,False,True
+123818,Jorge Antonio Ordoñez Galarce,539823,4327,CD El Nacional,8,True,False,0,0,True,True,False,False,True,True,False
+123890,Robert Javier Burbano Cobeña,539830,4324,Delfin SC,4,True,False,0,0,True,True,False,False,True,True,False
+123745,Wílmer Javier Godoy Quiñónez,539826,4326,CS Emelec,9,True,False,0,0,True,False,False,False,False,False,False
+28642,Víctor Alberto Figueroa,539826,4331,SD Aucas,7,True,False,1,0,False,False,True,False,False,True,True
+123821,Ronaldo Iván Johnson Mina,539826,4326,CS Emelec,9,True,False,1,1,True,True,False,False,False,False,False
+123836,Michael Steveen Estrada Martínez,539824,4323,CSD Macará,1,True,False,0,0,True,False,False,False,False,False,False
+123790,Janner Hitcler Corozo Alman,539824,4323,CSD Macará,1,True,False,1,0,False,False,False,False,False,False,False
+29466,Raúl Oscar Becerra,539837,4325,CD Cuenca,10,True,False,0,0,True,False,False,False,False,False,False
+123705,Francisco Evelio Silva Cabrera,539837,4330,Mushuc Runa SC,13,True,False,1,0,False,False,True,False,False,True,True
+29466,Raúl Oscar Becerra,539837,4325,CD Cuenca,10,True,False,1,1,True,False,False,False,False,False,False
+28862,Leandro Emmanuel Martínez,539837,4325,CD Cuenca,10,True,False,2,1,False,False,False,False,False,False,False
+140709,Aníbal Leguizamón Espínola,539831,4318,Fuerza Amarilla SC,16,True,False,0,0,True,False,False,False,False,True,False
+123800,Gabriel Jhon Cortéz Casierra,539831,4326,CS Emelec,9,True,False,1,0,False,False,True,False,False,False,True
+28952,Leandro Sebastián Vega,539831,4326,CS Emelec,9,True,False,1,1,True,False,False,False,False,False,True
+123891,Marlon Mauricio Mejía Díaz,539831,4326,CS Emelec,9,True,False,1,2,False,False,False,False,False,False,True
+123857,Carlos Alfredo Orejuela Quiñónez,539831,4326,CS Emelec,9,True,False,1,3,False,False,False,False,False,False,True
+123742,Marcos Andrés López Cabrera,539832,4328,CD Universidad Católica del Ecuador,3,True,False,0,0,True,False,False,False,False,False,True
+52474,Walter Leodán Chalá Vázquez,539832,4328,CD Universidad Católica del Ecuador,3,True,False,0,1,False,False,False,False,False,False,True
+138811,Luis Antonio Amarilla Lencina,539832,4328,CD Universidad Católica del Ecuador,3,True,False,0,2,False,False,False,False,False,False,True
+52474,Walter Leodán Chalá Vázquez,539832,4328,CD Universidad Católica del Ecuador,3,True,False,0,3,False,False,False,False,False,False,True
+123635,Anderson Andrés Julio Santos,539832,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,4,False,False,False,False,False,True,False
+28925,Bruno Leonel Vides,539832,4328,CD Universidad Católica del Ecuador,3,True,False,1,4,False,False,False,False,False,False,True
+75125,Carlos Andrés Mosquera Perea,539834,4340,CD Técnico Universitario,14,True,False,0,0,True,False,False,False,False,True,False
+5856,Gabriel Arturo Torres Tejada,539834,4321,CSD Independiente del Valle,5,True,False,1,0,False,False,True,True,False,True,True
+29795,Alejandro Sebastián Manchot,539835,4323,CSD Macará,1,True,False,0,0,True,False,False,False,False,False,True
+123836,Michael Steveen Estrada Martínez,539835,4323,CSD Macará,1,True,False,0,1,False,False,False,False,False,False,True
+51570,Fidel Francisco Martínez Tenorio,539835,4322,Barcelona SC,2,True,False,0,2,False,False,False,False,False,True,False
+52678,Carlos John Garcés Acosta,539836,4324,Delfin SC,4,True,False,0,0,True,False,False,False,False,False,True
+123713,Juan Diego Rojas Caicedo,539836,4324,Delfin SC,4,True,False,0,1,False,False,False,False,False,False,True
+28843,Lucas Sosa,539836,4320,Guayaquil City FC,12,True,False,0,2,False,False,False,False,False,True,False
+52922,Roberto Javier Ordóñez Ayoví,539836,4324,Delfin SC,4,True,False,1,2,False,False,False,False,False,False,True
+124124,Willian Daniel Cevallos Caicedo,539838,4335,CD Olmedo,11,True,False,0,0,True,False,False,False,False,True,True
+123643,Ronie Edmundo Carrillo Morales,539838,4338,CD América de Quito,15,True,False,0,1,False,False,True,True,False,True,False
+18602,Rodrigo Sebastián Aguirre Soto,539845,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,True,False,False,True,True,False
+123653,Jonny Alexander Uchuari Pintado,539844,4325,CD Cuenca,10,True,False,0,0,True,True,False,False,True,True,True
+197062,Luis Arturo Arce Mina,539841,4327,CD El Nacional,8,True,False,0,0,True,False,False,False,False,True,True
+23908,Bruno Piñatares Prieto,539841,4324,Delfin SC,4,True,False,0,1,False,False,True,True,False,True,False
+124438,Jhon Clovis Carabalí Sandoval,539846,4335,CD Olmedo,11,True,False,0,0,True,True,False,False,True,True,False
+29556,Pablo César Burzio,539842,4331,SD Aucas,7,True,False,0,0,True,False,False,False,False,True,True
+28925,Bruno Leonel Vides,539842,4328,CD Universidad Católica del Ecuador,3,True,False,0,1,False,False,True,True,False,True,False
+124274,Jorge Luis Palacios Ávila,539839,4330,Mushuc Runa SC,13,True,False,0,0,True,False,False,False,False,False,False
+198256,Adonis Stalin Preciado Quintero,539839,4330,Mushuc Runa SC,13,True,False,1,0,False,False,False,False,False,False,False
+124291,Darío Darwin Bone Lastre,539839,4330,Mushuc Runa SC,13,True,False,2,0,False,False,False,False,False,False,False
+198623,Leonardo Campana Romero,539839,4322,Barcelona SC,2,True,False,3,0,False,False,False,False,False,True,True
+124274,Jorge Luis Palacios Ávila,539839,4330,Mushuc Runa SC,13,True,False,3,1,False,False,False,False,False,False,False
+95118,Ismael Alberto Gómez,539839,4330,Mushuc Runa SC,13,True,False,4,1,False,False,False,False,False,False,False
+20969,Gonzalo Mathías Mastriani Borges,539840,4320,Guayaquil City FC,12,True,False,0,0,True,False,False,False,False,False,True
+51642,Cristian Alberto Pellerano,539840,4321,CSD Independiente del Valle,5,True,False,0,1,False,False,True,False,False,False,False
+29546,Michael Ryan Hoyos,539840,4320,Guayaquil City FC,12,True,False,1,1,True,False,False,False,False,False,True
+29378,Juan José Govea Tenorio,539840,4321,CSD Independiente del Valle,5,True,False,1,2,False,False,True,True,False,False,False
+123679,Carlos Alfredo Feraud Silva,539843,4323,CSD Macará,1,True,False,0,0,True,False,False,False,False,False,False
+123675,Moisés David Corozo Cañizares,539843,4323,CSD Macará,1,True,False,1,0,False,False,False,False,False,False,False
+123964,Pablo José Mancilla George,539848,4320,Guayaquil City FC,12,True,False,0,0,True,True,False,False,True,True,False
+52678,Carlos John Garcés Acosta,539852,4324,Delfin SC,4,True,False,0,0,True,False,False,False,False,False,True
+52678,Carlos John Garcés Acosta,539852,4324,Delfin SC,4,True,False,0,1,False,False,False,False,False,False,True
+123711,Luis Manuel Romero Véliz,539852,4331,SD Aucas,7,True,False,0,2,False,False,False,False,False,False,False
+28642,Víctor Alberto Figueroa,539852,4331,SD Aucas,7,True,False,1,2,False,False,True,False,False,False,False
+77952,Juan Manuel Tévez,539852,4331,SD Aucas,7,True,False,2,2,True,False,False,False,False,False,False
+124074,Jhonny Raúl Quiñónez Ruiz,539852,4331,SD Aucas,7,True,False,3,2,False,False,False,False,False,False,False
+123767,Jonathan Darwin Borja Colorado,539853,4327,CD El Nacional,8,True,False,0,0,True,False,False,False,False,False,False
+123767,Jonathan Darwin Borja Colorado,539853,4327,CD El Nacional,8,True,False,1,0,False,False,False,False,False,False,False
+123800,Gabriel Jhon Cortéz Casierra,539847,4326,CS Emelec,9,True,False,0,0,True,False,False,False,False,False,True
+123857,Carlos Alfredo Orejuela Quiñónez,539847,4326,CS Emelec,9,True,False,0,1,False,False,False,False,False,False,True
+124580,Charles Ariel Vélez Plaza,539847,4340,CD Técnico Universitario,14,True,False,0,2,False,False,False,False,False,False,False
+577873,Joel Steven Quintero Nazareno,539847,4340,CD Técnico Universitario,14,True,False,1,2,False,False,True,True,False,False,False
+197051,Davinson Alexander Jama Guzmán,539849,4318,Fuerza Amarilla SC,16,True,False,0,0,True,False,False,False,False,True,False
+138811,Luis Antonio Amarilla Lencina,539849,4328,CD Universidad Católica del Ecuador,3,True,False,1,0,False,False,True,False,False,False,True
+123831,Edison Javier Carcelén Chalá,539849,4328,CD Universidad Católica del Ecuador,3,True,False,1,1,True,True,False,False,False,False,True
+6111,Jonatan Daniel Alvez Sagar,539850,4322,Barcelona SC,2,True,False,0,0,True,False,False,False,False,False,False
+51570,Fidel Francisco Martínez Tenorio,539850,4322,Barcelona SC,2,True,False,1,0,False,False,False,False,False,False,False
+123656,Mario Alberto Pineida Martínez,539850,4322,Barcelona SC,2,True,False,2,0,False,False,False,False,False,False,False
+51642,Cristian Alberto Pellerano,539850,4321,CSD Independiente del Valle,5,True,False,3,0,False,False,False,False,False,True,True
+41089,Christian Fernando Alemán Alegría,539850,4322,Barcelona SC,2,True,False,3,1,False,False,False,False,False,False,False
+77726,Juan Muriel Orlando,539854,4335,CD Olmedo,11,True,False,0,0,True,False,False,False,False,True,True
+123790,Janner Hitcler Corozo Alman,539854,4323,CSD Macará,1,True,False,0,1,False,False,True,True,False,True,False
+123748,Luis Miguel Escalada,539857,4325,CD Cuenca,10,True,False,0,0,True,False,False,False,False,False,False
+123767,Jonathan Darwin Borja Colorado,539857,4327,CD El Nacional,8,True,False,1,0,False,False,True,False,False,False,True
+51976,Jonathan David González Valencia,539857,4325,CD Cuenca,10,True,False,1,1,True,False,False,False,False,False,False
+123767,Jonathan Darwin Borja Colorado,539857,4327,CD El Nacional,8,True,False,2,1,False,False,True,True,False,False,True
+123752,Yorman Michael Valencia Caicedo,539858,4338,CD América de Quito,15,True,False,0,0,True,False,False,False,False,True,False
+123865,Washington Bryan Corozo Becerra,539858,4321,CSD Independiente del Valle,5,True,False,1,0,False,False,True,True,False,True,True
+78605,Henry Leonel Patta Quintero,539859,4330,Mushuc Runa SC,13,True,False,0,0,True,False,False,False,False,True,False
+124215,Alexander Antonio Alvarado Carriel,539859,4331,SD Aucas,7,True,False,1,0,False,False,True,False,False,False,True
+28642,Víctor Alberto Figueroa,539859,4331,SD Aucas,7,True,False,1,1,True,True,False,False,False,False,True
+29546,Michael Ryan Hoyos,539856,4320,Guayaquil City FC,12,True,False,0,0,True,True,False,False,True,True,True
+123836,Michael Steveen Estrada Martínez,539860,4323,CSD Macará,1,True,False,0,0,True,False,False,False,False,True,True
+18602,Rodrigo Sebastián Aguirre Soto,539860,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,1,False,False,True,True,False,True,False
+138811,Luis Antonio Amarilla Lencina,539855,4328,CD Universidad Católica del Ecuador,3,True,False,0,0,True,False,False,False,False,False,False
+28925,Bruno Leonel Vides,539855,4328,CD Universidad Católica del Ecuador,3,True,False,1,0,False,False,False,False,False,False,False
+123978,Byron David Castillo Segura,539855,4322,Barcelona SC,2,True,False,2,0,False,False,False,False,False,True,True
+52678,Carlos John Garcés Acosta,539862,4324,Delfin SC,4,True,False,0,0,True,True,False,False,True,True,True
+124580,Charles Ariel Vélez Plaza,539861,4340,CD Técnico Universitario,14,True,False,0,0,True,False,False,False,False,False,True
+123948,Diego Fernando Dorregaray,539861,4340,CD Técnico Universitario,14,True,False,0,1,False,False,False,False,False,False,True
+123836,Michael Steveen Estrada Martínez,539867,4323,CSD Macará,1,True,False,0,0,True,True,False,False,True,True,False
+29378,Juan José Govea Tenorio,539868,4321,CSD Independiente del Valle,5,True,False,0,0,True,False,False,False,False,False,False
+123865,Washington Bryan Corozo Becerra,539868,4321,CSD Independiente del Valle,5,True,False,1,0,False,False,False,False,False,False,False
+123816,Bryan Alejandro de Jesús Pabón,539868,4330,Mushuc Runa SC,13,True,False,2,0,False,False,False,False,False,False,True
+198256,Adonis Stalin Preciado Quintero,539868,4330,Mushuc Runa SC,13,True,False,2,1,False,False,True,False,False,False,True
+123816,Bryan Alejandro de Jesús Pabón,539868,4330,Mushuc Runa SC,13,True,False,2,2,True,True,False,False,False,False,True
+52922,Roberto Javier Ordóñez Ayoví,539865,4324,Delfin SC,4,True,False,0,0,True,False,False,False,False,False,False
+28925,Bruno Leonel Vides,539865,4328,CD Universidad Católica del Ecuador,3,True,False,1,0,False,False,True,False,False,True,True
+52678,Carlos John Garcés Acosta,539865,4324,Delfin SC,4,True,False,1,1,True,True,False,False,False,False,False
+124023,Deison Adolfo Méndez Rosero,539870,4320,Guayaquil City FC,12,True,False,0,0,True,False,False,False,False,False,False
+29546,Michael Ryan Hoyos,539870,4320,Guayaquil City FC,12,True,False,1,0,False,False,False,False,False,False,False
+20969,Gonzalo Mathías Mastriani Borges,539870,4320,Guayaquil City FC,12,True,False,2,0,False,False,False,False,False,False,False
+123806,Marco Roberto Mosquera Borja,539864,4331,SD Aucas,7,True,False,0,0,True,False,False,False,False,False,False
+51818,José Manuel Ayoví Plata,539864,4319,Liga Deportiva Universitaria de Quito,6,True,False,1,0,False,False,True,False,False,True,True
+123712,Christian Geovanny Cruz Tapia,539864,4331,SD Aucas,7,True,False,1,1,True,True,False,False,False,False,False
+52934,Edison Andrés Preciado Bravo,539866,4325,CD Cuenca,10,True,False,0,0,True,False,False,False,False,False,True
+124529,Fernando David Mora Peñaranda,539866,4340,CD Técnico Universitario,14,True,False,0,1,False,False,True,False,False,True,False
+123748,Luis Miguel Escalada,539866,4325,CD Cuenca,10,True,False,1,1,True,True,False,False,False,False,True
+123684,Miguel Ángel Segura Ordóñez,539863,4327,CD El Nacional,8,True,False,0,0,True,True,False,False,True,True,False
+590995,Edwin Isaias Porozo Landazuri,539869,4318,Fuerza Amarilla SC,16,True,False,0,0,True,False,False,False,False,True,True
+123868,Pedro Pablo Velasco Arboleda,539869,4322,Barcelona SC,2,True,False,0,1,False,False,True,False,False,False,False
+123808,Damián Rodrigo Díaz,539869,4322,Barcelona SC,2,True,False,1,1,True,True,False,False,False,False,False
+123635,Anderson Andrés Julio Santos,539871,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,False,False,False,False,False,False
+18602,Rodrigo Sebastián Aguirre Soto,539871,4319,Liga Deportiva Universitaria de Quito,6,True,False,1,0,False,False,False,False,False,False,False
+198256,Adonis Stalin Preciado Quintero,539878,4330,Mushuc Runa SC,13,True,False,0,0,True,False,False,False,False,False,False
+198256,Adonis Stalin Preciado Quintero,539878,4330,Mushuc Runa SC,13,True,False,1,0,False,False,False,False,False,False,False
+588605,César Ramón Espínola Ruiz,539872,4338,CD América de Quito,15,True,False,0,0,True,False,False,False,False,False,False
+588605,César Ramón Espínola Ruiz,539872,4338,CD América de Quito,15,True,False,1,0,False,False,False,False,False,False,False
+588605,César Ramón Espínola Ruiz,539872,4338,CD América de Quito,15,True,False,2,0,False,False,False,False,False,False,False
+29556,Pablo César Burzio,539875,4331,SD Aucas,7,True,False,0,0,True,False,False,False,False,False,True
+123748,Luis Miguel Escalada,539875,4325,CD Cuenca,10,True,False,0,1,False,False,True,False,False,True,False
+24157,Edson Eli Montaño Angulo,539875,4331,SD Aucas,7,True,False,1,1,True,True,False,False,False,False,True
+123684,Miguel Ángel Segura Ordóñez,539873,4327,CD El Nacional,8,True,False,0,0,True,False,False,False,False,False,True
+123767,Jonathan Darwin Borja Colorado,539873,4327,CD El Nacional,8,True,False,0,1,False,False,False,False,False,False,True
+590995,Edwin Isaias Porozo Landazuri,539877,4318,Fuerza Amarilla SC,16,True,False,0,0,True,False,False,False,False,False,False
+123665,Sergio Danilo Mina Jaramillo,539877,4318,Fuerza Amarilla SC,16,True,False,1,0,False,False,False,False,False,False,False
+124192,Eddie Fernando Guevara Chávez,539877,4340,CD Técnico Universitario,14,True,False,2,0,False,False,False,False,False,False,True
+75125,Carlos Andrés Mosquera Perea,539877,4340,CD Técnico Universitario,14,True,False,2,1,False,False,True,True,False,False,True
+124490,Jhon Jairo Sánchez Enríquez,539874,4321,CSD Independiente del Valle,5,True,False,0,0,True,False,False,False,False,False,True
+123794,Anthony Rigoberto Landázuri Estacio,539874,4321,CSD Independiente del Valle,5,True,False,0,1,False,False,False,False,False,False,True
+123800,Gabriel Jhon Cortéz Casierra,539874,4326,CS Emelec,9,True,False,0,2,False,False,False,False,False,True,False
+75137,Cristián Andrés Dájome Arboleda,539874,4321,CSD Independiente del Valle,5,True,False,1,2,False,False,False,False,False,False,True
+123676,Leonel Enrique Quiñónez Padilla,539876,4323,CSD Macará,1,True,False,0,0,True,False,False,False,False,False,True
+123843,Facundo Martín Martínez Montagnoli,539876,4328,CD Universidad Católica del Ecuador,3,True,False,0,1,False,False,True,False,False,True,False
+123790,Janner Hitcler Corozo Alman,539876,4323,CSD Macará,1,True,False,1,1,True,False,False,False,False,False,True
+123681,Ronald Erick Champang Zambrano,539876,4323,CSD Macará,1,True,False,1,2,False,False,False,False,False,False,True
+24157,Edson Eli Montaño Angulo,539886,4331,SD Aucas,7,True,False,0,0,True,True,False,False,True,True,False
+23908,Bruno Piñatares Prieto,539882,4324,Delfin SC,4,True,False,0,0,True,False,False,False,False,False,False
+123710,Edison Armando Caicedo Castro,539882,4324,Delfin SC,4,True,False,1,0,False,False,False,False,False,False,False
+28414,Julio Eduardo Angulo Medina,539880,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,False,False,False,False,False,True
+52060,Cristian Martínez Borja,539880,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,1,False,False,False,False,False,False,True
+51570,Fidel Francisco Martínez Tenorio,539883,4322,Barcelona SC,2,True,False,0,0,True,False,False,False,False,False,False
+51570,Fidel Francisco Martínez Tenorio,539883,4322,Barcelona SC,2,True,False,1,0,False,False,False,False,False,False,False
+123808,Damián Rodrigo Díaz,539883,4322,Barcelona SC,2,True,False,2,0,False,False,False,False,False,False,False
+51570,Fidel Francisco Martínez Tenorio,539883,4322,Barcelona SC,2,True,False,3,0,False,False,False,False,False,False,False
+124494,Diego Andrés Armas Benavides,539881,4328,CD Universidad Católica del Ecuador,3,True,False,0,0,True,True,False,False,True,True,True
+20969,Gonzalo Mathías Mastriani Borges,539884,4320,Guayaquil City FC,12,True,False,0,0,True,False,False,False,False,False,False
+95118,Ismael Alberto Gómez,539884,4330,Mushuc Runa SC,13,True,False,1,0,False,False,True,False,False,False,True
+20969,Gonzalo Mathías Mastriani Borges,539884,4320,Guayaquil City FC,12,True,False,1,1,True,False,False,False,False,False,False
+124274,Jorge Luis Palacios Ávila,539884,4330,Mushuc Runa SC,13,True,False,2,1,False,False,True,False,False,False,True
+20969,Gonzalo Mathías Mastriani Borges,539884,4320,Guayaquil City FC,12,True,False,2,2,True,False,False,False,False,False,False
+20969,Gonzalo Mathías Mastriani Borges,539884,4320,Guayaquil City FC,12,True,False,3,2,False,False,False,False,False,False,False
+123836,Michael Steveen Estrada Martínez,539879,4323,CSD Macará,1,True,False,0,0,True,False,False,False,False,False,False
+123836,Michael Steveen Estrada Martínez,539879,4323,CSD Macará,1,True,False,1,0,False,False,False,False,False,False,False
+75287,Daniel Patricio Angulo Arroyo,539879,4326,CS Emelec,9,True,False,2,0,False,False,False,False,False,True,True
+123803,Efrén Alexander Mera Moreira,539885,4321,CSD Independiente del Valle,5,True,False,0,0,True,False,False,False,False,False,False
+123803,Efrén Alexander Mera Moreira,539885,4321,CSD Independiente del Valle,5,True,False,1,0,False,False,False,False,False,False,False
+51570,Fidel Francisco Martínez Tenorio,539887,4322,Barcelona SC,2,True,False,0,0,True,False,False,False,False,True,True
+28862,Leandro Emmanuel Martínez,539887,4325,CD Cuenca,10,True,False,0,1,False,False,True,True,False,True,False
+588605,César Ramón Espínola Ruiz,539893,4338,CD América de Quito,15,True,False,0,0,True,False,False,False,False,False,False
+178339,Daniel Isaías Segura González,539893,4338,CD América de Quito,15,True,False,1,0,False,False,False,False,False,False,False
+123665,Sergio Danilo Mina Jaramillo,539891,4318,Fuerza Amarilla SC,16,True,False,0,0,True,False,False,False,False,False,False
+124199,César Roberto Batalla Carreño,539891,4331,SD Aucas,7,True,False,1,0,False,False,True,False,False,False,True
+123652,Walter Germán Zea Baldeón,539891,4318,Fuerza Amarilla SC,16,True,False,1,1,True,False,False,False,False,False,False
+28642,Víctor Alberto Figueroa,539891,4331,SD Aucas,7,True,False,2,1,False,False,True,False,False,False,True
+123665,Sergio Danilo Mina Jaramillo,539891,4318,Fuerza Amarilla SC,16,True,False,2,2,True,False,False,False,False,False,False
+77952,Juan Manuel Tévez,539891,4331,SD Aucas,7,True,False,3,2,False,False,True,True,False,False,True
+75137,Cristián Andrés Dájome Arboleda,539890,4321,CSD Independiente del Valle,5,True,False,0,0,True,True,False,False,True,True,True
+123905,Esteban Santiago de la Cruz Santacruz,539894,4335,CD Olmedo,11,True,False,0,0,True,False,False,False,False,False,False
+52922,Roberto Javier Ordóñez Ayoví,539894,4324,Delfin SC,4,True,False,1,0,False,False,True,False,False,False,True
+123977,Pedro Pablo Perlaza Caicedo,539894,4324,Delfin SC,4,True,False,1,1,True,False,False,False,False,False,True
+124510,Kevin Josué Mina Quiñónez,539894,4335,CD Olmedo,11,True,False,1,2,False,False,True,True,False,False,False
+20969,Gonzalo Mathías Mastriani Borges,539888,4320,Guayaquil City FC,12,True,False,0,0,True,False,False,False,False,True,True
+28952,Leandro Sebastián Vega,539888,4326,CS Emelec,9,True,False,0,1,False,False,True,False,False,False,False
+123862,Joao Josimar Rojas López,539888,4326,CS Emelec,9,True,False,1,1,True,True,False,False,False,False,False
+123902,Jhojan Esmaides Julio Palacios,539889,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,False,False,False,False,False,False
+52060,Cristian Martínez Borja,539889,4319,Liga Deportiva Universitaria de Quito,6,True,False,1,0,False,False,False,False,False,False,False
+124291,Darío Darwin Bone Lastre,539892,4330,Mushuc Runa SC,13,True,False,0,0,True,False,False,False,False,True,False
+123676,Leonel Enrique Quiñónez Padilla,539892,4323,CSD Macará,1,True,False,1,0,False,False,True,True,False,True,True
+123681,Ronald Erick Champang Zambrano,725202,4323,CSD Macará,1,True,False,0,0,True,False,False,False,False,False,True
+123676,Leonel Enrique Quiñónez Padilla,725202,4323,CSD Macará,1,True,False,0,1,False,False,False,False,False,False,True
+29466,Raúl Oscar Becerra,725203,4325,CD Cuenca,10,True,False,0,0,True,False,False,False,False,False,False
+123748,Luis Miguel Escalada,725203,4325,CD Cuenca,10,True,False,1,0,False,False,False,False,False,False,False
+123905,Esteban Santiago de la Cruz Santacruz,725203,4335,CD Olmedo,11,True,False,2,0,False,False,False,False,False,True,True
+123755,Byron Andrés Mina Cuero,725204,4330,Mushuc Runa SC,13,True,False,0,0,True,False,False,False,False,False,False
+140499,Juan Martín Amieva,725204,4330,Mushuc Runa SC,13,True,False,1,0,False,False,False,False,False,False,False
+140499,Juan Martín Amieva,725204,4330,Mushuc Runa SC,13,True,False,2,0,False,False,False,False,False,False,False
+29810,Williams Riveros Ibáñez,725205,4322,Barcelona SC,2,True,False,0,0,True,False,False,False,False,False,True
+52922,Roberto Javier Ordóñez Ayoví,725205,4322,Barcelona SC,2,True,False,0,1,False,False,False,False,False,False,True
+52678,Carlos John Garcés Acosta,725205,4324,Delfin SC,4,True,False,0,2,False,False,False,False,False,True,False
+24157,Edson Eli Montaño Angulo,725206,4331,SD Aucas,7,True,False,0,0,True,False,False,False,False,False,False
+24157,Edson Eli Montaño Angulo,725206,4331,SD Aucas,7,True,False,1,0,False,False,False,False,False,False,False
+123924,Anthony Patricio Bedoya Caicedo,725206,4331,SD Aucas,7,True,False,2,0,False,False,False,False,False,False,False
+123899,Jeison Daniel Chala Vásquez,539897,4328,CD Universidad Católica del Ecuador,3,True,False,0,0,True,False,False,False,False,True,True
+20969,Gonzalo Mathías Mastriani Borges,539897,4320,Guayaquil City FC,12,True,False,0,1,False,False,True,False,False,False,False
+29546,Michael Ryan Hoyos,539897,4320,Guayaquil City FC,12,True,False,1,1,True,True,False,False,False,False,False
+75287,Daniel Patricio Angulo Arroyo,539896,4326,CS Emelec,9,True,False,0,0,True,False,False,False,False,True,False
+18602,Rodrigo Sebastián Aguirre Soto,539896,4319,Liga Deportiva Universitaria de Quito,6,True,False,1,0,False,False,True,True,False,True,True
+123774,Miguel Enrique Parrales Vera,539899,4327,CD El Nacional,8,True,False,0,0,True,False,False,False,False,True,False
+124192,Eddie Fernando Guevara Chávez,539899,4340,CD Técnico Universitario,14,True,False,1,0,False,False,True,False,False,False,True
+123948,Diego Fernando Dorregaray,539899,4340,CD Técnico Universitario,14,True,False,1,1,True,True,False,False,False,False,True
+123716,Nelson Andrés Solíz Arroyo,539904,4320,Guayaquil City FC,12,True,False,0,0,True,False,False,False,False,False,True
+28843,Lucas Sosa,539904,4340,CD Técnico Universitario,14,True,False,0,1,False,False,True,False,False,False,False
+123948,Diego Fernando Dorregaray,539904,4340,CD Técnico Universitario,14,True,False,1,1,True,False,False,False,False,False,False
+20969,Gonzalo Mathías Mastriani Borges,539904,4320,Guayaquil City FC,12,True,False,2,1,False,False,True,False,False,False,True
+20969,Gonzalo Mathías Mastriani Borges,539904,4320,Guayaquil City FC,12,True,False,2,2,True,False,False,False,False,False,True
+123680,Orlen Marcelo Quintero Mercado,539904,4340,CD Técnico Universitario,14,True,False,2,3,False,False,True,False,False,False,False
+123948,Diego Fernando Dorregaray,539904,4320,Guayaquil City FC,12,True,False,3,3,True,False,False,False,False,False,True
+124529,Fernando David Mora Peñaranda,539904,4340,CD Técnico Universitario,14,True,False,3,4,False,False,True,True,False,False,False
+97599,Edwuin Alexander Pernía Martínez,539903,4326,CS Emelec,9,True,False,0,0,True,False,False,False,False,False,True
+124221,Ronny Bryan Medina Valencia,539903,4338,CD América de Quito,15,True,False,0,1,False,False,True,False,False,True,False
+123800,Gabriel Jhon Cortéz Casierra,539903,4326,CS Emelec,9,True,False,1,1,True,True,False,False,False,False,True
+123790,Janner Hitcler Corozo Alman,539909,4323,CSD Macará,1,True,False,0,0,True,False,False,False,False,True,False
+75369,Sergio Daniel López,539909,4324,Delfin SC,4,True,False,1,0,False,False,True,True,False,True,True
+18602,Rodrigo Sebastián Aguirre Soto,539910,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,False,False,False,False,False,False
+18602,Rodrigo Sebastián Aguirre Soto,539910,4319,Liga Deportiva Universitaria de Quito,6,True,False,1,0,False,False,False,False,False,False,False
+18602,Rodrigo Sebastián Aguirre Soto,539910,4319,Liga Deportiva Universitaria de Quito,6,True,False,2,0,False,False,False,False,False,False,False
+18602,Rodrigo Sebastián Aguirre Soto,539910,4319,Liga Deportiva Universitaria de Quito,6,True,False,3,0,False,False,False,False,False,False,False
+123771,Kevin German Arias Chiriboga,539905,4327,CD El Nacional,8,True,False,0,0,True,False,False,False,False,False,True
+123767,Jonathan Darwin Borja Colorado,539905,4327,CD El Nacional,8,True,False,0,1,False,False,False,False,False,False,True
+123628,Luis Gonzalo Congo Minda,539905,4327,CD El Nacional,8,True,False,0,2,False,False,False,False,False,False,True
+123628,Luis Gonzalo Congo Minda,539905,4327,CD El Nacional,8,True,False,0,3,False,False,False,False,False,False,True
+6111,Jonatan Daniel Alvez Sagar,539907,4322,Barcelona SC,2,True,False,0,0,True,False,False,False,False,False,False
+123795,Billy Vladimir Arce Mina,539907,4322,Barcelona SC,2,True,False,1,0,False,False,False,False,False,False,False
+123924,Anthony Patricio Bedoya Caicedo,539907,4331,SD Aucas,7,True,False,2,0,False,False,False,False,False,True,True
+28925,Bruno Leonel Vides,539908,4328,CD Universidad Católica del Ecuador,3,True,False,0,0,True,False,False,False,False,False,False
+124494,Diego Andrés Armas Benavides,539908,4328,CD Universidad Católica del Ecuador,3,True,False,1,0,False,False,False,False,False,False,False
+29466,Raúl Oscar Becerra,539917,4325,CD Cuenca,10,True,False,0,0,True,False,False,False,False,False,False
+29466,Raúl Oscar Becerra,539917,4325,CD Cuenca,10,True,False,1,0,False,False,False,False,False,False,False
+28862,Leandro Emmanuel Martínez,539917,4325,CD Cuenca,10,True,False,2,0,False,False,False,False,False,False,False
+140499,Juan Martín Amieva,539913,4330,Mushuc Runa SC,13,True,False,0,0,True,False,False,False,False,True,False
+138811,Luis Antonio Amarilla Lencina,539913,4328,CD Universidad Católica del Ecuador,3,True,False,1,0,False,False,True,True,False,True,True
+123709,Marcos Fabián Cangá Casierra,539911,4322,Barcelona SC,2,True,False,0,0,True,False,False,False,False,False,True
+184233,John Jairo Jiménez,539911,4322,Barcelona SC,2,True,False,0,1,False,False,False,False,False,False,True
+124221,Ronny Bryan Medina Valencia,539916,4338,CD América de Quito,15,True,False,0,0,True,True,False,False,True,True,True
+123948,Diego Fernando Dorregaray,539915,4340,CD Técnico Universitario,14,True,False,0,0,True,False,False,False,False,False,True
+75369,Sergio Daniel López,539915,4324,Delfin SC,4,True,False,0,1,False,False,True,False,False,False,False
+75369,Sergio Daniel López,539915,4324,Delfin SC,4,True,False,1,1,True,False,False,False,False,False,False
+123890,Robert Javier Burbano Cobeña,539915,4324,Delfin SC,4,True,False,2,1,False,False,False,False,False,False,False
+75369,Sergio Daniel López,539915,4324,Delfin SC,4,True,False,3,1,False,False,False,False,False,False,False
+23908,Bruno Piñatares Prieto,539915,4340,CD Técnico Universitario,14,True,False,4,1,False,False,False,False,False,False,True
+75287,Daniel Patricio Angulo Arroyo,539918,4326,CS Emelec,9,True,False,0,0,True,False,False,False,False,False,False
+123784,Romario Javier Caicedo Ante,539918,4326,CS Emelec,9,True,False,1,0,False,False,False,False,False,False,False
+75287,Daniel Patricio Angulo Arroyo,539918,4326,CS Emelec,9,True,False,2,0,False,False,False,False,False,False,False
+124108,Marco Antonio Posligua Garcés,539918,4335,CD Olmedo,11,True,False,3,0,False,False,False,False,False,True,True
+18602,Rodrigo Sebastián Aguirre Soto,539912,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,True,False,False,True,True,True
+123708,Matías Nicolás Duffard Villarreal,539922,4321,CSD Independiente del Valle,5,True,False,0,0,True,False,False,False,False,False,False
+51642,Cristian Alberto Pellerano,539922,4321,CSD Independiente del Valle,5,True,False,1,0,False,False,False,False,False,False,False
+51642,Cristian Alberto Pellerano,539922,4321,CSD Independiente del Valle,5,True,False,2,0,False,False,False,False,False,False,False
+29378,Juan José Govea Tenorio,539922,4321,CSD Independiente del Valle,5,True,False,3,0,False,False,False,False,False,False,False
+123774,Miguel Enrique Parrales Vera,539921,4327,CD El Nacional,8,True,False,0,0,True,True,False,False,True,True,True
+29466,Raúl Oscar Becerra,539923,4325,CD Cuenca,10,True,False,0,0,True,False,False,False,False,True,True
+30052,Sergio Maximiliano Ojeda,539923,4323,CSD Macará,1,True,False,0,1,False,False,True,True,False,True,False
+42458,Unknown Player,539926,4338,CD América de Quito,15,True,False,0,0,True,False,False,False,False,False,False
+42458,Unknown Player,539926,4338,CD América de Quito,15,True,False,1,0,False,False,False,False,False,False,False
+42458,Unknown Player,539926,4338,CD América de Quito,15,True,False,2,0,False,False,False,False,False,False,False
+29810,Williams Riveros Ibáñez,539924,4324,Delfin SC,4,True,False,0,0,True,False,False,False,False,True,True
+52824,Geovanny Enrique Nazareno Simisterra,539924,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,1,False,False,True,True,False,True,False
+123862,Joao Josimar Rojas López,539919,4326,CS Emelec,9,True,False,0,0,True,False,False,False,False,False,True
+75287,Daniel Patricio Angulo Arroyo,539919,4326,CS Emelec,9,True,False,0,1,False,False,False,False,False,False,True
+123862,Joao Josimar Rojas López,539919,4326,CS Emelec,9,True,False,0,2,False,False,False,False,False,False,True
+124580,Charles Ariel Vélez Plaza,539925,4340,CD Técnico Universitario,14,True,False,0,0,True,False,False,False,False,False,False
+75125,Carlos Andrés Mosquera Perea,539925,4340,CD Técnico Universitario,14,True,False,1,0,False,False,False,False,False,False,False
+150590,Iván Frangoy Zambrano Vera,539925,4340,CD Técnico Universitario,14,True,False,2,0,False,False,False,False,False,False,False
+29206,Nicolás Darío Ortiz,539906,4335,CD Olmedo,11,True,False,0,0,True,True,False,False,True,True,False
+28642,Víctor Alberto Figueroa,539928,4331,SD Aucas,7,True,False,0,0,True,False,False,False,False,False,False
+28642,Víctor Alberto Figueroa,539928,4331,SD Aucas,7,True,False,1,0,False,False,False,False,False,False,False
+24157,Edson Eli Montaño Angulo,539928,4331,SD Aucas,7,True,False,2,0,False,False,False,False,False,False,False
+20969,Gonzalo Mathías Mastriani Borges,539928,4320,Guayaquil City FC,12,True,False,3,0,False,False,False,False,False,False,True
+28843,Lucas Sosa,539928,4320,Guayaquil City FC,12,True,False,3,1,False,False,False,False,False,False,True
+77952,Juan Manuel Tévez,539928,4331,SD Aucas,7,True,False,3,2,False,False,False,False,False,False,False
+123790,Janner Hitcler Corozo Alman,539931,4323,CSD Macará,1,True,False,0,0,True,False,False,False,False,False,True
+123913,Freddy Darío Mina Quiñónez,539931,4323,CSD Macará,1,True,False,0,1,False,False,False,False,False,False,True
+123761,Jhonathan Jeison Lucas Figueroa,539931,4323,CSD Macará,1,True,False,0,2,False,False,False,False,False,False,True
+123857,Carlos Alfredo Orejuela Quiñónez,539927,4326,CS Emelec,9,True,False,0,0,True,False,False,False,False,True,True
+28925,Bruno Leonel Vides,539927,4328,CD Universidad Católica del Ecuador,3,True,False,0,1,False,False,True,True,False,True,False
+123774,Miguel Enrique Parrales Vera,539930,4327,CD El Nacional,8,True,False,0,0,True,False,False,False,False,False,False
+123628,Luis Gonzalo Congo Minda,539930,4327,CD El Nacional,8,True,False,1,0,False,False,False,False,False,False,False
+11043,Daniel Nieto Vela,539930,4321,CSD Independiente del Valle,5,True,False,2,0,False,False,False,False,False,False,True
+123774,Miguel Enrique Parrales Vera,539930,4327,CD El Nacional,8,True,False,2,1,False,False,False,False,False,False,False
+123628,Luis Gonzalo Congo Minda,539930,4327,CD El Nacional,8,True,False,3,1,False,False,False,False,False,False,False
+123803,Efrén Alexander Mera Moreira,539930,4321,CSD Independiente del Valle,5,True,False,4,1,False,False,False,False,False,False,True
+29466,Raúl Oscar Becerra,539929,4325,CD Cuenca,10,True,False,0,0,True,True,False,False,True,True,False
+77726,Juan Muriel Orlando,539934,4335,CD Olmedo,11,True,False,0,0,True,False,False,False,False,False,True
+140499,Juan Martín Amieva,539934,4330,Mushuc Runa SC,13,True,False,0,1,False,False,True,False,False,True,False
+124068,Marcos Vinicio Romero Nazareno,539934,4335,CD Olmedo,11,True,False,1,1,True,False,False,False,False,False,True
+7845,Luis Alberto Bolaños León,539934,4335,CD Olmedo,11,True,False,1,2,False,False,False,False,False,False,True
+124438,Jhon Clovis Carabalí Sandoval,539934,4335,CD Olmedo,11,True,False,1,3,False,False,False,False,False,False,True
+150590,Iván Frangoy Zambrano Vera,539932,4340,CD Técnico Universitario,14,True,False,0,0,True,True,False,False,True,True,True
+124493,Jorge Daniel Valencia Angulo,539933,4338,CD América de Quito,15,True,False,0,0,True,False,False,False,False,True,True
+52678,Carlos John Garcés Acosta,539933,4324,Delfin SC,4,True,False,0,1,False,False,True,False,False,False,False
+52678,Carlos John Garcés Acosta,539933,4324,Delfin SC,4,True,False,1,1,True,True,False,False,False,False,False
+123785,Jacob Israel Murillo Moncada,539942,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,False,False,False,False,False,False
+123902,Jhojan Esmaides Julio Palacios,539942,4319,Liga Deportiva Universitaria de Quito,6,True,False,1,0,False,False,False,False,False,False,False
+123993,Arnold Denilson Ramírez Grin,539942,4318,Fuerza Amarilla SC,16,True,False,2,0,False,False,False,False,False,False,True
+123785,Jacob Israel Murillo Moncada,539942,4319,Liga Deportiva Universitaria de Quito,6,True,False,2,1,False,False,False,False,False,False,False
+123665,Sergio Danilo Mina Jaramillo,539942,4318,Fuerza Amarilla SC,16,True,False,3,1,False,False,False,False,False,False,True
+123864,Kevin Andres Minda Ruales,539942,4319,Liga Deportiva Universitaria de Quito,6,True,False,3,2,False,False,False,False,False,False,False
+608540,Khader Vinicio Arce Chala,539942,4319,Liga Deportiva Universitaria de Quito,6,True,False,4,2,False,False,False,False,False,False,False
+124493,Jorge Daniel Valencia Angulo,539936,4338,CD América de Quito,15,True,False,0,0,True,True,False,False,True,True,False
+124519,Alexis Maurício Santacruz Delgado,539938,4340,CD Técnico Universitario,14,True,False,0,0,True,False,False,False,False,False,False
+150589,Jefferson Steven Caicedo Figueroa,539938,4340,CD Técnico Universitario,14,True,False,1,0,False,False,False,False,False,False,False
+123948,Diego Fernando Dorregaray,539938,4340,CD Técnico Universitario,14,True,False,2,0,False,False,False,False,False,False,False
+28642,Víctor Alberto Figueroa,539938,4331,SD Aucas,7,True,False,3,0,False,False,False,False,False,False,True
+29556,Pablo César Burzio,539938,4331,SD Aucas,7,True,False,3,1,False,False,False,False,False,False,True
+6111,Jonatan Daniel Alvez Sagar,539935,4322,Barcelona SC,2,True,False,0,0,True,False,False,False,False,False,True
+124010,Marvin Richard Corozo Angulo,539935,4322,Barcelona SC,2,True,False,0,1,False,False,False,False,False,False,True
+77726,Juan Muriel Orlando,539935,4335,CD Olmedo,11,True,False,0,2,False,False,False,False,False,True,False
+28862,Leandro Emmanuel Martínez,539939,4325,CD Cuenca,10,True,False,0,0,True,False,False,False,False,False,True
+28843,Lucas Sosa,539939,4320,Guayaquil City FC,12,True,False,0,1,False,False,True,False,False,True,False
+123653,Jonny Alexander Uchuari Pintado,539939,4325,CD Cuenca,10,True,False,1,1,True,True,False,False,False,False,True
+123774,Miguel Enrique Parrales Vera,539937,4327,CD El Nacional,8,True,False,0,0,True,True,False,False,True,True,True
+28952,Leandro Sebastián Vega,539941,4326,CS Emelec,9,True,False,0,0,True,False,False,False,False,False,False
+123801,Dixon Jair Arroyo Espinoza,539941,4326,CS Emelec,9,True,False,1,0,False,False,False,False,False,False,False
+18108,Bryan Alfredo Cabezas Segura,539941,4326,CS Emelec,9,True,False,2,0,False,False,False,False,False,False,False
+124009,Darwin Estuardo Quilumba Diaz,539941,4330,Mushuc Runa SC,13,True,False,3,0,False,False,False,False,False,True,True
+75287,Daniel Patricio Angulo Arroyo,539941,4326,CS Emelec,9,True,False,3,1,False,False,False,False,False,False,False
+18108,Bryan Alfredo Cabezas Segura,539941,4326,CS Emelec,9,True,False,4,1,False,False,False,False,False,False,False
+123745,Wílmer Javier Godoy Quiñónez,539941,4326,CS Emelec,9,True,False,5,1,False,False,False,False,False,False,False
+28642,Víctor Alberto Figueroa,743099,4331,SD Aucas,7,True,False,0,0,True,True,False,False,True,True,False
+138811,Luis Antonio Amarilla Lencina,743096,4328,CD Universidad Católica del Ecuador,3,True,False,0,0,True,False,False,False,False,False,True
+138811,Luis Antonio Amarilla Lencina,743096,4328,CD Universidad Católica del Ecuador,3,True,False,0,1,False,False,False,False,False,False,True
+138811,Luis Antonio Amarilla Lencina,743096,4328,CD Universidad Católica del Ecuador,3,True,False,0,2,False,False,False,False,False,False,True
+460848,Luis Antonio Valencia Mosquera,743096,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,3,False,False,False,False,False,False,False
+28687,Carlos Emiliano Rodríguez Rodríguez,743096,4319,Liga Deportiva Universitaria de Quito,6,True,False,1,3,False,False,False,False,False,False,False
+123745,Wílmer Javier Godoy Quiñónez,743097,4326,CS Emelec,9,True,False,0,0,True,False,False,False,False,True,False
+123790,Janner Hitcler Corozo Alman,743097,4323,CSD Macará,1,True,False,1,0,False,False,True,False,False,False,True
+123836,Michael Steveen Estrada Martínez,743097,4323,CSD Macará,1,True,False,1,1,True,True,False,False,False,False,True
+123852,Franklin Joshua Guerra Cedeño,743100,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,False,False,False,False,False,True
+123902,Jhojan Esmaides Julio Palacios,743100,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,1,False,False,False,False,False,False,True
+123768,David Alejandro Noboa Tello,743102,4324,Delfin SC,4,True,False,0,0,True,False,False,False,False,False,False
+52922,Roberto Javier Ordóñez Ayoví,743102,4324,Delfin SC,4,True,False,1,0,False,False,False,False,False,False,False
+5856,Gabriel Arturo Torres Tejada,743102,4321,CSD Independiente del Valle,5,True,False,2,0,False,False,False,False,False,False,True
+5856,Gabriel Arturo Torres Tejada,743102,4321,CSD Independiente del Valle,5,True,False,2,1,False,False,True,True,False,False,True
+123784,Romario Javier Caicedo Ante,743101,4326,CS Emelec,9,True,False,0,0,True,False,False,False,False,False,True
+97599,Edwuin Alexander Pernía Martínez,743101,4326,CS Emelec,9,True,False,0,1,False,False,False,False,False,False,True
+123638,Jonathan Oswaldo De la Cruz Valverde,743101,4323,CSD Macará,1,True,False,0,2,False,False,False,False,False,True,False
+123902,Jhojan Esmaides Julio Palacios,792000,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,0,True,False,False,False,False,False,True
+123635,Anderson Andrés Julio Santos,792000,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,1,False,False,False,False,False,False,True
+52060,Cristian Martínez Borja,792000,4319,Liga Deportiva Universitaria de Quito,6,True,False,0,2,False,False,False,False,False,False,True
+28642,Víctor Alberto Figueroa,792000,4331,SD Aucas,7,True,False,0,3,False,False,False,False,False,True,False
+52678,Carlos John Garcés Acosta,795877,4324,Delfin SC,4,True,False,0,0,True,False,False,False,False,False,False
+123675,Moisés David Corozo Cañizares,795877,4323,CSD Macará,1,True,False,1,0,False,False,True,False,False,True,True
+23908,Bruno Piñatares Prieto,795877,4324,Delfin SC,4,True,False,1,1,True,True,False,False,False,False,False
+52922,Roberto Javier Ordóñez Ayoví,795876,4324,Delfin SC,4,True,False,0,0,True,False,False,False,False,True,True
+123675,Moisés David Corozo Cañizares,795876,4323,CSD Macará,1,True,False,0,1,False,False,True,True,False,True,False

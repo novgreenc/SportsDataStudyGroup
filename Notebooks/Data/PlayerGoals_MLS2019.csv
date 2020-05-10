@@ -1,0 +1,1295 @@
+player_id,player_name,match_id,team_id,team_name,team_final_table_position,scored,assisted,previous_score_home,previous_score_away,go_ahead_goal,game_winning_goal,tying_goal,game_tying_goal,only_goal,only_goal_team,away_goal
+17,Michael Bradley,532170,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,False,True
+17,Michael Bradley,532170,19,Toronto FC,4,True,False,0,1,False,False,False,False,False,False,True
+1180,Marco Jhonfai Fabián De La Mora,532170,16,Philadelphia Union,3,True,False,0,2,False,False,False,False,False,True,False
+343,Nick DeLeon,532170,19,Toronto FC,4,True,False,1,2,False,False,False,False,False,False,True
+21945,Ebenezer Ofori,532171,2,New York City FC,1,True,False,0,0,True,False,False,False,False,False,True
+21620,Alexander Ring,532171,2,New York City FC,1,True,False,0,1,False,False,False,False,False,False,True
+148645,Christopher Mueller,532171,17,Orlando City SC,11,True,False,0,2,False,False,False,False,False,False,False
+204,Tesho Akindele,532171,17,Orlando City SC,11,True,False,1,2,False,False,True,True,False,False,False
+22685,Andreas Ivan,532172,4,New York Red Bulls,6,True,False,0,0,True,False,False,False,False,True,True
+231,Gastón Sauro,532172,9,Columbus Crew,10,True,False,0,1,False,False,True,True,False,True,False
+190,Michael David Barrios Puerta,532173,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,True,False
+4513,Carles Gil de Pareja Vicent,532173,11,New England Revolution,7,True,False,1,0,False,False,True,True,False,True,True
+8655,Albert Rusnák,532174,14,Real Salt Lake,4,True,False,0,0,True,False,False,False,False,True,True
+169,Mauro Andrés Manotas Páez,532174,6,Houston Dynamo,10,True,False,0,1,False,False,True,True,False,True,False
+238,Kaiansu Kei Kamara,532175,12,Colorado Rapids,9,True,False,0,0,True,False,False,False,False,False,False
+461673,Diego Hernán Váleri,532175,20,Portland Timbers,6,True,False,1,0,False,False,True,False,False,False,True
+4706,Sebastián Marcelo Blanco,532175,20,Portland Timbers,6,True,False,1,1,True,False,False,False,False,False,True
+425,Benny Feilhaber,532175,12,Colorado Rapids,9,True,False,1,2,False,False,True,False,False,False,False
+135937,Deklan Wynne,532175,20,Portland Timbers,6,True,False,2,2,True,False,False,False,False,False,True
+198517,Andre Shinyashiki,532175,12,Colorado Rapids,9,True,False,2,3,False,False,True,True,False,False,False
+28586,Erik Fernando Godoy,532176,5,Vancouver Whitecaps FC,12,True,False,0,0,True,False,False,False,False,False,False
+51498,Carlos Darwin Quintero Villalba,532176,1015,Minnesota United FC,3,True,False,1,0,False,False,True,False,False,False,True
+39033,Francisco Javier Calvo Quesada,532176,1015,Minnesota United FC,3,True,False,1,1,True,False,False,False,False,False,True
+123749,Romario Andrés Ibarra Mina,532176,1015,Minnesota United FC,3,True,False,1,2,False,False,False,False,False,False,True
+4591,Doneil Henry,532176,5,Vancouver Whitecaps FC,12,True,False,1,3,False,False,False,False,False,False,False
+202,C.J. Sapong,532177,7,Chicago Fire,8,True,False,0,0,True,False,False,False,False,True,True
+329,Daniel Steres,532177,10,LA Galaxy,5,True,False,0,1,False,False,True,False,False,False,False
+4126,Zlatan Ibrahimović,532177,10,LA Galaxy,5,True,False,1,1,True,True,False,False,False,False,False
+2716,Leonardo Bertone,532178,8043,FC Cincinnati,12,True,False,0,0,True,False,False,False,False,True,True
+14549,Kelvin Leerdam,532178,18,Seattle Sounders FC,2,True,False,0,1,False,False,True,False,False,False,False
+299,Jordan Morris,532178,18,Seattle Sounders FC,2,True,False,1,1,True,False,False,False,False,False,False
+299,Jordan Morris,532178,18,Seattle Sounders FC,2,True,False,2,1,False,False,False,False,False,False,False
+51424,Raúl Mario Ruidíaz Misitich,532178,18,Seattle Sounders FC,2,True,False,3,1,False,False,False,False,False,False,False
+26678,Magnus Eriksson,532179,15,LA Galaxy,8,True,False,0,0,True,False,False,False,False,True,False
+269,Ignacio Piatti,532179,1,Montreal Impact,9,True,False,1,0,False,False,True,False,False,False,True
+4677,Saphir Sliti Taïder,532179,1,Montreal Impact,9,True,False,1,1,True,True,False,False,False,False,True
+39148,Paul Joseph Arriola Hendricks,532180,13401,DC United,5,True,False,0,0,True,False,False,False,False,False,False
+344,Luciano Federico Acosta,532180,13401,DC United,5,True,False,1,0,False,False,False,False,False,False,False
+5900,Krisztián Németh,532181,8,Sporting Kansas City,11,True,False,0,0,True,False,False,False,False,True,True
+124976,Diego Martín Rossi Marachlian,532181,6490,Los Angeles FC,1,True,False,0,1,False,False,True,False,False,False,False
+3928,Adama Valentin Diomande,532181,6490,Los Angeles FC,1,True,False,1,1,True,True,False,False,False,False,False
+310,Dom Dwyer,532182,17,Orlando City SC,11,True,False,0,0,True,False,False,False,False,True,True
+202,C.J. Sapong,532182,7,Chicago Fire,8,True,False,0,1,False,False,True,True,False,True,False
+335,Gyasi Zardes,532183,9,Columbus Crew,10,True,False,0,0,True,False,False,False,False,False,True
+335,Gyasi Zardes,532183,9,Columbus Crew,10,True,False,0,1,False,False,False,False,False,False,True
+18998,Reto Ziegler,532184,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,False,False
+39588,Bryan Josue Acosta Ramos,532184,13,FC Dallas,7,True,False,1,0,False,False,False,False,False,False,False
+4677,Saphir Sliti Taïder,532185,1,Montreal Impact,9,True,False,0,0,True,False,False,False,False,True,True
+39102,José Rodríguez,532185,6,Houston Dynamo,10,True,False,0,1,False,False,True,False,False,False,False
+169,Mauro Andrés Manotas Páez,532185,6,Houston Dynamo,10,True,False,1,1,True,True,False,False,False,False,False
+8655,Albert Rusnák,532186,14,Real Salt Lake,4,True,False,0,0,True,True,False,False,True,True,False
+51498,Carlos Darwin Quintero Villalba,532187,1015,Minnesota United FC,3,True,False,0,0,True,False,False,False,False,False,True
+39036,Miguel Ángel Ibarra Andrade,532187,1015,Minnesota United FC,3,True,False,0,1,False,False,False,False,False,False,True
+75727,Harold Oshkaly Cummings Segura,532187,1015,Minnesota United FC,3,True,False,0,2,False,False,False,False,False,False,True
+14549,Kelvin Leerdam,532188,18,Seattle Sounders FC,2,True,False,0,0,True,False,False,False,False,False,False
+51424,Raúl Mario Ruidíaz Misitich,532188,18,Seattle Sounders FC,2,True,False,1,0,False,False,False,False,False,False,False
+11962,Ilie Sánchez Farrés,532189,8,Sporting Kansas City,11,True,False,0,0,True,False,False,False,False,False,False
+39076,Jack Elliott,532189,8,Sporting Kansas City,11,True,False,1,0,False,False,False,False,False,False,False
+465274,Josef Alexander Martínez,532191,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,True,False
+4852,Roland Conde Lamah,532191,8043,FC Cincinnati,12,True,False,1,0,False,False,True,True,False,True,True
+148672,Mark Anthony Kaye,532192,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,False
+39099,Jeremy Ebobisse,532192,20,Portland Timbers,6,True,False,1,0,False,False,True,False,False,True,True
+39035,Christian Ramírez,532192,6490,Los Angeles FC,1,True,False,1,1,True,False,False,False,False,False,False
+3928,Adama Valentin Diomande,532192,6490,Los Angeles FC,1,True,False,2,1,False,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,532192,6490,Los Angeles FC,1,True,False,3,1,False,False,False,False,False,False,False
+10553,Víctor Rodríguez Romero,532193,18,Seattle Sounders FC,2,True,False,0,0,True,False,False,False,False,False,True
+299,Jordan Morris,532193,18,Seattle Sounders FC,2,True,False,0,1,False,False,False,False,False,False,True
+518,Marcelo Nicolás Lodeiro Benítez,532193,18,Seattle Sounders FC,2,True,False,0,2,False,False,False,False,False,False,True
+499,Raheem Edwards,532193,7,Chicago Fire,8,True,False,0,3,False,False,False,False,False,False,False
+212,Fabian Herbers,532193,7,Chicago Fire,8,True,False,1,3,False,False,False,False,False,False,False
+51424,Raúl Mario Ruidíaz Misitich,532193,18,Seattle Sounders FC,2,True,False,2,3,False,False,False,False,False,False,True
+231,Gastón Sauro,532194,9,Columbus Crew,10,True,False,0,0,True,True,False,False,True,True,False
+39102,José Rodríguez,532195,6,Houston Dynamo,10,True,False,0,0,True,False,False,False,False,False,False
+5433,Fredy Henkyer Montero Muñoz,532195,5,Vancouver Whitecaps FC,12,True,False,1,0,False,False,True,False,False,False,True
+39060,Alberth Josué Elis Martínez,532195,6,Houston Dynamo,10,True,False,1,1,True,False,False,False,False,False,False
+10876,Alhassane Bangoura,532195,5,Vancouver Whitecaps FC,12,True,False,2,1,False,False,True,False,False,False,True
+39102,José Rodríguez,532195,6,Houston Dynamo,10,True,False,2,2,True,True,False,False,False,False,False
+10694,Cristian Omar Espinoza,532196,15,LA Galaxy,8,True,False,0,0,True,False,False,False,False,True,True
+421,Alex Muyl,532196,4,New York Red Bulls,6,True,False,0,1,False,False,True,False,False,False,False
+421,Alex Muyl,532196,4,New York Red Bulls,6,True,False,1,1,True,False,False,False,False,False,False
+11,Bradley Wright-Phillips,532196,4,New York Red Bulls,6,True,False,2,1,False,False,False,False,False,False,False
+539,Daniel Royer,532196,4,New York Red Bulls,6,True,False,3,1,False,False,False,False,False,False,False
+18425,Orji Okwonkwo,532197,1,Montreal Impact,9,True,False,0,0,True,False,False,False,False,False,True
+269,Ignacio Piatti,532197,1,Montreal Impact,9,True,False,0,1,False,False,False,False,False,False,True
+269,Ignacio Piatti,532197,1,Montreal Impact,9,True,False,0,2,False,False,False,False,False,False,True
+310,Dom Dwyer,532197,17,Orlando City SC,11,True,False,0,3,False,False,False,False,False,True,False
+4127,Wayne Rooney,532198,13401,DC United,5,True,False,0,0,True,False,False,False,False,False,False
+4127,Wayne Rooney,532198,13401,DC United,5,True,False,1,0,False,False,False,False,False,False,False
+4127,Wayne Rooney,532198,13401,DC United,5,True,False,2,0,False,False,False,False,False,False,False
+28600,Lucas Rodríguez,532198,13401,DC United,5,True,False,3,0,False,False,False,False,False,False,False
+94897,Ulises Segura Machado,532198,13401,DC United,5,True,False,4,0,False,False,False,False,False,False,False
+10706,Jonathan dos Santos Ramírez,532199,10,LA Galaxy,5,True,False,0,0,True,False,False,False,False,False,False
+200,Chris Pontius,532199,10,LA Galaxy,5,True,False,1,0,False,False,False,False,False,False,False
+2303,Ján Greguš,532199,1015,Minnesota United FC,3,True,False,2,0,False,False,False,False,False,False,True
+332,Sebastian Lletget,532199,10,LA Galaxy,5,True,False,2,1,False,False,False,False,False,False,False
+74883,Ángelo José Rodríguez Henry,532199,1015,Minnesota United FC,3,True,False,3,1,False,False,False,False,False,False,True
+18322,Alexandru Ionuț Mitriță,532200,2,New York City FC,1,True,False,0,0,True,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,532200,6490,Los Angeles FC,1,True,False,1,0,False,False,True,False,False,False,True
+21620,Alexander Ring,532200,2,New York City FC,1,True,False,1,1,True,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,532200,6490,Los Angeles FC,1,True,False,2,1,False,False,True,True,False,False,True
+255,Kendall Jamaal Waston Manley,532201,8043,FC Cincinnati,12,True,False,0,0,True,False,False,False,False,False,False
+94823,Allan Enzo Cruz Leal,532201,8043,FC Cincinnati,12,True,False,1,0,False,False,False,False,False,False,False
+17243,Mathieu Deplagne,532201,8043,FC Cincinnati,12,True,False,2,0,False,False,False,False,False,False,False
+166400,Brenden Aaronson,532202,16,Philadelphia Union,3,True,False,0,0,True,False,False,False,False,True,True
+28669,Ezequiel Barco,532202,1016,Atlanta United FC,2,True,False,0,1,False,False,True,True,False,True,False
+4513,Carles Gil de Pareja Vicent,532203,11,New England Revolution,7,True,False,0,0,True,False,False,False,False,False,True
+165435,Ayomide Akinola,532203,19,Toronto FC,4,True,False,0,1,False,False,True,False,False,False,False
+385,Jordan Patrick Dear Hamilton,532203,19,Toronto FC,4,True,False,1,1,True,False,False,False,False,False,False
+4513,Carles Gil de Pareja Vicent,532203,11,New England Revolution,7,True,False,2,1,False,False,True,False,False,False,True
+405,Jozy Altidore,532203,19,Toronto FC,4,True,False,2,2,True,True,False,False,False,False,False
+426,Diego Iván Rubio Kostner,532204,12,Colorado Rapids,9,True,False,0,0,True,False,False,False,False,True,False
+7278,Johnny Russell,532204,8,Sporting Kansas City,11,True,False,1,0,False,False,True,True,False,True,True
+190,Michael David Barrios Puerta,532206,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,False,False
+7342,Tommy Smith,532206,12,Colorado Rapids,9,True,False,1,0,False,False,True,False,False,True,True
+206,Ryan Hollingshead,532206,13,FC Dallas,7,True,False,1,1,True,True,False,False,False,False,False
+47,David Accam,532205,16,Philadelphia Union,3,True,False,0,0,True,False,False,False,False,False,False
+47,David Accam,532205,16,Philadelphia Union,3,True,False,1,0,False,False,False,False,False,False,False
+198,Ilson Pereira Dias Júnior,532205,16,Philadelphia Union,3,True,False,2,0,False,False,False,False,False,False,False
+6,Sacha Klještan,532207,17,Orlando City SC,11,True,False,0,0,True,True,False,False,True,True,True
+21641,Damir Kreilach,532208,14,Real Salt Lake,4,True,False,0,0,True,False,False,False,False,True,True
+124976,Diego Martín Rossi Marachlian,532208,6490,Los Angeles FC,1,True,False,0,1,False,False,True,False,False,False,False
+185,Walker Zimmerman,532208,6490,Los Angeles FC,1,True,False,1,1,True,True,False,False,False,False,False
+275,Kekuta Manneh,532209,8043,FC Cincinnati,12,True,False,0,0,True,False,False,False,False,False,True
+21477,Kenny Saief,532209,8043,FC Cincinnati,12,True,False,0,1,False,False,False,False,False,False,True
+405,Jozy Altidore,532210,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,False,False
+4824,Alejandro Pozuelo Melero,532210,19,Toronto FC,4,True,False,1,0,False,False,False,False,False,False,False
+4824,Alejandro Pozuelo Melero,532210,19,Toronto FC,4,True,False,2,0,False,False,False,False,False,False,False
+406,Jay Chapman,532210,19,Toronto FC,4,True,False,3,0,False,False,False,False,False,False,False
+257,Tim Parker,532211,7,Chicago Fire,8,True,False,0,0,True,True,False,False,True,True,False
+149,Jalil Anibaba,532212,11,New England Revolution,7,True,False,0,0,True,False,False,False,False,False,False
+51498,Carlos Darwin Quintero Villalba,532212,1015,Minnesota United FC,3,True,False,1,0,False,False,True,False,False,True,True
+148643,Brandon Bye,532212,11,New England Revolution,7,True,False,1,1,True,True,False,False,False,False,False
+7278,Johnny Russell,532213,8,Sporting Kansas City,11,True,False,0,0,True,False,False,False,False,False,False
+5900,Krisztián Németh,532213,8,Sporting Kansas City,11,True,False,1,0,False,False,False,False,False,False,False
+10497,Felipe Alejandro Gutiérrez Leiva,532213,8,Sporting Kansas City,11,True,False,2,0,False,False,False,False,False,False,False
+7278,Johnny Russell,532213,8,Sporting Kansas City,11,True,False,3,0,False,False,False,False,False,False,False
+5900,Krisztián Németh,532213,8,Sporting Kansas City,11,True,False,4,0,False,False,False,False,False,False,False
+166486,Gianluca Busio,532213,8,Sporting Kansas City,11,True,False,5,0,False,False,False,False,False,False,False
+5900,Krisztián Németh,532213,8,Sporting Kansas City,11,True,False,6,0,False,False,False,False,False,False,False
+4677,Saphir Sliti Taïder,532213,1,Montreal Impact,9,True,False,7,0,False,False,False,False,False,True,True
+461321,Carlos Alberto Vela Garrido,532214,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,True
+15,Steven Mehrdad Beitashour,532214,6490,Los Angeles FC,1,True,False,0,1,False,False,False,False,False,False,True
+461321,Carlos Alberto Vela Garrido,532214,6490,Los Angeles FC,1,True,False,0,2,False,False,False,False,False,False,True
+461321,Carlos Alberto Vela Garrido,532214,6490,Los Angeles FC,1,True,False,0,3,False,False,False,False,False,False,True
+124976,Diego Martín Rossi Marachlian,532214,6490,Los Angeles FC,1,True,False,0,4,False,False,False,False,False,False,True
+1180,Marco Jhonfai Fabián De La Mora,532215,16,Philadelphia Union,3,True,False,0,0,True,False,False,False,False,False,True
+47,David Accam,532215,16,Philadelphia Union,3,True,False,0,1,False,False,False,False,False,False,True
+5118,Pedro Miguel Martins Santos,532216,9,Columbus Crew,10,True,False,0,0,True,False,False,False,False,False,False
+335,Gyasi Zardes,532216,9,Columbus Crew,10,True,False,1,0,False,False,False,False,False,False,False
+39102,José Rodríguez,532217,6,Houston Dynamo,10,True,False,0,0,True,False,False,False,False,False,True
+124,Axel Sjöberg,532217,6,Houston Dynamo,10,True,False,0,1,False,False,False,False,False,False,True
+196,Keegan Rosenberry,532217,6,Houston Dynamo,10,True,False,0,2,False,False,False,False,False,False,True
+39060,Alberth Josué Elis Martínez,532217,6,Houston Dynamo,10,True,False,0,3,False,False,False,False,False,False,True
+238,Kaiansu Kei Kamara,532217,12,Colorado Rapids,9,True,False,0,4,False,False,False,False,False,True,False
+189,Carlos Armando Gruezo Arboleda,532218,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,False,True
+39123,Jefferson David Savarino Quintero,532218,14,Real Salt Lake,4,True,False,0,1,False,False,True,False,False,False,False
+39080,Paxton Pomykal,532218,13,FC Dallas,7,True,False,1,1,True,False,False,False,False,False,True
+39080,Paxton Pomykal,532218,13,FC Dallas,7,True,False,1,2,False,False,False,False,False,False,True
+11232,Marcelo Andrés Silva Fernández,532218,14,Real Salt Lake,4,True,False,1,3,False,False,False,False,False,False,False
+39132,Jesus Ferreira,532218,13,FC Dallas,7,True,False,2,3,False,False,False,False,False,False,True
+340,Steven Birnbaum,532220,13401,DC United,5,True,False,0,0,True,False,False,False,False,False,True
+4127,Wayne Rooney,532220,13401,DC United,5,True,False,0,1,False,False,False,False,False,False,True
+310,Dom Dwyer,532220,17,Orlando City SC,11,True,False,0,2,False,False,False,False,False,True,False
+4126,Zlatan Ibrahimović,532221,10,LA Galaxy,5,True,False,0,0,True,False,False,False,False,False,False
+39099,Jeremy Ebobisse,532221,20,Portland Timbers,6,True,False,1,0,False,False,True,False,False,True,True
+4126,Zlatan Ibrahimović,532221,10,LA Galaxy,5,True,False,1,1,True,True,False,False,False,False,False
+329,Daniel Steres,532222,10,LA Galaxy,5,True,False,0,0,True,False,False,False,False,False,True
+4126,Zlatan Ibrahimović,532222,10,LA Galaxy,5,True,False,0,1,False,False,False,False,False,False,True
+461321,Carlos Alberto Vela Garrido,532224,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,True
+124976,Diego Martín Rossi Marachlian,532224,6490,Los Angeles FC,1,True,False,0,1,False,False,False,False,False,False,True
+124976,Diego Martín Rossi Marachlian,532224,6490,Los Angeles FC,1,True,False,0,2,False,False,False,False,False,False,True
+124976,Diego Martín Rossi Marachlian,532224,6490,Los Angeles FC,1,True,False,0,3,False,False,False,False,False,False,True
+405,Jozy Altidore,532225,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,False,False
+202,C.J. Sapong,532225,7,Chicago Fire,8,True,False,1,0,False,False,True,False,False,False,True
+2494,Nemanja Nikolić,532225,7,Chicago Fire,8,True,False,1,1,True,False,False,False,False,False,True
+19,Jonathan Osorio,532225,19,Toronto FC,4,True,False,1,2,False,False,True,True,False,False,False
+39083,Abu Danladi,532227,1015,Minnesota United FC,3,True,False,0,0,True,False,False,False,False,False,True
+123749,Romario Andrés Ibarra Mina,532227,1015,Minnesota United FC,3,True,False,0,1,False,False,False,False,False,False,True
+97567,Cristian Sleiker Cásseres Yepes,532227,4,New York Red Bulls,6,True,False,0,2,False,False,False,False,False,True,False
+32,Josh Williams,532228,9,Columbus Crew,10,True,False,0,0,True,True,False,False,True,True,False
+238,Kaiansu Kei Kamara,532229,12,Colorado Rapids,9,True,False,0,0,True,False,False,False,False,False,True
+4622,Luís Carlos Almeida da Cunha,532229,17,Orlando City SC,11,True,False,0,1,False,False,True,False,False,False,False
+204,Tesho Akindele,532229,17,Orlando City SC,11,True,False,1,1,True,False,False,False,False,False,False
+398,Gabriel Nicolás Mezquida Sero,532229,12,Colorado Rapids,9,True,False,2,1,False,False,True,False,False,False,True
+184109,Cole Bassett,532229,12,Colorado Rapids,9,True,False,2,2,True,False,False,False,False,False,True
+148645,Christopher Mueller,532229,17,Orlando City SC,11,True,False,2,3,False,False,True,False,False,False,False
+4622,Luís Carlos Almeida da Cunha,532229,17,Orlando City SC,11,True,False,3,3,True,True,False,False,False,False,False
+18998,Reto Ziegler,532230,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,True,True
+148642,Cory Burke,532230,16,Philadelphia Union,3,True,False,0,1,False,False,True,False,False,False,False
+530,Alejandro Bedoya,532230,16,Philadelphia Union,3,True,False,1,1,True,True,False,False,False,False,False
+114,Shea Salinas,532231,15,LA Galaxy,8,True,False,0,0,True,False,False,False,False,False,False
+14584,Danny Hoesen,532231,15,LA Galaxy,8,True,False,1,0,False,False,False,False,False,False,False
+10694,Cristian Omar Espinoza,532231,15,LA Galaxy,8,True,False,2,0,False,False,False,False,False,False,False
+518,Marcelo Nicolás Lodeiro Benítez,532232,18,Seattle Sounders FC,2,True,False,0,0,True,True,False,False,True,True,False
+399,Darren Mattocks,532226,8043,FC Cincinnati,12,True,False,0,0,True,False,False,False,False,True,False
+166486,Gianluca Busio,532226,8,Sporting Kansas City,11,True,False,1,0,False,False,True,True,False,True,True
+2118,José Yordy Reyna Serna,532235,5,Vancouver Whitecaps FC,12,True,False,0,0,True,False,False,False,False,True,True
+2494,Nemanja Nikolić,532235,7,Chicago Fire,8,True,False,0,1,False,False,True,True,False,True,False
+13536,Harry Novillo,532236,1,Montreal Impact,9,True,False,0,0,True,True,False,False,True,True,False
+39060,Alberth Josué Elis Martínez,532237,6,Houston Dynamo,10,True,False,0,0,True,False,False,False,False,False,False
+39114,Jackson Yueill,532237,15,LA Galaxy,8,True,False,1,0,False,False,True,False,False,True,True
+5227,Tomás Martínez,532237,6,Houston Dynamo,10,True,False,1,1,True,True,False,False,False,False,False
+405,Jozy Altidore,532238,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,False,True
+155,Will Bruin,532238,18,Seattle Sounders FC,2,True,False,0,1,False,False,True,False,False,False,False
+155,Will Bruin,532238,18,Seattle Sounders FC,2,True,False,1,1,True,False,False,False,False,False,False
+296,Cristian Roldan,532238,18,Seattle Sounders FC,2,True,False,2,1,False,False,False,False,False,False,False
+405,Jozy Altidore,532238,19,Toronto FC,4,True,False,3,1,False,False,False,False,False,False,True
+293,Osvaldo Alonso Moreno,532239,1015,Minnesota United FC,3,True,False,0,0,True,False,False,False,False,False,False
+77721,Valentín Mariano José Castellanos Giménez,532239,2,New York City FC,1,True,False,1,0,False,False,True,False,False,False,True
+23047,Ismael Tajouri-Shradi,532239,2,New York City FC,1,True,False,1,1,True,False,False,False,False,False,True
+74883,Ángelo José Rodríguez Henry,532239,1015,Minnesota United FC,3,True,False,1,2,False,False,True,False,False,False,False
+65,Sean Johnson,532239,1015,Minnesota United FC,3,True,False,2,2,True,False,False,False,False,False,False
+23047,Ismael Tajouri-Shradi,532239,2,New York City FC,1,True,False,3,2,False,False,True,True,False,False,True
+28669,Ezequiel Barco,532240,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,True
+28669,Ezequiel Barco,532240,1016,Atlanta United FC,2,True,False,0,1,False,False,False,False,False,False,True
+39132,Jesus Ferreira,532241,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,False,False
+18998,Reto Ziegler,532241,13,FC Dallas,7,True,False,1,0,False,False,False,False,False,False,False
+51927,Cristhian Fabián Paredes Maciel,532241,20,Portland Timbers,6,True,False,2,0,False,False,False,False,False,True,True
+26911,Sam Johnson,532242,14,Real Salt Lake,4,True,False,0,0,True,False,False,False,False,False,False
+21641,Damir Kreilach,532242,14,Real Salt Lake,4,True,False,1,0,False,False,False,False,False,False,False
+4622,Luís Carlos Almeida da Cunha,532242,17,Orlando City SC,11,True,False,2,0,False,False,False,False,False,True,True
+425,Benny Feilhaber,532243,12,Colorado Rapids,9,True,False,0,0,True,False,False,False,False,False,False
+344,Luciano Federico Acosta,532243,13401,DC United,5,True,False,1,0,False,False,True,False,False,False,True
+39125,Chris Durkin,532243,13401,DC United,5,True,False,1,1,True,False,False,False,False,False,True
+28600,Lucas Rodríguez,532243,13401,DC United,5,True,False,1,2,False,False,False,False,False,False,True
+238,Kaiansu Kei Kamara,532243,12,Colorado Rapids,9,True,False,1,3,False,False,False,False,False,False,False
+4126,Zlatan Ibrahimović,532244,10,LA Galaxy,5,True,False,0,0,True,False,False,False,False,False,False
+4126,Zlatan Ibrahimović,532244,10,LA Galaxy,5,True,False,1,0,False,False,False,False,False,False,False
+148672,Mark Anthony Kaye,532245,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,532245,6490,Los Angeles FC,1,True,False,1,0,False,False,False,False,False,False,False
+7278,Johnny Russell,532246,8,Sporting Kansas City,11,True,False,0,0,True,False,False,False,False,False,False
+539,Daniel Royer,532246,4,New York Red Bulls,6,True,False,1,0,False,False,True,False,False,False,True
+166206,Brian White,532246,4,New York Red Bulls,6,True,False,1,1,True,False,False,False,False,False,True
+166486,Gianluca Busio,532246,8,Sporting Kansas City,11,True,False,1,2,False,False,True,True,False,False,False
+111517,In-Beom Hwang,532247,5,Vancouver Whitecaps FC,12,True,False,0,0,True,True,False,False,True,True,False
+8655,Albert Rusnák,532248,14,Real Salt Lake,4,True,False,0,0,True,False,False,False,False,False,True
+26911,Sam Johnson,532248,14,Real Salt Lake,4,True,False,0,1,False,False,False,False,False,False,True
+8655,Albert Rusnák,532248,14,Real Salt Lake,4,True,False,0,2,False,False,False,False,False,False,True
+51498,Carlos Darwin Quintero Villalba,532249,1015,Minnesota United FC,3,True,False,0,0,True,False,False,False,False,False,True
+4824,Alejandro Pozuelo Melero,532249,19,Toronto FC,4,True,False,0,1,False,False,True,False,False,False,False
+4824,Alejandro Pozuelo Melero,532249,19,Toronto FC,4,True,False,1,1,True,False,False,False,False,False,False
+74883,Ángelo José Rodríguez Henry,532249,1015,Minnesota United FC,3,True,False,2,1,False,False,True,False,False,False,True
+51498,Carlos Darwin Quintero Villalba,532249,1015,Minnesota United FC,3,True,False,2,2,True,False,False,False,False,False,True
+385,Jordan Patrick Dear Hamilton,532249,19,Toronto FC,4,True,False,2,3,False,False,True,False,False,False,False
+385,Jordan Patrick Dear Hamilton,532249,19,Toronto FC,4,True,False,3,3,True,True,False,False,False,False,False
+4126,Zlatan Ibrahimović,532250,10,LA Galaxy,5,True,False,0,0,True,False,False,False,False,False,False
+39060,Alberth Josué Elis Martínez,532250,6,Houston Dynamo,10,True,False,1,0,False,False,True,False,False,True,True
+21003,Diego Fabián Polenta Musetti,532250,10,LA Galaxy,5,True,False,1,1,True,True,False,False,False,False,False
+2494,Nemanja Nikolić,532251,7,Chicago Fire,8,True,False,0,0,True,False,False,False,False,False,False
+238,Kaiansu Kei Kamara,532251,12,Colorado Rapids,9,True,False,1,0,False,False,True,False,False,True,True
+202,C.J. Sapong,532251,7,Chicago Fire,8,True,False,1,1,True,False,False,False,False,False,False
+39074,Djordje Mihailovic,532251,7,Chicago Fire,8,True,False,2,1,False,False,False,False,False,False,False
+2084,Aleksandar Katai,532251,7,Chicago Fire,8,True,False,3,1,False,False,False,False,False,False,False
+148642,Cory Burke,532252,16,Philadelphia Union,3,True,False,0,0,True,False,False,False,False,False,False
+14967,Jamiro Gregory Monteiro Alvarenga,532252,16,Philadelphia Union,3,True,False,1,0,False,False,False,False,False,False,False
+530,Alejandro Bedoya,532252,16,Philadelphia Union,3,True,False,2,0,False,False,False,False,False,False,False
+4622,Luís Carlos Almeida da Cunha,532253,17,Orlando City SC,11,True,False,0,0,True,True,False,False,True,True,False
+39132,Jesus Ferreira,532254,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,False,True
+39588,Bryan Josue Acosta Ramos,532254,13,FC Dallas,7,True,False,0,1,False,False,False,False,False,False,True
+465274,Josef Alexander Martínez,532254,1016,Atlanta United FC,2,True,False,0,2,False,False,False,False,False,True,False
+6458,Larrys Mabiala Destin,532255,20,Portland Timbers,6,True,False,0,0,True,False,False,False,False,False,True
+39099,Jeremy Ebobisse,532255,20,Portland Timbers,6,True,False,0,1,False,False,False,False,False,False,True
+5118,Pedro Miguel Martins Santos,532255,9,Columbus Crew,10,True,False,0,2,False,False,False,False,False,True,False
+28709,Jorge Luis Moreira Ferreira,532255,20,Portland Timbers,6,True,False,1,2,False,False,False,False,False,False,True
+24910,Cristian Anderson Penilla Caicedo,532256,11,New England Revolution,7,True,False,0,0,True,True,False,False,True,True,False
+14584,Danny Hoesen,532257,15,LA Galaxy,8,True,False,0,0,True,False,False,False,False,False,False
+14584,Danny Hoesen,532257,15,LA Galaxy,8,True,False,1,0,False,False,False,False,False,False,False
+114,Shea Salinas,532257,15,LA Galaxy,8,True,False,2,0,False,False,False,False,False,False,False
+26678,Magnus Eriksson,532257,15,LA Galaxy,8,True,False,3,0,False,False,False,False,False,False,False
+10497,Felipe Alejandro Gutiérrez Leiva,532257,8,Sporting Kansas City,11,True,False,4,0,False,False,False,False,False,True,True
+18322,Alexandru Ionuț Mitriță,532258,2,New York City FC,1,True,False,0,0,True,False,False,False,False,False,True
+25605,Heber Araujo dos Santos,532258,2,New York City FC,1,True,False,0,1,False,False,False,False,False,False,True
+461321,Carlos Alberto Vela Garrido,532259,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,False
+75280,Eduard Andrés Atuesta Velasco,532259,6490,Los Angeles FC,1,True,False,1,0,False,False,False,False,False,False,False
+272,Harry Shipp,532259,18,Seattle Sounders FC,2,True,False,2,0,False,False,False,False,False,True,True
+461321,Carlos Alberto Vela Garrido,532259,6490,Los Angeles FC,1,True,False,2,1,False,False,False,False,False,False,False
+39035,Christian Ramírez,532259,6490,Los Angeles FC,1,True,False,3,1,False,False,False,False,False,False,False
+77721,Valentín Mariano José Castellanos Giménez,532260,2,New York City FC,1,True,False,0,0,True,True,False,False,True,True,False
+4127,Wayne Rooney,532261,13401,DC United,5,True,False,0,0,True,True,False,False,True,True,True
+87354,Shamit Shome,532262,1,Montreal Impact,9,True,False,0,0,True,False,False,False,False,False,True
+282,Anthony Jackson-Hamel,532262,1,Montreal Impact,9,True,False,0,1,False,False,False,False,False,False,True
+282,Anthony Jackson-Hamel,532262,1,Montreal Impact,9,True,False,0,2,False,False,False,False,False,False,True
+114,Shea Salinas,532264,15,LA Galaxy,8,True,False,0,0,True,False,False,False,False,False,True
+114,Shea Salinas,532264,15,LA Galaxy,8,True,False,0,1,False,False,False,False,False,False,True
+14549,Kelvin Leerdam,532264,18,Seattle Sounders FC,2,True,False,0,2,False,False,False,False,False,False,False
+272,Harry Shipp,532264,18,Seattle Sounders FC,2,True,False,1,2,False,False,True,True,False,False,False
+4622,Luís Carlos Almeida da Cunha,532265,17,Orlando City SC,11,True,False,0,0,True,False,False,False,False,True,True
+25605,Heber Araujo dos Santos,532265,2,New York City FC,1,True,False,0,1,False,False,True,True,False,True,False
+19,Jonathan Osorio,532266,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,True,False
+17445,Bill Tuiloma,532266,20,Portland Timbers,6,True,False,1,0,False,False,True,False,False,False,True
+39099,Jeremy Ebobisse,532266,20,Portland Timbers,6,True,False,1,1,True,True,False,False,False,False,True
+4591,Doneil Henry,532268,5,Vancouver Whitecaps FC,12,True,False,0,0,True,False,False,False,False,True,False
+21624,Kacper Przybyłko,532268,16,Philadelphia Union,3,True,False,1,0,False,False,True,True,False,True,True
+39068,Julian Gressel,532269,1016,Atlanta United FC,2,True,False,0,0,True,True,False,False,True,True,False
+27,Connor Lade,532270,4,New York Red Bulls,6,True,False,0,0,True,True,False,False,True,True,False
+169,Mauro Andrés Manotas Páez,532271,6,Houston Dynamo,10,True,False,0,0,True,False,False,False,False,False,False
+5227,Tomás Martínez,532271,6,Houston Dynamo,10,True,False,1,0,False,False,False,False,False,False,False
+75101,Juan Fernando Caicedo Benítez,532272,11,New England Revolution,7,True,False,0,0,True,False,False,False,False,False,True
+5900,Krisztián Németh,532272,8,Sporting Kansas City,11,True,False,0,1,False,False,True,False,False,False,False
+75101,Juan Fernando Caicedo Benítez,532272,11,New England Revolution,7,True,False,1,1,True,False,False,False,False,False,True
+175,Juan Agudelo,532272,11,New England Revolution,7,True,False,1,2,False,False,False,False,False,False,True
+10497,Felipe Alejandro Gutiérrez Leiva,532272,8,Sporting Kansas City,11,True,False,1,3,False,False,False,False,False,False,False
+198521,DeJuan Jones,532272,11,New England Revolution,7,True,False,2,3,False,False,False,False,False,False,True
+10497,Felipe Alejandro Gutiérrez Leiva,532272,8,Sporting Kansas City,11,True,False,2,4,False,False,False,False,False,False,False
+5900,Krisztián Németh,532272,8,Sporting Kansas City,11,True,False,3,4,False,False,True,True,False,False,False
+169416,Omar Ezequiel Browne Zúñiga,532273,1,Montreal Impact,9,True,False,0,0,True,True,False,False,True,True,False
+74883,Ángelo José Rodríguez Henry,532274,1015,Minnesota United FC,3,True,False,0,0,True,True,False,False,True,True,False
+299,Jordan Morris,532275,18,Seattle Sounders FC,2,True,False,0,0,True,False,False,False,False,True,False
+461321,Carlos Alberto Vela Garrido,532275,6490,Los Angeles FC,1,True,False,1,0,False,False,True,True,False,True,True
+40120,Carlos Uriel Antuna Romero,532276,10,LA Galaxy,5,True,False,0,0,True,False,False,False,False,False,False
+267,Donald Toia,532276,14,Real Salt Lake,4,True,False,1,0,False,False,True,False,False,True,True
+4126,Zlatan Ibrahimović,532276,10,LA Galaxy,5,True,False,1,1,True,True,False,False,False,False,False
+21624,Kacper Przybyłko,532277,16,Philadelphia Union,3,True,False,0,0,True,False,False,False,False,False,False
+21826,Fabrice Picault,532277,16,Philadelphia Union,3,True,False,1,0,False,False,False,False,False,False,False
+5433,Fredy Henkyer Montero Muñoz,532278,5,Vancouver Whitecaps FC,12,True,False,0,0,True,False,False,False,False,False,True
+23038,Lucas Henrique Ferreira Venuto,532278,5,Vancouver Whitecaps FC,12,True,False,0,1,False,False,False,False,False,False,True
+238,Kaiansu Kei Kamara,532278,12,Colorado Rapids,9,True,False,0,2,False,False,False,False,False,False,False
+238,Kaiansu Kei Kamara,532278,12,Colorado Rapids,9,True,False,1,2,False,False,True,False,False,False,False
+5910,Andy Rose,532278,5,Vancouver Whitecaps FC,12,True,False,2,2,True,True,False,False,False,False,True
+251,Amro Tarek Abdel Aziz,532279,4,New York Red Bulls,6,True,False,0,0,True,False,False,False,False,False,False
+40120,Carlos Uriel Antuna Romero,532279,10,LA Galaxy,5,True,False,1,0,False,False,True,False,False,False,True
+4126,Zlatan Ibrahimović,532279,10,LA Galaxy,5,True,False,1,1,True,False,False,False,False,False,True
+2123,Marc Rzatkowski,532279,4,New York Red Bulls,6,True,False,1,2,False,False,True,False,False,False,False
+495,Derrick Etienne Jr.,532279,4,New York Red Bulls,6,True,False,2,2,True,True,False,False,False,False,False
+169,Mauro Andrés Manotas Páez,532280,6,Houston Dynamo,10,True,False,0,0,True,False,False,False,False,False,False
+169,Mauro Andrés Manotas Páez,532280,6,Houston Dynamo,10,True,False,1,0,False,False,False,False,False,False,False
+130,Dominique Badji,532280,13,FC Dallas,7,True,False,2,0,False,False,False,False,False,True,True
+19,Jonathan Osorio,532281,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,False,True
+406,Jay Chapman,532281,19,Toronto FC,4,True,False,0,1,False,False,False,False,False,False,True
+18632,Maximiliano Nicol Moralez,532282,2,New York City FC,1,True,False,0,0,True,False,False,False,False,False,True
+23047,Ismael Tajouri-Shradi,532282,2,New York City FC,1,True,False,0,1,False,False,False,False,False,False,True
+39076,Jack Elliott,532283,16,Philadelphia Union,3,True,False,0,0,True,False,False,False,False,False,False
+75101,Juan Fernando Caicedo Benítez,532283,11,New England Revolution,7,True,False,1,0,False,False,True,False,False,True,True
+198,Ilson Pereira Dias Júnior,532283,16,Philadelphia Union,3,True,False,1,1,True,False,False,False,False,False,False
+77351,Sergio Henrique Santos Gomes,532283,16,Philadelphia Union,3,True,False,2,1,False,False,False,False,False,False,False
+77351,Sergio Henrique Santos Gomes,532283,16,Philadelphia Union,3,True,False,3,1,False,False,False,False,False,False,False
+21624,Kacper Przybyłko,532283,16,Philadelphia Union,3,True,False,4,1,False,False,False,False,False,False,False
+47,David Accam,532283,16,Philadelphia Union,3,True,False,5,1,False,False,False,False,False,False,False
+344,Luciano Federico Acosta,532284,13401,DC United,5,True,False,0,0,True,False,False,False,False,False,False
+4127,Wayne Rooney,532284,13401,DC United,5,True,False,1,0,False,False,False,False,False,False,False
+39148,Paul Joseph Arriola Hendricks,532284,13401,DC United,5,True,False,2,0,False,False,False,False,False,False,False
+482,Bill Hamid,532284,9,Columbus Crew,10,True,False,3,0,False,False,False,False,False,True,True
+448,Ike Opara,532285,1015,Minnesota United FC,3,True,False,0,0,True,False,False,False,False,True,False
+296,Cristian Roldan,532285,18,Seattle Sounders FC,2,True,False,1,0,False,False,True,True,False,True,True
+4706,Sebastián Marcelo Blanco,532286,20,Portland Timbers,6,True,False,0,0,True,False,False,False,False,False,True
+26911,Sam Johnson,532286,14,Real Salt Lake,4,True,False,0,1,False,False,True,False,False,True,False
+461673,Diego Hernán Váleri,532286,20,Portland Timbers,6,True,False,1,1,True,True,False,False,False,False,True
+39063,Nick Lima,532287,15,LA Galaxy,8,True,False,0,0,True,True,False,False,True,True,False
+465274,Josef Alexander Martínez,532289,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,True
+28669,Ezequiel Barco,532289,1016,Atlanta United FC,2,True,False,0,1,False,False,False,False,False,False,True
+465274,Josef Alexander Martínez,532289,1016,Atlanta United FC,2,True,False,0,2,False,False,False,False,False,False,True
+29310,Héctor Daniel Villalba,532290,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,False
+39068,Julian Gressel,532290,1016,Atlanta United FC,2,True,False,1,0,False,False,False,False,False,False,False
+335,Gyasi Zardes,532291,9,Columbus Crew,10,True,False,0,0,True,False,False,False,False,False,False
+233,Federico Fernando Higuaín,532291,9,Columbus Crew,10,True,False,1,0,False,False,False,False,False,False,False
+235,Héctor Jiménez,532291,9,Columbus Crew,10,True,False,2,0,False,False,False,False,False,False,False
+329,Daniel Steres,532291,10,LA Galaxy,5,True,False,3,0,False,False,False,False,False,True,True
+2494,Nemanja Nikolić,532292,7,Chicago Fire,8,True,False,0,0,True,False,False,False,False,False,False
+2494,Nemanja Nikolić,532292,7,Chicago Fire,8,True,False,1,0,False,False,False,False,False,False,False
+39043,Brandt Bronico,532292,7,Chicago Fire,8,True,False,2,0,False,False,False,False,False,False,False
+461959,Osvaldo Nicolás Fabián Gaitán,532292,7,Chicago Fire,8,True,False,3,0,False,False,False,False,False,False,False
+46609,Przemysław Frankowski,532292,7,Chicago Fire,8,True,False,4,0,False,False,False,False,False,False,False
+557,Aaron Long,532293,4,New York Red Bulls,6,True,False,0,0,True,False,False,False,False,True,False
+19202,Zakaria Diallo,532293,1,Montreal Impact,9,True,False,1,0,False,False,True,False,False,False,True
+191,Maximiliano Urruti,532293,1,Montreal Impact,9,True,False,1,1,True,True,False,False,False,False,True
+5433,Fredy Henkyer Montero Muñoz,532294,5,Vancouver Whitecaps FC,12,True,False,0,0,True,True,False,False,True,True,False
+94823,Allan Enzo Cruz Leal,532295,8043,FC Cincinnati,12,True,False,0,0,True,False,False,False,False,False,False
+386,Fatai Alashe,532295,8043,FC Cincinnati,12,True,False,1,0,False,False,False,False,False,False,False
+18425,Orji Okwonkwo,532295,1,Montreal Impact,9,True,False,2,0,False,False,False,False,False,True,True
+97567,Cristian Sleiker Cásseres Yepes,532296,4,New York Red Bulls,6,True,False,0,0,True,False,False,False,False,False,True
+39132,Jesus Ferreira,532296,13,FC Dallas,7,True,False,0,1,False,False,True,False,False,True,False
+198516,Sean Nealis,532296,4,New York Red Bulls,6,True,False,1,1,True,False,False,False,False,False,True
+166206,Brian White,532296,4,New York Red Bulls,6,True,False,1,2,False,False,False,False,False,False,True
+17761,Chris Mavinga,532297,16,Philadelphia Union,3,True,False,0,0,True,False,False,False,False,False,True
+4824,Alejandro Pozuelo Melero,532297,19,Toronto FC,4,True,False,0,1,False,False,True,False,False,True,False
+14967,Jamiro Gregory Monteiro Alvarenga,532297,16,Philadelphia Union,3,True,False,1,1,True,True,False,False,False,False,True
+25605,Heber Araujo dos Santos,532298,2,New York City FC,1,True,False,0,0,True,False,False,False,False,False,True
+18632,Maximiliano Nicol Moralez,532298,2,New York City FC,1,True,False,0,1,False,False,False,False,False,False,True
+148672,Mark Anthony Kaye,532299,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,True
+3928,Adama Valentin Diomande,532299,6490,Los Angeles FC,1,True,False,0,1,False,False,False,False,False,False,True
+461321,Carlos Alberto Vela Garrido,532299,6490,Los Angeles FC,1,True,False,0,2,False,False,False,False,False,False,True
+175,Juan Agudelo,532300,11,New England Revolution,7,True,False,0,0,True,False,False,False,False,False,False
+24910,Cristian Anderson Penilla Caicedo,532300,11,New England Revolution,7,True,False,1,0,False,False,False,False,False,False,False
+4513,Carles Gil de Pareja Vicent,532300,11,New England Revolution,7,True,False,2,0,False,False,False,False,False,False,False
+3199,Valeri Qazaishvili,532300,15,LA Galaxy,8,True,False,3,0,False,False,False,False,False,True,True
+461959,Osvaldo Nicolás Fabián Gaitán,532301,7,Chicago Fire,8,True,False,0,0,True,False,False,False,False,False,False
+2084,Aleksandar Katai,532301,7,Chicago Fire,8,True,False,1,0,False,False,False,False,False,False,False
+8655,Albert Rusnák,532302,14,Real Salt Lake,4,True,False,0,0,True,False,False,False,False,False,True
+151589,Corey Baird,532302,14,Real Salt Lake,4,True,False,0,1,False,False,False,False,False,False,True
+188,Kellyn Acosta,532302,12,Colorado Rapids,9,True,False,0,2,False,False,False,False,False,False,False
+780,Danny Wilson,532302,12,Colorado Rapids,9,True,False,1,2,False,False,True,False,False,False,False
+26911,Sam Johnson,532302,14,Real Salt Lake,4,True,False,2,2,True,True,False,False,False,False,True
+296,Cristian Roldan,532303,18,Seattle Sounders FC,2,True,False,0,0,True,True,False,False,True,True,False
+28713,Gonzalo Martínez,532304,1016,Atlanta United FC,2,True,False,0,0,True,True,False,False,True,True,False
+39148,Paul Joseph Arriola Hendricks,532305,13401,DC United,5,True,False,0,0,True,True,False,False,True,True,False
+169,Mauro Andrés Manotas Páez,532307,6,Houston Dynamo,10,True,False,0,0,True,False,False,False,False,True,False
+29111,Brian Leonel Fernández,532307,20,Portland Timbers,6,True,False,1,0,False,False,True,True,False,True,True
+465274,Josef Alexander Martínez,532308,1016,Atlanta United FC,2,True,False,0,0,True,True,False,False,True,True,True
+51424,Raúl Mario Ruidíaz Misitich,532309,18,Seattle Sounders FC,2,True,False,0,0,True,False,False,False,False,False,False
+148673,Handwalla Bwana,532309,18,Seattle Sounders FC,2,True,False,1,0,False,False,False,False,False,False,False
+148645,Christopher Mueller,532309,17,Orlando City SC,11,True,False,2,0,False,False,False,False,False,True,True
+461321,Carlos Alberto Vela Garrido,532310,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,False
+124976,Diego Martín Rossi Marachlian,532310,6490,Los Angeles FC,1,True,False,1,0,False,False,False,False,False,False,False
+21641,Damir Kreilach,532312,14,Real Salt Lake,4,True,False,0,0,True,False,False,False,False,False,False
+5886,Sebastián Saucedo Mondragón,532312,14,Real Salt Lake,4,True,False,1,0,False,False,False,False,False,False,False
+39123,Jefferson David Savarino Quintero,532312,14,Real Salt Lake,4,True,False,2,0,False,False,False,False,False,False,False
+118,Chris Wondolowski,532313,15,LA Galaxy,8,True,False,0,0,True,False,False,False,False,False,False
+118,Chris Wondolowski,532313,15,LA Galaxy,8,True,False,1,0,False,False,False,False,False,False,False
+118,Chris Wondolowski,532313,15,LA Galaxy,8,True,False,2,0,False,False,False,False,False,False,False
+118,Chris Wondolowski,532313,15,LA Galaxy,8,True,False,3,0,False,False,False,False,False,False,False
+2084,Aleksandar Katai,532313,7,Chicago Fire,8,True,False,4,0,False,False,False,False,False,True,True
+236,Ethan Finlay,532315,1015,Minnesota United FC,3,True,False,0,0,True,True,False,False,True,True,False
+5900,Krisztián Németh,532316,8,Sporting Kansas City,11,True,False,0,0,True,False,False,False,False,True,False
+67913,Derek Cornelius,532316,5,Vancouver Whitecaps FC,12,True,False,1,0,False,False,True,True,False,True,True
+4127,Wayne Rooney,532317,13401,DC United,5,True,False,0,0,True,False,False,False,False,True,True
+39102,José Rodríguez,532317,6,Houston Dynamo,10,True,False,0,1,False,False,True,False,False,False,False
+55,Thomas McNamara,532317,6,Houston Dynamo,10,True,False,1,1,True,True,False,False,False,False,False
+399,Darren Mattocks,532320,8043,FC Cincinnati,12,True,False,0,0,True,False,False,False,False,True,True
+204,Tesho Akindele,532320,17,Orlando City SC,11,True,False,0,1,False,False,True,False,False,False,False
+4622,Luís Carlos Almeida da Cunha,532320,17,Orlando City SC,11,True,False,1,1,True,False,False,False,False,False,False
+4622,Luís Carlos Almeida da Cunha,532320,17,Orlando City SC,11,True,False,2,1,False,False,False,False,False,False,False
+204,Tesho Akindele,532320,17,Orlando City SC,11,True,False,3,1,False,False,False,False,False,False,False
+310,Dom Dwyer,532320,17,Orlando City SC,11,True,False,4,1,False,False,False,False,False,False,False
+166438,Tom Barlow,532318,4,New York Red Bulls,6,True,False,0,0,True,True,False,False,True,True,False
+206,Ryan Hollingshead,532319,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,True,False
+461321,Carlos Alberto Vela Garrido,532319,6490,Los Angeles FC,1,True,False,1,0,False,False,True,True,False,True,True
+198517,Andre Shinyashiki,532321,12,Colorado Rapids,9,True,False,0,0,True,True,False,False,True,True,True
+2710,Scott Sutter,532322,5,Vancouver Whitecaps FC,12,True,False,0,0,True,False,False,False,False,False,True
+166206,Brian White,532322,4,New York Red Bulls,6,True,False,0,1,False,False,True,False,False,False,False
+5910,Andy Rose,532322,4,New York Red Bulls,6,True,False,1,1,True,False,False,False,False,False,False
+5433,Fredy Henkyer Montero Muñoz,532322,5,Vancouver Whitecaps FC,12,True,False,2,1,False,False,True,True,False,False,True
+10706,Jonathan dos Santos Ramírez,532323,10,LA Galaxy,5,True,False,0,0,True,True,False,False,True,True,True
+5886,Sebastián Saucedo Mondragón,532324,14,Real Salt Lake,4,True,False,0,0,True,False,False,False,False,False,False
+465274,Josef Alexander Martínez,532324,1016,Atlanta United FC,2,True,False,1,0,False,False,True,False,False,True,True
+39123,Jefferson David Savarino Quintero,532324,14,Real Salt Lake,4,True,False,1,1,True,True,False,False,False,False,False
+39035,Christian Ramírez,532325,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,532325,6490,Los Angeles FC,1,True,False,1,0,False,False,False,False,False,False,False
+39056,Latif Blessing,532325,6490,Los Angeles FC,1,True,False,2,0,False,False,False,False,False,False,False
+148675,Tristan Blackmon,532325,6490,Los Angeles FC,1,True,False,3,0,False,False,False,False,False,False,False
+75022,Eddie Livington Segura Martínez,532325,1,Montreal Impact,9,True,False,4,0,False,False,False,False,False,False,True
+4677,Saphir Sliti Taïder,532325,1,Montreal Impact,9,True,False,4,1,False,False,False,False,False,False,True
+202,C.J. Sapong,532326,7,Chicago Fire,8,True,False,0,0,True,False,False,False,False,True,False
+18322,Alexandru Ionuț Mitriță,532326,2,New York City FC,1,True,False,1,0,False,False,True,True,False,True,True
+7030,Ali Adnan Kadhim Al Tameemi,532327,5,Vancouver Whitecaps FC,12,True,False,0,0,True,False,False,False,False,False,False
+23038,Lucas Henrique Ferreira Venuto,532327,5,Vancouver Whitecaps FC,12,True,False,1,0,False,False,False,False,False,False,False
+130,Dominique Badji,532327,13,FC Dallas,7,True,False,2,0,False,False,False,False,False,True,True
+175,Juan Agudelo,532328,11,New England Revolution,7,True,False,0,0,True,False,False,False,False,True,False
+4127,Wayne Rooney,532328,13401,DC United,5,True,False,1,0,False,False,True,True,False,True,True
+29111,Brian Leonel Fernández,532329,20,Portland Timbers,6,True,False,0,0,True,False,False,False,False,False,True
+29111,Brian Leonel Fernández,532329,20,Portland Timbers,6,True,False,0,1,False,False,False,False,False,False,True
+21624,Kacper Przybyłko,532329,16,Philadelphia Union,3,True,False,0,2,False,False,False,False,False,True,False
+461673,Diego Hernán Váleri,532329,20,Portland Timbers,6,True,False,1,2,False,False,False,False,False,False,True
+28416,Alejandro Romero Gamarra,532330,4,New York Red Bulls,6,True,False,0,0,True,False,False,False,False,False,True
+166702,Omir Fernandez,532330,4,New York Red Bulls,6,True,False,0,1,False,False,False,False,False,False,True
+17680,Romain Métanire,532331,1015,Minnesota United FC,3,True,False,0,0,True,True,False,False,True,True,False
+7342,Tommy Smith,532332,12,Colorado Rapids,9,True,False,0,0,True,False,False,False,False,False,False
+5118,Pedro Miguel Martins Santos,532332,9,Columbus Crew,10,True,False,1,0,False,False,True,False,False,False,True
+39082,Jonathan Lewis,532332,12,Colorado Rapids,9,True,False,1,1,True,False,False,False,False,False,False
+335,Gyasi Zardes,532332,9,Columbus Crew,10,True,False,2,1,False,False,True,False,False,False,True
+398,Gabriel Nicolás Mezquida Sero,532332,12,Colorado Rapids,9,True,False,2,2,True,True,False,False,False,False,False
+7278,Johnny Russell,532333,8,Sporting Kansas City,11,True,False,0,0,True,False,False,False,False,False,False
+7278,Johnny Russell,532333,8,Sporting Kansas City,11,True,False,1,0,False,False,False,False,False,False,False
+51424,Raúl Mario Ruidíaz Misitich,532333,18,Seattle Sounders FC,2,True,False,2,0,False,False,False,False,False,False,True
+7278,Johnny Russell,532333,8,Sporting Kansas City,11,True,False,2,1,False,False,False,False,False,False,False
+14549,Kelvin Leerdam,532333,18,Seattle Sounders FC,2,True,False,3,1,False,False,False,False,False,False,True
+97,Richie Laryea,532334,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,True,False
+118,Chris Wondolowski,532334,15,LA Galaxy,8,True,False,1,0,False,False,True,False,False,False,True
+118,Chris Wondolowski,532334,15,LA Galaxy,8,True,False,1,1,True,True,False,False,False,False,True
+29010,Franco Nicolás Escobar,532335,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,False
+465274,Josef Alexander Martínez,532335,1016,Atlanta United FC,2,True,False,1,0,False,False,False,False,False,False,False
+465274,Josef Alexander Martínez,532335,1016,Atlanta United FC,2,True,False,2,0,False,False,False,False,False,False,False
+169416,Omar Ezequiel Browne Zúñiga,532336,1,Montreal Impact,9,True,False,0,0,True,False,False,False,False,False,False
+4677,Saphir Sliti Taïder,532336,1,Montreal Impact,9,True,False,1,0,False,False,False,False,False,False,False
+26911,Sam Johnson,532336,14,Real Salt Lake,4,True,False,2,0,False,False,False,False,False,True,True
+77351,Sergio Henrique Santos Gomes,532337,16,Philadelphia Union,3,True,False,0,0,True,False,False,False,False,True,False
+39082,Jonathan Lewis,532337,12,Colorado Rapids,9,True,False,1,0,False,False,True,True,False,True,True
+202,C.J. Sapong,532338,7,Chicago Fire,8,True,False,0,0,True,False,False,False,False,False,True
+39074,Djordje Mihailovic,532338,7,Chicago Fire,8,True,False,0,1,False,False,False,False,False,False,True
+94897,Ulises Segura Machado,532338,13401,DC United,5,True,False,0,2,False,False,False,False,False,False,False
+94897,Ulises Segura Machado,532338,13401,DC United,5,True,False,1,2,False,False,True,False,False,False,False
+344,Luciano Federico Acosta,532338,13401,DC United,5,True,False,2,2,True,False,False,False,False,False,False
+39033,Francisco Javier Calvo Quesada,532338,7,Chicago Fire,8,True,False,3,2,False,False,True,True,False,False,True
+29075,Fabio Enrique Álvarez,532339,10,LA Galaxy,5,True,False,0,0,True,False,False,False,False,False,True
+4126,Zlatan Ibrahimović,532339,10,LA Galaxy,5,True,False,0,1,False,False,False,False,False,False,True
+5433,Fredy Henkyer Montero Muñoz,532340,5,Vancouver Whitecaps FC,12,True,False,0,0,True,False,False,False,False,True,False
+343,Nick DeLeon,532340,19,Toronto FC,4,True,False,1,0,False,False,True,True,False,True,True
+4622,Luís Carlos Almeida da Cunha,532341,17,Orlando City SC,11,True,False,0,0,True,False,False,False,False,False,True
+204,Tesho Akindele,532341,17,Orlando City SC,11,True,False,0,1,False,False,False,False,False,False,True
+18,Will Johnson,532341,17,Orlando City SC,11,True,False,0,2,False,False,False,False,False,False,True
+465274,Josef Alexander Martínez,532342,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,False
+465274,Josef Alexander Martínez,532342,1016,Atlanta United FC,2,True,False,1,0,False,False,False,False,False,False,False
+11232,Marcelo Andrés Silva Fernández,532343,4,New York Red Bulls,6,True,False,0,0,True,False,False,False,False,False,False
+539,Daniel Royer,532343,4,New York Red Bulls,6,True,False,1,0,False,False,False,False,False,False,False
+39071,Michael Amir Murillo Bermudez,532343,4,New York Red Bulls,6,True,False,2,0,False,False,False,False,False,False,False
+166702,Omir Fernandez,532343,4,New York Red Bulls,6,True,False,3,0,False,False,False,False,False,False,False
+335,Gyasi Zardes,532344,9,Columbus Crew,10,True,False,0,0,True,False,False,False,False,False,False
+25605,Heber Araujo dos Santos,532344,2,New York City FC,1,True,False,1,0,False,False,True,False,False,False,True
+5118,Pedro Miguel Martins Santos,532344,9,Columbus Crew,10,True,False,1,1,True,False,False,False,False,False,False
+77721,Valentín Mariano José Castellanos Giménez,532344,2,New York City FC,1,True,False,2,1,False,False,True,True,False,False,True
+123657,Xavier Ricardo Arreaga Bermello,532345,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,False,False
+4132,Brad Smith,532345,13,FC Dallas,7,True,False,1,0,False,False,False,False,False,False,False
+51424,Raúl Mario Ruidíaz Misitich,532345,18,Seattle Sounders FC,2,True,False,2,0,False,False,False,False,False,True,True
+118,Chris Wondolowski,532346,15,LA Galaxy,8,True,False,0,0,True,False,False,False,False,True,True
+344,Luciano Federico Acosta,532346,13401,DC United,5,True,False,0,1,False,False,True,True,False,True,False
+21306,Yohan Croizet,532347,8,Sporting Kansas City,11,True,False,0,0,True,False,False,False,False,True,True
+39060,Alberth Josué Elis Martínez,532347,6,Houston Dynamo,10,True,False,0,1,False,False,True,True,False,True,False
+198517,Andre Shinyashiki,532348,12,Colorado Rapids,9,True,False,0,0,True,False,False,False,False,False,False
+275,Kekuta Manneh,532348,8043,FC Cincinnati,12,True,False,1,0,False,False,True,False,False,True,True
+398,Gabriel Nicolás Mezquida Sero,532348,12,Colorado Rapids,9,True,False,1,1,True,False,False,False,False,False,False
+426,Diego Iván Rubio Kostner,532348,12,Colorado Rapids,9,True,False,2,1,False,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,532349,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,True
+124976,Diego Martín Rossi Marachlian,532349,6490,Los Angeles FC,1,True,False,0,1,False,False,False,False,False,False,True
+51927,Cristhian Fabián Paredes Maciel,532349,20,Portland Timbers,6,True,False,0,2,False,False,False,False,False,False,False
+39056,Latif Blessing,532349,6490,Los Angeles FC,1,True,False,1,2,False,False,False,False,False,False,True
+29111,Brian Leonel Fernández,532349,20,Portland Timbers,6,True,False,1,3,False,False,False,False,False,False,False
+14967,Jamiro Gregory Monteiro Alvarenga,532351,16,Philadelphia Union,3,True,False,0,0,True,False,False,False,False,False,True
+198512,Hassani Dotson,532351,1015,Minnesota United FC,3,True,False,0,1,False,False,True,False,False,False,False
+10958,Haris Medunjanin,532351,16,Philadelphia Union,3,True,False,1,1,True,False,False,False,False,False,True
+79,Kevin Molino,532351,1015,Minnesota United FC,3,True,False,1,2,False,False,True,False,False,False,False
+548,Auston Trusty,532351,16,Philadelphia Union,3,True,False,2,2,True,True,False,False,False,False,True
+24910,Cristian Anderson Penilla Caicedo,532350,11,New England Revolution,7,True,False,0,0,True,False,False,False,False,False,True
+166,Teal Bunbury,532350,11,New England Revolution,7,True,False,0,1,False,False,False,False,False,False,True
+4126,Zlatan Ibrahimović,532350,10,LA Galaxy,5,True,False,0,2,False,False,False,False,False,True,False
+10553,Víctor Rodríguez Romero,532352,18,Seattle Sounders FC,2,True,False,0,0,True,False,False,False,False,True,True
+4677,Saphir Sliti Taïder,532352,1,Montreal Impact,9,True,False,0,1,False,False,True,False,False,False,False
+4677,Saphir Sliti Taïder,532352,1,Montreal Impact,9,True,False,1,1,True,True,False,False,False,False,False
+18322,Alexandru Ionuț Mitriță,532353,2,New York City FC,1,True,False,0,0,True,False,False,False,False,False,False
+25605,Heber Araujo dos Santos,532353,2,New York City FC,1,True,False,1,0,False,False,False,False,False,False,False
+23047,Ismael Tajouri-Shradi,532353,2,New York City FC,1,True,False,2,0,False,False,False,False,False,False,False
+25605,Heber Araujo dos Santos,532353,8043,FC Cincinnati,12,True,False,3,0,False,False,False,False,False,False,True
+25605,Heber Araujo dos Santos,532353,2,New York City FC,1,True,False,3,1,False,False,False,False,False,False,False
+107505,Sebastien Uchechukwu Ibeagha,532353,8043,FC Cincinnati,12,True,False,4,1,False,False,False,False,False,False,True
+18632,Maximiliano Nicol Moralez,532353,2,New York City FC,1,True,False,4,2,False,False,False,False,False,False,False
+10497,Felipe Alejandro Gutiérrez Leiva,532354,8,Sporting Kansas City,11,True,False,0,0,True,False,False,False,False,False,True
+343,Nick DeLeon,532354,19,Toronto FC,4,True,False,0,1,False,False,True,False,False,False,False
+10497,Felipe Alejandro Gutiérrez Leiva,532354,8,Sporting Kansas City,11,True,False,1,1,True,False,False,False,False,False,True
+385,Jordan Patrick Dear Hamilton,532354,19,Toronto FC,4,True,False,1,2,False,False,True,True,False,False,False
+108047,Mario Daniel Vega,532355,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,False,True
+118,Chris Wondolowski,532355,15,LA Galaxy,8,True,False,0,1,False,False,True,False,False,False,False
+26678,Magnus Eriksson,532355,15,LA Galaxy,8,True,False,1,1,True,False,False,False,False,False,False
+166303,Francis Atuahene,532355,13,FC Dallas,7,True,False,2,1,False,False,True,True,False,False,True
+28416,Alejandro Romero Gamarra,532356,4,New York Red Bulls,6,True,False,0,0,True,False,False,False,False,False,True
+166206,Brian White,532356,4,New York Red Bulls,6,True,False,0,1,False,False,False,False,False,False,True
+14967,Jamiro Gregory Monteiro Alvarenga,532356,16,Philadelphia Union,3,True,False,0,2,False,False,False,False,False,False,False
+198,Ilson Pereira Dias Júnior,532356,16,Philadelphia Union,3,True,False,1,2,False,False,True,False,False,False,False
+198,Ilson Pereira Dias Júnior,532356,16,Philadelphia Union,3,True,False,2,2,True,True,False,False,False,False,False
+238,Kaiansu Kei Kamara,532416,12,Colorado Rapids,9,True,False,0,0,True,True,False,False,True,True,False
+351,Emmanuel Boateng,532357,10,LA Galaxy,5,True,False,0,0,True,False,False,False,False,False,True
+29075,Fabio Enrique Álvarez,532357,10,LA Galaxy,5,True,False,0,1,False,False,False,False,False,False,True
+130,Dominique Badji,532358,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,False,False
+24608,Matheus Simonete Bressanelli,532358,13,FC Dallas,7,True,False,1,0,False,False,False,False,False,False,False
+130,Dominique Badji,532358,13,FC Dallas,7,True,False,2,0,False,False,False,False,False,False,False
+2084,Aleksandar Katai,532359,7,Chicago Fire,8,True,False,0,0,True,False,False,False,False,True,False
+8655,Albert Rusnák,532359,14,Real Salt Lake,4,True,False,1,0,False,False,True,True,False,True,True
+426,Diego Iván Rubio Kostner,532360,12,Colorado Rapids,9,True,False,0,0,True,False,False,False,False,False,True
+198517,Andre Shinyashiki,532360,12,Colorado Rapids,9,True,False,0,1,False,False,False,False,False,False,True
+5433,Fredy Henkyer Montero Muñoz,532360,5,Vancouver Whitecaps FC,12,True,False,0,2,False,False,False,False,False,False,False
+2118,José Yordy Reyna Serna,532360,5,Vancouver Whitecaps FC,12,True,False,1,2,False,False,True,True,False,False,False
+94988,Marvin Loría,532361,20,Portland Timbers,6,True,False,0,0,True,False,False,False,False,False,False
+461673,Diego Hernán Váleri,532361,20,Portland Timbers,6,True,False,1,0,False,False,False,False,False,False,False
+29111,Brian Leonel Fernández,532361,20,Portland Timbers,6,True,False,2,0,False,False,False,False,False,False,False
+39099,Jeremy Ebobisse,532361,20,Portland Timbers,6,True,False,3,0,False,False,False,False,False,False,False
+10497,Felipe Alejandro Gutiérrez Leiva,532362,8,Sporting Kansas City,11,True,False,0,0,True,True,False,False,True,True,True
+148643,Brandon Bye,532364,11,New England Revolution,7,True,False,0,0,True,False,False,False,False,True,False
+21624,Kacper Przybyłko,532364,16,Philadelphia Union,3,True,False,1,0,False,False,True,True,False,True,True
+18425,Orji Okwonkwo,532363,1,Montreal Impact,9,True,False,0,0,True,False,False,False,False,False,False
+28965,Tomás José Conechny,532363,20,Portland Timbers,6,True,False,1,0,False,False,True,False,False,True,True
+18425,Orji Okwonkwo,532363,1,Montreal Impact,9,True,False,1,1,True,True,False,False,False,False,False
+4127,Wayne Rooney,532365,13401,DC United,5,True,False,0,0,True,True,False,False,True,True,False
+22,Tsubasa Endoh,532366,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,False,False
+28713,Gonzalo Martínez,532366,1016,Atlanta United FC,2,True,False,1,0,False,False,True,False,False,False,True
+39068,Julian Gressel,532366,1016,Atlanta United FC,2,True,False,1,1,True,False,False,False,False,False,True
+4824,Alejandro Pozuelo Melero,532366,19,Toronto FC,4,True,False,1,2,False,False,True,False,False,False,False
+4824,Alejandro Pozuelo Melero,532366,19,Toronto FC,4,True,False,2,2,True,True,False,False,False,False,False
+39132,Jesus Ferreira,532367,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,False,False
+206,Ryan Hollingshead,532367,13,FC Dallas,7,True,False,1,0,False,False,False,False,False,False,False
+2118,José Yordy Reyna Serna,532367,5,Vancouver Whitecaps FC,12,True,False,2,0,False,False,False,False,False,False,True
+23038,Lucas Henrique Ferreira Venuto,532367,5,Vancouver Whitecaps FC,12,True,False,2,1,False,False,True,True,False,False,True
+3199,Valeri Qazaishvili,532368,15,LA Galaxy,8,True,False,0,0,True,False,False,False,False,False,False
+3199,Valeri Qazaishvili,532368,15,LA Galaxy,8,True,False,1,0,False,False,False,False,False,False,False
+28416,Alejandro Romero Gamarra,532369,4,New York Red Bulls,6,True,False,0,0,True,False,False,False,False,False,False
+166206,Brian White,532369,4,New York Red Bulls,6,True,False,1,0,False,False,False,False,False,False,False
+2494,Nemanja Nikolić,532369,7,Chicago Fire,8,True,False,2,0,False,False,False,False,False,True,True
+539,Daniel Royer,532369,4,New York Red Bulls,6,True,False,2,1,False,False,False,False,False,False,False
+780,Danny Wilson,532370,12,Colorado Rapids,9,True,False,0,0,True,True,False,False,True,True,False
+448,Ike Opara,532371,1015,Minnesota United FC,3,True,False,0,0,True,False,False,False,False,False,False
+198512,Hassani Dotson,532371,1015,Minnesota United FC,3,True,False,1,0,False,False,False,False,False,False,False
+236,Ethan Finlay,532371,1015,Minnesota United FC,3,True,False,2,0,False,False,False,False,False,False,False
+74883,Ángelo José Rodríguez Henry,532371,1015,Minnesota United FC,3,True,False,3,0,False,False,False,False,False,False,False
+7485,Emmanuel Jorge Ledesma,532371,8043,FC Cincinnati,12,True,False,4,0,False,False,False,False,False,True,True
+448,Ike Opara,532371,1015,Minnesota United FC,3,True,False,4,1,False,False,False,False,False,False,False
+149730,Mason Toye,532371,1015,Minnesota United FC,3,True,False,5,1,False,False,False,False,False,False,False
+79,Kevin Molino,532371,1015,Minnesota United FC,3,True,False,6,1,False,False,False,False,False,False,False
+246,Justin Meram,532372,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,False
+19202,Zakaria Diallo,532372,1,Montreal Impact,9,True,False,1,0,False,False,True,False,False,True,True
+246,Justin Meram,532372,1016,Atlanta United FC,2,True,False,1,1,True,True,False,False,False,False,False
+21826,Fabrice Picault,532373,16,Philadelphia Union,3,True,False,0,0,True,False,False,False,False,False,True
+18632,Maximiliano Nicol Moralez,532373,2,New York City FC,1,True,False,0,1,False,False,True,False,False,False,False
+21624,Kacper Przybyłko,532373,16,Philadelphia Union,3,True,False,1,1,True,False,False,False,False,False,True
+18632,Maximiliano Nicol Moralez,532373,2,New York City FC,1,True,False,1,2,False,False,True,False,False,False,False
+77721,Valentín Mariano José Castellanos Giménez,532373,2,New York City FC,1,True,False,2,2,True,False,False,False,False,False,False
+77721,Valentín Mariano José Castellanos Giménez,532373,2,New York City FC,1,True,False,3,2,False,False,False,False,False,False,False
+148645,Christopher Mueller,532374,17,Orlando City SC,11,True,False,0,0,True,False,False,False,False,False,True
+204,Tesho Akindele,532374,17,Orlando City SC,11,True,False,0,1,False,False,False,False,False,False,True
+81,Darwin Adelso Cerén Delgado,532375,6,Houston Dynamo,10,True,False,0,0,True,False,False,False,False,True,True
+39051,Antonio Mlinar Delamea,532375,11,New England Revolution,7,True,False,0,1,False,False,True,False,False,False,False
+166,Teal Bunbury,532375,11,New England Revolution,7,True,False,1,1,True,True,False,False,False,False,False
+343,Nick DeLeon,532376,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,True,True
+4127,Wayne Rooney,532376,13401,DC United,5,True,False,0,1,False,False,True,True,False,True,False
+14549,Kelvin Leerdam,532377,18,Seattle Sounders FC,2,True,False,0,0,True,True,False,False,True,True,False
+3199,Valeri Qazaishvili,532378,15,LA Galaxy,8,True,False,0,0,True,False,False,False,False,False,False
+114,Shea Salinas,532378,15,LA Galaxy,8,True,False,1,0,False,False,False,False,False,False,False
+132,Tommy Thompson,532378,15,LA Galaxy,8,True,False,2,0,False,False,False,False,False,False,False
+26911,Sam Johnson,532379,14,Real Salt Lake,4,True,False,0,0,True,False,False,False,False,False,False
+26911,Sam Johnson,532379,14,Real Salt Lake,4,True,False,1,0,False,False,False,False,False,False,False
+29111,Brian Leonel Fernández,532380,20,Portland Timbers,6,True,False,0,0,True,True,False,False,True,True,False
+18632,Maximiliano Nicol Moralez,532381,2,New York City FC,1,True,False,0,0,True,False,False,False,False,False,False
+148679,Jesús Manuel Medina Maldonado,532381,2,New York City FC,1,True,False,1,0,False,False,False,False,False,False,False
+21945,Ebenezer Ofori,532381,2,New York City FC,1,True,False,2,0,False,False,False,False,False,False,False
+148645,Christopher Mueller,532382,17,Orlando City SC,11,True,False,0,0,True,False,False,False,False,True,False
+21624,Kacper Przybyłko,532382,16,Philadelphia Union,3,True,False,1,0,False,False,True,False,False,False,True
+21624,Kacper Przybyłko,532382,16,Philadelphia Union,3,True,False,1,1,True,False,False,False,False,False,True
+21826,Fabrice Picault,532382,16,Philadelphia Union,3,True,False,1,2,False,False,False,False,False,False,True
+39033,Francisco Javier Calvo Quesada,532383,7,Chicago Fire,8,True,False,0,0,True,False,False,False,False,False,False
+202,C.J. Sapong,532383,7,Chicago Fire,8,True,False,1,0,False,False,False,False,False,False,False
+461959,Osvaldo Nicolás Fabián Gaitán,532383,7,Chicago Fire,8,True,False,2,0,False,False,False,False,False,False,False
+202,C.J. Sapong,532383,7,Chicago Fire,8,True,False,3,0,False,False,False,False,False,False,False
+212,Fabian Herbers,532383,7,Chicago Fire,8,True,False,4,0,False,False,False,False,False,False,False
+39117,Brandon Vázquez Toledo,532383,1016,Atlanta United FC,2,True,False,5,0,False,False,False,False,False,True,True
+51498,Carlos Darwin Quintero Villalba,532385,1015,Minnesota United FC,3,True,False,0,0,True,False,False,False,False,False,False
+132,Tommy Thompson,532385,15,LA Galaxy,8,True,False,1,0,False,False,True,False,False,True,True
+24176,Michael Boxall,532385,1015,Minnesota United FC,3,True,False,1,1,True,False,False,False,False,False,False
+79,Kevin Molino,532385,1015,Minnesota United FC,3,True,False,2,1,False,False,False,False,False,False,False
+39035,Christian Ramírez,532386,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,True
+124976,Diego Martín Rossi Marachlian,532386,6490,Los Angeles FC,1,True,False,0,1,False,False,False,False,False,False,True
+461321,Carlos Alberto Vela Garrido,532386,6490,Los Angeles FC,1,True,False,0,2,False,False,False,False,False,False,True
+21306,Yohan Croizet,532386,8,Sporting Kansas City,11,True,False,0,3,False,False,False,False,False,True,False
+170321,Rodolfo Antonio Zelaya García,532386,6490,Los Angeles FC,1,True,False,1,3,False,False,False,False,False,False,True
+32636,Mohammed Mounir Abdussalam,532386,6490,Los Angeles FC,1,True,False,1,4,False,False,False,False,False,False,True
+169,Mauro Andrés Manotas Páez,532384,6,Houston Dynamo,10,True,False,0,0,True,False,False,False,False,False,False
+5227,Tomás Martínez,532384,6,Houston Dynamo,10,True,False,1,0,False,False,False,False,False,False,False
+39060,Alberth Josué Elis Martínez,532384,6,Houston Dynamo,10,True,False,2,0,False,False,False,False,False,False,False
+39060,Alberth Josué Elis Martínez,532384,6,Houston Dynamo,10,True,False,3,0,False,False,False,False,False,False,False
+26911,Sam Johnson,532387,14,Real Salt Lake,4,True,False,0,0,True,True,False,False,True,True,False
+75088,Hárold Santiago Mosquera Caicedo,532389,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,False,False
+130,Dominique Badji,532389,13,FC Dallas,7,True,False,1,0,False,False,False,False,False,False,False
+166,Teal Bunbury,532388,11,New England Revolution,7,True,False,0,0,True,False,False,False,False,False,True
+75101,Juan Fernando Caicedo Benítez,532388,11,New England Revolution,7,True,False,0,1,False,False,False,False,False,False,True
+426,Diego Iván Rubio Kostner,532388,12,Colorado Rapids,9,True,False,0,2,False,False,False,False,False,True,False
+4126,Zlatan Ibrahimović,532390,10,LA Galaxy,5,True,False,0,0,True,False,False,False,False,False,False
+4126,Zlatan Ibrahimović,532390,10,LA Galaxy,5,True,False,1,0,False,False,False,False,False,False,False
+275,Kekuta Manneh,532392,8043,FC Cincinnati,12,True,False,0,0,True,False,False,False,False,False,False
+199005,Rashawn Dally,532392,8043,FC Cincinnati,12,True,False,1,0,False,False,False,False,False,False,False
+203,Victor Ulloa,532392,8043,FC Cincinnati,12,True,False,2,0,False,False,False,False,False,False,False
+39059,Romell Samir Quioto Robinson,532392,6,Houston Dynamo,10,True,False,3,0,False,False,False,False,False,False,True
+36,Nick Hagglund,532392,6,Houston Dynamo,10,True,False,3,1,False,False,False,False,False,False,True
+5118,Pedro Miguel Martins Santos,532393,9,Columbus Crew,10,True,False,0,0,True,False,False,False,False,True,False
+518,Marcelo Nicolás Lodeiro Benítez,532393,18,Seattle Sounders FC,2,True,False,1,0,False,False,True,False,False,False,True
+518,Marcelo Nicolás Lodeiro Benítez,532393,18,Seattle Sounders FC,2,True,False,1,1,True,True,False,False,False,False,True
+282,Anthony Jackson-Hamel,532394,1,Montreal Impact,9,True,False,0,0,True,False,False,False,False,False,False
+149730,Mason Toye,532394,1015,Minnesota United FC,3,True,False,1,0,False,False,True,False,False,False,True
+21387,Rudy Camacho,532394,1,Montreal Impact,9,True,False,1,1,True,False,False,False,False,False,False
+236,Ethan Finlay,532394,1015,Minnesota United FC,3,True,False,2,1,False,False,True,False,False,False,True
+149730,Mason Toye,532394,1015,Minnesota United FC,3,True,False,2,2,True,True,False,False,False,False,True
+21306,Yohan Croizet,532395,8,Sporting Kansas City,11,True,False,0,0,True,True,False,False,True,True,False
+2118,José Yordy Reyna Serna,532396,5,Vancouver Whitecaps FC,12,True,False,0,0,True,False,False,False,False,True,True
+5910,Andy Rose,532396,6490,Los Angeles FC,1,True,False,0,1,False,False,True,False,False,False,False
+3928,Adama Valentin Diomande,532396,6490,Los Angeles FC,1,True,False,1,1,True,False,False,False,False,False,False
+148672,Mark Anthony Kaye,532396,6490,Los Angeles FC,1,True,False,2,1,False,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,532396,6490,Los Angeles FC,1,True,False,3,1,False,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,532396,6490,Los Angeles FC,1,True,False,4,1,False,False,False,False,False,False,False
+124976,Diego Martín Rossi Marachlian,532396,6490,Los Angeles FC,1,True,False,5,1,False,False,False,False,False,False,False
+14584,Danny Hoesen,532397,15,LA Galaxy,8,True,False,0,0,True,True,False,False,True,True,False
+246,Justin Meram,532398,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,False
+539,Daniel Royer,532398,4,New York Red Bulls,6,True,False,1,0,False,False,True,False,False,False,True
+166206,Brian White,532398,4,New York Red Bulls,6,True,False,1,1,True,False,False,False,False,False,True
+465274,Josef Alexander Martínez,532398,1016,Atlanta United FC,2,True,False,1,2,False,False,True,False,False,False,False
+465274,Josef Alexander Martínez,532398,1016,Atlanta United FC,2,True,False,2,2,True,False,False,False,False,False,False
+11,Bradley Wright-Phillips,532398,4,New York Red Bulls,6,True,False,3,2,False,False,True,True,False,False,True
+1180,Marco Jhonfai Fabián De La Mora,532391,16,Philadelphia Union,3,True,False,0,0,True,False,False,False,False,False,False
+310,Dom Dwyer,532391,17,Orlando City SC,11,True,False,1,0,False,False,True,False,False,False,True
+199546,Santiago Patino,532391,17,Orlando City SC,11,True,False,1,1,True,False,False,False,False,False,True
+21624,Kacper Przybyłko,532391,16,Philadelphia Union,3,True,False,1,2,False,False,True,True,False,False,False
+4706,Sebastián Marcelo Blanco,532399,20,Portland Timbers,6,True,False,0,0,True,True,False,False,True,True,True
+166,Teal Bunbury,532400,11,New England Revolution,7,True,False,0,0,True,False,False,False,False,False,True
+4513,Carles Gil de Pareja Vicent,532400,11,New England Revolution,7,True,False,0,1,False,False,False,False,False,False,True
+28767,Leonardo Rafael Jara,532400,13401,DC United,5,True,False,0,2,False,False,False,False,False,False,False
+119,Quincy Obina Amarikwa,532400,13401,DC United,5,True,False,1,2,False,False,True,True,False,False,False
+39059,Romell Samir Quioto Robinson,532401,6,Houston Dynamo,10,True,False,0,0,True,False,False,False,False,True,False
+3928,Adama Valentin Diomande,532401,6490,Los Angeles FC,1,True,False,1,0,False,False,True,False,False,False,True
+3928,Adama Valentin Diomande,532401,6490,Los Angeles FC,1,True,False,1,1,True,False,False,False,False,False,True
+124976,Diego Martín Rossi Marachlian,532401,6490,Los Angeles FC,1,True,False,1,2,False,False,False,False,False,False,True
+11483,Rolf Günther Feltscher Martínez,532402,10,LA Galaxy,5,True,False,0,0,True,False,False,False,False,True,False
+3199,Valeri Qazaishvili,532402,15,LA Galaxy,8,True,False,1,0,False,False,True,False,False,False,True
+14584,Danny Hoesen,532402,15,LA Galaxy,8,True,False,1,1,True,False,False,False,False,False,True
+39114,Jackson Yueill,532402,15,LA Galaxy,8,True,False,1,2,False,False,False,False,False,False,True
+4824,Alejandro Pozuelo Melero,532403,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,False,True
+405,Jozy Altidore,532403,19,Toronto FC,4,True,False,0,1,False,False,False,False,False,False,True
+199918,Benji Michel,532404,17,Orlando City SC,11,True,False,0,0,True,True,False,False,True,True,False
+94823,Allan Enzo Cruz Leal,532405,8043,FC Cincinnati,12,True,False,0,0,True,False,False,False,False,False,True
+461959,Osvaldo Nicolás Fabián Gaitán,532405,7,Chicago Fire,8,True,False,0,1,False,False,True,False,False,True,False
+226,Fanendo Adi,532405,8043,FC Cincinnati,12,True,False,1,1,True,True,False,False,False,False,True
+149730,Mason Toye,532406,1015,Minnesota United FC,3,True,False,0,0,True,True,False,False,True,True,False
+39123,Jefferson David Savarino Quintero,532408,14,Real Salt Lake,4,True,False,0,0,True,False,False,False,False,False,False
+39123,Jefferson David Savarino Quintero,532408,14,Real Salt Lake,4,True,False,1,0,False,False,False,False,False,False,False
+8655,Albert Rusnák,532408,14,Real Salt Lake,4,True,False,2,0,False,False,False,False,False,False,False
+21641,Damir Kreilach,532408,14,Real Salt Lake,4,True,False,3,0,False,False,False,False,False,False,False
+7030,Ali Adnan Kadhim Al Tameemi,532409,8,Sporting Kansas City,11,True,False,0,0,True,False,False,False,False,False,True
+10497,Felipe Alejandro Gutiérrez Leiva,532409,8,Sporting Kansas City,11,True,False,0,1,False,False,False,False,False,False,True
+5096,Gerso Fernandes,532409,8,Sporting Kansas City,11,True,False,0,2,False,False,False,False,False,False,True
+7342,Tommy Smith,532407,20,Portland Timbers,6,True,False,0,0,True,False,False,False,False,False,False
+39082,Jonathan Lewis,532407,12,Colorado Rapids,9,True,False,1,0,False,False,True,False,False,False,True
+461673,Diego Hernán Váleri,532407,20,Portland Timbers,6,True,False,1,1,True,False,False,False,False,False,False
+752,Sam Nicholson,532407,12,Colorado Rapids,9,True,False,2,1,False,False,True,True,False,False,True
+51424,Raúl Mario Ruidíaz Misitich,532410,18,Seattle Sounders FC,2,True,False,0,0,True,False,False,False,False,False,False
+465274,Josef Alexander Martínez,532410,1016,Atlanta United FC,2,True,False,1,0,False,False,True,False,False,True,True
+272,Harry Shipp,532410,18,Seattle Sounders FC,2,True,False,1,1,True,True,False,False,False,False,False
+25605,Heber Araujo dos Santos,532411,2,New York City FC,1,True,False,0,0,True,False,False,False,False,True,True
+539,Daniel Royer,532411,4,New York Red Bulls,6,True,False,0,1,False,False,True,False,False,False,False
+539,Daniel Royer,532411,4,New York Red Bulls,6,True,False,1,1,True,True,False,False,False,False,False
+225,Darlington Nagbe,532412,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,False
+39117,Brandon Vázquez Toledo,532412,1016,Atlanta United FC,2,True,False,1,0,False,False,False,False,False,False,False
+465274,Josef Alexander Martínez,532412,1016,Atlanta United FC,2,True,False,2,0,False,False,False,False,False,False,False
+465274,Josef Alexander Martínez,532412,1016,Atlanta United FC,2,True,False,3,0,False,False,False,False,False,False,False
+39068,Julian Gressel,532412,1016,Atlanta United FC,2,True,False,4,0,False,False,False,False,False,False,False
+28863,Gustavo Leonardo Bou,532413,11,New England Revolution,7,True,False,0,0,True,False,False,False,False,False,False
+164,Diego Santiago Fagúndez Pepe,532413,11,New England Revolution,7,True,False,1,0,False,False,False,False,False,False,False
+4513,Carles Gil de Pareja Vicent,532413,11,New England Revolution,7,True,False,2,0,False,False,False,False,False,False,False
+166,Teal Bunbury,532413,11,New England Revolution,7,True,False,3,0,False,False,False,False,False,False,False
+405,Jozy Altidore,532414,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,False,False
+4824,Alejandro Pozuelo Melero,532414,19,Toronto FC,4,True,False,1,0,False,False,False,False,False,False,False
+166438,Tom Barlow,532414,4,New York Red Bulls,6,True,False,2,0,False,False,False,False,False,True,True
+31,Ashtone Morgan,532414,19,Toronto FC,4,True,False,2,1,False,False,False,False,False,False,False
+39074,Djordje Mihailovic,532415,7,Chicago Fire,8,True,False,0,0,True,False,False,False,False,False,False
+335,Gyasi Zardes,532415,9,Columbus Crew,10,True,False,1,0,False,False,True,False,False,False,True
+202,C.J. Sapong,532415,7,Chicago Fire,8,True,False,1,1,True,False,False,False,False,False,False
+5923,Romario Williams,532415,9,Columbus Crew,10,True,False,2,1,False,False,True,True,False,False,True
+28600,Lucas Rodríguez,532417,13401,DC United,5,True,False,0,0,True,False,False,False,False,False,True
+7485,Emmanuel Jorge Ledesma,532417,8043,FC Cincinnati,12,True,False,0,1,False,False,True,False,False,True,False
+28600,Lucas Rodríguez,532417,13401,DC United,5,True,False,1,1,True,False,False,False,False,False,True
+4127,Wayne Rooney,532417,13401,DC United,5,True,False,1,2,False,False,False,False,False,False,True
+39148,Paul Joseph Arriola Hendricks,532417,13401,DC United,5,True,False,1,3,False,False,False,False,False,False,True
+199546,Santiago Patino,532418,17,Orlando City SC,11,True,False,0,0,True,False,False,False,False,True,True
+39099,Jeremy Ebobisse,532418,20,Portland Timbers,6,True,False,0,1,False,False,True,True,False,True,False
+461321,Carlos Alberto Vela Garrido,532419,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,True
+4126,Zlatan Ibrahimović,532419,10,LA Galaxy,5,True,False,0,1,False,False,True,False,False,False,False
+4126,Zlatan Ibrahimović,532419,10,LA Galaxy,5,True,False,1,1,True,False,False,False,False,False,False
+4126,Zlatan Ibrahimović,532419,10,LA Galaxy,5,True,False,2,1,False,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,532419,6490,Los Angeles FC,1,True,False,3,1,False,False,False,False,False,False,True
+32,Josh Williams,532420,9,Columbus Crew,10,True,False,0,0,True,False,False,False,False,False,False
+47,David Accam,532420,9,Columbus Crew,10,True,False,1,0,False,False,False,False,False,False,False
+19202,Zakaria Diallo,532420,1,Montreal Impact,9,True,False,2,0,False,False,False,False,False,True,True
+1180,Marco Jhonfai Fabián De La Mora,532421,16,Philadelphia Union,3,True,False,0,0,True,False,False,False,False,False,False
+148641,Anthony Fontana,532421,16,Philadelphia Union,3,True,False,1,0,False,False,False,False,False,False,False
+55,Thomas McNamara,532422,6,Houston Dynamo,10,True,False,0,0,True,False,False,False,False,False,True
+5227,Tomás Martínez,532422,6,Houston Dynamo,10,True,False,0,1,False,False,False,False,False,False,True
+169,Mauro Andrés Manotas Páez,532422,6,Houston Dynamo,10,True,False,0,2,False,False,False,False,False,False,True
+405,Jozy Altidore,532422,19,Toronto FC,4,True,False,0,3,False,False,False,False,False,True,False
+130,Dominique Badji,532424,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,False,True
+39132,Jesus Ferreira,532424,13,FC Dallas,7,True,False,0,1,False,False,False,False,False,False,True
+200687,Sebastian Anderson,532423,12,Colorado Rapids,9,True,False,0,0,True,False,False,False,False,True,False
+25605,Heber Araujo dos Santos,532423,2,New York City FC,1,True,False,1,0,False,False,True,False,False,False,True
+18322,Alexandru Ionuț Mitriță,532423,2,New York City FC,1,True,False,1,1,True,True,False,False,False,False,True
+51498,Carlos Darwin Quintero Villalba,532425,1015,Minnesota United FC,3,True,False,0,0,True,False,False,False,False,True,True
+11232,Marcelo Andrés Silva Fernández,532425,14,Real Salt Lake,4,True,False,0,1,False,False,True,True,False,True,False
+4591,Doneil Henry,532426,5,Vancouver Whitecaps FC,12,True,False,0,0,True,False,False,False,False,True,False
+3199,Valeri Qazaishvili,532426,15,LA Galaxy,8,True,False,1,0,False,False,True,False,False,False,True
+118,Chris Wondolowski,532426,15,LA Galaxy,8,True,False,1,1,True,False,False,False,False,False,True
+26678,Magnus Eriksson,532426,15,LA Galaxy,8,True,False,1,2,False,False,False,False,False,False,True
+28713,Gonzalo Martínez,532427,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,False
+465274,Josef Alexander Martínez,532427,1016,Atlanta United FC,2,True,False,1,0,False,False,False,False,False,False,False
+4513,Carles Gil de Pareja Vicent,532428,11,New England Revolution,7,True,False,0,0,True,False,False,False,False,False,True
+39051,Antonio Mlinar Delamea,532428,11,New England Revolution,7,True,False,0,1,False,False,False,False,False,False,True
+166206,Brian White,532429,4,New York Red Bulls,6,True,False,0,0,True,True,False,False,True,True,True
+29111,Brian Leonel Fernández,532430,20,Portland Timbers,6,True,False,0,0,True,False,False,False,False,False,True
+51424,Raúl Mario Ruidíaz Misitich,532430,18,Seattle Sounders FC,2,True,False,0,1,False,False,True,False,False,True,False
+29111,Brian Leonel Fernández,532430,20,Portland Timbers,6,True,False,1,1,True,True,False,False,False,False,True
+26513,Anton Tinnerholm,532431,2,New York City FC,1,True,False,0,0,True,False,False,False,False,False,False
+25605,Heber Araujo dos Santos,532431,2,New York City FC,1,True,False,1,0,False,False,False,False,False,False,False
+11962,Ilie Sánchez Farrés,532431,8,Sporting Kansas City,11,True,False,2,0,False,False,False,False,False,True,True
+21620,Alexander Ring,532431,2,New York City FC,1,True,False,2,1,False,False,False,False,False,False,False
+102474,Mohammed Adams,532435,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,True
+3928,Adama Valentin Diomande,532435,6490,Los Angeles FC,1,True,False,0,1,False,False,True,False,False,False,False
+124976,Diego Martín Rossi Marachlian,532435,6490,Los Angeles FC,1,True,False,1,1,True,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,532435,6490,Los Angeles FC,1,True,False,2,1,False,False,False,False,False,False,False
+75280,Eduard Andrés Atuesta Velasco,532435,6490,Los Angeles FC,1,True,False,3,1,False,False,False,False,False,False,False
+465274,Josef Alexander Martínez,532435,1016,Atlanta United FC,2,True,False,4,1,False,False,False,False,False,False,True
+75022,Eddie Livington Segura Martínez,532435,1016,Atlanta United FC,2,True,False,4,2,False,False,False,False,False,False,True
+28863,Gustavo Leonardo Bou,532438,11,New England Revolution,7,True,False,0,0,True,False,False,False,False,False,False
+24910,Cristian Anderson Penilla Caicedo,532438,11,New England Revolution,7,True,False,1,0,False,False,False,False,False,False,False
+4513,Carles Gil de Pareja Vicent,532438,11,New England Revolution,7,True,False,2,0,False,False,False,False,False,False,False
+164,Diego Santiago Fagúndez Pepe,532438,11,New England Revolution,7,True,False,3,0,False,False,False,False,False,False,False
+204,Tesho Akindele,532438,17,Orlando City SC,11,True,False,4,0,False,False,False,False,False,True,True
+166206,Brian White,532439,4,New York Red Bulls,6,True,False,0,0,True,False,False,False,False,False,False
+148640,Luis Argudo,532439,9,Columbus Crew,10,True,False,1,0,False,False,True,False,False,False,True
+5118,Pedro Miguel Martins Santos,532439,9,Columbus Crew,10,True,False,1,1,True,False,False,False,False,False,True
+539,Daniel Royer,532439,4,New York Red Bulls,6,True,False,1,2,False,False,True,False,False,False,False
+5118,Pedro Miguel Martins Santos,532439,9,Columbus Crew,10,True,False,2,2,True,True,False,False,False,False,True
+299,Jordan Morris,532434,18,Seattle Sounders FC,2,True,False,0,0,True,True,False,False,True,True,True
+16247,Lassi Lappalainen,532437,1,Montreal Impact,9,True,False,0,0,True,False,False,False,False,False,False
+18425,Orji Okwonkwo,532437,1,Montreal Impact,9,True,False,1,0,False,False,False,False,False,False,False
+16247,Lassi Lappalainen,532437,1,Montreal Impact,9,True,False,2,0,False,False,False,False,False,False,False
+18425,Orji Okwonkwo,532437,1,Montreal Impact,9,True,False,3,0,False,False,False,False,False,False,False
+343,Nick DeLeon,532440,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,False,False
+405,Jozy Altidore,532440,19,Toronto FC,4,True,False,1,0,False,False,False,False,False,False,False
+7485,Emmanuel Jorge Ledesma,532440,8043,FC Cincinnati,12,True,False,2,0,False,False,False,False,False,True,True
+39079,Lalas Abubakar,532441,15,LA Galaxy,8,True,False,0,0,True,False,False,False,False,False,False
+3199,Valeri Qazaishvili,532441,15,LA Galaxy,8,True,False,1,0,False,False,False,False,False,False,False
+114,Shea Salinas,532441,15,LA Galaxy,8,True,False,2,0,False,False,False,False,False,False,False
+426,Diego Iván Rubio Kostner,532441,12,Colorado Rapids,9,True,False,3,0,False,False,False,False,False,True,True
+51927,Cristhian Fabián Paredes Maciel,532442,20,Portland Timbers,6,True,False,0,0,True,False,False,False,False,False,False
+461673,Diego Hernán Váleri,532442,20,Portland Timbers,6,True,False,1,0,False,False,False,False,False,False,False
+51927,Cristhian Fabián Paredes Maciel,532442,20,Portland Timbers,6,True,False,2,0,False,False,False,False,False,False,False
+39099,Jeremy Ebobisse,532442,20,Portland Timbers,6,True,False,3,0,False,False,False,False,False,False,False
+352,David Romney,532443,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,False
+463608,Giancarlo González Castro,532443,1016,Atlanta United FC,2,True,False,1,0,False,False,False,False,False,False,False
+465274,Josef Alexander Martínez,532443,1016,Atlanta United FC,2,True,False,2,0,False,False,False,False,False,False,False
+17761,Chris Mavinga,532444,4,New York Red Bulls,6,True,False,0,0,True,False,False,False,False,False,False
+3,Kemar Lawrence,532444,4,New York Red Bulls,6,True,False,1,0,False,False,False,False,False,False,False
+124976,Diego Martín Rossi Marachlian,532445,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,True
+39056,Latif Blessing,532445,6490,Los Angeles FC,1,True,False,0,1,False,False,False,False,False,False,True
+204,Tesho Akindele,532446,17,Orlando City SC,11,True,False,0,0,True,False,False,False,False,False,False
+1152,Carlos Antonio Ascues Ávila,532446,17,Orlando City SC,11,True,False,1,0,False,False,False,False,False,False,False
+94823,Allan Enzo Cruz Leal,532447,8043,FC Cincinnati,12,True,False,0,0,True,False,False,False,False,True,False
+111517,In-Beom Hwang,532447,5,Vancouver Whitecaps FC,12,True,False,1,0,False,False,True,False,False,False,True
+10,Felipe Martins Campanholi,532447,5,Vancouver Whitecaps FC,12,True,False,1,1,True,True,False,False,False,False,True
+238,Kaiansu Kei Kamara,532448,1,Montreal Impact,9,True,False,0,0,True,False,False,False,False,False,True
+264,Evan Bush,532448,12,Colorado Rapids,9,True,False,0,1,False,False,True,False,False,False,False
+238,Kaiansu Kei Kamara,532448,12,Colorado Rapids,9,True,False,1,1,True,False,False,False,False,False,False
+238,Kaiansu Kei Kamara,532448,12,Colorado Rapids,9,True,False,2,1,False,False,False,False,False,False,False
+426,Diego Iván Rubio Kostner,532448,12,Colorado Rapids,9,True,False,3,1,False,False,False,False,False,False,False
+191,Maximiliano Urruti,532448,1,Montreal Impact,9,True,False,4,1,False,False,False,False,False,False,True
+4677,Saphir Sliti Taïder,532448,1,Montreal Impact,9,True,False,4,2,False,False,False,False,False,False,True
+198517,Andre Shinyashiki,532448,12,Colorado Rapids,9,True,False,4,3,False,False,False,False,False,False,False
+238,Kaiansu Kei Kamara,532448,12,Colorado Rapids,9,True,False,5,3,False,False,False,False,False,False,False
+2494,Nemanja Nikolić,532449,7,Chicago Fire,8,True,False,0,0,True,True,False,False,True,True,True
+21620,Alexander Ring,532450,2,New York City FC,1,True,False,0,0,True,False,False,False,False,True,True
+39123,Jefferson David Savarino Quintero,532450,14,Real Salt Lake,4,True,False,0,1,False,False,True,False,False,False,False
+8655,Albert Rusnák,532450,14,Real Salt Lake,4,True,False,1,1,True,False,False,False,False,False,False
+5884,Nick Besler,532450,14,Real Salt Lake,4,True,False,2,1,False,False,False,False,False,False,False
+26678,Magnus Eriksson,532451,15,LA Galaxy,8,True,False,0,0,True,False,False,False,False,True,False
+335,Gyasi Zardes,532451,9,Columbus Crew,10,True,False,1,0,False,False,True,True,False,True,True
+236,Ethan Finlay,532452,1015,Minnesota United FC,3,True,False,0,0,True,True,False,False,True,True,False
+530,Alejandro Bedoya,532453,16,Philadelphia Union,3,True,False,0,0,True,False,False,False,False,False,True
+1180,Marco Jhonfai Fabián De La Mora,532453,16,Philadelphia Union,3,True,False,0,1,False,False,False,False,False,False,True
+21624,Kacper Przybyłko,532453,16,Philadelphia Union,3,True,False,0,2,False,False,False,False,False,False,True
+50,Frédéric Brillant,532453,13401,DC United,5,True,False,0,3,False,False,False,False,False,True,False
+1180,Marco Jhonfai Fabián De La Mora,532453,16,Philadelphia Union,3,True,False,1,3,False,False,False,False,False,False,True
+21826,Fabrice Picault,532453,16,Philadelphia Union,3,True,False,1,4,False,False,False,False,False,False,True
+10497,Felipe Alejandro Gutiérrez Leiva,532454,8,Sporting Kansas City,11,True,False,0,0,True,False,False,False,False,False,True
+10497,Felipe Alejandro Gutiérrez Leiva,532454,8,Sporting Kansas City,11,True,False,0,1,False,False,False,False,False,False,True
+299,Jordan Morris,532454,18,Seattle Sounders FC,2,True,False,0,2,False,False,False,False,False,False,False
+417,Erik Hurtado,532454,8,Sporting Kansas City,11,True,False,1,2,False,False,False,False,False,False,True
+299,Jordan Morris,532454,18,Seattle Sounders FC,2,True,False,1,3,False,False,False,False,False,False,False
+18322,Alexandru Ionuț Mitriță,532455,2,New York City FC,1,True,False,0,0,True,False,False,False,False,False,False
+39078,Juan David Cabezas Núñez,532455,6,Houston Dynamo,10,True,False,1,0,False,False,True,False,False,False,True
+169,Mauro Andrés Manotas Páez,532455,6,Houston Dynamo,10,True,False,1,1,True,False,False,False,False,False,True
+77721,Valentín Mariano José Castellanos Giménez,532455,2,New York City FC,1,True,False,1,2,False,False,True,False,False,False,False
+77721,Valentín Mariano José Castellanos Giménez,532455,2,New York City FC,1,True,False,2,2,True,True,False,False,False,False,False
+272,Harry Shipp,532456,18,Seattle Sounders FC,2,True,False,0,0,True,False,False,False,False,False,False
+3501,Michael Mancienne,532456,11,New England Revolution,7,True,False,1,0,False,False,True,False,False,False,True
+28863,Gustavo Leonardo Bou,532456,11,New England Revolution,7,True,False,1,1,True,False,False,False,False,False,True
+272,Harry Shipp,532456,18,Seattle Sounders FC,2,True,False,1,2,False,False,True,False,False,False,False
+518,Marcelo Nicolás Lodeiro Benítez,532456,18,Seattle Sounders FC,2,True,False,2,2,True,False,False,False,False,False,False
+4513,Carles Gil de Pareja Vicent,532456,11,New England Revolution,7,True,False,3,2,False,False,True,True,False,False,True
+399,Darren Mattocks,532457,8043,FC Cincinnati,12,True,False,0,0,True,False,False,False,False,False,True
+7485,Emmanuel Jorge Ledesma,532457,8043,FC Cincinnati,12,True,False,0,1,False,False,False,False,False,False,True
+335,Gyasi Zardes,532457,9,Columbus Crew,10,True,False,0,2,False,False,False,False,False,False,False
+5118,Pedro Miguel Martins Santos,532457,9,Columbus Crew,10,True,False,1,2,False,False,True,True,False,False,False
+199918,Benji Michel,532458,17,Orlando City SC,11,True,False,0,0,True,False,False,False,False,True,True
+70,Patrick Mullins,532458,19,Toronto FC,4,True,False,0,1,False,False,True,True,False,True,False
+236,Ethan Finlay,532459,1015,Minnesota United FC,3,True,False,0,0,True,False,False,False,False,False,True
+206,Ryan Hollingshead,532459,13,FC Dallas,7,True,False,0,1,False,False,True,False,False,False,False
+75088,Hárold Santiago Mosquera Caicedo,532459,13,FC Dallas,7,True,False,1,1,True,False,False,False,False,False,False
+236,Ethan Finlay,532459,1015,Minnesota United FC,3,True,False,2,1,False,False,True,False,False,False,True
+39128,Reggie Cannon,532459,13,FC Dallas,7,True,False,2,2,True,False,False,False,False,False,False
+198512,Hassani Dotson,532459,1015,Minnesota United FC,3,True,False,3,2,False,False,True,False,False,False,True
+173903,Brandon Servania,532459,13,FC Dallas,7,True,False,3,3,True,False,False,False,False,False,False
+173903,Brandon Servania,532459,13,FC Dallas,7,True,False,4,3,False,False,False,False,False,False,False
+7278,Johnny Russell,532460,8,Sporting Kansas City,11,True,False,0,0,True,False,False,False,False,True,False
+151589,Corey Baird,532460,14,Real Salt Lake,4,True,False,1,0,False,False,True,False,False,False,True
+151589,Corey Baird,532460,14,Real Salt Lake,4,True,False,1,1,True,True,False,False,False,False,True
+7,Dax McCarty,532461,7,Chicago Fire,8,True,False,0,0,True,False,False,False,False,False,False
+2494,Nemanja Nikolić,532461,7,Chicago Fire,8,True,False,1,0,False,False,False,False,False,False,False
+4677,Saphir Sliti Taïder,532461,1,Montreal Impact,9,True,False,2,0,False,False,False,False,False,False,True
+2864,Bacary Sagna,532461,1,Montreal Impact,9,True,False,2,1,False,False,True,False,False,False,True
+1829,Bastian Schweinsteiger,532461,7,Chicago Fire,8,True,False,2,2,True,True,False,False,False,False,False
+188,Kellyn Acosta,532462,12,Colorado Rapids,9,True,False,0,0,True,False,False,False,False,False,False
+3199,Valeri Qazaishvili,532462,15,LA Galaxy,8,True,False,1,0,False,False,True,False,False,True,True
+426,Diego Iván Rubio Kostner,532462,12,Colorado Rapids,9,True,False,1,1,True,True,False,False,False,False,False
+4706,Sebastián Marcelo Blanco,532463,20,Portland Timbers,6,True,False,0,0,True,False,False,False,False,False,False
+166685,Thelonius Bair,532463,5,Vancouver Whitecaps FC,12,True,False,1,0,False,False,True,False,False,True,True
+94988,Marvin Loría,532463,20,Portland Timbers,6,True,False,1,1,True,False,False,False,False,False,False
+39099,Jeremy Ebobisse,532463,20,Portland Timbers,6,True,False,2,1,False,False,False,False,False,False,False
+465274,Josef Alexander Martínez,532464,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,False
+465274,Josef Alexander Martínez,532464,1016,Atlanta United FC,2,True,False,1,0,False,False,False,False,False,False,False
+25605,Heber Araujo dos Santos,532464,2,New York City FC,1,True,False,2,0,False,False,False,False,False,True,True
+21624,Kacper Przybyłko,532465,16,Philadelphia Union,3,True,False,0,0,True,False,False,False,False,False,False
+39035,Christian Ramírez,532465,6,Houston Dynamo,10,True,False,1,0,False,False,True,False,False,True,True
+39076,Jack Elliott,532465,16,Philadelphia Union,3,True,False,1,1,True,True,False,False,False,False,False
+39148,Paul Joseph Arriola Hendricks,532466,13401,DC United,5,True,False,0,0,True,False,False,False,False,False,False
+29075,Fabio Enrique Álvarez,532466,10,LA Galaxy,5,True,False,1,0,False,False,True,False,False,True,True
+28600,Lucas Rodríguez,532466,13401,DC United,5,True,False,1,1,True,True,False,False,False,False,False
+254,Jordan Harvey,532467,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,False
+39056,Latif Blessing,532467,6490,Los Angeles FC,1,True,False,1,0,False,False,False,False,False,False,False
+97567,Cristian Sleiker Cásseres Yepes,532467,4,New York Red Bulls,6,True,False,2,0,False,False,False,False,False,False,True
+166206,Brian White,532467,4,New York Red Bulls,6,True,False,2,1,False,False,True,False,False,False,True
+461321,Carlos Alberto Vela Garrido,532467,6490,Los Angeles FC,1,True,False,2,2,True,False,False,False,False,False,False
+75022,Eddie Livington Segura Martínez,532467,6490,Los Angeles FC,1,True,False,3,2,False,False,False,False,False,False,False
+204,Tesho Akindele,532468,17,Orlando City SC,11,True,False,0,0,True,True,False,False,True,True,False
+51498,Carlos Darwin Quintero Villalba,532469,1015,Minnesota United FC,3,True,False,0,0,True,True,False,False,True,True,False
+26911,Sam Johnson,532470,14,Real Salt Lake,4,True,False,0,0,True,False,False,False,False,False,False
+8655,Albert Rusnák,532470,14,Real Salt Lake,4,True,False,1,0,False,False,False,False,False,False,False
+151589,Corey Baird,532470,14,Real Salt Lake,4,True,False,2,0,False,False,False,False,False,False,False
+4126,Zlatan Ibrahimović,532471,10,LA Galaxy,5,True,False,0,0,True,False,False,False,False,False,False
+4126,Zlatan Ibrahimović,532471,10,LA Galaxy,5,True,False,1,0,False,False,False,False,False,False,False
+28709,Jorge Luis Moreira Ferreira,532472,20,Portland Timbers,6,True,False,0,0,True,False,False,False,False,False,False
+29111,Brian Leonel Fernández,532472,20,Portland Timbers,6,True,False,1,0,False,False,False,False,False,False,False
+2494,Nemanja Nikolić,532472,7,Chicago Fire,8,True,False,2,0,False,False,False,False,False,False,True
+29111,Brian Leonel Fernández,532472,20,Portland Timbers,6,True,False,2,1,False,False,False,False,False,False,False
+202,C.J. Sapong,532472,7,Chicago Fire,8,True,False,3,1,False,False,False,False,False,False,True
+2123,Marc Rzatkowski,532473,4,New York Red Bulls,6,True,False,0,0,True,False,False,False,False,True,False
+28863,Gustavo Leonardo Bou,532473,11,New England Revolution,7,True,False,1,0,False,False,True,True,False,True,True
+94823,Allan Enzo Cruz Leal,532474,8043,FC Cincinnati,12,True,False,0,0,True,False,False,False,False,True,False
+77721,Valentín Mariano José Castellanos Giménez,532474,2,New York City FC,1,True,False,1,0,False,False,True,False,False,False,True
+25605,Heber Araujo dos Santos,532474,2,New York City FC,1,True,False,1,1,True,False,False,False,False,False,True
+77721,Valentín Mariano José Castellanos Giménez,532474,2,New York City FC,1,True,False,1,2,False,False,False,False,False,False,True
+25605,Heber Araujo dos Santos,532474,2,New York City FC,1,True,False,1,3,False,False,False,False,False,False,True
+19,Jonathan Osorio,532475,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,False,True
+5118,Pedro Miguel Martins Santos,532475,9,Columbus Crew,10,True,False,0,1,False,False,True,False,False,False,False
+47,David Accam,532475,9,Columbus Crew,10,True,False,1,1,True,False,False,False,False,False,False
+405,Jozy Altidore,532475,19,Toronto FC,4,True,False,2,1,False,False,True,True,False,False,True
+16247,Lassi Lappalainen,532476,1,Montreal Impact,9,True,False,0,0,True,False,False,False,False,False,False
+16247,Lassi Lappalainen,532476,1,Montreal Impact,9,True,False,1,0,False,False,False,False,False,False,False
+18425,Orji Okwonkwo,532476,1,Montreal Impact,9,True,False,2,0,False,False,False,False,False,False,False
+13029,Zdenek Ondrášek,532476,13,FC Dallas,7,True,False,3,0,False,False,False,False,False,False,True
+18998,Reto Ziegler,532476,13,FC Dallas,7,True,False,3,1,False,False,False,False,False,False,True
+206,Ryan Hollingshead,532476,13,FC Dallas,7,True,False,3,2,False,False,True,True,False,False,True
+2494,Nemanja Nikolić,532477,7,Chicago Fire,8,True,False,0,0,True,False,False,False,False,False,False
+2494,Nemanja Nikolić,532477,7,Chicago Fire,8,True,False,1,0,False,False,False,False,False,False,False
+4622,Luís Carlos Almeida da Cunha,532478,17,Orlando City SC,11,True,False,0,0,True,False,False,False,False,True,True
+39083,Abu Danladi,532478,1015,Minnesota United FC,3,True,False,0,1,False,False,True,True,False,True,False
+118,Chris Wondolowski,532479,15,LA Galaxy,8,True,False,0,0,True,False,False,False,False,True,True
+425,Benny Feilhaber,532479,8,Sporting Kansas City,11,True,False,0,1,False,False,True,False,False,False,False
+166260,Graham Smith,532479,8,Sporting Kansas City,11,True,False,1,1,True,True,False,False,False,False,False
+426,Diego Iván Rubio Kostner,532480,12,Colorado Rapids,9,True,False,0,0,True,False,False,False,False,False,True
+426,Diego Iván Rubio Kostner,532480,12,Colorado Rapids,9,True,False,0,1,False,False,False,False,False,False,True
+169,Mauro Andrés Manotas Páez,532480,6,Houston Dynamo,10,True,False,0,2,False,False,False,False,False,False,False
+169,Mauro Andrés Manotas Páez,532480,6,Houston Dynamo,10,True,False,1,2,False,False,True,True,False,False,False
+51424,Raúl Mario Ruidíaz Misitich,532481,18,Seattle Sounders FC,2,True,False,0,0,True,False,False,False,False,False,True
+4126,Zlatan Ibrahimović,532481,10,LA Galaxy,5,True,False,0,1,False,False,True,False,False,False,False
+4126,Zlatan Ibrahimović,532481,10,LA Galaxy,5,True,False,1,1,True,False,False,False,False,False,False
+2206,Jørgen Skjelvik,532481,18,Seattle Sounders FC,2,True,False,2,1,False,False,True,True,False,False,True
+461321,Carlos Alberto Vela Garrido,532482,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,True
+3928,Adama Valentin Diomande,532482,6490,Los Angeles FC,1,True,False,0,1,False,False,False,False,False,False,True
+2118,José Yordy Reyna Serna,532483,5,Vancouver Whitecaps FC,12,True,False,0,0,True,True,False,False,True,True,False
+28595,Leandro Martín González Pírez,532484,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,True
+465274,Josef Alexander Martínez,532484,1016,Atlanta United FC,2,True,False,0,1,False,False,False,False,False,False,True
+77721,Valentín Mariano José Castellanos Giménez,532485,2,New York City FC,1,True,False,0,0,True,True,False,False,True,True,False
+28416,Alejandro Romero Gamarra,532486,4,New York Red Bulls,6,True,False,0,0,True,False,False,False,False,False,True
+444,Ola Williams Kamara,532486,13401,DC United,5,True,False,0,1,False,False,True,False,False,True,False
+539,Daniel Royer,532486,4,New York Red Bulls,6,True,False,1,1,True,True,False,False,False,False,True
+124976,Diego Martín Rossi Marachlian,532487,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,532487,6490,Los Angeles FC,1,True,False,1,0,False,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,532487,6490,Los Angeles FC,1,True,False,2,0,False,False,False,False,False,False,False
+18427,Josh Pérez,532487,6490,Los Angeles FC,1,True,False,3,0,False,False,False,False,False,False,False
+417,Erik Hurtado,532488,8,Sporting Kansas City,11,True,False,0,0,True,True,False,False,True,True,False
+465274,Josef Alexander Martínez,532489,1016,Atlanta United FC,2,True,False,0,0,True,True,False,False,True,True,True
+296,Cristian Roldan,532490,18,Seattle Sounders FC,2,True,False,0,0,True,False,False,False,False,False,True
+51424,Raúl Mario Ruidíaz Misitich,532490,18,Seattle Sounders FC,2,True,False,0,1,False,False,False,False,False,False,True
+461673,Diego Hernán Váleri,532490,20,Portland Timbers,6,True,False,0,2,False,False,False,False,False,True,False
+421,Alex Muyl,532491,4,New York Red Bulls,6,True,False,0,0,True,False,False,False,False,True,True
+18632,Maximiliano Nicol Moralez,532491,2,New York City FC,1,True,False,0,1,False,False,True,False,False,False,False
+25605,Heber Araujo dos Santos,532491,2,New York City FC,1,True,False,1,1,True,True,False,False,False,False,False
+10972,Wilfried Aimeric Zahibo,532492,11,New England Revolution,7,True,False,0,0,True,False,False,False,False,False,False
+39033,Francisco Javier Calvo Quesada,532492,7,Chicago Fire,8,True,False,1,0,False,False,True,False,False,True,True
+28863,Gustavo Leonardo Bou,532492,11,New England Revolution,7,True,False,1,1,True,True,False,False,False,False,False
+21624,Kacper Przybyłko,532493,16,Philadelphia Union,3,True,False,0,0,True,False,False,False,False,False,False
+166400,Brenden Aaronson,532493,16,Philadelphia Union,3,True,False,1,0,False,False,False,False,False,False,False
+198,Ilson Pereira Dias Júnior,532493,16,Philadelphia Union,3,True,False,2,0,False,False,False,False,False,False,False
+344,Luciano Federico Acosta,532493,13401,DC United,5,True,False,3,0,False,False,False,False,False,True,True
+1468,Bojan Krkíc Pérez,532494,1,Montreal Impact,9,True,False,0,0,True,False,False,False,False,True,True
+30,Marky Delgado,532494,19,Toronto FC,4,True,False,0,1,False,False,True,False,False,False,False
+16,Justin Morrow,532494,19,Toronto FC,4,True,False,1,1,True,True,False,False,False,False,False
+94,João Jimmy Plata Cotera,532496,14,Real Salt Lake,4,True,False,0,0,True,False,False,False,False,False,False
+39123,Jefferson David Savarino Quintero,532496,14,Real Salt Lake,4,True,False,1,0,False,False,False,False,False,False,False
+39073,Jake Nerwinski,532497,5,Vancouver Whitecaps FC,12,True,False,0,0,True,False,False,False,False,True,True
+24548,Judson Silva Tavares,532497,15,LA Galaxy,8,True,False,0,1,False,False,True,False,False,False,False
+118,Chris Wondolowski,532497,15,LA Galaxy,8,True,False,1,1,True,False,False,False,False,False,False
+24903,Andrés Lorenzo Ríos,532497,15,LA Galaxy,8,True,False,2,1,False,False,False,False,False,False,False
+335,Gyasi Zardes,532498,9,Columbus Crew,10,True,False,0,0,True,False,False,False,False,False,True
+335,Gyasi Zardes,532498,9,Columbus Crew,10,True,False,0,1,False,False,False,False,False,False,True
+95059,Luis Mario Díaz Espinoza,532498,9,Columbus Crew,10,True,False,0,2,False,False,False,False,False,False,True
+275,Kekuta Manneh,532498,8043,FC Cincinnati,12,True,False,0,3,False,False,False,False,False,True,False
+18998,Reto Ziegler,532495,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,False,False
+39132,Jesus Ferreira,532495,13,FC Dallas,7,True,False,1,0,False,False,False,False,False,False,False
+13029,Zdenek Ondrášek,532495,13,FC Dallas,7,True,False,2,0,False,False,False,False,False,False,False
+13029,Zdenek Ondrášek,532495,13,FC Dallas,7,True,False,3,0,False,False,False,False,False,False,False
+39102,José Rodríguez,532495,6,Houston Dynamo,10,True,False,4,0,False,False,False,False,False,True,True
+190,Michael David Barrios Puerta,532495,13,FC Dallas,7,True,False,4,1,False,False,False,False,False,False,False
+4126,Zlatan Ibrahimović,532499,10,LA Galaxy,5,True,False,0,0,True,False,False,False,False,False,True
+39056,Latif Blessing,532499,6490,Los Angeles FC,1,True,False,0,1,False,False,True,False,False,False,False
+4126,Zlatan Ibrahimović,532499,10,LA Galaxy,5,True,False,1,1,True,False,False,False,False,False,True
+28755,Cristian David Pavón,532499,10,LA Galaxy,5,True,False,1,2,False,False,False,False,False,False,True
+39056,Latif Blessing,532499,6490,Los Angeles FC,1,True,False,1,3,False,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,532499,6490,Los Angeles FC,1,True,False,2,3,False,False,True,True,False,False,False
+2118,José Yordy Reyna Serna,532500,5,Vancouver Whitecaps FC,12,True,False,0,0,True,False,False,False,False,True,True
+4591,Doneil Henry,532500,1,Montreal Impact,9,True,False,0,1,False,False,True,False,False,False,False
+191,Maximiliano Urruti,532500,1,Montreal Impact,9,True,False,1,1,True,True,False,False,False,False,False
+39082,Jonathan Lewis,532501,12,Colorado Rapids,9,True,False,0,0,True,False,False,False,False,False,True
+39082,Jonathan Lewis,532501,12,Colorado Rapids,9,True,False,0,1,False,False,False,False,False,False,True
+5118,Pedro Miguel Martins Santos,532502,9,Columbus Crew,10,True,False,0,0,True,False,False,False,False,True,False
+46609,Przemysław Frankowski,532502,7,Chicago Fire,8,True,False,1,0,False,False,True,True,False,True,True
+444,Ola Williams Kamara,532503,13401,DC United,5,True,False,0,0,True,False,False,False,False,False,True
+39148,Paul Joseph Arriola Hendricks,532503,13401,DC United,5,True,False,0,1,False,False,False,False,False,False,True
+444,Ola Williams Kamara,532503,13401,DC United,5,True,False,0,2,False,False,False,False,False,False,True
+17580,Nicolas Benezet,532504,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,True,True
+28863,Gustavo Leonardo Bou,532504,11,New England Revolution,7,True,False,0,1,False,False,True,True,False,True,False
+465274,Josef Alexander Martínez,532505,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,True,True
+166400,Brenden Aaronson,532505,16,Philadelphia Union,3,True,False,0,1,False,False,True,False,False,False,False
+21624,Kacper Przybyłko,532505,16,Philadelphia Union,3,True,False,1,1,True,False,False,False,False,False,False
+77351,Sergio Henrique Santos Gomes,532505,16,Philadelphia Union,3,True,False,2,1,False,False,False,False,False,False,False
+206,Ryan Hollingshead,532506,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,False,False
+190,Michael David Barrios Puerta,532506,13,FC Dallas,7,True,False,1,0,False,False,False,False,False,False,False
+13029,Zdenek Ondrášek,532506,13,FC Dallas,7,True,False,2,0,False,False,False,False,False,False,False
+7485,Emmanuel Jorge Ledesma,532506,8043,FC Cincinnati,12,True,False,3,0,False,False,False,False,False,True,True
+7278,Johnny Russell,532507,8,Sporting Kansas City,11,True,False,0,0,True,True,False,False,True,True,False
+25605,Heber Araujo dos Santos,532508,2,New York City FC,1,True,False,0,0,True,False,False,False,False,False,True
+868,Gary Mackay-Steven,532508,2,New York City FC,1,True,False,0,1,False,False,False,False,False,False,True
+2118,José Yordy Reyna Serna,532508,5,Vancouver Whitecaps FC,12,True,False,0,2,False,False,False,False,False,True,False
+18322,Alexandru Ionuț Mitriță,532508,2,New York City FC,1,True,False,1,2,False,False,False,False,False,False,True
+461673,Diego Hernán Váleri,532509,20,Portland Timbers,6,True,False,0,0,True,True,False,False,True,True,False
+26678,Magnus Eriksson,532510,15,LA Galaxy,8,True,False,0,0,True,False,False,False,False,False,False
+118,Chris Wondolowski,532510,15,LA Galaxy,8,True,False,1,0,False,False,False,False,False,False,False
+118,Chris Wondolowski,532510,15,LA Galaxy,8,True,False,2,0,False,False,False,False,False,False,False
+51424,Raúl Mario Ruidíaz Misitich,532511,18,Seattle Sounders FC,2,True,False,0,0,True,False,False,False,False,False,False
+296,Cristian Roldan,532511,18,Seattle Sounders FC,2,True,False,1,0,False,False,False,False,False,False,False
+4126,Zlatan Ibrahimović,532511,10,LA Galaxy,5,True,False,2,0,False,False,False,False,False,False,True
+40120,Carlos Uriel Antuna Romero,532511,10,LA Galaxy,5,True,False,2,1,False,False,True,False,False,False,True
+299,Jordan Morris,532511,18,Seattle Sounders FC,2,True,False,2,2,True,False,False,False,False,False,False
+2206,Jørgen Skjelvik,532511,10,LA Galaxy,5,True,False,3,2,False,False,True,False,False,False,True
+296,Cristian Roldan,532511,18,Seattle Sounders FC,2,True,False,3,3,True,True,False,False,False,False,False
+149730,Mason Toye,532512,1015,Minnesota United FC,3,True,False,0,0,True,False,False,False,False,False,True
+149730,Mason Toye,532512,1015,Minnesota United FC,3,True,False,0,1,False,False,False,False,False,False,True
+75101,Juan Fernando Caicedo Benítez,532513,11,New England Revolution,7,True,False,0,0,True,False,False,False,False,True,True
+148679,Jesús Manuel Medina Maldonado,532513,2,New York City FC,1,True,False,0,1,False,False,True,False,False,False,False
+148679,Jesús Manuel Medina Maldonado,532513,2,New York City FC,1,True,False,1,1,True,True,False,False,False,False,False
+70,Patrick Mullins,532514,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,False,True
+343,Nick DeLeon,532514,19,Toronto FC,4,True,False,0,1,False,False,False,False,False,False,True
+30,Marky Delgado,532514,19,Toronto FC,4,True,False,0,2,False,False,False,False,False,False,True
+17,Michael Bradley,532514,19,Toronto FC,4,True,False,0,3,False,False,False,False,False,False,True
+17580,Nicolas Benezet,532514,19,Toronto FC,4,True,False,0,4,False,False,False,False,False,False,True
+7485,Emmanuel Jorge Ledesma,532514,8043,FC Cincinnati,12,True,False,0,5,False,False,False,False,False,True,False
+199179,Adrien Perez,532515,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,True
+4622,Luís Carlos Almeida da Cunha,532515,17,Orlando City SC,11,True,False,0,1,False,False,True,False,False,False,False
+199918,Benji Michel,532515,17,Orlando City SC,11,True,False,1,1,True,False,False,False,False,False,False
+124976,Diego Martín Rossi Marachlian,532515,6490,Los Angeles FC,1,True,False,2,1,False,False,True,True,False,False,True
+198517,Andre Shinyashiki,532234,12,Colorado Rapids,9,True,False,0,0,True,False,False,False,False,False,False
+198517,Andre Shinyashiki,532234,12,Colorado Rapids,9,True,False,1,0,False,False,False,False,False,False,False
+425,Benny Feilhaber,532516,8,Sporting Kansas City,11,True,False,0,0,True,False,False,False,False,True,True
+39099,Jeremy Ebobisse,532516,20,Portland Timbers,6,True,False,0,1,False,False,True,False,False,False,False
+29111,Brian Leonel Fernández,532516,20,Portland Timbers,6,True,False,1,1,True,True,False,False,False,False,False
+18322,Alexandru Ionuț Mitriță,725026,2,New York City FC,1,True,False,0,0,True,False,False,False,False,True,False
+4824,Alejandro Pozuelo Melero,725026,19,Toronto FC,4,True,False,1,0,False,False,True,True,False,True,True
+169,Mauro Andrés Manotas Páez,725027,6,Houston Dynamo,10,True,False,0,0,True,False,False,False,False,False,False
+39035,Christian Ramírez,725027,6,Houston Dynamo,10,True,False,1,0,False,False,False,False,False,False,False
+184109,Cole Bassett,725028,12,Colorado Rapids,9,True,False,0,0,True,False,False,False,False,False,False
+463608,Giancarlo González Castro,725028,10,LA Galaxy,5,True,False,1,0,False,False,True,False,False,True,True
+398,Gabriel Nicolás Mezquida Sero,725028,12,Colorado Rapids,9,True,False,1,1,True,True,False,False,False,False,False
+21641,Damir Kreilach,725029,14,Real Salt Lake,4,True,False,0,0,True,True,False,False,True,True,False
+118,Chris Wondolowski,725030,15,LA Galaxy,8,True,False,0,0,True,False,False,False,False,True,True
+39922,Keaton Alexander Parks,725030,2,New York City FC,1,True,False,0,1,False,False,True,False,False,False,False
+18322,Alexandru Ionuț Mitriță,725030,2,New York City FC,1,True,False,1,1,True,True,False,False,False,False,False
+202,C.J. Sapong,725031,7,Chicago Fire,8,True,False,0,0,True,False,False,False,False,False,False
+46609,Przemysław Frankowski,725031,7,Chicago Fire,8,True,False,1,0,False,False,False,False,False,False,False
+202,C.J. Sapong,725031,7,Chicago Fire,8,True,False,2,0,False,False,False,False,False,False,False
+2494,Nemanja Nikolić,725031,7,Chicago Fire,8,True,False,3,0,False,False,False,False,False,False,False
+465274,Josef Alexander Martínez,725032,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,True,False
+335,Gyasi Zardes,725032,9,Columbus Crew,10,True,False,1,0,False,False,True,False,False,False,True
+95059,Luis Mario Díaz Espinoza,725032,9,Columbus Crew,10,True,False,1,1,True,False,False,False,False,False,True
+39087,Miles Robinson,725032,9,Columbus Crew,10,True,False,1,2,False,False,False,False,False,False,True
+94823,Allan Enzo Cruz Leal,725033,8043,FC Cincinnati,12,True,False,0,0,True,True,False,False,True,True,True
+204,Tesho Akindele,725034,11,New England Revolution,7,True,False,0,0,True,False,False,False,False,False,True
+4622,Luís Carlos Almeida da Cunha,725034,17,Orlando City SC,11,True,False,0,1,False,False,True,False,False,False,False
+24910,Cristian Anderson Penilla Caicedo,725034,11,New England Revolution,7,True,False,1,1,True,False,False,False,False,False,True
+28863,Gustavo Leonardo Bou,725034,11,New England Revolution,7,True,False,1,2,False,False,False,False,False,False,True
+310,Dom Dwyer,725034,17,Orlando City SC,11,True,False,1,3,False,False,False,False,False,False,False
+4622,Luís Carlos Almeida da Cunha,725034,17,Orlando City SC,11,True,False,2,3,False,False,True,True,False,False,False
+21624,Kacper Przybyłko,725035,16,Philadelphia Union,3,True,False,0,0,True,False,False,False,False,True,False
+461321,Carlos Alberto Vela Garrido,725035,6490,Los Angeles FC,1,True,False,1,0,False,False,True,True,False,True,True
+111517,In-Beom Hwang,725036,5,Vancouver Whitecaps FC,12,True,False,0,0,True,False,False,False,False,False,False
+169,Mauro Andrés Manotas Páez,725036,6,Houston Dynamo,10,True,False,1,0,False,False,True,False,False,True,True
+5433,Fredy Henkyer Montero Muñoz,725036,5,Vancouver Whitecaps FC,12,True,False,1,1,True,True,False,False,False,False,False
+17445,Bill Tuiloma,532531,13401,DC United,5,True,False,0,0,True,True,False,False,True,True,True
+22,Tsubasa Endoh,532529,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,False,False
+4824,Alejandro Pozuelo Melero,532529,19,Toronto FC,4,True,False,1,0,False,False,False,False,False,False,False
+196,Keegan Rosenberry,532529,12,Colorado Rapids,9,True,False,2,0,False,False,False,False,False,False,True
+752,Sam Nicholson,532529,12,Colorado Rapids,9,True,False,2,1,False,False,True,False,False,False,True
+19,Jonathan Osorio,532529,19,Toronto FC,4,True,False,2,2,True,True,False,False,False,False,False
+8655,Albert Rusnák,532530,14,Real Salt Lake,4,True,False,0,0,True,False,False,False,False,True,True
+51498,Carlos Darwin Quintero Villalba,532530,1015,Minnesota United FC,3,True,False,0,1,False,False,True,False,False,False,False
+51498,Carlos Darwin Quintero Villalba,532530,1015,Minnesota United FC,3,True,False,1,1,True,False,False,False,False,False,False
+236,Ethan Finlay,532530,1015,Minnesota United FC,3,True,False,2,1,False,False,False,False,False,False,False
+299,Jordan Morris,532528,18,Seattle Sounders FC,2,True,False,0,0,True,False,False,False,False,False,False
+518,Marcelo Nicolás Lodeiro Benítez,532528,18,Seattle Sounders FC,2,True,False,1,0,False,False,False,False,False,False,False
+557,Aaron Long,532528,4,New York Red Bulls,6,True,False,2,0,False,False,False,False,False,False,True
+28416,Alejandro Romero Gamarra,532528,4,New York Red Bulls,6,True,False,2,1,False,False,True,False,False,False,True
+25,Sean Davis,532528,18,Seattle Sounders FC,2,True,False,2,2,True,False,False,False,False,False,False
+518,Marcelo Nicolás Lodeiro Benítez,532528,18,Seattle Sounders FC,2,True,False,3,2,False,False,False,False,False,False,False
+10497,Felipe Alejandro Gutiérrez Leiva,532532,8,Sporting Kansas City,11,True,False,0,0,True,False,False,False,False,False,True
+4126,Zlatan Ibrahimović,532532,10,LA Galaxy,5,True,False,0,1,False,False,True,False,False,False,False
+51697,Joe Benny Corona Crespín,532532,10,LA Galaxy,5,True,False,1,1,True,False,False,False,False,False,False
+4126,Zlatan Ibrahimović,532532,10,LA Galaxy,5,True,False,2,1,False,False,False,False,False,False,False
+40120,Carlos Uriel Antuna Romero,532532,10,LA Galaxy,5,True,False,3,1,False,False,False,False,False,False,False
+332,Sebastian Lletget,532532,10,LA Galaxy,5,True,False,4,1,False,False,False,False,False,False,False
+332,Sebastian Lletget,532532,10,LA Galaxy,5,True,False,5,1,False,False,False,False,False,False,False
+4126,Zlatan Ibrahimović,532532,10,LA Galaxy,5,True,False,6,1,False,False,False,False,False,False,False
+10497,Felipe Alejandro Gutiérrez Leiva,532532,8,Sporting Kansas City,11,True,False,7,1,False,False,False,False,False,False,True
+465274,Josef Alexander Martínez,532533,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,True
+465274,Josef Alexander Martínez,532533,1016,Atlanta United FC,2,True,False,0,1,False,False,False,False,False,False,True
+149728,Kyle Duncan,532534,4,New York Red Bulls,6,True,False,0,0,True,False,False,False,False,False,True
+539,Daniel Royer,532534,4,New York Red Bulls,6,True,False,0,1,False,False,False,False,False,False,True
+246,Justin Meram,532536,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,False
+4209,Bradley Guzan,532536,15,LA Galaxy,8,True,False,1,0,False,False,True,False,False,True,True
+890,Emerson Hyndman,532536,1016,Atlanta United FC,2,True,False,1,1,True,False,False,False,False,False,False
+28713,Gonzalo Martínez,532536,1016,Atlanta United FC,2,True,False,2,1,False,False,False,False,False,False,False
+335,Gyasi Zardes,532537,9,Columbus Crew,10,True,False,0,0,True,False,False,False,False,True,True
+5433,Fredy Henkyer Montero Muñoz,532537,5,Vancouver Whitecaps FC,12,True,False,0,1,False,False,True,True,False,True,False
+310,Dom Dwyer,532541,17,Orlando City SC,11,True,False,0,0,True,False,False,False,False,True,True
+39060,Alberth Josué Elis Martínez,532541,6,Houston Dynamo,10,True,False,0,1,False,False,True,False,False,False,False
+39035,Christian Ramírez,532541,6,Houston Dynamo,10,True,False,1,1,True,True,False,False,False,False,False
+5096,Gerso Fernandes,532542,8,Sporting Kansas City,11,True,False,0,0,True,False,False,False,False,False,False
+7342,Tommy Smith,532542,8,Sporting Kansas City,11,True,False,1,0,False,False,False,False,False,False,False
+238,Kaiansu Kei Kamara,532542,12,Colorado Rapids,9,True,False,2,0,False,False,False,False,False,False,True
+426,Diego Iván Rubio Kostner,532542,12,Colorado Rapids,9,True,False,2,1,False,False,True,False,False,False,True
+7342,Tommy Smith,532542,12,Colorado Rapids,9,True,False,2,2,True,True,False,False,False,False,True
+4126,Zlatan Ibrahimović,532543,10,LA Galaxy,5,True,False,0,0,True,False,False,False,False,False,False
+16247,Lassi Lappalainen,532543,1,Montreal Impact,9,True,False,1,0,False,False,True,False,False,True,True
+40120,Carlos Uriel Antuna Romero,532543,10,LA Galaxy,5,True,False,1,1,True,True,False,False,False,False,False
+22,Tsubasa Endoh,532544,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,True,True
+461321,Carlos Alberto Vela Garrido,532544,6490,Los Angeles FC,1,True,False,0,1,False,False,True,True,False,True,False
+77721,Valentín Mariano José Castellanos Giménez,532538,2,New York City FC,1,True,False,0,0,True,False,False,False,False,True,True
+13029,Zdenek Ondrášek,532538,13,FC Dallas,7,True,False,0,1,False,False,True,True,False,True,False
+166438,Tom Barlow,532547,4,New York Red Bulls,6,True,False,0,0,True,False,False,False,False,False,False
+539,Daniel Royer,532547,4,New York Red Bulls,6,True,False,1,0,False,False,False,False,False,False,False
+28600,Lucas Rodríguez,532546,13401,DC United,5,True,False,0,0,True,False,False,False,False,False,False
+50,Frédéric Brillant,532546,13401,DC United,5,True,False,1,0,False,False,False,False,False,False,False
+18322,Alexandru Ionuț Mitriță,532548,2,New York City FC,1,True,False,0,0,True,False,False,False,False,False,False
+18322,Alexandru Ionuț Mitriță,532548,2,New York City FC,1,True,False,1,0,False,False,False,False,False,False,False
+18322,Alexandru Ionuț Mitriță,532548,2,New York City FC,1,True,False,2,0,False,False,False,False,False,False,False
+28713,Gonzalo Martínez,532548,1016,Atlanta United FC,2,True,False,3,0,False,False,False,False,False,True,True
+25605,Heber Araujo dos Santos,532548,2,New York City FC,1,True,False,3,1,False,False,False,False,False,False,False
+46137,Botond Baráth,532549,8,Sporting Kansas City,11,True,False,0,0,True,False,False,False,False,True,True
+293,Osvaldo Alonso Moreno,532549,1015,Minnesota United FC,3,True,False,0,1,False,False,True,False,False,False,False
+198512,Hassani Dotson,532549,1015,Minnesota United FC,3,True,False,1,1,True,True,False,False,False,False,False
+28755,Cristian David Pavón,532550,10,LA Galaxy,5,True,False,0,0,True,False,False,False,False,False,True
+4126,Zlatan Ibrahimović,532550,10,LA Galaxy,5,True,False,0,1,False,False,False,False,False,False,True
+4646,Chinedum Onuoha,532550,14,Real Salt Lake,4,True,False,0,2,False,False,False,False,False,True,False
+461321,Carlos Alberto Vela Garrido,532551,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,False
+314,Tyler Miller,532551,6,Houston Dynamo,10,True,False,1,0,False,False,True,False,False,True,True
+124976,Diego Martín Rossi Marachlian,532551,6490,Los Angeles FC,1,True,False,1,1,True,False,False,False,False,False,False
+75280,Eduard Andrés Atuesta Velasco,532551,6490,Los Angeles FC,1,True,False,2,1,False,False,False,False,False,False,False
+39099,Jeremy Ebobisse,532552,20,Portland Timbers,6,True,False,0,0,True,False,False,False,False,False,False
+39099,Jeremy Ebobisse,532552,20,Portland Timbers,6,True,False,1,0,False,False,False,False,False,False,False
+28863,Gustavo Leonardo Bou,532552,11,New England Revolution,7,True,False,2,0,False,False,False,False,False,False,True
+4513,Carles Gil de Pareja Vicent,532552,11,New England Revolution,7,True,False,2,1,False,False,True,True,False,False,True
+39114,Jackson Yueill,532553,15,LA Galaxy,8,True,False,0,0,True,False,False,False,False,True,False
+530,Alejandro Bedoya,532553,16,Philadelphia Union,3,True,False,1,0,False,False,True,False,False,False,True
+21624,Kacper Przybyłko,532553,16,Philadelphia Union,3,True,False,1,1,True,True,False,False,False,False,True
+405,Jozy Altidore,532554,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,False,True
+2084,Aleksandar Katai,532554,7,Chicago Fire,8,True,False,0,1,False,False,True,False,False,False,False
+212,Fabian Herbers,532554,7,Chicago Fire,8,True,False,1,1,True,False,False,False,False,False,False
+5834,Omar Alejandro González,532554,19,Toronto FC,4,True,False,2,1,False,False,True,True,False,False,True
+94823,Allan Enzo Cruz Leal,532555,8043,FC Cincinnati,12,True,False,0,0,True,False,False,False,False,True,False
+199918,Benji Michel,532555,17,Orlando City SC,11,True,False,1,0,False,False,True,True,False,True,True
+14427,Youness Mokhtar,532556,9,Columbus Crew,10,True,False,0,0,True,False,False,False,False,False,False
+5118,Pedro Miguel Martins Santos,532556,9,Columbus Crew,10,True,False,1,0,False,False,False,False,False,False,False
+39068,Julian Gressel,532557,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,True,True
+1468,Bojan Krkíc Pérez,532557,1,Montreal Impact,9,True,False,0,1,False,False,True,True,False,True,False
+166,Teal Bunbury,532558,11,New England Revolution,7,True,False,0,0,True,False,False,False,False,False,False
+28863,Gustavo Leonardo Bou,532558,11,New England Revolution,7,True,False,1,0,False,False,False,False,False,False,False
+7433,Jack Price,532560,12,Colorado Rapids,9,True,False,0,0,True,False,False,False,False,False,False
+426,Diego Iván Rubio Kostner,532560,12,Colorado Rapids,9,True,False,1,0,False,False,False,False,False,False,False
+238,Kaiansu Kei Kamara,532560,12,Colorado Rapids,9,True,False,2,0,False,False,False,False,False,False,False
+4706,Sebastián Marcelo Blanco,532561,20,Portland Timbers,6,True,False,0,0,True,False,False,False,False,False,True
+5900,Krisztián Németh,532561,8,Sporting Kansas City,11,True,False,0,1,False,False,True,False,False,False,False
+323,Daniel Salloi,532561,8,Sporting Kansas City,11,True,False,1,1,True,False,False,False,False,False,False
+224,Dairon Estibens Asprilla Rivas,532561,20,Portland Timbers,6,True,False,2,1,False,False,True,True,False,False,True
+4591,Doneil Henry,532562,5,Vancouver Whitecaps FC,12,True,False,0,0,True,False,False,False,False,False,True
+4126,Zlatan Ibrahimović,532562,10,LA Galaxy,5,True,False,0,1,False,False,True,False,False,False,False
+166685,Thelonius Bair,532562,5,Vancouver Whitecaps FC,12,True,False,1,1,True,False,False,False,False,False,True
+40120,Carlos Uriel Antuna Romero,532562,10,LA Galaxy,5,True,False,1,2,False,False,True,False,False,False,False
+514,Tosaint Ricketts,532562,5,Vancouver Whitecaps FC,12,True,False,2,2,True,False,False,False,False,False,True
+200,Chris Pontius,532562,10,LA Galaxy,5,True,False,2,3,False,False,True,False,False,False,False
+146442,Michaell Anthony Chirinos Cortez,532562,5,Vancouver Whitecaps FC,12,True,False,3,3,True,True,False,False,False,False,True
+461321,Carlos Alberto Vela Garrido,532563,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,True,True
+24176,Michael Boxall,532563,1015,Minnesota United FC,3,True,False,0,1,False,False,True,True,False,True,False
+151589,Corey Baird,532564,14,Real Salt Lake,4,True,False,0,0,True,False,False,False,False,False,False
+5227,Tomás Martínez,532564,6,Houston Dynamo,10,True,False,1,0,False,False,True,False,False,True,True
+39123,Jefferson David Savarino Quintero,532564,14,Real Salt Lake,4,True,False,1,1,True,True,False,False,False,False,False
+299,Jordan Morris,532565,18,Seattle Sounders FC,2,True,False,0,0,True,True,False,False,True,True,True
+225,Darlington Nagbe,532566,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,False
+24910,Cristian Anderson Penilla Caicedo,532566,11,New England Revolution,7,True,False,1,0,False,False,True,False,False,True,True
+465274,Josef Alexander Martínez,532566,1016,Atlanta United FC,2,True,False,1,1,True,False,False,False,False,False,False
+39068,Julian Gressel,532566,1016,Atlanta United FC,2,True,False,2,1,False,False,False,False,False,False,False
+13029,Zdenek Ondrášek,532567,13,FC Dallas,7,True,False,0,0,True,False,False,False,False,False,False
+184,Matt Hedges,532567,13,FC Dallas,7,True,False,1,0,False,False,False,False,False,False,False
+75088,Hárold Santiago Mosquera Caicedo,532567,13,FC Dallas,7,True,False,2,0,False,False,False,False,False,False,False
+190,Michael David Barrios Puerta,532567,13,FC Dallas,7,True,False,3,0,False,False,False,False,False,False,False
+13029,Zdenek Ondrášek,532567,13,FC Dallas,7,True,False,4,0,False,False,False,False,False,False,False
+39132,Jesus Ferreira,532567,13,FC Dallas,7,True,False,5,0,False,False,False,False,False,False,False
+4126,Zlatan Ibrahimović,532569,10,LA Galaxy,5,True,False,0,0,True,False,False,False,False,False,True
+39035,Christian Ramírez,532569,6,Houston Dynamo,10,True,False,0,1,False,False,True,False,False,False,False
+28755,Cristian David Pavón,532569,10,LA Galaxy,5,True,False,1,1,True,False,False,False,False,False,True
+39060,Alberth Josué Elis Martínez,532569,6,Houston Dynamo,10,True,False,1,2,False,False,True,False,False,False,False
+39035,Christian Ramírez,532569,6,Houston Dynamo,10,True,False,2,2,True,False,False,False,False,False,False
+39102,José Rodríguez,532569,6,Houston Dynamo,10,True,False,3,2,False,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,532570,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,532570,6490,Los Angeles FC,1,True,False,1,0,False,False,False,False,False,False,False
+238,Kaiansu Kei Kamara,532570,12,Colorado Rapids,9,True,False,2,0,False,False,False,False,False,True,True
+461321,Carlos Alberto Vela Garrido,532570,6490,Los Angeles FC,1,True,False,2,1,False,False,False,False,False,False,False
+1468,Bojan Krkíc Pérez,532571,1,Montreal Impact,9,True,False,0,0,True,False,False,False,False,False,False
+191,Maximiliano Urruti,532571,1,Montreal Impact,9,True,False,1,0,False,False,False,False,False,False,False
+18425,Orji Okwonkwo,532571,1,Montreal Impact,9,True,False,2,0,False,False,False,False,False,False,False
+204,Tesho Akindele,532572,17,Orlando City SC,11,True,False,0,0,True,False,False,False,False,False,False
+166228,Kyle Smith,532572,7,Chicago Fire,8,True,False,1,0,False,False,True,False,False,False,True
+202,C.J. Sapong,532572,7,Chicago Fire,8,True,False,1,1,True,False,False,False,False,False,True
+2084,Aleksandar Katai,532572,7,Chicago Fire,8,True,False,1,2,False,False,False,False,False,False,True
+46609,Przemysław Frankowski,532572,7,Chicago Fire,8,True,False,1,3,False,False,False,False,False,False,True
+199918,Benji Michel,532572,17,Orlando City SC,11,True,False,1,4,False,False,False,False,False,False,False
+46609,Przemysław Frankowski,532572,7,Chicago Fire,8,True,False,2,4,False,False,False,False,False,False,True
+51,Ronald Alberto Matarrita Ulate,532573,2,New York City FC,1,True,False,0,0,True,False,False,False,False,False,True
+23047,Ismael Tajouri-Shradi,532573,2,New York City FC,1,True,False,0,1,False,False,False,False,False,False,True
+1180,Marco Jhonfai Fabián De La Mora,532573,16,Philadelphia Union,3,True,False,0,2,False,False,False,False,False,True,False
+6458,Larrys Mabiala Destin,532574,20,Portland Timbers,6,True,False,0,0,True,False,False,False,False,False,False
+118,Chris Wondolowski,532574,15,LA Galaxy,8,True,False,1,0,False,False,True,False,False,True,True
+224,Dairon Estibens Asprilla Rivas,532574,20,Portland Timbers,6,True,False,1,1,True,False,False,False,False,False,False
+4706,Sebastián Marcelo Blanco,532574,20,Portland Timbers,6,True,False,2,1,False,False,False,False,False,False,False
+541,Román Aureliano Torres Morcillo,532575,18,Seattle Sounders FC,2,True,False,0,0,True,True,False,False,True,True,False
+4824,Alejandro Pozuelo Melero,532576,19,Toronto FC,4,True,False,0,0,True,True,False,False,True,True,False
+21641,Damir Kreilach,532577,14,Real Salt Lake,4,True,False,0,0,True,True,False,False,True,True,True
+29010,Franco Nicolás Escobar,733870,1016,Atlanta United FC,2,True,False,0,0,True,True,False,False,True,True,False
+51424,Raúl Mario Ruidíaz Misitich,733871,18,Seattle Sounders FC,2,True,False,0,0,True,False,False,False,False,False,False
+299,Jordan Morris,733871,18,Seattle Sounders FC,2,True,False,1,0,False,False,False,False,False,False,False
+39128,Reggie Cannon,733871,13,FC Dallas,7,True,False,2,0,False,False,False,False,False,False,True
+184,Matt Hedges,733871,13,FC Dallas,7,True,False,2,1,False,False,True,False,False,False,True
+299,Jordan Morris,733871,18,Seattle Sounders FC,2,True,False,2,2,True,False,False,False,False,False,False
+39588,Bryan Josue Acosta Ramos,733871,13,FC Dallas,7,True,False,3,2,False,False,True,False,False,False,True
+299,Jordan Morris,733871,18,Seattle Sounders FC,2,True,False,3,3,True,True,False,False,False,False,False
+30,Marky Delgado,733872,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,False,False
+28600,Lucas Rodríguez,733872,13401,DC United,5,True,False,1,0,False,False,True,False,False,True,True
+97,Richie Laryea,733872,19,Toronto FC,4,True,False,1,1,True,False,False,False,False,False,False
+19,Jonathan Osorio,733872,19,Toronto FC,4,True,False,2,1,False,False,False,False,False,False,False
+19,Jonathan Osorio,733872,19,Toronto FC,4,True,False,3,1,False,False,False,False,False,False,False
+343,Nick DeLeon,733872,19,Toronto FC,4,True,False,4,1,False,False,False,False,False,False,False
+21641,Damir Kreilach,733873,14,Real Salt Lake,4,True,False,0,0,True,False,False,False,False,False,False
+224,Dairon Estibens Asprilla Rivas,733873,20,Portland Timbers,6,True,False,1,0,False,False,True,False,False,True,True
+39123,Jefferson David Savarino Quintero,733873,14,Real Salt Lake,4,True,False,1,1,True,True,False,False,False,False,False
+4323,Joshua Sims,733874,4,New York Red Bulls,6,True,False,0,0,True,False,False,False,False,False,True
+257,Tim Parker,733874,4,New York Red Bulls,6,True,False,0,1,False,False,False,False,False,False,True
+530,Alejandro Bedoya,733874,16,Philadelphia Union,3,True,False,0,2,False,False,False,False,False,False,False
+166438,Tom Barlow,733874,4,New York Red Bulls,6,True,False,1,2,False,False,False,False,False,False,True
+39076,Jack Elliott,733874,16,Philadelphia Union,3,True,False,1,3,False,False,False,False,False,False,False
+21826,Fabrice Picault,733874,16,Philadelphia Union,3,True,False,2,3,False,False,True,False,False,False,False
+1180,Marco Jhonfai Fabián De La Mora,733874,16,Philadelphia Union,3,True,False,3,3,True,True,False,False,False,False,False
+332,Sebastian Lletget,733875,10,LA Galaxy,5,True,False,0,0,True,False,False,False,False,False,True
+10706,Jonathan dos Santos Ramírez,733875,10,LA Galaxy,5,True,False,0,1,False,False,False,False,False,False,True
+2303,Ján Greguš,733875,1015,Minnesota United FC,3,True,False,0,2,False,False,False,False,False,True,False
+4824,Alejandro Pozuelo Melero,736539,19,Toronto FC,4,True,False,0,0,True,False,False,False,False,False,True
+23047,Ismael Tajouri-Shradi,736539,2,New York City FC,1,True,False,0,1,False,False,True,False,False,True,False
+4824,Alejandro Pozuelo Melero,736539,19,Toronto FC,4,True,False,1,1,True,True,False,False,False,False,True
+27000,Gustav Svensson,736540,18,Seattle Sounders FC,2,True,False,0,0,True,False,False,False,False,False,False
+518,Marcelo Nicolás Lodeiro Benítez,736540,18,Seattle Sounders FC,2,True,False,1,0,False,False,False,False,False,False,False
+39068,Julian Gressel,736541,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,False,False
+465274,Josef Alexander Martínez,736541,1016,Atlanta United FC,2,True,False,1,0,False,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,736542,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,False,False
+461321,Carlos Alberto Vela Garrido,736542,6490,Los Angeles FC,1,True,False,1,0,False,False,False,False,False,False,False
+28755,Cristian David Pavón,736542,10,LA Galaxy,5,True,False,2,0,False,False,False,False,False,False,True
+4126,Zlatan Ibrahimović,736542,10,LA Galaxy,5,True,False,2,1,False,False,True,False,False,False,True
+124976,Diego Martín Rossi Marachlian,736542,6490,Los Angeles FC,1,True,False,2,2,True,False,False,False,False,False,False
+3928,Adama Valentin Diomande,736542,6490,Los Angeles FC,1,True,False,3,2,False,False,False,False,False,False,False
+11483,Rolf Günther Feltscher Martínez,736542,10,LA Galaxy,5,True,False,4,2,False,False,False,False,False,False,True
+3928,Adama Valentin Diomande,736542,6490,Los Angeles FC,1,True,False,4,3,False,False,False,False,False,False,False
+75280,Eduard Andrés Atuesta Velasco,738363,6490,Los Angeles FC,1,True,False,0,0,True,False,False,False,False,True,False
+51424,Raúl Mario Ruidíaz Misitich,738363,18,Seattle Sounders FC,2,True,False,1,0,False,False,True,False,False,False,True
+518,Marcelo Nicolás Lodeiro Benítez,738363,18,Seattle Sounders FC,2,True,False,1,1,True,False,False,False,False,False,True
+51424,Raúl Mario Ruidíaz Misitich,738363,18,Seattle Sounders FC,2,True,False,1,2,False,False,False,False,False,False,True
+39068,Julian Gressel,738364,1016,Atlanta United FC,2,True,False,0,0,True,False,False,False,False,True,False
+17580,Nicolas Benezet,738364,19,Toronto FC,4,True,False,1,0,False,False,True,False,False,False,True
+343,Nick DeLeon,738364,19,Toronto FC,4,True,False,1,1,True,True,False,False,False,False,True
+14549,Kelvin Leerdam,743084,18,Seattle Sounders FC,2,True,False,0,0,True,False,False,False,False,False,False
+10553,Víctor Rodríguez Romero,743084,18,Seattle Sounders FC,2,True,False,1,0,False,False,False,False,False,False,False
+51424,Raúl Mario Ruidíaz Misitich,743084,18,Seattle Sounders FC,2,True,False,2,0,False,False,False,False,False,False,False
+405,Jozy Altidore,743084,19,Toronto FC,4,True,False,3,0,False,False,False,False,False,True,True

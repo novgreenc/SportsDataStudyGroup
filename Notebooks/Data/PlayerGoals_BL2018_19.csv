@@ -1,0 +1,974 @@
+player_id,player_name,match_id,team_id,team_name,team_final_table_position,scored,assisted,previous_score_home,previous_score_away,go_ahead_goal,game_winning_goal,tying_goal,game_tying_goal,only_goal,only_goal_team,away_goal
+983,Thomas Müller,456200,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,False
+1344,Ádám Szalai,456200,49,TSG 1899 Hoffenheim,9,True,False,1,0,False,False,True,False,False,True,True
+984,Robert Lewandowski,456200,38,FC Bayern München,1,True,False,1,1,True,False,False,False,False,False,False
+1347,Arjen Robben,456200,38,FC Bayern München,1,True,False,2,1,False,False,False,False,False,False,False
+3317,Jean-Kévin Augustin,456201,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,True,True
+1216,Mahmoud Dahoud,456201,33,BVB 09 Borussia Dortmund,2,True,False,0,1,False,False,True,False,False,False,False
+1281,Marcel Sabitzer,456201,33,BVB 09 Borussia Dortmund,2,True,False,1,1,True,False,False,False,False,False,False
+36589,Axel Witsel,456201,33,BVB 09 Borussia Dortmund,2,True,False,2,1,False,False,False,False,False,False,False
+1427,Marco Reus,456201,33,BVB 09 Borussia Dortmund,2,True,False,3,1,False,False,False,False,False,False,False
+1218,Jonas Hofmann,456202,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,False,False,False,False,False,False
+1213,Fabian Johnson,456202,39,Borussia VfL Mönchengladbach,5,True,False,1,0,False,False,False,False,False,False,False
+1236,Vedad Ibišević,456203,47,Hertha BSC,11,True,False,0,0,True,True,False,False,True,True,False
+154422,Hendrik Weydandt,456204,52,Hannoverscher Sportverein 1896,17,True,False,0,0,True,False,False,False,False,True,True
+986,Theodor Gebre Selassie,456204,37,SV Werder Bremen,8,True,False,0,1,False,False,True,True,False,True,False
+463400,Nicolai Müller,456205,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,False,True
+14492,Sébastien Haller,456205,44,Eintracht Frankfurt,7,True,False,0,1,False,False,False,False,False,False,True
+1536,Anthony Ujah,456206,34,1. FSV Mainz 05,12,True,False,0,0,True,True,False,False,True,True,False
+1230,John Anthony Brooks,456207,43,VfL Wolfsburg,6,True,False,0,0,True,False,False,False,False,False,False
+1185,Nabil Bentaleb,456207,35,FC Schalke 04,14,True,False,1,0,False,False,True,False,False,True,True
+1596,Daniel Ginczek,456207,43,VfL Wolfsburg,6,True,False,1,1,True,True,False,False,False,False,False
+21416,Benito Raman,456208,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,0,True,False,False,False,False,True,False
+1336,Martin Hinteregger,456208,50,FC Augsburg,15,True,False,1,0,False,False,True,False,False,False,True
+1200,André Hahn,456208,50,FC Augsburg,15,True,False,1,1,True,True,False,False,False,False,True
+1071,Dominique Heintz,456210,42,SC Freiburg,13,True,False,0,0,True,False,False,False,False,True,True
+1344,Ádám Szalai,456210,49,TSG 1899 Hoffenheim,9,True,False,0,1,False,False,True,False,False,False,False
+1344,Ádám Szalai,456210,49,TSG 1899 Hoffenheim,9,True,False,1,1,True,False,False,False,False,False,False
+1271,Andrej Kramarić,456210,49,TSG 1899 Hoffenheim,9,True,False,2,1,False,False,False,False,False,False,False
+1463,Leon Bailey Butler,456211,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,True,False
+1224,Ramazan Özcan,456211,43,VfL Wolfsburg,6,True,False,1,0,False,False,True,False,False,False,True
+14609,Wout Weghorst,456211,43,VfL Wolfsburg,6,True,False,1,1,True,False,False,False,False,False,True
+2994,Renato Steffen,456211,43,VfL Wolfsburg,6,True,False,1,2,False,False,False,False,False,False,True
+1068,Yūya Ōsako,456212,37,SV Werder Bremen,8,True,False,0,0,True,False,False,False,False,False,True
+14492,Sébastien Haller,456212,44,Eintracht Frankfurt,7,True,False,0,1,False,False,True,False,False,True,False
+14702,Milot Rashica,456212,37,SV Werder Bremen,8,True,False,1,1,True,True,False,False,False,False,True
+1091,Michael Gregoritsch,456213,50,FC Augsburg,15,True,False,0,0,True,False,False,False,False,True,False
+17372,Alassane Pléa,456213,39,Borussia VfL Mönchengladbach,5,True,False,1,0,False,False,True,True,False,True,True
+17489,Jean-Philippe Mateta,456214,34,1. FSV Mainz 05,12,True,False,0,0,True,False,False,False,False,True,True
+20925,Mikael Ishak,456214,127,1. FC Nürnberg,18,True,False,0,1,False,False,True,True,False,True,False
+1300,Leon Goretzka,456215,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,True
+984,Robert Lewandowski,456215,38,FC Bayern München,1,True,False,0,1,False,False,False,False,False,False,True
+983,Thomas Müller,456215,38,FC Bayern München,1,True,False,0,2,False,False,False,False,False,False,True
+1706,Matthias Zimmermann,456216,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,0,True,False,False,False,False,True,True
+3317,Jean-Kévin Augustin,456216,46,Rasen Ballsport Leipzig,3,True,False,0,1,False,False,True,True,False,True,False
+1480,Ondrej Duda,456217,47,Hertha BSC,11,True,False,0,0,True,False,False,False,False,False,True
+1480,Ondrej Duda,456217,47,Hertha BSC,11,True,False,0,1,False,False,False,False,False,False,True
+2896,Abdou Diallo,456218,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,False
+14492,Sébastien Haller,456218,44,Eintracht Frankfurt,7,True,False,1,0,False,False,True,False,False,True,True
+1474,Marius Wolf,456218,33,BVB 09 Borussia Dortmund,2,True,False,1,1,True,False,False,False,False,False,False
+3086,Francisco Alcácer García,456218,33,BVB 09 Borussia Dortmund,2,True,False,2,1,False,False,False,False,False,False,False
+466103,Wendell Nascimento Borges,456219,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,True,True
+3249,Corentin Tolisso,456219,38,FC Bayern München,1,True,False,0,1,False,False,True,False,False,False,False
+1347,Arjen Robben,456219,38,FC Bayern München,1,True,False,1,1,True,False,False,False,False,False,False
+463782,James David Rodríguez Rubio,456219,38,FC Bayern München,1,True,False,2,1,False,False,False,False,False,False,False
+465406,Yussuf Yurary Poulsen,456220,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,False
+3461,Niclas Füllkrug,456220,52,Hannoverscher Sportverein 1896,17,True,False,1,0,False,False,True,False,False,False,True
+1283,Timo Werner,456220,46,Rasen Ballsport Leipzig,3,True,False,1,1,True,False,False,False,False,False,False
+1283,Timo Werner,456220,46,Rasen Ballsport Leipzig,3,True,False,2,1,False,False,False,False,False,False,False
+1553,Miiko Martín Albornoz Inola,456220,52,Hannoverscher Sportverein 1896,17,True,False,3,1,False,False,False,False,False,False,True
+1140,Dong-Won Ji,456221,50,FC Augsburg,15,True,False,0,0,True,False,False,False,False,True,True
+1536,Anthony Ujah,456221,34,1. FSV Mainz 05,12,True,False,0,1,False,False,True,False,False,False,False
+465366,Alexandru Iulian Maxim,456221,34,1. FSV Mainz 05,12,True,False,1,1,True,True,False,False,False,False,False
+142878,Javairo Dilrosun,456222,47,Hertha BSC,11,True,False,0,0,True,False,False,False,False,False,True
+1028,Yunus Mallı,456222,43,VfL Wolfsburg,6,True,False,0,1,False,False,True,False,False,False,False
+1480,Ondrej Duda,456222,47,Hertha BSC,11,True,False,1,1,True,False,False,False,False,False,True
+1219,Admir Mehmedi,456222,43,VfL Wolfsburg,6,True,False,1,2,False,False,True,True,False,False,False
+1099,Alfredo Morales,456223,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,0,True,False,False,False,False,False,False
+123480,Reiss Nelson,456223,49,TSG 1899 Hoffenheim,9,True,False,1,0,False,False,True,False,False,True,True
+227854,Dodi Lukebakio,456223,545,Düsseldorfer TuS Fortuna 1895,10,True,False,1,1,True,True,False,False,False,False,False
+1333,Matthias Ginter,456224,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,False,False,False,False,False,False
+1215,Patrick Herrmann,456224,39,Borussia VfL Mönchengladbach,5,True,False,1,0,False,False,False,False,False,False,False
+469661,Breel-Donald Embolo,456224,35,FC Schalke 04,14,True,False,2,0,False,False,False,False,False,True,True
+1004,Maximilian Eggestein,456225,37,SV Werder Bremen,8,True,False,0,0,True,False,False,False,False,True,False
+2265,Virgil Misidjan,456225,127,1. FC Nürnberg,18,True,False,1,0,False,False,True,True,False,True,True
+1064,Jérôme Gondorf,456226,42,SC Freiburg,13,True,False,0,0,True,False,False,False,False,False,False
+1591,Emiliano Adrián Insúa Zapata,456226,51,VfB Stuttgart 1893,16,True,False,1,0,False,False,True,False,False,False,True
+461076,Mario Gómez García,456226,51,VfB Stuttgart 1893,16,True,False,1,1,True,False,False,False,False,False,True
+1064,Jérôme Gondorf,456226,42,SC Freiburg,13,True,False,1,2,False,False,True,False,False,False,False
+461076,Mario Gómez García,456226,51,VfB Stuttgart 1893,16,True,False,2,2,True,False,False,False,False,False,True
+1108,Gian-Luca Waldschmidt,456226,42,SC Freiburg,13,True,False,2,3,False,False,True,True,False,False,False
+1671,Joelinton Cassio Apolinário de Lira,456228,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,True,False
+1038,Christian Pulisic,456228,33,BVB 09 Borussia Dortmund,2,True,False,1,0,False,False,True,True,False,True,True
+1214,Thorgan Hazard,456229,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,False,False,False,False,False,True
+1236,Vedad Ibišević,456229,47,Hertha BSC,11,True,False,0,1,False,False,True,False,False,False,False
+2102,Valentino Lazaro,456229,47,Hertha BSC,11,True,False,1,1,True,False,False,False,False,False,False
+1236,Vedad Ibišević,456229,47,Hertha BSC,11,True,False,2,1,False,False,False,False,False,False,False
+17372,Alassane Pléa,456229,39,Borussia VfL Mönchengladbach,5,True,False,3,1,False,False,False,False,False,False,True
+1480,Ondrej Duda,456229,47,Hertha BSC,11,True,False,3,2,False,False,False,False,False,False,False
+1422,Max Kruse,456230,37,SV Werder Bremen,8,True,False,0,0,True,False,False,False,False,False,True
+1004,Maximilian Eggestein,456230,37,SV Werder Bremen,8,True,False,0,1,False,False,False,False,False,False,True
+1125,Ja-Cheol Koo,456230,50,FC Augsburg,15,True,False,0,2,False,False,False,False,False,False,False
+1355,Philipp Max,456230,50,FC Augsburg,15,True,False,1,2,False,False,True,False,False,False,False
+2668,Davy Klaassen,456230,37,SV Werder Bremen,8,True,False,2,2,True,True,False,False,False,False,True
+18285,Roland Sallai,456231,42,SC Freiburg,13,True,False,0,0,True,False,False,False,False,False,True
+1256,Nils Petersen,456231,42,SC Freiburg,13,True,False,0,1,False,False,False,False,False,False,True
+1325,Mike Frantz,456231,42,SC Freiburg,13,True,False,0,2,False,False,False,False,False,False,True
+1219,Admir Mehmedi,456231,43,VfL Wolfsburg,6,True,False,0,3,False,False,False,False,False,True,False
+1635,Waldemar Anton,456232,127,1. FC Nürnberg,18,True,False,0,0,True,False,False,False,False,False,False
+58709,Törless Tim Knöll,456232,127,1. FC Nürnberg,18,True,False,1,0,False,False,False,False,False,False,False
+463782,James David Rodríguez Rubio,456233,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,True
+984,Robert Lewandowski,456233,38,FC Bayern München,1,True,False,0,1,False,False,False,False,False,False,True
+1305,Kai Havertz,456234,40,Bayer 04 Leverkusen,4,True,False,0,0,True,True,False,False,True,True,False
+461602,Gélson da Conceição Tavares Fernandes,456235,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,True,False
+1291,Emil Forsberg,456235,46,Rasen Ballsport Leipzig,3,True,False,1,0,False,False,True,True,False,True,True
+1595,Martin Harnik,456236,37,SV Werder Bremen,8,True,False,0,0,True,False,False,False,False,False,False
+1375,Milos Veljkovic,456236,37,SV Werder Bremen,8,True,False,1,0,False,False,False,False,False,False,False
+142878,Javairo Dilrosun,456236,47,Hertha BSC,11,True,False,2,0,False,False,False,False,False,True,True
+1422,Max Kruse,456236,37,SV Werder Bremen,8,True,False,2,1,False,False,False,False,False,False,False
+1347,Arjen Robben,456237,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,True,False
+1348,Felix Götze,456237,50,FC Augsburg,15,True,False,1,0,False,False,True,True,False,True,True
+3095,Joshua Brenet,456238,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,False,True
+1264,Pavel Kadeřábek,456238,49,TSG 1899 Hoffenheim,9,True,False,0,1,False,False,False,False,False,False,True
+3461,Niclas Füllkrug,456238,52,Hannoverscher Sportverein 1896,17,True,False,0,2,False,False,False,False,False,True,False
+18799,Ishak Belfodil,456238,49,TSG 1899 Hoffenheim,9,True,False,1,2,False,False,False,False,False,False,True
+1246,Florian Niederlechner,456239,42,SC Freiburg,13,True,False,0,0,True,True,False,False,True,True,False
+1211,Kevin Volland,456240,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,False,True
+1211,Kevin Volland,456240,40,Bayer 04 Leverkusen,4,True,False,0,1,False,False,False,False,False,False,True
+8125,Rouwen Hennings,456240,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,2,False,False,False,False,False,True,False
+1408,Jacob Bruun Larsen,456241,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,False
+1427,Marco Reus,456241,33,BVB 09 Borussia Dortmund,2,True,False,1,0,False,False,False,False,False,False,False
+10797,Achraf Hakimi Mouh,456241,33,BVB 09 Borussia Dortmund,2,True,False,2,0,False,False,False,False,False,False,False
+1427,Marco Reus,456241,33,BVB 09 Borussia Dortmund,2,True,False,3,0,False,False,False,False,False,False,False
+35453,Manuel Akanji,456241,33,BVB 09 Borussia Dortmund,2,True,False,4,0,False,False,False,False,False,False,False
+86708,Jadon Sancho,456241,33,BVB 09 Borussia Dortmund,2,True,False,5,0,False,False,False,False,False,False,False
+1032,Julian Weigl,456241,33,BVB 09 Borussia Dortmund,2,True,False,6,0,False,False,False,False,False,False,False
+1276,Willi Orban,456242,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,False
+3317,Jean-Kévin Augustin,456242,46,Rasen Ballsport Leipzig,3,True,False,1,0,False,False,False,False,False,False,False
+17372,Alassane Pléa,456243,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,False,False,False,False,False,False
+1214,Thorgan Hazard,456243,39,Borussia VfL Mönchengladbach,5,True,False,1,0,False,False,False,False,False,False,False
+1323,Ante Rebić,456243,44,Eintracht Frankfurt,7,True,False,2,0,False,False,False,False,False,True,True
+1194,Nico Elvedi,456243,39,Borussia VfL Mönchengladbach,5,True,False,2,1,False,False,False,False,False,False,False
+1236,Vedad Ibišević,456245,47,Hertha BSC,11,True,False,0,0,True,False,False,False,False,False,False
+1480,Ondrej Duda,456245,47,Hertha BSC,11,True,False,1,0,False,False,False,False,False,False,False
+1186,Alessandro Schöpf,456246,35,FC Schalke 04,14,True,False,0,0,True,True,False,False,True,True,False
+465406,Yussuf Yurary Poulsen,456247,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,True
+465406,Yussuf Yurary Poulsen,456247,46,Rasen Ballsport Leipzig,3,True,False,0,1,False,False,False,False,False,False,True
+1271,Andrej Kramarić,456247,49,TSG 1899 Hoffenheim,9,True,False,0,2,False,False,False,False,False,True,False
+17382,Anastasios Donis,456248,51,VfB Stuttgart 1893,16,True,False,0,0,True,False,False,False,False,False,False
+1550,Ron-Robert Zieler,456248,37,SV Werder Bremen,8,True,False,1,0,False,False,True,False,False,True,True
+463771,Gonzalo Castro Randon,456248,51,VfB Stuttgart 1893,16,True,False,1,1,True,True,False,False,False,False,False
+17372,Alassane Pléa,456249,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,False,False,False,False,False,True
+2994,Renato Steffen,456249,43,VfL Wolfsburg,6,True,False,0,1,False,False,True,False,False,False,False
+1214,Thorgan Hazard,456249,39,Borussia VfL Mönchengladbach,5,True,False,1,1,True,False,False,False,False,False,True
+14609,Wout Weghorst,456249,43,VfL Wolfsburg,6,True,False,1,2,False,False,True,True,False,False,False
+21691,Hanno Behrens,456250,127,1. FC Nürnberg,18,True,False,0,0,True,False,False,False,False,False,False
+20925,Mikael Ishak,456250,127,1. FC Nürnberg,18,True,False,1,0,False,False,False,False,False,False,False
+1470,Federico Palacios Martinez,456250,127,1. FC Nürnberg,18,True,False,2,0,False,False,False,False,False,False,False
+1235,Mitchell Weiser,456251,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,False,False
+1205,Jonathan Tah,456251,40,Bayer 04 Leverkusen,4,True,False,1,0,False,False,False,False,False,False,False
+1408,Jacob Bruun Larsen,456251,33,BVB 09 Borussia Dortmund,2,True,False,2,0,False,False,False,False,False,False,True
+1427,Marco Reus,456251,33,BVB 09 Borussia Dortmund,2,True,False,2,1,False,False,True,False,False,False,True
+3086,Francisco Alcácer García,456251,33,BVB 09 Borussia Dortmund,2,True,False,2,2,True,False,False,False,False,False,True
+3086,Francisco Alcácer García,456251,33,BVB 09 Borussia Dortmund,2,True,False,2,3,False,False,False,False,False,False,True
+19450,Obite Evan N'Dicka,456252,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,False,False
+1323,Ante Rebić,456252,44,Eintracht Frankfurt,7,True,False,1,0,False,False,False,False,False,False,False
+4851,Jonathan de Guzmán,456252,44,Eintracht Frankfurt,7,True,False,2,0,False,False,False,False,False,False,False
+21967,Florent Muslija,456252,52,Hannoverscher Sportverein 1896,17,True,False,3,0,False,False,False,False,False,True,True
+5372,Luka Jović,456252,44,Eintracht Frankfurt,7,True,False,3,1,False,False,False,False,False,False,False
+462282,Caiuby Francisco da Silva,456253,50,FC Augsburg,15,True,False,0,0,True,False,False,False,False,False,False
+1128,Alfreð Finnbogason,456253,50,FC Augsburg,15,True,False,1,0,False,False,False,False,False,False,False
+1340,Jonathan Schmid,456253,42,SC Freiburg,13,True,False,2,0,False,False,False,False,False,True,True
+1128,Alfreð Finnbogason,456253,50,FC Augsburg,15,True,False,2,1,False,False,False,False,False,False,False
+1128,Alfreð Finnbogason,456253,50,FC Augsburg,15,True,False,3,1,False,False,False,False,False,False,False
+17372,Alassane Pléa,456254,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,False,False,False,False,False,True
+1199,Lars Stindl,456254,39,Borussia VfL Mönchengladbach,5,True,False,0,1,False,False,False,False,False,False,True
+1215,Patrick Herrmann,456254,39,Borussia VfL Mönchengladbach,5,True,False,0,2,False,False,False,False,False,False,True
+1323,Ante Rebić,456255,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,False,True
+5372,Luka Jović,456255,44,Eintracht Frankfurt,7,True,False,0,1,False,False,False,False,False,False,True
+123480,Reiss Nelson,456255,49,TSG 1899 Hoffenheim,9,True,False,0,2,False,False,False,False,False,True,False
+1128,Alfreð Finnbogason,456256,50,FC Augsburg,15,True,False,0,0,True,False,False,False,False,False,True
+3086,Francisco Alcácer García,456256,33,BVB 09 Borussia Dortmund,2,True,False,0,1,False,False,True,False,False,False,False
+1355,Philipp Max,456256,50,FC Augsburg,15,True,False,1,1,True,False,False,False,False,False,True
+3086,Francisco Alcácer García,456256,33,BVB 09 Borussia Dortmund,2,True,False,1,2,False,False,True,False,False,False,False
+1329,Mario Götze,456256,33,BVB 09 Borussia Dortmund,2,True,False,2,2,True,False,False,False,False,False,False
+1091,Michael Gregoritsch,456256,50,FC Augsburg,15,True,False,3,2,False,False,True,False,False,False,True
+3086,Francisco Alcácer García,456256,33,BVB 09 Borussia Dortmund,2,True,False,3,3,True,True,False,False,False,False,False
+1209,Kevin Kampl,456257,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,False
+465406,Yussuf Yurary Poulsen,456257,46,Rasen Ballsport Leipzig,3,True,False,1,0,False,False,False,False,False,False,False
+1281,Marcel Sabitzer,456257,46,Rasen Ballsport Leipzig,3,True,False,2,0,False,False,False,False,False,False,False
+1283,Timo Werner,456257,46,Rasen Ballsport Leipzig,3,True,False,3,0,False,False,False,False,False,False,False
+1281,Marcel Sabitzer,456257,46,Rasen Ballsport Leipzig,3,True,False,4,0,False,False,False,False,False,False,False
+1283,Timo Werner,456257,46,Rasen Ballsport Leipzig,3,True,False,5,0,False,False,False,False,False,False,False
+2668,Davy Klaassen,456258,37,SV Werder Bremen,8,True,False,0,0,True,False,False,False,False,False,False
+22483,Johannes Eggestein,456258,37,SV Werder Bremen,8,True,False,1,0,False,False,False,False,False,False,False
+464878,Bobby Shou Wood,456259,52,Hannoverscher Sportverein 1896,17,True,False,0,0,True,False,False,False,False,False,False
+464878,Bobby Shou Wood,456259,52,Hannoverscher Sportverein 1896,17,True,False,1,0,False,False,False,False,False,False,False
+461076,Mario Gómez García,456259,51,VfB Stuttgart 1893,16,True,False,2,0,False,False,False,False,False,True,True
+21670,Ihlas Bebou,456259,52,Hannoverscher Sportverein 1896,17,True,False,2,1,False,False,False,False,False,False,False
+1515,Weston McKennie,456262,35,FC Schalke 04,14,True,False,0,0,True,False,False,False,False,False,True
+1445,Guido Burgstaller,456262,35,FC Schalke 04,14,True,False,0,1,False,False,False,False,False,False,True
+1004,Maximilian Eggestein,456263,37,SV Werder Bremen,8,True,False,0,0,True,False,False,False,False,False,True
+1004,Maximilian Eggestein,456263,37,SV Werder Bremen,8,True,False,0,1,False,False,False,False,False,False,True
+21967,Florent Muslija,456264,52,Hannoverscher Sportverein 1896,17,True,False,0,0,True,False,False,False,False,False,True
+1302,Lars Bender,456264,40,Bayer 04 Leverkusen,4,True,False,0,1,False,False,True,False,False,False,False
+1570,Felipe Trevizan Martins,456264,52,Hannoverscher Sportverein 1896,17,True,False,1,1,True,False,False,False,False,False,True
+1208,Karim Bellarabi,456264,40,Bayer 04 Leverkusen,4,True,False,1,2,False,False,True,True,False,False,False
+86708,Jadon Sancho,456265,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,True
+1427,Marco Reus,456265,33,BVB 09 Borussia Dortmund,2,True,False,0,1,False,False,False,False,False,False,True
+3086,Francisco Alcácer García,456265,33,BVB 09 Borussia Dortmund,2,True,False,0,2,False,False,False,False,False,False,True
+1247,Maximilian Philipp,456265,33,BVB 09 Borussia Dortmund,2,True,False,0,3,False,False,False,False,False,False,True
+14492,Sébastien Haller,456266,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,False,False
+5372,Luka Jović,456266,44,Eintracht Frankfurt,7,True,False,1,0,False,False,False,False,False,False,False
+5372,Luka Jović,456266,44,Eintracht Frankfurt,7,True,False,2,0,False,False,False,False,False,False,False
+14492,Sébastien Haller,456266,44,Eintracht Frankfurt,7,True,False,3,0,False,False,False,False,False,False,False
+227854,Dodi Lukebakio,456266,545,Düsseldorfer TuS Fortuna 1895,10,True,False,4,0,False,False,False,False,False,True,True
+5372,Luka Jović,456266,44,Eintracht Frankfurt,7,True,False,4,1,False,False,False,False,False,False,False
+5372,Luka Jović,456266,44,Eintracht Frankfurt,7,True,False,5,1,False,False,False,False,False,False,False
+5372,Luka Jović,456266,44,Eintracht Frankfurt,7,True,False,6,1,False,False,False,False,False,False,False
+1218,Jonas Hofmann,456267,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,False,False,False,False,False,False
+1218,Jonas Hofmann,456267,39,Borussia VfL Mönchengladbach,5,True,False,1,0,False,False,False,False,False,False,False
+1214,Thorgan Hazard,456267,39,Borussia VfL Mönchengladbach,5,True,False,2,0,False,False,False,False,False,False,False
+1218,Jonas Hofmann,456267,39,Borussia VfL Mönchengladbach,5,True,False,3,0,False,False,False,False,False,False,False
+1480,Ondrej Duda,456268,47,Hertha BSC,11,True,False,0,0,True,False,False,False,False,True,False
+21873,Robin Koch,456268,42,SC Freiburg,13,True,False,1,0,False,False,True,True,False,True,True
+984,Robert Lewandowski,456270,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,True
+984,Robert Lewandowski,456270,38,FC Bayern München,1,True,False,0,1,False,False,False,False,False,False,True
+14609,Wout Weghorst,456270,43,VfL Wolfsburg,6,True,False,0,2,False,False,False,False,False,True,False
+463782,James David Rodríguez Rubio,456270,38,FC Bayern München,1,True,False,1,2,False,False,False,False,False,False,True
+21691,Hanno Behrens,456271,127,1. FC Nürnberg,18,True,False,0,0,True,False,False,False,False,True,False
+123480,Reiss Nelson,456271,49,TSG 1899 Hoffenheim,9,True,False,1,0,False,False,True,False,False,False,True
+123480,Reiss Nelson,456271,49,TSG 1899 Hoffenheim,9,True,False,1,1,True,False,False,False,False,False,True
+1344,Ádám Szalai,456271,49,TSG 1899 Hoffenheim,9,True,False,1,2,False,False,False,False,False,False,True
+3095,Joshua Brenet,456272,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,False,False
+1671,Joelinton Cassio Apolinário de Lira,456272,49,TSG 1899 Hoffenheim,9,True,False,1,0,False,False,False,False,False,False,False
+18799,Ishak Belfodil,456272,49,TSG 1899 Hoffenheim,9,True,False,2,0,False,False,False,False,False,False,False
+18799,Ishak Belfodil,456272,49,TSG 1899 Hoffenheim,9,True,False,3,0,False,False,False,False,False,False,False
+86708,Jadon Sancho,456273,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,False
+1252,Salomon Armand Magloire Kalou,456273,47,Hertha BSC,11,True,False,1,0,False,False,True,False,False,False,True
+86708,Jadon Sancho,456273,33,BVB 09 Borussia Dortmund,2,True,False,1,1,True,False,False,False,False,False,False
+1252,Salomon Armand Magloire Kalou,456273,47,Hertha BSC,11,True,False,2,1,False,False,True,True,False,False,True
+1211,Kevin Volland,456275,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,False,True
+1220,Julian Brandt,456275,40,Bayer 04 Leverkusen,4,True,False,0,1,False,False,False,False,False,False,True
+1208,Karim Bellarabi,456275,40,Bayer 04 Leverkusen,4,True,False,0,2,False,False,False,False,False,False,True
+1416,Claudio Miguel Pizarro Bossio,456275,37,SV Werder Bremen,8,True,False,0,3,False,False,False,False,False,False,False
+1068,Yūya Ōsako,456275,37,SV Werder Bremen,8,True,False,1,3,False,False,False,False,False,False,False
+1305,Kai Havertz,456275,40,Bayer 04 Leverkusen,4,True,False,2,3,False,False,False,False,False,False,True
+1306,Aleksandar Dragović,456275,40,Bayer 04 Leverkusen,4,True,False,2,4,False,False,False,False,False,False,True
+1305,Kai Havertz,456275,40,Bayer 04 Leverkusen,4,True,False,2,5,False,False,False,False,False,False,True
+1295,Rani Khedira,456276,50,FC Augsburg,15,True,False,0,0,True,False,False,False,False,False,True
+1128,Alfreð Finnbogason,456276,50,FC Augsburg,15,True,False,0,1,False,False,False,False,False,False,True
+21670,Ihlas Bebou,456276,52,Hannoverscher Sportverein 1896,17,True,False,0,2,False,False,False,False,False,True,False
+1256,Nils Petersen,456277,42,SC Freiburg,13,True,False,0,0,True,False,False,False,False,False,False
+1214,Thorgan Hazard,456277,39,Borussia VfL Mönchengladbach,5,True,False,1,0,False,False,True,False,False,True,True
+1108,Gian-Luca Waldschmidt,456277,42,SC Freiburg,13,True,False,1,1,True,False,False,False,False,False,False
+21673,Lucas Höler,456277,42,SC Freiburg,13,True,False,2,1,False,False,False,False,False,False,False
+1300,Leon Goretzka,456278,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,True
+15068,Jean-Paul Boëtius,456278,34,1. FSV Mainz 05,12,True,False,0,1,False,False,True,False,False,True,False
+982,Thiago Alcântara do Nascimento,456278,38,FC Bayern München,1,True,False,1,1,True,True,False,False,False,False,True
+14609,Wout Weghorst,456279,43,VfL Wolfsburg,6,True,False,0,0,True,False,False,False,False,False,True
+1153,Josip Brekalo,456279,43,VfL Wolfsburg,6,True,False,0,1,False,False,False,False,False,False,True
+1596,Daniel Ginczek,456279,43,VfL Wolfsburg,6,True,False,0,2,False,False,False,False,False,False,True
+40518,Adam Zreľák,456280,127,1. FC Nürnberg,18,True,False,0,0,True,False,False,False,False,True,False
+14492,Sébastien Haller,456280,44,Eintracht Frankfurt,7,True,False,1,0,False,False,True,True,False,True,True
+1335,Serge Gnabry,456281,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,True,False
+21673,Lucas Höler,456281,42,SC Freiburg,13,True,False,1,0,False,False,True,True,False,True,True
+1185,Nabil Bentaleb,456282,35,FC Schalke 04,14,True,False,0,0,True,False,False,False,False,False,False
+154422,Hendrik Weydandt,456282,52,Hannoverscher Sportverein 1896,17,True,False,1,0,False,False,True,False,False,True,True
+469661,Breel-Donald Embolo,456282,35,FC Schalke 04,14,True,False,1,1,True,False,False,False,False,False,False
+1272,Mark Uth,456282,35,FC Schalke 04,14,True,False,2,1,False,False,False,False,False,False,False
+123480,Reiss Nelson,456283,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,False,True
+1208,Karim Bellarabi,456283,40,Bayer 04 Leverkusen,4,True,False,0,1,False,False,True,False,False,True,False
+1671,Joelinton Cassio Apolinário de Lira,456283,49,TSG 1899 Hoffenheim,9,True,False,1,1,True,False,False,False,False,False,True
+1245,Vincenzo Grifo,456283,49,TSG 1899 Hoffenheim,9,True,False,1,2,False,False,False,False,False,False,True
+1671,Joelinton Cassio Apolinário de Lira,456283,49,TSG 1899 Hoffenheim,9,True,False,1,3,False,False,False,False,False,False,True
+14492,Sébastien Haller,456284,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,False,True
+1323,Ante Rebić,456284,44,Eintracht Frankfurt,7,True,False,0,1,False,False,False,False,False,False,True
+463400,Nicolai Müller,456284,44,Eintracht Frankfurt,7,True,False,0,2,False,False,False,False,False,False,True
+1214,Thorgan Hazard,456285,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,False,False,False,False,False,False
+1218,Jonas Hofmann,456285,39,Borussia VfL Mönchengladbach,5,True,False,1,0,False,False,False,False,False,False,False
+1214,Thorgan Hazard,456285,39,Borussia VfL Mönchengladbach,5,True,False,2,0,False,False,False,False,False,False,False
+1283,Timo Werner,456286,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,True
+1283,Timo Werner,456286,46,Rasen Ballsport Leipzig,3,True,False,0,1,False,False,False,False,False,False,True
+40467,Matheus Santos Carneiro Da Cunha,456286,46,Rasen Ballsport Leipzig,3,True,False,0,2,False,False,False,False,False,False,True
+1128,Alfreð Finnbogason,456287,50,FC Augsburg,15,True,False,0,0,True,False,False,False,False,False,False
+40527,Alexander Fuchs,456287,127,1. FC Nürnberg,18,True,False,1,0,False,False,True,False,False,False,True
+1340,Jonathan Schmid,456287,50,FC Augsburg,15,True,False,1,1,True,False,False,False,False,False,False
+21689,Lukas Mühl,456287,127,1. FC Nürnberg,18,True,False,2,1,False,False,True,True,False,False,True
+17489,Jean-Philippe Mateta,456288,34,1. FSV Mainz 05,12,True,False,0,0,True,False,False,False,False,False,False
+1030,Jean-Philippe Gbamin,456288,34,1. FSV Mainz 05,12,True,False,1,0,False,False,False,False,False,False,False
+1416,Claudio Miguel Pizarro Bossio,456288,37,SV Werder Bremen,8,True,False,2,0,False,False,False,False,False,True,True
+1427,Marco Reus,456289,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,True,False,False,True,True,True
+1271,Andrej Kramarić,456290,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,False,False
+1128,Alfreð Finnbogason,456290,50,FC Augsburg,15,True,False,1,0,False,False,True,False,False,True,True
+123480,Reiss Nelson,456290,49,TSG 1899 Hoffenheim,9,True,False,1,1,True,True,False,False,False,False,False
+984,Robert Lewandowski,456291,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,True
+1427,Marco Reus,456291,33,BVB 09 Borussia Dortmund,2,True,False,0,1,False,False,True,False,False,False,False
+984,Robert Lewandowski,456291,38,FC Bayern München,1,True,False,1,1,True,False,False,False,False,False,True
+1427,Marco Reus,456291,33,BVB 09 Borussia Dortmund,2,True,False,1,2,False,False,True,False,False,False,False
+3086,Francisco Alcácer García,456291,33,BVB 09 Borussia Dortmund,2,True,False,2,2,True,True,False,False,False,False,False
+465406,Yussuf Yurary Poulsen,456292,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,False
+1328,Lukas Klostermann,456292,46,Rasen Ballsport Leipzig,3,True,False,1,0,False,False,False,False,False,False,False
+465406,Yussuf Yurary Poulsen,456292,46,Rasen Ballsport Leipzig,3,True,False,2,0,False,False,False,False,False,False,False
+5372,Luka Jović,456293,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,False,False
+5372,Luka Jović,456293,44,Eintracht Frankfurt,7,True,False,1,0,False,False,False,False,False,False,False
+14492,Sébastien Haller,456293,44,Eintracht Frankfurt,7,True,False,2,0,False,False,False,False,False,False,False
+17372,Alassane Pléa,456294,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,False,False,False,False,False,True
+17372,Alassane Pléa,456294,39,Borussia VfL Mönchengladbach,5,True,False,0,1,False,False,False,False,False,False,True
+17372,Alassane Pléa,456294,39,Borussia VfL Mönchengladbach,5,True,False,0,2,False,False,False,False,False,False,True
+1385,Nuri Şahin,456294,37,SV Werder Bremen,8,True,False,0,3,False,False,False,False,False,True,False
+56934,Linton Mania,456295,52,Hannoverscher Sportverein 1896,17,True,False,0,0,True,False,False,False,False,False,False
+21670,Ihlas Bebou,456295,52,Hannoverscher Sportverein 1896,17,True,False,1,0,False,False,False,False,False,False,False
+14609,Wout Weghorst,456295,43,VfL Wolfsburg,6,True,False,2,0,False,False,False,False,False,True,True
+1030,Jean-Philippe Gbamin,456296,34,1. FSV Mainz 05,12,True,False,0,0,True,False,False,False,False,False,True
+17489,Jean-Philippe Mateta,456296,34,1. FSV Mainz 05,12,True,False,0,1,False,False,False,False,False,False,True
+18285,Roland Sallai,456296,42,SC Freiburg,13,True,False,0,2,False,False,False,False,False,True,False
+1029,Karim Onisiwo,456296,34,1. FSV Mainz 05,12,True,False,1,2,False,False,False,False,False,False,True
+1141,Takashi Usami,456297,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,0,True,False,False,False,False,False,False
+8125,Rouwen Hennings,456297,545,Düsseldorfer TuS Fortuna 1895,10,True,False,1,0,False,False,False,False,False,False,False
+21416,Benito Raman,456297,545,Düsseldorfer TuS Fortuna 1895,10,True,False,2,0,False,False,False,False,False,False,False
+1292,Davie Selke,456297,47,Hertha BSC,11,True,False,3,0,False,False,False,False,False,True,True
+21416,Benito Raman,456297,545,Düsseldorfer TuS Fortuna 1895,10,True,False,3,1,False,False,False,False,False,False,False
+1593,Timo Baumgartl,456298,51,VfB Stuttgart 1893,16,True,False,0,0,True,False,False,False,False,False,True
+1704,Erik Thommy,456298,51,VfB Stuttgart 1893,16,True,False,0,1,False,False,False,False,False,False,True
+1265,Niklas Süle,456299,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,False
+983,Thomas Müller,456299,38,FC Bayern München,1,True,False,1,0,False,False,False,False,False,False,False
+227854,Dodi Lukebakio,456299,545,Düsseldorfer TuS Fortuna 1895,10,True,False,2,0,False,False,False,False,False,False,True
+983,Thomas Müller,456299,38,FC Bayern München,1,True,False,2,1,False,False,False,False,False,False,False
+227854,Dodi Lukebakio,456299,545,Düsseldorfer TuS Fortuna 1895,10,True,False,3,1,False,False,False,False,False,False,True
+227854,Dodi Lukebakio,456299,545,Düsseldorfer TuS Fortuna 1895,10,True,False,3,2,False,False,True,True,False,False,True
+21644,Steven Skrzybski,456300,35,FC Schalke 04,14,True,False,0,0,True,False,False,False,False,False,False
+17271,Amine Harit,456300,35,FC Schalke 04,14,True,False,1,0,False,False,False,False,False,False,False
+1470,Federico Palacios Martinez,456300,127,1. FC Nürnberg,18,True,False,2,0,False,False,False,False,False,False,True
+1445,Guido Burgstaller,456300,35,FC Schalke 04,14,True,False,2,1,False,False,False,False,False,False,False
+40518,Adam Zreľák,456300,127,1. FC Nürnberg,18,True,False,3,1,False,False,False,False,False,False,True
+21644,Steven Skrzybski,456300,35,FC Schalke 04,14,True,False,3,2,False,False,False,False,False,False,False
+1156,Bastian Oczipka,456300,35,FC Schalke 04,14,True,False,4,2,False,False,False,False,False,False,False
+1211,Kevin Volland,456301,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,False,False
+1211,Kevin Volland,456301,40,Bayer 04 Leverkusen,4,True,False,1,0,False,False,False,False,False,False,False
+464878,Bobby Shou Wood,456302,52,Hannoverscher Sportverein 1896,17,True,False,0,0,True,False,False,False,False,True,True
+1214,Thorgan Hazard,456302,39,Borussia VfL Mönchengladbach,5,True,False,0,1,False,False,True,False,False,False,False
+2987,Michael Lang,456302,39,Borussia VfL Mönchengladbach,5,True,False,1,1,True,False,False,False,False,False,False
+1199,Lars Stindl,456302,39,Borussia VfL Mönchengladbach,5,True,False,2,1,False,False,False,False,False,False,False
+471267,Denis Lemi Zakaria Lako Lado,456302,39,Borussia VfL Mönchengladbach,5,True,False,3,1,False,False,False,False,False,False,False
+1288,Kerem Demirbay,456303,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,False,True
+1271,Andrej Kramarić,456303,49,TSG 1899 Hoffenheim,9,True,False,0,1,False,False,False,False,False,False,True
+1236,Vedad Ibišević,456303,47,Hertha BSC,11,True,False,0,2,False,False,False,False,False,False,False
+1287,Ermin Bičakčić,456303,49,TSG 1899 Hoffenheim,9,True,False,1,2,False,False,False,False,False,False,True
+1101,Mathew Leckie,456303,47,Hertha BSC,11,True,False,1,3,False,False,False,False,False,False,False
+2102,Valentino Lazaro,456303,47,Hertha BSC,11,True,False,2,3,False,False,True,True,False,False,False
+4851,Jonathan de Guzmán,456304,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,False,True
+14492,Sébastien Haller,456304,44,Eintracht Frankfurt,7,True,False,0,1,False,False,False,False,False,False,True
+1323,Ante Rebić,456304,44,Eintracht Frankfurt,7,True,False,0,2,False,False,False,False,False,False,True
+40077,Sergio Duvan Córdova Lezama,456304,50,FC Augsburg,15,True,False,0,3,False,False,False,False,False,True,False
+1108,Gian-Luca Waldschmidt,456305,42,SC Freiburg,13,True,False,0,0,True,False,False,False,False,True,False
+465673,Ludwig Augustinsson,456305,37,SV Werder Bremen,8,True,False,1,0,False,False,True,True,False,True,True
+3086,Francisco Alcácer García,456306,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,True
+1477,Robin Quaison,456306,34,1. FSV Mainz 05,12,True,False,0,1,False,False,True,False,False,True,False
+1033,Łukasz Piszczek,456306,33,BVB 09 Borussia Dortmund,2,True,False,1,1,True,True,False,False,False,False,True
+17223,Jérôme Roussillon,456307,43,VfL Wolfsburg,6,True,False,0,0,True,True,False,False,True,True,False
+1271,Andrej Kramarić,456308,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,True,False
+1185,Nabil Bentaleb,456308,35,FC Schalke 04,14,True,False,1,0,False,False,True,True,False,True,True
+1427,Marco Reus,456309,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,False
+3086,Francisco Alcácer García,456309,33,BVB 09 Borussia Dortmund,2,True,False,1,0,False,False,False,False,False,False,False
+1283,Timo Werner,456310,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,False
+1283,Timo Werner,456310,46,Rasen Ballsport Leipzig,3,True,False,1,0,False,False,False,False,False,False,False
+17382,Anastasios Donis,456311,51,VfB Stuttgart 1893,16,True,False,0,0,True,True,False,False,True,True,False
+1219,Admir Mehmedi,456312,43,VfL Wolfsburg,6,True,False,0,0,True,False,False,False,False,False,True
+1596,Daniel Ginczek,456312,43,VfL Wolfsburg,6,True,False,0,1,False,False,False,False,False,False,True
+5372,Luka Jović,456312,44,Eintracht Frankfurt,7,True,False,0,2,False,False,False,False,False,True,False
+1335,Serge Gnabry,456313,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,True
+1068,Yūya Ōsako,456313,37,SV Werder Bremen,8,True,False,0,1,False,False,True,False,False,True,False
+1335,Serge Gnabry,456313,38,FC Bayern München,1,True,False,1,1,True,True,False,False,False,False,True
+1441,Jordan Torunarigha,456314,47,Hertha BSC,11,True,False,0,0,True,False,False,False,False,False,True
+1236,Vedad Ibišević,456314,47,Hertha BSC,11,True,False,0,1,False,False,False,False,False,False,True
+17489,Jean-Philippe Mateta,456315,34,1. FSV Mainz 05,12,True,False,0,0,True,True,False,False,True,True,True
+1305,Kai Havertz,456316,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,True,True
+9569,Georg Margreitter,456316,127,1. FC Nürnberg,18,True,False,0,1,False,False,True,True,False,True,False
+984,Robert Lewandowski,456317,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,False
+984,Robert Lewandowski,456317,38,FC Bayern München,1,True,False,1,0,False,False,False,False,False,False,False
+460881,Franck Bilal Ribéry,456317,38,FC Bayern München,1,True,False,2,0,False,False,False,False,False,False,False
+1449,Thomas Delaney,456318,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,True
+1135,Daniel Caligiuri,456318,35,FC Schalke 04,14,True,False,0,1,False,False,True,False,False,True,False
+86708,Jadon Sancho,456318,33,BVB 09 Borussia Dortmund,2,True,False,1,1,True,True,False,False,False,False,True
+466482,Lucas Nicolás Alario,456319,40,Bayer 04 Leverkusen,4,True,False,0,0,True,True,False,False,True,True,False
+461604,Raffael Caetano de Araújo,456320,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,False,False,False,False,False,False
+21887,Florian Neuhaus,456320,39,Borussia VfL Mönchengladbach,5,True,False,1,0,False,False,False,False,False,False,False
+17422,Benjamin Pavard,456320,39,Borussia VfL Mönchengladbach,5,True,False,2,0,False,False,False,False,False,False,False
+4157,Marko Grujić,456321,47,Hertha BSC,11,True,False,0,0,True,True,False,False,True,True,False
+21700,Kevin Möhwald,456322,37,SV Werder Bremen,8,True,False,0,0,True,False,False,False,False,False,False
+227854,Dodi Lukebakio,456322,545,Düsseldorfer TuS Fortuna 1895,10,True,False,1,0,False,False,True,False,False,True,True
+1595,Martin Harnik,456322,37,SV Werder Bremen,8,True,False,1,1,True,False,False,False,False,False,False
+174086,Joshua Sargent,456322,37,SV Werder Bremen,8,True,False,2,1,False,False,False,False,False,False,False
+1256,Nils Petersen,456323,42,SC Freiburg,13,True,False,0,0,True,False,False,False,False,False,False
+1108,Gian-Luca Waldschmidt,456323,42,SC Freiburg,13,True,False,1,0,False,False,False,False,False,False,False
+1325,Mike Frantz,456323,42,SC Freiburg,13,True,False,2,0,False,False,False,False,False,False,False
+154422,Hendrik Weydandt,456324,52,Hannoverscher Sportverein 1896,17,True,False,0,0,True,False,False,False,False,True,True
+1022,Daniel Brosinski,456324,34,1. FSV Mainz 05,12,True,False,0,1,False,False,True,True,False,True,False
+18799,Ishak Belfodil,456325,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,False,True
+1287,Ermin Bičakčić,456325,43,VfL Wolfsburg,6,True,False,0,1,False,False,True,False,False,False,False
+1596,Daniel Ginczek,456325,43,VfL Wolfsburg,6,True,False,1,1,True,False,False,False,False,False,False
+1271,Andrej Kramarić,456325,49,TSG 1899 Hoffenheim,9,True,False,2,1,False,False,True,True,False,False,True
+3086,Francisco Alcácer García,456327,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,False
+1427,Marco Reus,456327,33,BVB 09 Borussia Dortmund,2,True,False,1,0,False,False,False,False,False,False,False
+1422,Max Kruse,456327,37,SV Werder Bremen,8,True,False,2,0,False,False,False,False,False,True,True
+465406,Yussuf Yurary Poulsen,456328,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,False
+465406,Yussuf Yurary Poulsen,456328,46,Rasen Ballsport Leipzig,3,True,False,1,0,False,False,False,False,False,False,False
+1029,Karim Onisiwo,456328,34,1. FSV Mainz 05,12,True,False,2,0,False,False,False,False,False,True,True
+1283,Timo Werner,456328,46,Rasen Ballsport Leipzig,3,True,False,2,1,False,False,False,False,False,False,False
+1283,Timo Werner,456328,46,Rasen Ballsport Leipzig,3,True,False,3,1,False,False,False,False,False,False,False
+1379,Maximilian Mittelstädt,456329,47,Hertha BSC,11,True,False,0,0,True,False,False,False,False,True,True
+461076,Mario Gómez García,456329,51,VfB Stuttgart 1893,16,True,False,0,1,False,False,True,False,False,False,False
+461076,Mario Gómez García,456329,51,VfB Stuttgart 1893,16,True,False,1,1,True,True,False,False,False,False,False
+1373,Danny Vieira da Costa,456330,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,False,False
+1090,Filip Kostić,456330,44,Eintracht Frankfurt,7,True,False,1,0,False,False,False,False,False,False,False
+1208,Karim Bellarabi,456330,40,Bayer 04 Leverkusen,4,True,False,2,0,False,False,False,False,False,True,True
+1091,Michael Gregoritsch,456331,50,FC Augsburg,15,True,False,0,0,True,False,False,False,False,True,False
+1135,Daniel Caligiuri,456331,35,FC Schalke 04,14,True,False,1,0,False,False,True,True,False,True,True
+996,Joshua Kimmich,456332,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,True
+462411,David Olatukunbo Alaba,456332,38,FC Bayern München,1,True,False,0,1,False,False,False,False,False,False,True
+1335,Serge Gnabry,456332,38,FC Bayern München,1,True,False,0,2,False,False,False,False,False,False,True
+984,Robert Lewandowski,456332,38,FC Bayern München,1,True,False,0,3,False,False,False,False,False,False,True
+1605,Kaan Ayhan,456333,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,0,True,False,False,False,False,False,False
+1605,Kaan Ayhan,456333,545,Düsseldorfer TuS Fortuna 1895,10,True,False,1,0,False,False,False,False,False,False,False
+1596,Daniel Ginczek,456334,43,VfL Wolfsburg,6,True,False,0,0,True,False,False,False,False,False,True
+1153,Josip Brekalo,456334,43,VfL Wolfsburg,6,True,False,0,1,False,False,False,False,False,False,True
+460881,Franck Bilal Ribéry,456335,38,FC Bayern München,1,True,False,0,0,True,True,False,False,True,True,False
+1306,Aleksandar Dragović,456336,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,False,True
+466482,Lucas Nicolás Alario,456336,40,Bayer 04 Leverkusen,4,True,False,0,1,False,False,False,False,False,False,True
+1516,Haji Wright,456336,35,FC Schalke 04,14,True,False,0,2,False,False,False,False,False,True,False
+1214,Thorgan Hazard,456337,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,False,False,False,False,False,False
+17372,Alassane Pléa,456337,39,Borussia VfL Mönchengladbach,5,True,False,1,0,False,False,False,False,False,False,False
+1336,Martin Hinteregger,456338,50,FC Augsburg,15,True,False,0,0,True,False,False,False,False,False,True
+1101,Mathew Leckie,456338,47,Hertha BSC,11,True,False,0,1,False,False,True,False,False,False,False
+1480,Ondrej Duda,456338,47,Hertha BSC,11,True,False,1,1,True,False,False,False,False,False,False
+1125,Ja-Cheol Koo,456338,50,FC Augsburg,15,True,False,2,1,False,False,True,True,False,False,True
+1054,Leonardo Bittencourt,456339,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,True,True
+986,Theodor Gebre Selassie,456339,37,SV Werder Bremen,8,True,False,0,1,False,False,True,True,False,True,False
+1108,Gian-Luca Waldschmidt,456340,42,SC Freiburg,13,True,False,0,0,True,False,False,False,False,True,False
+1570,Felipe Trevizan Martins,456340,52,Hannoverscher Sportverein 1896,17,True,False,1,0,False,False,True,True,False,True,True
+1477,Robin Quaison,456341,34,1. FSV Mainz 05,12,True,False,0,0,True,False,False,False,False,False,False
+5372,Luka Jović,456341,44,Eintracht Frankfurt,7,True,False,1,0,False,False,True,False,False,False,True
+1477,Robin Quaison,456341,34,1. FSV Mainz 05,12,True,False,1,1,True,False,False,False,False,False,False
+5372,Luka Jović,456341,44,Eintracht Frankfurt,7,True,False,2,1,False,False,True,True,False,False,True
+1418,Josuha Guilavogui,456342,43,VfL Wolfsburg,6,True,False,0,0,True,False,False,False,False,False,False
+14609,Wout Weghorst,456342,43,VfL Wolfsburg,6,True,False,1,0,False,False,False,False,False,False,False
+227854,Dodi Lukebakio,456343,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,0,True,False,False,False,False,False,False
+21815,Jean Zimmer,456343,545,Düsseldorfer TuS Fortuna 1895,10,True,False,1,0,False,False,False,False,False,False,False
+3086,Francisco Alcácer García,456343,33,BVB 09 Borussia Dortmund,2,True,False,2,0,False,False,False,False,False,True,True
+1288,Kerem Demirbay,456344,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,True,False
+17489,Jean-Philippe Mateta,456344,34,1. FSV Mainz 05,12,True,False,1,0,False,False,True,True,False,True,True
+86708,Jadon Sancho,456345,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,False
+1197,Christoph Kramer,456345,39,Borussia VfL Mönchengladbach,5,True,False,1,0,False,False,True,False,False,True,True
+1427,Marco Reus,456345,33,BVB 09 Borussia Dortmund,2,True,False,1,1,True,True,False,False,False,False,False
+1211,Kevin Volland,456346,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,False,False
+1305,Kai Havertz,456346,40,Bayer 04 Leverkusen,4,True,False,1,0,False,False,False,False,False,False,False
+1441,Jordan Torunarigha,456346,47,Hertha BSC,11,True,False,2,0,False,False,False,False,False,True,True
+1305,Kai Havertz,456346,40,Bayer 04 Leverkusen,4,True,False,2,1,False,False,False,False,False,False,False
+1328,Lukas Klostermann,456347,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,False
+1283,Timo Werner,456347,46,Rasen Ballsport Leipzig,3,True,False,1,0,False,False,False,False,False,False,False
+1422,Max Kruse,456347,37,SV Werder Bremen,8,True,False,2,0,False,False,False,False,False,False,True
+174086,Joshua Sargent,456347,37,SV Werder Bremen,8,True,False,2,1,False,False,True,False,False,False,True
+465591,Armindo Tué Na Bangna,456347,46,Rasen Ballsport Leipzig,3,True,False,2,2,True,True,False,False,False,False,False
+21644,Steven Skrzybski,456348,35,FC Schalke 04,14,True,False,0,0,True,False,False,False,False,False,True
+1555,Salif Sané,456348,35,FC Schalke 04,14,True,False,0,1,False,False,False,False,False,False,True
+29888,Nicolás González,456348,51,VfB Stuttgart 1893,16,True,False,0,2,False,False,False,False,False,True,False
+57203,Ahmed Kutucu,456348,35,FC Schalke 04,14,True,False,1,2,False,False,False,False,False,False,True
+460881,Franck Bilal Ribéry,456349,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,True
+460881,Franck Bilal Ribéry,456349,38,FC Bayern München,1,True,False,0,1,False,False,False,False,False,False,True
+461085,Márcio Rafael Ferreira de Souza,456349,38,FC Bayern München,1,True,False,0,2,False,False,False,False,False,False,True
+1418,Josuha Guilavogui,456350,43,VfL Wolfsburg,6,True,False,0,0,True,False,False,False,False,False,True
+25085,William de Asevedo Furtado,456350,43,VfL Wolfsburg,6,True,False,0,1,False,False,False,False,False,False,True
+1295,Rani Khedira,456350,50,FC Augsburg,15,True,False,0,2,False,False,False,False,False,False,False
+40077,Sergio Duvan Córdova Lezama,456350,50,FC Augsburg,15,True,False,1,2,False,False,True,False,False,False,False
+1138,Yannick Gerhardt,456350,43,VfL Wolfsburg,6,True,False,2,2,True,True,False,False,False,False,True
+21668,Oliver Fink,456351,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,0,True,True,False,False,True,True,True
+1239,Manuel Gulde,456352,42,SC Freiburg,13,True,False,0,0,True,True,False,False,True,True,True
+1135,Daniel Caligiuri,456353,35,FC Schalke 04,14,True,False,0,0,True,False,False,False,False,False,False
+58655,Elvis Rexhbecaj,456353,43,VfL Wolfsburg,6,True,False,1,0,False,False,True,False,False,True,True
+1135,Daniel Caligiuri,456353,35,FC Schalke 04,14,True,False,1,1,True,True,False,False,False,False,False
+1300,Leon Goretzka,456354,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,True
+1300,Leon Goretzka,456354,38,FC Bayern München,1,True,False,0,1,False,False,False,False,False,False,True
+1354,Nico Schulz,456354,49,TSG 1899 Hoffenheim,9,True,False,0,2,False,False,False,False,False,True,False
+984,Robert Lewandowski,456354,38,FC Bayern München,1,True,False,1,2,False,False,False,False,False,False,True
+17372,Alassane Pléa,456355,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,True,False,False,True,True,True
+36589,Axel Witsel,456356,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,True,False,False,True,True,True
+472619,Santiago Lionel Ascacíbar,456357,34,1. FSV Mainz 05,12,True,False,0,0,True,False,False,False,False,False,True
+17489,Jean-Philippe Mateta,456357,34,1. FSV Mainz 05,12,True,False,0,1,False,False,False,False,False,False,True
+1356,Alexander Hack,456357,34,1. FSV Mainz 05,12,True,False,0,2,False,False,False,False,False,False,True
+29888,Nicolás González,456357,51,VfB Stuttgart 1893,16,True,False,0,3,False,False,False,False,False,False,False
+1479,Marc-Oliver Kempf,456357,51,VfB Stuttgart 1893,16,True,False,1,3,False,False,False,False,False,False,False
+14492,Sébastien Haller,456358,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,False,False
+1323,Ante Rebić,456358,44,Eintracht Frankfurt,7,True,False,1,0,False,False,False,False,False,False,False
+5372,Luka Jović,456358,44,Eintracht Frankfurt,7,True,False,2,0,False,False,False,False,False,False,False
+1256,Nils Petersen,456358,42,SC Freiburg,13,True,False,3,0,False,False,False,False,False,True,True
+1780,Marvin Ducksch,456359,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,0,True,False,False,False,False,False,True
+1340,Jonathan Schmid,456359,50,FC Augsburg,15,True,False,0,1,False,False,True,False,False,True,False
+21416,Benito Raman,456359,545,Düsseldorfer TuS Fortuna 1895,10,True,False,1,1,True,True,False,False,False,False,True
+14702,Milot Rashica,456360,37,SV Werder Bremen,8,True,False,0,0,True,True,False,False,True,True,True
+1236,Vedad Ibišević,456361,47,Hertha BSC,11,True,False,0,0,True,False,False,False,False,False,True
+21691,Hanno Behrens,456361,127,1. FC Nürnberg,18,True,False,0,1,False,False,True,False,False,True,False
+1480,Ondrej Duda,456361,47,Hertha BSC,11,True,False,1,1,True,False,False,False,False,False,True
+1480,Ondrej Duda,456361,47,Hertha BSC,11,True,False,1,2,False,False,False,False,False,False,True
+982,Thiago Alcântara do Nascimento,456362,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,False
+17382,Anastasios Donis,456362,51,VfB Stuttgart 1893,16,True,False,1,0,False,False,True,False,False,True,True
+1594,Christian Gentner,456362,38,FC Bayern München,1,True,False,1,1,True,False,False,False,False,False,False
+1300,Leon Goretzka,456362,38,FC Bayern München,1,True,False,2,1,False,False,False,False,False,False,False
+984,Robert Lewandowski,456362,38,FC Bayern München,1,True,False,3,1,False,False,False,False,False,False,False
+10797,Achraf Hakimi Mouh,456363,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,False
+1427,Marco Reus,456363,33,BVB 09 Borussia Dortmund,2,True,False,1,0,False,False,False,False,False,False,False
+1329,Mario Götze,456363,33,BVB 09 Borussia Dortmund,2,True,False,2,0,False,False,False,False,False,False,False
+1034,Raphaël Adelino José Guerreiro,456363,33,BVB 09 Borussia Dortmund,2,True,False,3,0,False,False,False,False,False,False,False
+1773,Marvin Bakalorz,456363,52,Hannoverscher Sportverein 1896,17,True,False,4,0,False,False,False,False,False,True,True
+36589,Axel Witsel,456363,33,BVB 09 Borussia Dortmund,2,True,False,4,1,False,False,False,False,False,False,False
+1191,Oscar Wendt,456364,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,False,False,False,False,False,False
+1215,Patrick Herrmann,456364,39,Borussia VfL Mönchengladbach,5,True,False,1,0,False,False,False,False,False,False,False
+1298,Yevhen Konoplyanka,456365,35,FC Schalke 04,14,True,False,0,0,True,False,False,False,False,False,True
+4157,Marko Grujić,456365,47,Hertha BSC,11,True,False,0,1,False,False,True,False,False,False,False
+1272,Mark Uth,456365,35,FC Schalke 04,14,True,False,1,1,True,False,False,False,False,False,True
+1236,Vedad Ibišević,456365,47,Hertha BSC,11,True,False,1,2,False,False,True,True,False,False,False
+1004,Maximilian Eggestein,456366,37,SV Werder Bremen,8,True,False,0,0,True,False,False,False,False,False,False
+1323,Ante Rebić,456366,44,Eintracht Frankfurt,7,True,False,1,0,False,False,True,False,False,False,True
+1595,Martin Harnik,456366,37,SV Werder Bremen,8,True,False,1,1,True,False,False,False,False,False,False
+14492,Sébastien Haller,456366,44,Eintracht Frankfurt,7,True,False,2,1,False,False,True,True,False,False,True
+1671,Joelinton Cassio Apolinário de Lira,456367,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,False,True
+21673,Lucas Höler,456367,42,SC Freiburg,13,True,False,0,1,False,False,True,False,False,False,False
+1271,Andrej Kramarić,456367,49,TSG 1899 Hoffenheim,9,True,False,1,1,True,False,False,False,False,False,True
+1271,Andrej Kramarić,456367,49,TSG 1899 Hoffenheim,9,True,False,1,2,False,False,False,False,False,False,True
+1246,Florian Niederlechner,456367,42,SC Freiburg,13,True,False,1,3,False,False,False,False,False,False,False
+1288,Kerem Demirbay,456367,49,TSG 1899 Hoffenheim,9,True,False,2,3,False,False,False,False,False,False,True
+1022,Daniel Brosinski,456368,34,1. FSV Mainz 05,12,True,False,0,0,True,False,False,False,False,False,False
+9569,Georg Margreitter,456368,127,1. FC Nürnberg,18,True,False,1,0,False,False,True,False,False,True,True
+1477,Robin Quaison,456368,34,1. FSV Mainz 05,12,True,False,1,1,True,True,False,False,False,False,False
+1305,Kai Havertz,456369,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,False,True
+1211,Kevin Volland,456369,40,Bayer 04 Leverkusen,4,True,False,0,1,False,False,False,False,False,False,True
+1220,Julian Brandt,456369,40,Bayer 04 Leverkusen,4,True,False,0,2,False,False,False,False,False,False,True
+465406,Yussuf Yurary Poulsen,456370,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,True
+19532,Ibrahima Konaté,456370,46,Rasen Ballsport Leipzig,3,True,False,0,1,False,False,False,False,False,False,True
+465406,Yussuf Yurary Poulsen,456370,46,Rasen Ballsport Leipzig,3,True,False,0,2,False,False,False,False,False,False,True
+2103,Konrad Laimer,456370,46,Rasen Ballsport Leipzig,3,True,False,0,3,False,False,False,False,False,False,True
+1197,Christoph Kramer,456371,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,False,False,False,False,False,True
+21887,Florian Neuhaus,456371,39,Borussia VfL Mönchengladbach,5,True,False,0,1,False,False,False,False,False,False,True
+1271,Andrej Kramarić,456372,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,True,False
+8125,Rouwen Hennings,456372,545,Düsseldorfer TuS Fortuna 1895,10,True,False,1,0,False,False,True,True,False,True,True
+1300,Leon Goretzka,456373,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,True,True
+1463,Leon Bailey Butler,456373,40,Bayer 04 Leverkusen,4,True,False,0,1,False,False,True,False,False,False,False
+1211,Kevin Volland,456373,40,Bayer 04 Leverkusen,4,True,False,1,1,True,False,False,False,False,False,False
+466482,Lucas Nicolás Alario,456373,40,Bayer 04 Leverkusen,4,True,False,2,1,False,False,False,False,False,False,False
+1244,Janik Haberer,456374,42,SC Freiburg,13,True,False,0,0,True,False,False,False,False,False,True
+1591,Emiliano Adrián Insúa Zapata,456374,51,VfB Stuttgart 1893,16,True,False,0,1,False,False,True,False,False,False,False
+1136,Daniel Didavi,456374,51,VfB Stuttgart 1893,16,True,False,1,1,True,False,False,False,False,False,False
+1246,Florian Niederlechner,456374,42,SC Freiburg,13,True,False,2,1,False,False,True,True,False,False,True
+1427,Marco Reus,456375,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,True,True
+5372,Luka Jović,456375,44,Eintracht Frankfurt,7,True,False,0,1,False,False,True,True,False,True,False
+14609,Wout Weghorst,456376,43,VfL Wolfsburg,6,True,False,0,0,True,True,False,False,True,True,True
+1128,Alfreð Finnbogason,456377,50,FC Augsburg,15,True,False,0,0,True,False,False,False,False,False,False
+1128,Alfreð Finnbogason,456377,50,FC Augsburg,15,True,False,1,0,False,False,False,False,False,False,False
+1128,Alfreð Finnbogason,456377,50,FC Augsburg,15,True,False,2,0,False,False,False,False,False,False,False
+1275,Marcel Halstenberg,456378,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,True
+1276,Willi Orban,456378,46,Rasen Ballsport Leipzig,3,True,False,0,1,False,False,False,False,False,False,True
+1276,Willi Orban,456378,46,Rasen Ballsport Leipzig,3,True,False,0,2,False,False,False,False,False,False,True
+22483,Johannes Eggestein,456379,37,SV Werder Bremen,8,True,False,0,0,True,False,False,False,False,True,True
+20925,Mikael Ishak,456379,127,1. FC Nürnberg,18,True,False,0,1,False,False,True,True,False,True,False
+1131,Jeffrey Bruma,456380,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,False
+57203,Ahmed Kutucu,456380,35,FC Schalke 04,14,True,False,1,0,False,False,True,False,False,True,True
+984,Robert Lewandowski,456380,38,FC Bayern München,1,True,False,1,1,True,False,False,False,False,False,False
+1335,Serge Gnabry,456380,38,FC Bayern München,1,True,False,2,1,False,False,False,False,False,False,False
+86708,Jadon Sancho,456381,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,False
+1329,Mario Götze,456381,33,BVB 09 Borussia Dortmund,2,True,False,1,0,False,False,False,False,False,False,False
+1034,Raphaël Adelino José Guerreiro,456381,33,BVB 09 Borussia Dortmund,2,True,False,2,0,False,False,False,False,False,False,False
+18799,Ishak Belfodil,456381,49,TSG 1899 Hoffenheim,9,True,False,3,0,False,False,False,False,False,False,True
+1264,Pavel Kadeřábek,456381,49,TSG 1899 Hoffenheim,9,True,False,3,1,False,False,False,False,False,False,True
+18799,Ishak Belfodil,456381,49,TSG 1899 Hoffenheim,9,True,False,3,2,False,False,True,True,False,False,True
+1252,Salomon Armand Magloire Kalou,456383,47,Hertha BSC,11,True,False,0,0,True,False,False,False,False,False,True
+1480,Ondrej Duda,456383,47,Hertha BSC,11,True,False,0,1,False,False,False,False,False,False,True
+1292,Davie Selke,456383,47,Hertha BSC,11,True,False,0,2,False,False,False,False,False,False,True
+14702,Milot Rashica,456384,37,SV Werder Bremen,8,True,False,0,0,True,False,False,False,False,False,False
+22483,Johannes Eggestein,456384,37,SV Werder Bremen,8,True,False,1,0,False,False,False,False,False,False,False
+14702,Milot Rashica,456384,37,SV Werder Bremen,8,True,False,2,0,False,False,False,False,False,False,False
+21700,Kevin Möhwald,456384,37,SV Werder Bremen,8,True,False,3,0,False,False,False,False,False,False,False
+463400,Nicolai Müller,456385,52,Hannoverscher Sportverein 1896,17,True,False,0,0,True,False,False,False,False,False,False
+463400,Nicolai Müller,456385,52,Hannoverscher Sportverein 1896,17,True,False,1,0,False,False,False,False,False,False,False
+17223,Jérôme Roussillon,456386,43,VfL Wolfsburg,6,True,False,0,0,True,False,False,False,False,False,True
+1245,Vincenzo Grifo,456386,42,SC Freiburg,13,True,False,0,1,False,False,True,False,False,False,False
+14609,Wout Weghorst,456386,43,VfL Wolfsburg,6,True,False,1,1,True,False,False,False,False,False,True
+1256,Nils Petersen,456386,42,SC Freiburg,13,True,False,1,2,False,False,True,False,False,False,False
+2994,Renato Steffen,456386,43,VfL Wolfsburg,6,True,False,2,2,True,False,False,False,False,False,True
+1108,Gian-Luca Waldschmidt,456386,42,SC Freiburg,13,True,False,2,3,False,False,True,True,False,False,False
+466103,Wendell Nascimento Borges,456387,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,False,True
+1477,Robin Quaison,456387,34,1. FSV Mainz 05,12,True,False,0,1,False,False,True,False,False,True,False
+1305,Kai Havertz,456387,40,Bayer 04 Leverkusen,4,True,False,1,1,True,False,False,False,False,False,True
+1220,Julian Brandt,456387,40,Bayer 04 Leverkusen,4,True,False,1,2,False,False,False,False,False,False,True
+1208,Karim Bellarabi,456387,40,Bayer 04 Leverkusen,4,True,False,1,3,False,False,False,False,False,False,True
+1220,Julian Brandt,456387,40,Bayer 04 Leverkusen,4,True,False,1,4,False,False,False,False,False,False,True
+1559,Kenan Karaman,456388,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,0,True,False,False,False,False,False,False
+21668,Oliver Fink,456388,545,Düsseldorfer TuS Fortuna 1895,10,True,False,1,0,False,False,False,False,False,False,False
+21416,Benito Raman,456388,545,Düsseldorfer TuS Fortuna 1895,10,True,False,2,0,False,False,False,False,False,False,False
+1671,Joelinton Cassio Apolinário de Lira,456390,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,False,False
+18799,Ishak Belfodil,456390,49,TSG 1899 Hoffenheim,9,True,False,1,0,False,False,False,False,False,False,False
+1288,Kerem Demirbay,456390,49,TSG 1899 Hoffenheim,9,True,False,2,0,False,False,False,False,False,False,False
+1305,Kai Havertz,456391,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,False,False
+1463,Leon Bailey Butler,456391,40,Bayer 04 Leverkusen,4,True,False,1,0,False,False,False,False,False,False,False
+465406,Yussuf Yurary Poulsen,456392,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,True
+1289,Steven Zuber,456392,51,VfB Stuttgart 1893,16,True,False,0,1,False,False,True,False,False,True,False
+1281,Marcel Sabitzer,456392,46,Rasen Ballsport Leipzig,3,True,False,1,1,True,False,False,False,False,False,True
+465406,Yussuf Yurary Poulsen,456392,46,Rasen Ballsport Leipzig,3,True,False,1,2,False,False,False,False,False,False,True
+1373,Danny Vieira da Costa,456393,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,True,False
+471267,Denis Lemi Zakaria Lako Lado,456393,39,Borussia VfL Mönchengladbach,5,True,False,1,0,False,False,True,True,False,True,True
+1292,Davie Selke,456394,47,Hertha BSC,11,True,False,0,0,True,False,False,False,False,True,False
+1416,Claudio Miguel Pizarro Bossio,456394,37,SV Werder Bremen,8,True,False,1,0,False,False,True,True,False,True,True
+1300,Leon Goretzka,456395,50,FC Augsburg,15,True,False,0,0,True,False,False,False,False,False,False
+1345,Kingsley Coman,456395,38,FC Bayern München,1,True,False,1,0,False,False,True,False,False,False,True
+1140,Dong-Won Ji,456395,50,FC Augsburg,15,True,False,1,1,True,False,False,False,False,False,False
+1345,Kingsley Coman,456395,38,FC Bayern München,1,True,False,2,1,False,False,True,False,False,False,True
+462411,David Olatukunbo Alaba,456395,38,FC Bayern München,1,True,False,2,2,True,True,False,False,False,False,True
+1147,Maximilian Arnold,456396,43,VfL Wolfsburg,6,True,False,0,0,True,False,False,False,False,False,False
+14609,Wout Weghorst,456396,43,VfL Wolfsburg,6,True,False,1,0,False,False,False,False,False,False,False
+1132,Robin Knoche,456396,43,VfL Wolfsburg,6,True,False,2,0,False,False,False,False,False,False,False
+461470,Javier Martínez Aginaga,456398,38,FC Bayern München,1,True,False,0,0,True,True,False,False,True,True,False
+40078,Dan-Axel Zagadou,456399,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,False
+1211,Kevin Volland,456399,40,Bayer 04 Leverkusen,4,True,False,1,0,False,False,True,False,False,False,True
+86708,Jadon Sancho,456399,33,BVB 09 Borussia Dortmund,2,True,False,1,1,True,False,False,False,False,False,False
+1329,Mario Götze,456399,33,BVB 09 Borussia Dortmund,2,True,False,2,1,False,False,False,False,False,False,False
+1205,Jonathan Tah,456399,40,Bayer 04 Leverkusen,4,True,False,3,1,False,False,False,False,False,False,True
+1271,Andrej Kramarić,456400,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,True,True
+1276,Willi Orban,456400,46,Rasen Ballsport Leipzig,3,True,False,0,1,False,False,True,True,False,True,False
+1138,Yannick Gerhardt,456401,43,VfL Wolfsburg,6,True,False,0,0,True,False,False,False,False,False,True
+1219,Admir Mehmedi,456401,43,VfL Wolfsburg,6,True,False,0,1,False,False,False,False,False,False,True
+1219,Admir Mehmedi,456401,43,VfL Wolfsburg,6,True,False,0,2,False,False,False,False,False,False,True
+1289,Steven Zuber,456402,51,VfB Stuttgart 1893,16,True,False,0,0,True,False,False,False,False,True,True
+2668,Davy Klaassen,456402,37,SV Werder Bremen,8,True,False,0,1,False,False,True,True,False,True,False
+1323,Ante Rebić,456403,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,False,True
+5372,Luka Jović,456403,44,Eintracht Frankfurt,7,True,False,0,1,False,False,False,False,False,False,True
+1090,Filip Kostić,456403,44,Eintracht Frankfurt,7,True,False,0,2,False,False,False,False,False,False,True
+1256,Nils Petersen,456404,42,SC Freiburg,13,True,False,0,0,True,False,False,False,False,False,False
+1245,Vincenzo Grifo,456404,42,SC Freiburg,13,True,False,1,0,False,False,False,False,False,False,False
+1256,Nils Petersen,456404,42,SC Freiburg,13,True,False,2,0,False,False,False,False,False,False,False
+1295,Rani Khedira,456404,50,FC Augsburg,15,True,False,3,0,False,False,False,False,False,True,True
+1108,Gian-Luca Waldschmidt,456404,42,SC Freiburg,13,True,False,3,1,False,False,False,False,False,False,False
+1246,Florian Niederlechner,456404,42,SC Freiburg,13,True,False,4,1,False,False,False,False,False,False,False
+1029,Karim Onisiwo,456405,34,1. FSV Mainz 05,12,True,False,0,0,True,False,False,False,False,False,False
+17489,Jean-Philippe Mateta,456405,34,1. FSV Mainz 05,12,True,False,1,0,False,False,False,False,False,False,False
+1029,Karim Onisiwo,456405,34,1. FSV Mainz 05,12,True,False,2,0,False,False,False,False,False,False,False
+21948,Eduard Löwen,456406,127,1. FC Nürnberg,18,True,False,0,0,True,False,False,False,False,True,True
+5586,Ewerton Jose Almeida Santos,456406,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,1,False,False,True,False,False,False,False
+1605,Kaan Ayhan,456406,545,Düsseldorfer TuS Fortuna 1895,10,True,False,1,1,True,True,False,False,False,False,False
+227854,Dodi Lukebakio,456407,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,0,True,False,False,False,False,False,True
+37889,Dawid Kownacki,456407,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,1,False,False,False,False,False,False,True
+21416,Benito Raman,456407,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,2,False,False,False,False,False,False,True
+37889,Dawid Kownacki,456407,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,3,False,False,False,False,False,False,True
+462227,Charles Mariano Aránguiz Sandoval,456408,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,False,False
+1463,Leon Bailey Butler,456408,40,Bayer 04 Leverkusen,4,True,False,1,0,False,False,False,False,False,False,False
+461076,Mario Gómez García,456409,51,VfB Stuttgart 1893,16,True,False,0,0,True,False,False,False,False,False,False
+167052,Ozan Muhammed Kabak,456409,51,VfB Stuttgart 1893,16,True,False,1,0,False,False,False,False,False,False,False
+167052,Ozan Muhammed Kabak,456409,51,VfB Stuttgart 1893,16,True,False,2,0,False,False,False,False,False,False,False
+464007,Jonathas Cristian de Jesus,456409,52,Hannoverscher Sportverein 1896,17,True,False,3,0,False,False,False,False,False,True,True
+1289,Steven Zuber,456409,51,VfB Stuttgart 1893,16,True,False,3,1,False,False,False,False,False,False,False
+1289,Steven Zuber,456409,51,VfB Stuttgart 1893,16,True,False,4,1,False,False,False,False,False,False,False
+1090,Filip Kostić,456410,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,False,False
+1671,Joelinton Cassio Apolinário de Lira,456410,49,TSG 1899 Hoffenheim,9,True,False,1,0,False,False,True,False,False,False,True
+18799,Ishak Belfodil,456410,49,TSG 1899 Hoffenheim,9,True,False,1,1,True,False,False,False,False,False,True
+14492,Sébastien Haller,456410,44,Eintracht Frankfurt,7,True,False,1,2,False,False,True,False,False,False,False
+5354,Gonçalo Mendes Paciencia,456410,44,Eintracht Frankfurt,7,True,False,2,2,True,True,False,False,False,False,False
+461470,Javier Martínez Aginaga,456411,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,True
+983,Thomas Müller,456411,38,FC Bayern München,1,True,False,0,1,False,False,False,False,False,False,True
+1199,Lars Stindl,456411,39,Borussia VfL Mönchengladbach,5,True,False,0,2,False,False,False,False,False,True,False
+984,Robert Lewandowski,456411,38,FC Bayern München,1,True,False,1,2,False,False,False,False,False,False,True
+1335,Serge Gnabry,456411,38,FC Bayern München,1,True,False,1,3,False,False,False,False,False,False,True
+984,Robert Lewandowski,456411,38,FC Bayern München,1,True,False,1,4,False,False,False,False,False,False,True
+1315,Niklas Stark,456412,34,1. FSV Mainz 05,12,True,False,0,0,True,False,False,False,False,True,True
+4157,Marko Grujić,456412,47,Hertha BSC,11,True,False,0,1,False,False,True,False,False,False,False
+1315,Niklas Stark,456412,47,Hertha BSC,11,True,False,1,1,True,True,False,False,False,False,False
+1140,Dong-Won Ji,456413,50,FC Augsburg,15,True,False,0,0,True,False,False,False,False,False,False
+1140,Dong-Won Ji,456413,50,FC Augsburg,15,True,False,1,0,False,False,False,False,False,False,False
+3086,Francisco Alcácer García,456413,33,BVB 09 Borussia Dortmund,2,True,False,2,0,False,False,False,False,False,True,True
+1230,John Anthony Brooks,456414,43,VfL Wolfsburg,6,True,False,0,0,True,False,False,False,False,True,False
+1422,Max Kruse,456414,37,SV Werder Bremen,8,True,False,1,0,False,False,True,True,False,True,True
+1328,Lukas Klostermann,456415,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,True,False,False,True,True,True
+1335,Serge Gnabry,456416,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,False
+984,Robert Lewandowski,456416,38,FC Bayern München,1,True,False,1,0,False,False,False,False,False,False,False
+463782,James David Rodríguez Rubio,456416,38,FC Bayern München,1,True,False,2,0,False,False,False,False,False,False,False
+983,Thomas Müller,456416,38,FC Bayern München,1,True,False,3,0,False,False,False,False,False,False,False
+996,Joshua Kimmich,456416,38,FC Bayern München,1,True,False,4,0,False,False,False,False,False,False,False
+984,Robert Lewandowski,456416,38,FC Bayern München,1,True,False,5,0,False,False,False,False,False,False,False
+1271,Andrej Kramarić,456417,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,False,False
+21691,Hanno Behrens,456417,127,1. FC Nürnberg,18,True,False,1,0,False,False,True,False,False,True,True
+1271,Andrej Kramarić,456417,49,TSG 1899 Hoffenheim,9,True,False,1,1,True,True,False,False,False,False,False
+1427,Marco Reus,456418,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,False
+1479,Marc-Oliver Kempf,456418,51,VfB Stuttgart 1893,16,True,False,1,0,False,False,True,False,False,True,True
+3086,Francisco Alcácer García,456418,33,BVB 09 Borussia Dortmund,2,True,False,1,1,True,False,False,False,False,False,False
+1038,Christian Pulisic,456418,33,BVB 09 Borussia Dortmund,2,True,False,2,1,False,False,False,False,False,False,False
+469661,Breel-Donald Embolo,456420,35,FC Schalke 04,14,True,False,0,0,True,False,False,False,False,False,True
+14702,Milot Rashica,456420,37,SV Werder Bremen,8,True,False,0,1,False,False,True,False,False,False,False
+1422,Max Kruse,456420,37,SV Werder Bremen,8,True,False,1,1,True,False,False,False,False,False,False
+14702,Milot Rashica,456420,37,SV Werder Bremen,8,True,False,2,1,False,False,False,False,False,False,False
+469661,Breel-Donald Embolo,456420,35,FC Schalke 04,14,True,False,3,1,False,False,False,False,False,False,True
+1595,Martin Harnik,456420,37,SV Werder Bremen,8,True,False,3,2,False,False,False,False,False,False,False
+1211,Kevin Volland,456421,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,False,True
+1211,Kevin Volland,456421,40,Bayer 04 Leverkusen,4,True,False,0,1,False,False,False,False,False,False,True
+464007,Jonathas Cristian de Jesus,456421,52,Hannoverscher Sportverein 1896,17,True,False,0,2,False,False,False,False,False,False,False
+1235,Mitchell Weiser,456421,52,Hannoverscher Sportverein 1896,17,True,False,1,2,False,False,True,False,False,False,False
+1305,Kai Havertz,456421,40,Bayer 04 Leverkusen,4,True,False,2,2,True,True,False,False,False,False,True
+1256,Nils Petersen,456422,42,SC Freiburg,13,True,False,0,0,True,False,False,False,False,False,False
+1236,Vedad Ibišević,456422,47,Hertha BSC,11,True,False,1,0,False,False,True,False,False,True,True
+1236,Vedad Ibišević,456422,42,SC Freiburg,13,True,False,1,1,True,True,False,False,False,False,False
+1194,Nico Elvedi,456423,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,True,False,False,True,True,True
+5354,Gonçalo Mendes Paciencia,456424,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,False,True
+14492,Sébastien Haller,456424,44,Eintracht Frankfurt,7,True,False,0,1,False,False,False,False,False,False,True
+14492,Sébastien Haller,456424,44,Eintracht Frankfurt,7,True,False,0,2,False,False,False,False,False,False,True
+984,Robert Lewandowski,456425,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,False
+463782,James David Rodríguez Rubio,456425,38,FC Bayern München,1,True,False,1,0,False,False,False,False,False,False,False
+1345,Kingsley Coman,456425,38,FC Bayern München,1,True,False,2,0,False,False,False,False,False,False,False
+463782,James David Rodríguez Rubio,456425,38,FC Bayern München,1,True,False,3,0,False,False,False,False,False,False,False
+463782,James David Rodríguez Rubio,456425,38,FC Bayern München,1,True,False,4,0,False,False,False,False,False,False,False
+509,Alphonso Davies,456425,38,FC Bayern München,1,True,False,5,0,False,False,False,False,False,False,False
+1283,Timo Werner,456426,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,True,False,False,True,True,True
+1422,Max Kruse,456427,37,SV Werder Bremen,8,True,False,0,0,True,False,False,False,False,False,True
+14702,Milot Rashica,456427,37,SV Werder Bremen,8,True,False,0,1,False,False,False,False,False,False,True
+1463,Leon Bailey Butler,456427,40,Bayer 04 Leverkusen,4,True,False,0,2,False,False,False,False,False,True,False
+1422,Max Kruse,456427,37,SV Werder Bremen,8,True,False,1,2,False,False,False,False,False,False,True
+1271,Andrej Kramarić,456428,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,True,True
+1289,Steven Zuber,456428,51,VfB Stuttgart 1893,16,True,False,0,1,False,False,True,True,False,True,False
+1336,Martin Hinteregger,456429,44,Eintracht Frankfurt,7,True,False,0,0,True,True,False,False,True,True,False
+1245,Vincenzo Grifo,456430,42,SC Freiburg,13,True,False,0,0,True,False,False,False,False,True,True
+17372,Alassane Pléa,456430,39,Borussia VfL Mönchengladbach,5,True,False,0,1,False,False,True,True,False,True,False
+1252,Salomon Armand Magloire Kalou,456431,47,Hertha BSC,11,True,False,0,0,True,False,False,False,False,False,False
+1449,Thomas Delaney,456431,33,BVB 09 Borussia Dortmund,2,True,False,1,0,False,False,True,False,False,False,True
+1252,Salomon Armand Magloire Kalou,456431,47,Hertha BSC,11,True,False,1,1,True,False,False,False,False,False,False
+40078,Dan-Axel Zagadou,456431,33,BVB 09 Borussia Dortmund,2,True,False,2,1,False,False,True,False,False,False,True
+1427,Marco Reus,456431,33,BVB 09 Borussia Dortmund,2,True,False,2,2,True,True,False,False,False,False,True
+154422,Hendrik Weydandt,456432,52,Hannoverscher Sportverein 1896,17,True,False,0,0,True,False,False,False,False,True,True
+40077,Sergio Duvan Córdova Lezama,456432,50,FC Augsburg,15,True,False,0,1,False,False,True,False,False,False,False
+1340,Jonathan Schmid,456432,50,FC Augsburg,15,True,False,1,1,True,False,False,False,False,False,False
+1200,André Hahn,456432,50,FC Augsburg,15,True,False,2,1,False,False,False,False,False,False,False
+1605,Kaan Ayhan,456433,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,0,True,False,False,False,False,False,True
+1219,Admir Mehmedi,456433,43,VfL Wolfsburg,6,True,False,0,1,False,False,True,False,False,False,False
+14609,Wout Weghorst,456433,43,VfL Wolfsburg,6,True,False,1,1,True,False,False,False,False,False,False
+1132,Robin Knoche,456433,43,VfL Wolfsburg,6,True,False,2,1,False,False,False,False,False,False,False
+14609,Wout Weghorst,456433,43,VfL Wolfsburg,6,True,False,3,1,False,False,False,False,False,False,False
+21416,Benito Raman,456433,545,Düsseldorfer TuS Fortuna 1895,10,True,False,4,1,False,False,False,False,False,False,True
+14609,Wout Weghorst,456433,43,VfL Wolfsburg,6,True,False,4,2,False,False,False,False,False,False,False
+18799,Ishak Belfodil,456434,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,False,False
+1211,Kevin Volland,456434,40,Bayer 04 Leverkusen,4,True,False,1,0,False,False,True,False,False,True,True
+1438,Sven Bender,456434,49,TSG 1899 Hoffenheim,9,True,False,1,1,True,False,False,False,False,False,False
+18799,Ishak Belfodil,456434,49,TSG 1899 Hoffenheim,9,True,False,2,1,False,False,False,False,False,False,False
+1271,Andrej Kramarić,456434,49,TSG 1899 Hoffenheim,9,True,False,3,1,False,False,False,False,False,False,False
+3086,Francisco Alcácer García,456435,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,False
+3086,Francisco Alcácer García,456435,33,BVB 09 Borussia Dortmund,2,True,False,1,0,False,False,False,False,False,False,False
+1291,Emil Forsberg,456436,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,False
+465406,Yussuf Yurary Poulsen,456436,46,Rasen Ballsport Leipzig,3,True,False,1,0,False,False,False,False,False,False,False
+465406,Yussuf Yurary Poulsen,456436,46,Rasen Ballsport Leipzig,3,True,False,2,0,False,False,False,False,False,False,False
+465406,Yussuf Yurary Poulsen,456436,46,Rasen Ballsport Leipzig,3,True,False,3,0,False,False,False,False,False,False,False
+23178,Amadou Haidara,456436,46,Rasen Ballsport Leipzig,3,True,False,4,0,False,False,False,False,False,False,False
+1090,Filip Kostić,456437,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,False,False
+1090,Filip Kostić,456437,44,Eintracht Frankfurt,7,True,False,1,0,False,False,False,False,False,False,False
+5372,Luka Jović,456437,44,Eintracht Frankfurt,7,True,False,2,0,False,False,False,False,False,False,False
+14702,Milot Rashica,456438,37,SV Werder Bremen,8,True,False,0,0,True,False,False,False,False,False,False
+1422,Max Kruse,456438,37,SV Werder Bremen,8,True,False,1,0,False,False,False,False,False,False,False
+1477,Robin Quaison,456438,34,1. FSV Mainz 05,12,True,False,2,0,False,False,False,False,False,True,True
+1422,Max Kruse,456438,37,SV Werder Bremen,8,True,False,2,1,False,False,False,False,False,False,False
+1031,Suat Serdar,456439,35,FC Schalke 04,14,True,False,0,0,True,True,False,False,True,True,True
+21673,Lucas Höler,456440,42,SC Freiburg,13,True,False,0,0,True,False,False,False,False,True,False
+984,Robert Lewandowski,456440,38,FC Bayern München,1,True,False,1,0,False,False,True,True,False,True,True
+8125,Rouwen Hennings,456441,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,0,True,False,False,False,False,False,False
+21636,Kevin Stöger,456441,545,Düsseldorfer TuS Fortuna 1895,10,True,False,1,0,False,False,False,False,False,False,False
+8125,Rouwen Hennings,456441,545,Düsseldorfer TuS Fortuna 1895,10,True,False,2,0,False,False,False,False,False,False,False
+471267,Denis Lemi Zakaria Lako Lado,456441,39,Borussia VfL Mönchengladbach,5,True,False,3,0,False,False,False,False,False,True,True
+20925,Mikael Ishak,456442,127,1. FC Nürnberg,18,True,False,0,0,True,False,False,False,False,False,False
+3339,Matheus Fellipe Costa Pereira,456442,127,1. FC Nürnberg,18,True,False,1,0,False,False,False,False,False,False,False
+21948,Eduard Löwen,456442,127,1. FC Nürnberg,18,True,False,2,0,False,False,False,False,False,False,False
+977,Mats Hummels,456443,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,False
+984,Robert Lewandowski,456443,38,FC Bayern München,1,True,False,1,0,False,False,False,False,False,False,False
+461470,Javier Martínez Aginaga,456443,38,FC Bayern München,1,True,False,2,0,False,False,False,False,False,False,False
+1335,Serge Gnabry,456443,38,FC Bayern München,1,True,False,3,0,False,False,False,False,False,False,False
+984,Robert Lewandowski,456443,38,FC Bayern München,1,True,False,4,0,False,False,False,False,False,False,False
+1323,Ante Rebić,456444,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,False,True
+1031,Suat Serdar,456444,35,FC Schalke 04,14,True,False,0,1,False,False,True,False,False,True,False
+5372,Luka Jović,456444,44,Eintracht Frankfurt,7,True,False,1,1,True,True,False,False,False,False,True
+1305,Kai Havertz,456445,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,False,False
+1281,Marcel Sabitzer,456445,46,Rasen Ballsport Leipzig,3,True,False,1,0,False,False,True,False,False,False,True
+1305,Kai Havertz,456445,40,Bayer 04 Leverkusen,4,True,False,1,1,True,False,False,False,False,False,False
+1283,Timo Werner,456445,46,Rasen Ballsport Leipzig,3,True,False,2,1,False,False,True,False,False,False,True
+1291,Emil Forsberg,456445,46,Rasen Ballsport Leipzig,3,True,False,2,2,True,False,False,False,False,False,True
+40467,Matheus Santos Carneiro Da Cunha,456445,46,Rasen Ballsport Leipzig,3,True,False,2,3,False,False,False,False,False,False,True
+3339,Matheus Fellipe Costa Pereira,456446,127,1. FC Nürnberg,18,True,False,0,0,True,False,False,False,False,True,True
+167052,Ozan Muhammed Kabak,456446,51,VfB Stuttgart 1893,16,True,False,0,1,False,False,True,True,False,True,False
+21887,Florian Neuhaus,456447,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,False,False,False,False,True,False
+2668,Davy Klaassen,456447,37,SV Werder Bremen,8,True,False,1,0,False,False,True,True,False,True,True
+21416,Benito Raman,456448,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,0,True,False,False,False,False,False,True
+4157,Marko Grujić,456448,47,Hertha BSC,11,True,False,0,1,False,False,True,False,False,True,False
+21416,Benito Raman,456448,545,Düsseldorfer TuS Fortuna 1895,10,True,False,1,1,True,True,False,False,False,False,True
+1271,Andrej Kramarić,456449,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,False,True
+18799,Ishak Belfodil,456449,49,TSG 1899 Hoffenheim,9,True,False,0,1,False,False,False,False,False,False,True
+18799,Ishak Belfodil,456449,49,TSG 1899 Hoffenheim,9,True,False,0,2,False,False,False,False,False,False,True
+18799,Ishak Belfodil,456449,49,TSG 1899 Hoffenheim,9,True,False,0,3,False,False,False,False,False,False,True
+15068,Jean-Paul Boëtius,456450,34,1. FSV Mainz 05,12,True,False,0,0,True,False,False,False,False,False,False
+17489,Jean-Philippe Mateta,456450,34,1. FSV Mainz 05,12,True,False,1,0,False,False,False,False,False,False,False
+17489,Jean-Philippe Mateta,456450,34,1. FSV Mainz 05,12,True,False,2,0,False,False,False,False,False,False,False
+1029,Karim Onisiwo,456450,34,1. FSV Mainz 05,12,True,False,3,0,False,False,False,False,False,False,False
+17489,Jean-Philippe Mateta,456450,34,1. FSV Mainz 05,12,True,False,4,0,False,False,False,False,False,False,False
+154422,Hendrik Weydandt,456451,52,Hannoverscher Sportverein 1896,17,True,False,0,0,True,False,False,False,False,True,True
+2994,Renato Steffen,456451,43,VfL Wolfsburg,6,True,False,0,1,False,False,True,False,False,False,False
+2994,Renato Steffen,456451,43,VfL Wolfsburg,6,True,False,1,1,True,False,False,False,False,False,False
+17223,Jérôme Roussillon,456451,43,VfL Wolfsburg,6,True,False,2,1,False,False,False,False,False,False,False
+1285,Nadiem Amiri,456452,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,False,False
+123480,Reiss Nelson,456452,49,TSG 1899 Hoffenheim,9,True,False,1,0,False,False,False,False,False,False,False
+86708,Jadon Sancho,456453,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,False
+86708,Jadon Sancho,456453,33,BVB 09 Borussia Dortmund,2,True,False,1,0,False,False,False,False,False,False,False
+1477,Robin Quaison,456453,34,1. FSV Mainz 05,12,True,False,2,0,False,False,False,False,False,True,True
+1209,Kevin Kampl,456454,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,False
+1283,Timo Werner,456454,46,Rasen Ballsport Leipzig,3,True,False,1,0,False,False,False,False,False,False,False
+1305,Kai Havertz,456455,40,Bayer 04 Leverkusen,4,True,False,0,0,True,True,False,False,True,True,True
+5354,Gonçalo Mendes Paciencia,456456,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,True,False
+59082,Marco Richter,456456,50,FC Augsburg,15,True,False,1,0,False,False,True,False,False,False,True
+59082,Marco Richter,456456,50,FC Augsburg,15,True,False,1,1,True,False,False,False,False,False,True
+1091,Michael Gregoritsch,456456,50,FC Augsburg,15,True,False,1,2,False,False,False,False,False,False,True
+2668,Davy Klaassen,456457,37,SV Werder Bremen,8,True,False,0,0,True,False,False,False,False,False,False
+986,Theodor Gebre Selassie,456457,37,SV Werder Bremen,8,True,False,1,0,False,False,False,False,False,False,False
+1108,Gian-Luca Waldschmidt,456457,42,SC Freiburg,13,True,False,2,0,False,False,False,False,False,True,True
+461604,Raffael Caetano de Araújo,456458,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,True,False,False,True,True,True
+1345,Kingsley Coman,456459,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,True
+1345,Kingsley Coman,456459,38,FC Bayern München,1,True,False,0,1,False,False,False,False,False,False,True
+1335,Serge Gnabry,456459,38,FC Bayern München,1,True,False,0,2,False,False,False,False,False,False,True
+227854,Dodi Lukebakio,456459,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,3,False,False,False,False,False,True,False
+1300,Leon Goretzka,456459,38,FC Bayern München,1,True,False,1,3,False,False,False,False,False,False,True
+2726,Yuya Kubo,456460,127,1. FC Nürnberg,18,True,False,0,0,True,False,False,False,False,True,False
+1188,Matija Nastasić,456460,35,FC Schalke 04,14,True,False,1,0,False,False,True,True,False,True,True
+1265,Niklas Süle,456461,38,FC Bayern München,1,True,False,0,0,True,True,False,False,True,True,False
+18799,Ishak Belfodil,456462,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,False,True
+1271,Andrej Kramarić,456462,49,TSG 1899 Hoffenheim,9,True,False,0,1,False,False,False,False,False,False,True
+1135,Daniel Caligiuri,456462,35,FC Schalke 04,14,True,False,0,2,False,False,False,False,False,False,False
+1344,Ádám Szalai,456462,49,TSG 1899 Hoffenheim,9,True,False,1,2,False,False,False,False,False,False,True
+1285,Nadiem Amiri,456462,49,TSG 1899 Hoffenheim,9,True,False,1,3,False,False,False,False,False,False,True
+18799,Ishak Belfodil,456462,49,TSG 1899 Hoffenheim,9,True,False,1,4,False,False,False,False,False,False,True
+1445,Guido Burgstaller,456462,35,FC Schalke 04,14,True,False,1,5,False,False,False,False,False,False,False
+466482,Lucas Nicolás Alario,456463,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,False,False
+1211,Kevin Volland,456463,40,Bayer 04 Leverkusen,4,True,False,1,0,False,False,False,False,False,False,False
+1275,Marcel Halstenberg,456464,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,True
+1275,Marcel Halstenberg,456464,46,Rasen Ballsport Leipzig,3,True,False,0,1,False,False,False,False,False,False,True
+17372,Alassane Pléa,456464,39,Borussia VfL Mönchengladbach,5,True,False,0,2,False,False,False,False,False,True,False
+1295,Rani Khedira,456466,50,FC Augsburg,15,True,False,0,0,True,False,False,False,False,False,False
+1200,André Hahn,456466,50,FC Augsburg,15,True,False,1,0,False,False,False,False,False,False,False
+1355,Philipp Max,456466,50,FC Augsburg,15,True,False,2,0,False,False,False,False,False,False,False
+59082,Marco Richter,456466,50,FC Augsburg,15,True,False,3,0,False,False,False,False,False,False,False
+1355,Philipp Max,456466,50,FC Augsburg,15,True,False,4,0,False,False,False,False,False,False,False
+59082,Marco Richter,456466,50,FC Augsburg,15,True,False,5,0,False,False,False,False,False,False,False
+86708,Jadon Sancho,456467,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,True
+1427,Marco Reus,456467,33,BVB 09 Borussia Dortmund,2,True,False,0,1,False,False,False,False,False,False,True
+1329,Mario Götze,456467,33,BVB 09 Borussia Dortmund,2,True,False,0,2,False,False,False,False,False,False,True
+3086,Francisco Alcácer García,456467,33,BVB 09 Borussia Dortmund,2,True,False,0,3,False,False,False,False,False,False,True
+17489,Jean-Philippe Mateta,456468,34,1. FSV Mainz 05,12,True,False,0,0,True,False,False,False,False,False,False
+227854,Dodi Lukebakio,456468,545,Düsseldorfer TuS Fortuna 1895,10,True,False,1,0,False,False,True,False,False,True,True
+1029,Karim Onisiwo,456468,34,1. FSV Mainz 05,12,True,False,1,1,True,False,False,False,False,False,False
+17489,Jean-Philippe Mateta,456468,34,1. FSV Mainz 05,12,True,False,2,1,False,False,False,False,False,False,False
+4851,Jonathan de Guzmán,456469,44,Eintracht Frankfurt,7,True,False,0,0,True,False,False,False,False,True,True
+1230,John Anthony Brooks,456469,43,VfL Wolfsburg,6,True,False,0,1,False,False,True,True,False,True,False
+1344,Ádám Szalai,456470,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,True,False
+25085,William de Asevedo Furtado,456470,43,VfL Wolfsburg,6,True,False,1,0,False,False,True,False,False,False,True
+14609,Wout Weghorst,456470,43,VfL Wolfsburg,6,True,False,1,1,True,False,False,False,False,False,True
+1147,Maximilian Arnold,456470,43,VfL Wolfsburg,6,True,False,1,2,False,False,False,False,False,False,True
+14609,Wout Weghorst,456470,43,VfL Wolfsburg,6,True,False,1,3,False,False,False,False,False,False,True
+1329,Mario Götze,456471,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,False
+1135,Daniel Caligiuri,456471,35,FC Schalke 04,14,True,False,1,0,False,False,True,False,False,False,True
+1555,Salif Sané,456471,35,FC Schalke 04,14,True,False,1,1,True,False,False,False,False,False,True
+1135,Daniel Caligiuri,456471,35,FC Schalke 04,14,True,False,1,2,False,False,False,False,False,False,True
+36589,Axel Witsel,456471,33,BVB 09 Borussia Dortmund,2,True,False,1,3,False,False,False,False,False,False,False
+469661,Breel-Donald Embolo,456471,35,FC Schalke 04,14,True,False,2,3,False,False,False,False,False,False,True
+1283,Timo Werner,456472,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,False
+1245,Vincenzo Grifo,456472,42,SC Freiburg,13,True,False,1,0,False,False,True,False,False,True,True
+1291,Emil Forsberg,456472,46,Rasen Ballsport Leipzig,3,True,False,1,1,True,True,False,False,False,False,False
+17382,Anastasios Donis,456473,51,VfB Stuttgart 1893,16,True,False,0,0,True,True,False,False,True,True,False
+1425,Kevin Danso,456475,50,FC Augsburg,15,True,False,0,0,True,False,False,False,False,True,False
+1211,Kevin Volland,456475,40,Bayer 04 Leverkusen,4,True,False,1,0,False,False,True,False,False,False,True
+1305,Kai Havertz,456475,40,Bayer 04 Leverkusen,4,True,False,1,1,True,False,False,False,False,False,True
+1205,Jonathan Tah,456475,40,Bayer 04 Leverkusen,4,True,False,1,2,False,False,False,False,False,False,True
+1220,Julian Brandt,456475,40,Bayer 04 Leverkusen,4,True,False,1,3,False,False,False,False,False,False,True
+154422,Hendrik Weydandt,456476,52,Hannoverscher Sportverein 1896,17,True,False,0,0,True,True,False,False,True,True,False
+21416,Benito Raman,456477,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,0,True,False,False,False,False,False,False
+1559,Kenan Karaman,456477,545,Düsseldorfer TuS Fortuna 1895,10,True,False,1,0,False,False,False,False,False,False,False
+1422,Max Kruse,456477,37,SV Werder Bremen,8,True,False,2,0,False,False,False,False,False,True,True
+8125,Rouwen Hennings,456477,545,Düsseldorfer TuS Fortuna 1895,10,True,False,2,1,False,False,False,False,False,False,False
+1096,Markus Suttner,456477,545,Düsseldorfer TuS Fortuna 1895,10,True,False,3,1,False,False,False,False,False,False,False
+3339,Matheus Fellipe Costa Pereira,456478,127,1. FC Nürnberg,18,True,False,0,0,True,False,False,False,False,True,False
+1335,Serge Gnabry,456478,38,FC Bayern München,1,True,False,1,0,False,False,True,True,False,True,True
+984,Robert Lewandowski,456479,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,False
+1300,Leon Goretzka,456479,38,FC Bayern München,1,True,False,1,0,False,False,False,False,False,False,False
+464007,Jonathas Cristian de Jesus,456479,52,Hannoverscher Sportverein 1896,17,True,False,2,0,False,False,False,False,False,True,True
+460881,Franck Bilal Ribéry,456479,38,FC Bayern München,1,True,False,2,1,False,False,False,False,False,False,False
+1305,Kai Havertz,456481,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,False,False
+1220,Julian Brandt,456481,40,Bayer 04 Leverkusen,4,True,False,1,0,False,False,False,False,False,False,False
+1090,Filip Kostić,456481,44,Eintracht Frankfurt,7,True,False,2,0,False,False,False,False,False,True,True
+466482,Lucas Nicolás Alario,456481,40,Bayer 04 Leverkusen,4,True,False,2,1,False,False,False,False,False,False,False
+462227,Charles Mariano Aránguiz Sandoval,456481,40,Bayer 04 Leverkusen,4,True,False,3,1,False,False,False,False,False,False,False
+466482,Lucas Nicolás Alario,456481,40,Bayer 04 Leverkusen,4,True,False,4,1,False,False,False,False,False,False,False
+1336,Martin Hinteregger,456481,40,Bayer 04 Leverkusen,4,True,False,5,1,False,False,False,False,False,False,False
+1264,Pavel Kadeřábek,456482,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,False,True
+1333,Matthias Ginter,456482,39,Borussia VfL Mönchengladbach,5,True,False,0,1,False,False,True,False,False,False,False
+1285,Nadiem Amiri,456482,49,TSG 1899 Hoffenheim,9,True,False,1,1,True,False,False,False,False,False,True
+1435,Josip Drmic,456482,39,Borussia VfL Mönchengladbach,5,True,False,1,2,False,False,True,True,False,False,False
+1236,Vedad Ibišević,456483,47,Hertha BSC,11,True,False,0,0,True,False,False,False,False,False,False
+1480,Ondrej Duda,456483,47,Hertha BSC,11,True,False,1,0,False,False,False,False,False,False,False
+1252,Salomon Armand Magloire Kalou,456483,47,Hertha BSC,11,True,False,2,0,False,False,False,False,False,False,False
+461076,Mario Gómez García,456483,51,VfB Stuttgart 1893,16,True,False,3,0,False,False,False,False,False,True,True
+1038,Christian Pulisic,456484,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,True
+3086,Francisco Alcácer García,456484,33,BVB 09 Borussia Dortmund,2,True,False,0,1,False,False,False,False,False,False,True
+21700,Kevin Möhwald,456484,37,SV Werder Bremen,8,True,False,0,2,False,False,False,False,False,False,False
+1416,Claudio Miguel Pizarro Bossio,456484,37,SV Werder Bremen,8,True,False,1,2,False,False,True,True,False,False,False
+1245,Vincenzo Grifo,456485,42,SC Freiburg,13,True,False,0,0,True,False,False,False,False,True,False
+37889,Dawid Kownacki,456485,545,Düsseldorfer TuS Fortuna 1895,10,True,False,1,0,False,False,True,True,False,True,True
+1328,Lukas Klostermann,456486,46,Rasen Ballsport Leipzig,3,True,False,0,0,True,False,False,False,False,False,True
+1328,Lukas Klostermann,456486,46,Rasen Ballsport Leipzig,3,True,False,0,1,False,False,False,False,False,False,True
+1029,Karim Onisiwo,456486,34,1. FSV Mainz 05,12,True,False,0,2,False,False,False,False,False,False,False
+1283,Timo Werner,456486,46,Rasen Ballsport Leipzig,3,True,False,1,2,False,False,False,False,False,False,True
+19328,Moussa Niakhate,456486,34,1. FSV Mainz 05,12,True,False,1,3,False,False,False,False,False,False,False
+17489,Jean-Philippe Mateta,456486,34,1. FSV Mainz 05,12,True,False,2,3,False,False,True,True,False,False,False
+1558,Felix Klaus,456487,43,VfL Wolfsburg,6,True,False,0,0,True,False,False,False,False,False,False
+1314,Marcel Tisserand,456487,43,VfL Wolfsburg,6,True,False,1,0,False,False,False,False,False,False,False
+22483,Johannes Eggestein,456488,37,SV Werder Bremen,8,True,False,0,0,True,True,False,False,True,True,True
+1038,Christian Pulisic,456489,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,False
+21668,Oliver Fink,456489,545,Düsseldorfer TuS Fortuna 1895,10,True,False,1,0,False,False,True,False,False,False,True
+1449,Thomas Delaney,456489,33,BVB 09 Borussia Dortmund,2,True,False,1,1,True,False,False,False,False,False,False
+1329,Mario Götze,456489,33,BVB 09 Borussia Dortmund,2,True,False,2,1,False,False,False,False,False,False,False
+37889,Dawid Kownacki,456489,545,Düsseldorfer TuS Fortuna 1895,10,True,False,3,1,False,False,False,False,False,False,True
+1305,Kai Havertz,456490,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,True,False
+1445,Guido Burgstaller,456490,35,FC Schalke 04,14,True,False,1,0,False,False,True,True,False,True,True
+463771,Gonzalo Castro Randon,456492,51,VfB Stuttgart 1893,16,True,False,0,0,True,False,False,False,False,False,False
+17382,Anastasios Donis,456492,51,VfB Stuttgart 1893,16,True,False,1,0,False,False,False,False,False,False,False
+1136,Daniel Didavi,456492,51,VfB Stuttgart 1893,16,True,False,2,0,False,False,False,False,False,False,False
+1536,Anthony Ujah,456493,34,1. FSV Mainz 05,12,True,False,0,0,True,False,False,False,False,False,True
+1536,Anthony Ujah,456493,34,1. FSV Mainz 05,12,True,False,0,1,False,False,False,False,False,False,True
+1200,André Hahn,456494,50,FC Augsburg,15,True,False,0,0,True,False,False,False,False,False,False
+1229,Marvin Plattenhardt,456494,47,Hertha BSC,11,True,False,1,0,False,False,True,False,False,False,True
+1091,Michael Gregoritsch,456494,50,FC Augsburg,15,True,False,1,1,True,False,False,False,False,False,False
+4157,Marko Grujić,456494,47,Hertha BSC,11,True,False,2,1,False,False,True,False,False,False,True
+1091,Michael Gregoritsch,456494,50,FC Augsburg,15,True,False,2,2,True,False,False,False,False,False,False
+1252,Salomon Armand Magloire Kalou,456494,47,Hertha BSC,11,True,False,3,2,False,False,True,False,False,False,True
+1252,Salomon Armand Magloire Kalou,456494,47,Hertha BSC,11,True,False,3,3,True,True,False,False,False,False,True
+1635,Waldemar Anton,456495,52,Hannoverscher Sportverein 1896,17,True,False,0,0,True,False,False,False,False,False,False
+21670,Ihlas Bebou,456495,52,Hannoverscher Sportverein 1896,17,True,False,1,0,False,False,False,False,False,False,False
+470401,Walace Souza Silva,456495,52,Hannoverscher Sportverein 1896,17,True,False,2,0,False,False,False,False,False,False,False
+1435,Josip Drmic,456496,39,Borussia VfL Mönchengladbach,5,True,False,0,0,True,False,False,False,False,False,True
+21689,Lukas Mühl,456496,39,Borussia VfL Mönchengladbach,5,True,False,0,1,False,False,False,False,False,False,True
+1214,Thorgan Hazard,456496,39,Borussia VfL Mönchengladbach,5,True,False,0,2,False,False,False,False,False,False,True
+471267,Denis Lemi Zakaria Lako Lado,456496,39,Borussia VfL Mönchengladbach,5,True,False,0,3,False,False,False,False,False,False,True
+1345,Kingsley Coman,456497,38,FC Bayern München,1,True,False,0,0,True,False,False,False,False,False,False
+14492,Sébastien Haller,456497,44,Eintracht Frankfurt,7,True,False,1,0,False,False,True,False,False,True,True
+462411,David Olatukunbo Alaba,456497,38,FC Bayern München,1,True,False,1,1,True,False,False,False,False,False,False
+468917,Renato Júnior Luz Sanches,456497,38,FC Bayern München,1,True,False,2,1,False,False,False,False,False,False,False
+460881,Franck Bilal Ribéry,456497,38,FC Bayern München,1,True,False,3,1,False,False,False,False,False,False,False
+1347,Arjen Robben,456497,38,FC Bayern München,1,True,False,4,1,False,False,False,False,False,False,False
+86708,Jadon Sancho,456499,33,BVB 09 Borussia Dortmund,2,True,False,0,0,True,False,False,False,False,False,True
+1427,Marco Reus,456499,33,BVB 09 Borussia Dortmund,2,True,False,0,1,False,False,False,False,False,False,True
+1305,Kai Havertz,456500,40,Bayer 04 Leverkusen,4,True,False,0,0,True,False,False,False,False,False,True
+2102,Valentino Lazaro,456500,47,Hertha BSC,11,True,False,0,1,False,False,True,False,False,True,False
+466482,Lucas Nicolás Alario,456500,40,Bayer 04 Leverkusen,4,True,False,1,1,True,False,False,False,False,False,True
+1220,Julian Brandt,456500,40,Bayer 04 Leverkusen,4,True,False,1,2,False,False,False,False,False,False,True
+466482,Lucas Nicolás Alario,456500,40,Bayer 04 Leverkusen,4,True,False,1,3,False,False,False,False,False,False,True
+466482,Lucas Nicolás Alario,456500,40,Bayer 04 Leverkusen,4,True,False,1,4,False,False,False,False,False,False,True
+14702,Milot Rashica,456501,37,SV Werder Bremen,8,True,False,0,0,True,False,False,False,False,False,False
+17569,Nordi Mukiele Mulere,456501,46,Rasen Ballsport Leipzig,3,True,False,1,0,False,False,True,False,False,True,True
+1416,Claudio Miguel Pizarro Bossio,456501,37,SV Werder Bremen,8,True,False,1,1,True,True,False,False,False,False,False
+1286,Marco Terrazzino,456502,42,SC Freiburg,13,True,False,0,0,True,False,False,False,False,False,False
+1108,Gian-Luca Waldschmidt,456502,42,SC Freiburg,13,True,False,1,0,False,False,False,False,False,False,False
+1256,Nils Petersen,456502,42,SC Freiburg,13,True,False,2,0,False,False,False,False,False,False,False
+1256,Nils Petersen,456502,42,SC Freiburg,13,True,False,3,0,False,False,False,False,False,False,False
+1245,Vincenzo Grifo,456502,42,SC Freiburg,13,True,False,4,0,False,False,False,False,False,False,False
+21948,Eduard Löwen,456502,127,1. FC Nürnberg,18,True,False,5,0,False,False,False,False,False,True,True
+18799,Ishak Belfodil,456503,49,TSG 1899 Hoffenheim,9,True,False,0,0,True,False,False,False,False,False,True
+1271,Andrej Kramarić,456503,49,TSG 1899 Hoffenheim,9,True,False,0,1,False,False,False,False,False,False,True
+1022,Daniel Brosinski,456503,34,1. FSV Mainz 05,12,True,False,0,2,False,False,False,False,False,False,False
+15068,Jean-Paul Boëtius,456503,34,1. FSV Mainz 05,12,True,False,1,2,False,False,True,False,False,False,False
+15068,Jean-Paul Boëtius,456503,34,1. FSV Mainz 05,12,True,False,2,2,True,False,False,False,False,False,False
+17489,Jean-Philippe Mateta,456503,34,1. FSV Mainz 05,12,True,False,3,2,False,False,False,False,False,False,False
+14609,Wout Weghorst,456504,43,VfL Wolfsburg,6,True,False,0,0,True,False,False,False,False,False,False
+14609,Wout Weghorst,456504,43,VfL Wolfsburg,6,True,False,1,0,False,False,False,False,False,False,False
+1132,Robin Knoche,456504,43,VfL Wolfsburg,6,True,False,2,0,False,False,False,False,False,False,False
+14609,Wout Weghorst,456504,43,VfL Wolfsburg,6,True,False,3,0,False,False,False,False,False,False,False
+1596,Daniel Ginczek,456504,43,VfL Wolfsburg,6,True,False,4,0,False,False,False,False,False,False,False
+58655,Elvis Rexhbecaj,456504,43,VfL Wolfsburg,6,True,False,5,0,False,False,False,False,False,False,False
+1249,Julian Schieber,456504,50,FC Augsburg,15,True,False,6,0,False,False,False,False,False,True,True
+1153,Josip Brekalo,456504,43,VfL Wolfsburg,6,True,False,6,1,False,False,False,False,False,False,False
+1425,Kevin Danso,456504,43,VfL Wolfsburg,6,True,False,7,1,False,False,False,False,False,False,False
+8125,Rouwen Hennings,456505,545,Düsseldorfer TuS Fortuna 1895,10,True,False,0,0,True,False,False,False,False,False,False
+1559,Kenan Karaman,456505,545,Düsseldorfer TuS Fortuna 1895,10,True,False,1,0,False,False,False,False,False,False,False
+463400,Nicolai Müller,456505,52,Hannoverscher Sportverein 1896,17,True,False,2,0,False,False,False,False,False,True,True

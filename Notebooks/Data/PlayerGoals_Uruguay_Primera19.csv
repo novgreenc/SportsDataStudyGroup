@@ -1,0 +1,805 @@
+player_id,player_name,match_id,team_id,team_name,team_final_table_position,scored,assisted,previous_score_home,previous_score_away,go_ahead_goal,game_winning_goal,tying_goal,game_tying_goal,only_goal,only_goal_team,away_goal
+52145,Diego Nicolás Guastavino Bentancour,545823,4357,Liverpool FC Montevideo,7,True,False,0,0,True,False,False,False,False,True,False
+263,Raúl Octavio Rivero Falero,545823,4359,Club Nacional de Football,1,True,False,1,0,False,False,True,True,False,True,True
+125572,Joaquín Zeballos Machado,545824,4365,CA Juventud,15,True,False,0,0,True,False,False,False,False,True,False
+124807,Leonardo Cecilio Fernández López,545824,4362,Centro Atlético Fénix,14,True,False,1,0,False,False,True,False,False,False,True
+78604,Alex Maximiliano Silva Garrel,545824,4362,Centro Atlético Fénix,14,True,False,1,1,True,True,False,False,False,False,True
+14113,Gustavo Javier Alles Vila,545825,4378,Club Atlético Progreso,3,True,False,0,0,True,False,False,False,False,False,True
+125748,Anthony Alexis Sosa Martínez,545825,4378,Club Atlético Progreso,3,True,False,0,1,False,False,False,False,False,False,True
+30448,Pablo Daniel Pereira Coitiño,545825,4355,Rampla Juniors Fútbol Club,16,True,False,0,2,False,False,False,False,False,False,False
+14113,Gustavo Javier Alles Vila,545825,4378,Club Atlético Progreso,3,True,False,1,2,False,False,False,False,False,False,True
+11334,Juan Ángel Albín Leites,545825,4355,Rampla Juniors Fútbol Club,16,True,False,1,3,False,False,False,False,False,False,False
+30448,Pablo Daniel Pereira Coitiño,545825,4355,Rampla Juniors Fútbol Club,16,True,False,2,3,False,False,True,False,False,False,False
+28911,Rodrigo Pascual Viega Alves,545825,4378,Club Atlético Progreso,3,True,False,3,3,True,True,False,False,False,False,True
+124819,Damián Macaluso Rojas,545826,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,0,True,False,False,False,False,True,False
+21008,Matías Damián Alonso Vallejo,545826,4364,Club Atlético River Plate,6,True,False,1,0,False,False,True,True,False,True,True
+50128,Sebastián Sosa Sánchez,545827,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,False,False,False,False,False,False
+50128,Sebastián Sosa Sánchez,545827,4371,Cerro Largo Fútbol Club,5,True,False,1,0,False,False,False,False,False,False,False
+28973,Joaquín Antonio Boghossian Lorenzo,545828,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,False,False,False,False,False,True
+124876,Bruno Foliados Suárez,545828,4363,CA Boston River,8,True,False,0,1,False,False,True,False,False,False,False
+125068,Agustín Sebastián Miranda Cambón,545828,4351,Club Plaza Colonia de Deportes,4,True,False,1,1,True,False,False,False,False,False,True
+29117,Diego Martín Gurri Bentancor,545828,4363,CA Boston River,8,True,False,1,2,False,False,True,True,False,False,False
+52518,Pablo Fernando Olivera Fernández,545829,4360,Club Atlético Cerro,12,True,False,0,0,True,False,False,False,False,False,True
+52099,Líber Daniel Quiñones Prieto,545829,4354,Racing Club de Montevideo,11,True,False,0,1,False,False,True,False,False,True,False
+124829,Diego Mateo Casas López,545829,4360,Club Atlético Cerro,12,True,False,1,1,True,False,False,False,False,False,True
+125132,Federico Puente Arap,545829,4360,Club Atlético Cerro,12,True,False,1,2,False,False,False,False,False,False,True
+124931,Gastón Rodríguez Maeso,545830,4358,CA Peñarol,2,True,False,0,0,True,True,False,False,True,True,True
+125059,José Pablo Neris Figueredo,545831,4364,Club Atlético River Plate,6,True,False,0,0,True,False,False,False,False,False,False
+125059,José Pablo Neris Figueredo,545831,4364,Club Atlético River Plate,6,True,False,1,0,False,False,False,False,False,False,False
+95879,Hober Gabriel Leyes Viera,545831,4364,Club Atlético River Plate,6,True,False,2,0,False,False,False,False,False,False,False
+124789,Gastón Rodrigo Alvite Duarte,545831,4354,Racing Club de Montevideo,11,True,False,3,0,False,False,False,False,False,True,True
+125032,Facundo Silvera Paz,545831,4364,Club Atlético River Plate,6,True,False,3,1,False,False,False,False,False,False,False
+124972,Elbio Maximiliano Pérez Azambuya,545832,4363,CA Boston River,8,True,False,0,0,True,True,False,False,True,True,True
+19116,Federico Martín Rodríguez Rodríguez,545833,4356,Danubio Fútbol Club,13,True,False,0,0,True,True,False,False,True,True,True
+125117,Gabriel Matías Fernández Leites,545834,4358,CA Peñarol,2,True,False,0,0,True,False,False,False,False,False,False
+150609,Paul Brian Rodríguez Bravo,545834,4358,CA Peñarol,2,True,False,1,0,False,False,False,False,False,False,False
+124928,Lucas Camilo Hernández Perdomo,545834,4358,CA Peñarol,2,True,False,2,0,False,False,False,False,False,False,False
+124931,Gastón Rodríguez Maeso,545834,4358,CA Peñarol,2,True,False,3,0,False,False,False,False,False,False,False
+179081,Luis Miguel Acevedo Tabárez,545834,4358,CA Peñarol,2,True,False,4,0,False,False,False,False,False,False,False
+28911,Rodrigo Pascual Viega Alves,545835,4378,Club Atlético Progreso,3,True,False,0,0,True,True,False,False,True,True,False
+124807,Leonardo Cecilio Fernández López,545836,4362,Centro Atlético Fénix,14,True,False,0,0,True,False,False,False,False,False,False
+124808,Mathías Alexander Acuña Maciel,545836,4362,Centro Atlético Fénix,14,True,False,1,0,False,False,False,False,False,False,False
+12135,Maximiliano Daniel Pérez Tambasco,545836,4362,Centro Atlético Fénix,14,True,False,2,0,False,False,False,False,False,False,False
+151456,Sebastián Enzo Cáceres Ramos,545836,4357,Liverpool FC Montevideo,7,True,False,3,0,False,False,False,False,False,False,True
+124852,Juan Ignacio Ramírez Polero,545836,4357,Liverpool FC Montevideo,7,True,False,3,1,False,False,False,False,False,False,True
+124953,Franco Gastón Romero Ponte,545836,4357,Liverpool FC Montevideo,7,True,False,3,2,False,False,True,False,False,False,True
+124808,Mathías Alexander Acuña Maciel,545836,4362,Centro Atlético Fénix,14,True,False,3,3,True,False,False,False,False,False,False
+124852,Juan Ignacio Ramírez Polero,545836,4357,Liverpool FC Montevideo,7,True,False,4,3,False,False,True,True,False,False,True
+50128,Sebastián Sosa Sánchez,545837,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,False,False,False,False,False,True
+50128,Sebastián Sosa Sánchez,545837,4371,Cerro Largo Fútbol Club,5,True,False,0,1,False,False,False,False,False,False,True
+78790,Adolfo Justino Lima Camejo,545837,4371,Cerro Largo Fútbol Club,5,True,False,0,2,False,False,False,False,False,False,True
+263,Raúl Octavio Rivero Falero,545838,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,True,False
+12559,Ignacio María González Gatti,545838,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,0,False,False,True,False,False,False,True
+52841,Rodrigo Pastorini de León,545838,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,1,True,False,False,False,False,False,True
+52841,Rodrigo Pastorini de León,545838,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,2,False,False,False,False,False,False,True
+12145,Marcelo Javier Cabrera Rivero,545838,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,3,False,False,False,False,False,False,True
+50128,Sebastián Sosa Sánchez,545839,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,True,False,False,True,True,False
+124793,Nicolás Sosa Sánchez,545840,4354,Racing Club de Montevideo,11,True,False,0,0,True,False,False,False,False,True,False
+178544,Brian Alexis Ocampo Ferreira,545840,4359,Club Nacional de Football,1,True,False,1,0,False,False,True,True,False,True,True
+124832,Esteban Ricardo González Maciel,545841,4378,Club Atlético Progreso,3,True,False,0,0,True,False,False,False,False,False,True
+124958,Alexander Mauricio Rosso Génova,545841,4378,Club Atlético Progreso,3,True,False,0,1,False,False,False,False,False,False,True
+125545,Clementino González Martínez,545841,4357,Liverpool FC Montevideo,7,True,False,0,2,False,False,False,False,False,False,False
+124958,Alexander Mauricio Rosso Génova,545841,4378,Club Atlético Progreso,3,True,False,1,2,False,False,False,False,False,False,True
+124852,Juan Ignacio Ramírez Polero,545841,4357,Liverpool FC Montevideo,7,True,False,1,3,False,False,False,False,False,False,False
+125545,Clementino González Martínez,545841,4357,Liverpool FC Montevideo,7,True,False,2,3,False,False,True,False,False,False,False
+28911,Rodrigo Pascual Viega Alves,545841,4378,Club Atlético Progreso,3,True,False,3,3,True,False,False,False,False,False,True
+124799,Federico Damián Millacet Echevarría,545841,4378,Club Atlético Progreso,3,True,False,3,4,False,False,False,False,False,False,True
+124796,Sergio Andrés Felipe Silva,545842,4356,Danubio Fútbol Club,13,True,False,0,0,True,True,False,False,True,True,False
+29117,Diego Martín Gurri Bentancor,545843,4363,CA Boston River,8,True,False,0,0,True,False,False,False,False,False,False
+124972,Elbio Maximiliano Pérez Azambuya,545843,4363,CA Boston River,8,True,False,1,0,False,False,False,False,False,False,False
+125131,Daniel Nicolás González Álvarez,545844,4361,Defensor Sporting Club,9,True,False,0,0,True,False,False,False,False,False,True
+28242,Álvaro Damián Navarro Bica,545844,4361,Defensor Sporting Club,9,True,False,0,1,False,False,False,False,False,False,True
+124948,José Alberti Loyarte,545845,4365,CA Juventud,15,True,False,0,0,True,False,False,False,False,True,True
+125117,Gabriel Matías Fernández Leites,545845,4358,CA Peñarol,2,True,False,0,1,False,False,True,False,False,False,False
+28613,Lucas Ezequiel Viatri,545845,4358,CA Peñarol,2,True,False,1,1,True,False,False,False,False,False,False
+124928,Lucas Camilo Hernández Perdomo,545845,4358,CA Peñarol,2,True,False,2,1,False,False,False,False,False,False,False
+20235,Ignacio Lores Varela,545845,4358,CA Peñarol,2,True,False,3,1,False,False,False,False,False,False,False
+124807,Leonardo Cecilio Fernández López,545846,4362,Centro Atlético Fénix,14,True,False,0,0,True,False,False,False,False,False,True
+78604,Alex Maximiliano Silva Garrel,545846,4362,Centro Atlético Fénix,14,True,False,0,1,False,False,False,False,False,False,True
+174443,Federico Sebastián Viñas Barboza,545847,4365,CA Juventud,15,True,False,0,0,True,False,False,False,False,False,True
+28242,Álvaro Damián Navarro Bica,545847,4361,Defensor Sporting Club,9,True,False,0,1,False,False,True,False,False,True,False
+125572,Joaquín Zeballos Machado,545847,4365,CA Juventud,15,True,False,1,1,True,False,False,False,False,False,True
+125572,Joaquín Zeballos Machado,545847,4365,CA Juventud,15,True,False,1,2,False,False,False,False,False,False,True
+125572,Joaquín Zeballos Machado,545847,4365,CA Juventud,15,True,False,1,3,False,False,False,False,False,False,True
+52841,Rodrigo Pastorini de León,545848,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,0,True,False,False,False,False,False,True
+14113,Gustavo Javier Alles Vila,545848,4378,Club Atlético Progreso,3,True,False,0,1,False,False,True,False,False,False,False
+52841,Rodrigo Pastorini de León,545848,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,1,True,False,False,False,False,False,True
+124832,Esteban Ricardo González Maciel,545848,4378,Club Atlético Progreso,3,True,False,1,2,False,False,True,True,False,False,False
+52743,Cecilio Alfonso Waterman Ruiz,545849,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,False,False,False,False,True,True
+78552,Facundo Peraza Fontana,545849,4360,Club Atlético Cerro,12,True,False,0,1,False,False,True,True,False,True,False
+29117,Diego Martín Gurri Bentancor,545850,4363,CA Boston River,8,True,False,0,0,True,False,False,False,False,False,True
+124875,Guillermo Fratta Cabrera,545850,4363,CA Boston River,8,True,False,0,1,False,False,False,False,False,False,True
+125145,Rodrigo Nahuel Amaral Pereira,545850,4359,Club Nacional de Football,1,True,False,0,2,False,False,False,False,False,False,False
+18819,Gonzalo Rubén Bergessio,545850,4359,Club Nacional de Football,1,True,False,1,2,False,False,True,True,False,False,False
+30448,Pablo Daniel Pereira Coitiño,545851,4355,Rampla Juniors Fútbol Club,16,True,False,0,0,True,False,False,False,False,False,False
+78790,Adolfo Justino Lima Camejo,545851,4371,Cerro Largo Fútbol Club,5,True,False,1,0,False,False,True,False,False,True,True
+519,Álvaro Fernández Gay,545851,4355,Rampla Juniors Fútbol Club,16,True,False,1,1,True,True,False,False,False,False,False
+124807,Leonardo Cecilio Fernández López,545852,4362,Centro Atlético Fénix,14,True,False,0,0,True,False,False,False,False,False,False
+125048,Manuel Ugarte Ribeiro,545852,4362,Centro Atlético Fénix,14,True,False,1,0,False,False,False,False,False,False,False
+88175,Juan Manuel Olivera López,545853,4364,Club Atlético River Plate,6,True,False,0,0,True,False,False,False,False,True,False
+139736,Thomás Chacón Yona,545853,4356,Danubio Fútbol Club,13,True,False,1,0,False,False,True,True,False,True,True
+125117,Gabriel Matías Fernández Leites,545854,4358,CA Peñarol,2,True,False,0,0,True,True,False,False,True,True,False
+462030,Carlos Javier Grossmüller,545855,4356,Danubio Fútbol Club,13,True,False,0,0,True,False,False,False,False,False,False
+462030,Carlos Javier Grossmüller,545855,4356,Danubio Fútbol Club,13,True,False,1,0,False,False,False,False,False,False,False
+12135,Maximiliano Daniel Pérez Tambasco,545856,4362,Centro Atlético Fénix,14,True,False,0,0,True,False,False,False,False,False,True
+78604,Alex Maximiliano Silva Garrel,545856,4362,Centro Atlético Fénix,14,True,False,0,1,False,False,False,False,False,False,True
+124876,Bruno Foliados Suárez,545856,4363,CA Boston River,8,True,False,0,2,False,False,False,False,False,True,False
+124815,Breno De Souza Caetano,545856,4362,Centro Atlético Fénix,14,True,False,1,2,False,False,False,False,False,False,True
+28242,Álvaro Damián Navarro Bica,545857,4361,Defensor Sporting Club,9,True,False,0,0,True,False,False,False,False,False,True
+124851,Federico Andrés Martínez Berroa,545857,4357,Liverpool FC Montevideo,7,True,False,0,1,False,False,True,False,False,False,False
+124779,Maureen Javier Franco Alonso,545857,4357,Liverpool FC Montevideo,7,True,False,1,1,True,False,False,False,False,False,False
+124779,Maureen Javier Franco Alonso,545857,4357,Liverpool FC Montevideo,7,True,False,2,1,False,False,False,False,False,False,False
+52284,Maximiliano Bajter Ugollini,545857,4357,Liverpool FC Montevideo,7,True,False,3,1,False,False,False,False,False,False,False
+124852,Juan Ignacio Ramírez Polero,545857,4357,Liverpool FC Montevideo,7,True,False,4,1,False,False,False,False,False,False,False
+124852,Juan Ignacio Ramírez Polero,545857,4357,Liverpool FC Montevideo,7,True,False,5,1,False,False,False,False,False,False,False
+125106,Facundo Nahuel Milán Osorio,545857,4361,Defensor Sporting Club,9,True,False,6,1,False,False,False,False,False,False,True
+125102,Mauro Alejandro Brasil Alcaire,545858,4360,Club Atlético Cerro,12,True,False,0,0,True,False,False,False,False,True,True
+78790,Adolfo Justino Lima Camejo,545858,4371,Cerro Largo Fútbol Club,5,True,False,0,1,False,False,True,False,False,False,False
+50128,Sebastián Sosa Sánchez,545858,4371,Cerro Largo Fútbol Club,5,True,False,1,1,True,False,False,False,False,False,False
+199332,Mauro Luna Diale,545858,4371,Cerro Largo Fútbol Club,5,True,False,2,1,False,False,False,False,False,False,False
+24937,Alexis Nahuel Messidoro,545858,4371,Cerro Largo Fútbol Club,5,True,False,3,1,False,False,False,False,False,False,False
+88110,Luis Bernardo Aguiar Burgos,545859,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,True,False,False,True,True,False
+124794,Julián Ricardo Perujo Airala,545860,4354,Racing Club de Montevideo,11,True,False,0,0,True,False,False,False,False,False,False
+150604,Martín Barrios Santos,545860,4354,Racing Club de Montevideo,11,True,False,1,0,False,False,False,False,False,False,False
+124790,Mauro Nahuel Estol Rodríguez,545860,4354,Racing Club de Montevideo,11,True,False,2,0,False,False,False,False,False,False,False
+11334,Juan Ángel Albín Leites,545861,4355,Rampla Juniors Fútbol Club,16,True,False,0,0,True,False,False,False,False,True,True
+125572,Joaquín Zeballos Machado,545861,4365,CA Juventud,15,True,False,0,1,False,False,True,True,False,True,False
+52841,Rodrigo Pastorini de León,545862,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,0,True,False,False,False,False,False,False
+124892,Lucas Elías Morales Villalba,545862,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,0,False,False,False,False,False,False,False
+124979,Gonzalo Federico González Pereyra,545863,4365,CA Juventud,15,True,False,0,0,True,True,False,False,True,True,False
+124846,Mathías Saavedra Perdomo,545864,4355,Rampla Juniors Fútbol Club,16,True,False,0,0,True,False,False,False,False,False,False
+124846,Mathías Saavedra Perdomo,545864,4355,Rampla Juniors Fútbol Club,16,True,False,1,0,False,False,False,False,False,False,False
+124807,Leonardo Cecilio Fernández López,545865,4362,Centro Atlético Fénix,14,True,False,0,0,True,False,False,False,False,False,False
+462030,Carlos Javier Grossmüller,545865,4356,Danubio Fútbol Club,13,True,False,1,0,False,False,True,False,False,True,True
+12135,Maximiliano Daniel Pérez Tambasco,545865,4362,Centro Atlético Fénix,14,True,False,1,1,True,False,False,False,False,False,False
+124807,Leonardo Cecilio Fernández López,545865,4362,Centro Atlético Fénix,14,True,False,2,1,False,False,False,False,False,False,False
+124808,Mathías Alexander Acuña Maciel,545865,4362,Centro Atlético Fénix,14,True,False,3,1,False,False,False,False,False,False,False
+124922,Matías Wolf Rigoleto Arévalo,545865,4362,Centro Atlético Fénix,14,True,False,4,1,False,False,False,False,False,False,False
+179081,Luis Miguel Acevedo Tabárez,545866,4358,CA Peñarol,2,True,False,0,0,True,False,False,False,False,False,False
+125064,Michel Daryl Araújo Villar,545866,4354,Racing Club de Montevideo,11,True,False,1,0,False,False,True,False,False,False,True
+124793,Nicolás Sosa Sánchez,545866,4354,Racing Club de Montevideo,11,True,False,1,1,True,False,False,False,False,False,True
+124931,Gastón Rodríguez Maeso,545866,4358,CA Peñarol,2,True,False,1,2,False,False,True,True,False,False,False
+28242,Álvaro Damián Navarro Bica,545867,4361,Defensor Sporting Club,9,True,False,0,0,True,False,False,False,False,True,False
+77379,Gonzalo Barreto Mastropierro,545867,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,0,False,False,True,True,False,True,True
+124972,Elbio Maximiliano Pérez Azambuya,545868,4363,CA Boston River,8,True,False,0,0,True,False,False,False,False,True,True
+14113,Gustavo Javier Alles Vila,545868,4378,Club Atlético Progreso,3,True,False,0,1,False,False,True,True,False,True,False
+197185,Juan Pablo Plada Ricci,545869,4364,Club Atlético River Plate,6,True,False,0,0,True,False,False,False,False,False,False
+78552,Facundo Peraza Fontana,545869,4360,Club Atlético Cerro,12,True,False,1,0,False,False,True,False,False,True,True
+125045,Luis Alfredo Urruti Giménez,545869,4364,Club Atlético River Plate,6,True,False,1,1,True,True,False,False,False,False,False
+199320,Santiago Mariano Rodríguez Molina,545870,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,False
+150600,Gabriel Neves Perdomo,545870,4359,Club Nacional de Football,1,True,False,1,0,False,False,False,False,False,False,False
+11182,Sebastián Bruno Fernández Miglierina,545870,4359,Club Nacional de Football,1,True,False,2,0,False,False,False,False,False,False,False
+52524,Jonathan David Dos Santos Duré,545871,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,False,False,False,False,False,False
+124859,Clever Elías Quintana Alonzo,545871,4371,Cerro Largo Fútbol Club,5,True,False,1,0,False,False,False,False,False,False,False
+18819,Gonzalo Rubén Bergessio,545872,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,True
+263,Raúl Octavio Rivero Falero,545872,4359,Club Nacional de Football,1,True,False,0,1,False,False,False,False,False,False,True
+124850,Marcos Maximiliano Cantera Mora,545873,4362,Centro Atlético Fénix,14,True,False,0,0,True,False,False,False,False,False,True
+124981,Facundo Federico Waller Martiarena,545873,4351,Club Plaza Colonia de Deportes,4,True,False,0,1,False,False,True,False,False,False,False
+55669,Nicolás Ecequiel Dibble Aristimuño,545873,4351,Club Plaza Colonia de Deportes,4,True,False,1,1,True,False,False,False,False,False,False
+124807,Leonardo Cecilio Fernández López,545873,4362,Centro Atlético Fénix,14,True,False,2,1,False,False,True,True,False,False,True
+19116,Federico Martín Rodríguez Rodríguez,545874,4356,Danubio Fútbol Club,13,True,False,0,0,True,False,False,False,False,False,False
+462030,Carlos Javier Grossmüller,545874,4356,Danubio Fútbol Club,13,True,False,1,0,False,False,False,False,False,False,False
+125036,Pablo Fabricio Siles Morales,545874,4378,Club Atlético Progreso,3,True,False,2,0,False,False,False,False,False,False,True
+139736,Thomás Chacón Yona,545874,4356,Danubio Fútbol Club,13,True,False,2,1,False,False,False,False,False,False,False
+76104,Julián Enrique Lalinde Rubio,545874,4378,Club Atlético Progreso,3,True,False,3,1,False,False,False,False,False,False,True
+179081,Luis Miguel Acevedo Tabárez,545875,4358,CA Peñarol,2,True,False,0,0,True,False,False,False,False,False,True
+28613,Lucas Ezequiel Viatri,545875,4358,CA Peñarol,2,True,False,0,1,False,False,False,False,False,False,True
+11086,Cristian Gabriel Rodríguez Barrotti,545875,4358,CA Peñarol,2,True,False,0,2,False,False,False,False,False,False,True
+179081,Luis Miguel Acevedo Tabárez,545875,4358,CA Peñarol,2,True,False,0,3,False,False,False,False,False,False,True
+124793,Nicolás Sosa Sánchez,545876,4354,Racing Club de Montevideo,11,True,False,0,0,True,False,False,False,False,False,False
+199338,Alan Jesús Rodríguez Guaglianoni,545876,4361,Defensor Sporting Club,9,True,False,1,0,False,False,True,False,False,False,True
+28242,Álvaro Damián Navarro Bica,545876,4361,Defensor Sporting Club,9,True,False,1,1,True,False,False,False,False,False,True
+150604,Martín Barrios Santos,545876,4354,Racing Club de Montevideo,11,True,False,1,2,False,False,True,False,False,False,False
+55454,Ignacio Nicolini Díaz,545876,4354,Racing Club de Montevideo,11,True,False,2,2,True,False,False,False,False,False,False
+124786,Ángelo Paolo Rodríguez Da Silva,545876,4354,Racing Club de Montevideo,11,True,False,3,2,False,False,False,False,False,False,False
+52841,Rodrigo Pastorini de León,545877,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,0,True,True,False,False,True,True,False
+117181,Bryan Olivera Calvo,545878,4357,Liverpool FC Montevideo,7,True,False,0,0,True,False,False,False,False,False,False
+124852,Juan Ignacio Ramírez Polero,545878,4357,Liverpool FC Montevideo,7,True,False,1,0,False,False,False,False,False,False,False
+125572,Joaquín Zeballos Machado,545878,4365,CA Juventud,15,True,False,2,0,False,False,False,False,False,True,True
+50128,Sebastián Sosa Sánchez,545879,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,False,False,False,False,False,True
+124990,Jorge Daniel Graví Piñeiro,545879,4371,Cerro Largo Fútbol Club,5,True,False,0,1,False,False,False,False,False,False,True
+124852,Juan Ignacio Ramírez Polero,545879,4357,Liverpool FC Montevideo,7,True,False,0,2,False,False,False,False,False,False,False
+20999,Pablo Eduardo Caballero Sebastiani,545879,4357,Liverpool FC Montevideo,7,True,False,1,2,False,False,True,False,False,False,False
+124779,Maureen Javier Franco Alonso,545879,4357,Liverpool FC Montevideo,7,True,False,2,2,True,True,False,False,False,False,False
+125572,Joaquín Zeballos Machado,545880,4365,CA Juventud,15,True,False,0,0,True,False,False,False,False,False,False
+125572,Joaquín Zeballos Machado,545880,4365,CA Juventud,15,True,False,1,0,False,False,False,False,False,False,False
+125572,Joaquín Zeballos Machado,545880,4365,CA Juventud,15,True,False,2,0,False,False,False,False,False,False,False
+52573,Diego Martín Barboza González,545880,4350,Montevideo Wanderers Fútbol Club,10,True,False,3,0,False,False,False,False,False,True,True
+125572,Joaquín Zeballos Machado,545880,4365,CA Juventud,15,True,False,3,1,False,False,False,False,False,False,False
+30448,Pablo Daniel Pereira Coitiño,545881,4355,Rampla Juniors Fútbol Club,16,True,False,0,0,True,False,False,False,False,False,False
+124913,Camilo Damián Cándido Aquino,545881,4355,Rampla Juniors Fútbol Club,16,True,False,1,0,False,False,False,False,False,False,False
+28895,Cristian Franco Lema,545883,4358,CA Peñarol,2,True,False,0,0,True,True,False,False,True,True,False
+125353,Franco Acosta Machado,545884,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,True,False,False,True,True,True
+124807,Leonardo Cecilio Fernández López,545885,4362,Centro Atlético Fénix,14,True,False,0,0,True,False,False,False,False,False,False
+78552,Facundo Peraza Fontana,545885,4360,Club Atlético Cerro,12,True,False,1,0,False,False,True,False,False,True,True
+78604,Alex Maximiliano Silva Garrel,545885,4362,Centro Atlético Fénix,14,True,False,1,1,True,True,False,False,False,False,False
+150600,Gabriel Neves Perdomo,545886,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,False
+125145,Rodrigo Nahuel Amaral Pereira,545886,4359,Club Nacional de Football,1,True,False,1,0,False,False,False,False,False,False,False
+18819,Gonzalo Rubén Bergessio,545886,4359,Club Nacional de Football,1,True,False,2,0,False,False,False,False,False,False,False
+18819,Gonzalo Rubén Bergessio,545886,4359,Club Nacional de Football,1,True,False,3,0,False,False,False,False,False,False,False
+263,Raúl Octavio Rivero Falero,545886,4359,Club Nacional de Football,1,True,False,4,0,False,False,False,False,False,False,False
+125001,Matías Nicolás Viña Susperreguy,545886,4359,Club Nacional de Football,1,True,False,5,0,False,False,False,False,False,False,False
+199332,Mauro Luna Diale,545887,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,False,False,False,False,False,False
+11182,Sebastián Bruno Fernández Miglierina,545887,4359,Club Nacional de Football,1,True,False,1,0,False,False,True,False,False,False,True
+124827,Kevin Federik Ramírez Dutra,545887,4359,Club Nacional de Football,1,True,False,1,1,True,False,False,False,False,False,True
+199332,Mauro Luna Diale,545887,4371,Cerro Largo Fútbol Club,5,True,False,1,2,False,False,True,True,False,False,False
+124853,Mauro Andrés Da Luz Regalado,545888,4364,Club Atlético River Plate,6,True,False,0,0,True,False,False,False,False,False,False
+125045,Luis Alfredo Urruti Giménez,545888,4364,Club Atlético River Plate,6,True,False,1,0,False,False,False,False,False,False,False
+12135,Maximiliano Daniel Pérez Tambasco,545888,4362,Centro Atlético Fénix,14,True,False,2,0,False,False,False,False,False,False,True
+124807,Leonardo Cecilio Fernández López,545888,4362,Centro Atlético Fénix,14,True,False,2,1,False,False,True,True,False,False,True
+124832,Esteban Ricardo González Maciel,545889,4378,Club Atlético Progreso,3,True,False,0,0,True,False,False,False,False,False,True
+124958,Alexander Mauricio Rosso Génova,545889,4378,Club Atlético Progreso,3,True,False,0,1,False,False,False,False,False,False,True
+77791,Ricardo Guzmán Pereira Méndez,545890,4358,CA Peñarol,2,True,False,0,0,True,True,False,False,True,True,True
+199307,Gonzalo Nápoli Soria,545891,4361,Defensor Sporting Club,9,True,False,0,0,True,False,False,False,False,True,True
+462030,Carlos Javier Grossmüller,545891,4356,Danubio Fútbol Club,13,True,False,0,1,False,False,True,True,False,True,False
+30448,Pablo Daniel Pereira Coitiño,545892,4355,Rampla Juniors Fútbol Club,16,True,False,0,0,True,False,False,False,False,True,True
+124972,Elbio Maximiliano Pérez Azambuya,545892,4363,CA Boston River,8,True,False,0,1,False,False,True,True,False,True,False
+55453,Pablo Martín Lacoste Icardi,545893,4354,Racing Club de Montevideo,11,True,False,0,0,True,False,False,False,False,False,False
+55453,Pablo Martín Lacoste Icardi,545893,4354,Racing Club de Montevideo,11,True,False,1,0,False,False,False,False,False,False,False
+124979,Gonzalo Federico González Pereyra,545893,4365,CA Juventud,15,True,False,2,0,False,False,False,False,False,True,True
+52841,Rodrigo Pastorini de León,545894,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,0,True,False,False,False,False,False,False
+124851,Federico Andrés Martínez Berroa,545894,4357,Liverpool FC Montevideo,7,True,False,1,0,False,False,True,False,False,True,True
+11314,Christian Daniel Bravo Araneda,545894,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,1,True,True,False,False,False,False,False
+124793,Nicolás Sosa Sánchez,545896,4354,Racing Club de Montevideo,11,True,False,0,0,True,False,False,False,False,True,True
+124779,Maureen Javier Franco Alonso,545896,4357,Liverpool FC Montevideo,7,True,False,0,1,False,False,True,True,False,True,False
+124966,Diego Martín Coelho Díaz,545897,4363,CA Boston River,8,True,False,0,0,True,True,False,False,True,True,True
+125131,Daniel Nicolás González Álvarez,545899,4361,Defensor Sporting Club,9,True,False,0,0,True,False,False,False,False,False,False
+52743,Cecilio Alfonso Waterman Ruiz,545899,4351,Club Plaza Colonia de Deportes,4,True,False,1,0,False,False,True,False,False,True,True
+125131,Daniel Nicolás González Álvarez,545899,4361,Defensor Sporting Club,9,True,False,1,1,True,False,False,False,False,False,False
+185314,Ignacio Jesús Laquintana Marsico,545899,4361,Defensor Sporting Club,9,True,False,2,1,False,False,False,False,False,False,False
+200067,Luciano Boggio Albín,545899,4361,Defensor Sporting Club,9,True,False,3,1,False,False,False,False,False,False,False
+11086,Cristian Gabriel Rodríguez Barrotti,545900,4358,CA Peñarol,2,True,False,0,0,True,False,False,False,False,True,False
+76092,José Luis Tancredi Malatez,545900,4360,Club Atlético Cerro,12,True,False,1,0,False,False,True,True,False,True,True
+124832,Esteban Ricardo González Maciel,545901,4378,Club Atlético Progreso,3,True,False,0,0,True,False,False,False,False,False,False
+124832,Esteban Ricardo González Maciel,545901,4378,Club Atlético Progreso,3,True,False,1,0,False,False,False,False,False,False,False
+124832,Esteban Ricardo González Maciel,545901,4378,Club Atlético Progreso,3,True,False,2,0,False,False,False,False,False,False,False
+77428,Mathías Damian Riquero Beretta,545901,4378,Club Atlético Progreso,3,True,False,3,0,False,False,False,False,False,False,False
+78604,Alex Maximiliano Silva Garrel,545902,4362,Centro Atlético Fénix,14,True,False,0,0,True,False,False,False,False,False,False
+124807,Leonardo Cecilio Fernández López,545902,4362,Centro Atlético Fénix,14,True,False,1,0,False,False,False,False,False,False,False
+18819,Gonzalo Rubén Bergessio,545902,4359,Club Nacional de Football,1,True,False,2,0,False,False,False,False,False,False,True
+199320,Santiago Mariano Rodríguez Molina,545902,4359,Club Nacional de Football,1,True,False,2,1,False,False,True,False,False,False,True
+124807,Leonardo Cecilio Fernández López,545902,4362,Centro Atlético Fénix,14,True,False,2,2,True,False,False,False,False,False,False
+124808,Mathías Alexander Acuña Maciel,545902,4362,Centro Atlético Fénix,14,True,False,3,2,False,False,False,False,False,False,False
+263,Raúl Octavio Rivero Falero,545902,4359,Club Nacional de Football,1,True,False,4,2,False,False,False,False,False,False,True
+18819,Gonzalo Rubén Bergessio,545902,4359,Club Nacional de Football,1,True,False,4,3,False,False,True,True,False,False,True
+50128,Sebastián Sosa Sánchez,545903,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,False,False,False,False,False,False
+52524,Jonathan David Dos Santos Duré,545903,4371,Cerro Largo Fútbol Club,5,True,False,1,0,False,False,False,False,False,False,False
+124827,Kevin Federik Ramírez Dutra,545904,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,False
+124827,Kevin Federik Ramírez Dutra,545904,4359,Club Nacional de Football,1,True,False,1,0,False,False,False,False,False,False,False
+199320,Santiago Mariano Rodríguez Molina,545904,4359,Club Nacional de Football,1,True,False,2,0,False,False,False,False,False,False,False
+124827,Kevin Federik Ramírez Dutra,545904,4359,Club Nacional de Football,1,True,False,3,0,False,False,False,False,False,False,False
+28895,Cristian Franco Lema,545905,4358,CA Peñarol,2,True,False,0,0,True,False,False,False,False,False,True
+125117,Gabriel Matías Fernández Leites,545905,4358,CA Peñarol,2,True,False,0,1,False,False,False,False,False,False,True
+125131,Daniel Nicolás González Álvarez,545906,4361,Defensor Sporting Club,9,True,False,0,0,True,False,False,False,False,False,True
+125131,Daniel Nicolás González Álvarez,545906,4361,Defensor Sporting Club,9,True,False,0,1,False,False,False,False,False,False,True
+78015,Walter Fernando Ibáñez Costa,545907,4355,Rampla Juniors Fútbol Club,16,True,False,0,0,True,True,False,False,True,True,True
+124828,Diego Gonzalo García Cardozo,545908,4365,CA Juventud,15,True,False,0,0,True,False,False,False,False,False,True
+125572,Joaquín Zeballos Machado,545908,4365,CA Juventud,15,True,False,0,1,False,False,False,False,False,False,True
+12022,Ernesto Goñi Ameijenda,545908,4356,Danubio Fútbol Club,13,True,False,0,2,False,False,False,False,False,False,False
+174443,Federico Sebastián Viñas Barboza,545908,4365,CA Juventud,15,True,False,1,2,False,False,False,False,False,False,True
+462030,Carlos Javier Grossmüller,545908,4356,Danubio Fútbol Club,13,True,False,1,3,False,False,False,False,False,False,False
+139735,Santiago Martín Paiva Mattos,545908,4356,Danubio Fútbol Club,13,True,False,2,3,False,False,True,False,False,False,False
+139735,Santiago Martín Paiva Mattos,545908,4356,Danubio Fútbol Club,13,True,False,3,3,True,True,False,False,False,False,False
+124851,Federico Andrés Martínez Berroa,545909,4357,Liverpool FC Montevideo,7,True,False,0,0,True,False,False,False,False,False,True
+124851,Federico Andrés Martínez Berroa,545909,4357,Liverpool FC Montevideo,7,True,False,0,1,False,False,False,False,False,False,True
+124851,Federico Andrés Martínez Berroa,545909,4357,Liverpool FC Montevideo,7,True,False,0,2,False,False,False,False,False,False,True
+52145,Diego Nicolás Guastavino Bentancour,545909,4357,Liverpool FC Montevideo,7,True,False,0,3,False,False,False,False,False,False,True
+20975,Nicolás Gabriel Albarracín Basil,545910,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,0,True,False,False,False,False,False,True
+124793,Nicolás Sosa Sánchez,545910,4354,Racing Club de Montevideo,11,True,False,0,1,False,False,True,False,False,False,False
+12559,Ignacio María González Gatti,545910,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,1,True,False,False,False,False,False,True
+20975,Nicolás Gabriel Albarracín Basil,545910,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,2,False,False,False,False,False,False,True
+124793,Nicolás Sosa Sánchez,545910,4354,Racing Club de Montevideo,11,True,False,1,3,False,False,False,False,False,False,False
+77379,Gonzalo Barreto Mastropierro,545910,4350,Montevideo Wanderers Fútbol Club,10,True,False,2,3,False,False,False,False,False,False,True
+52099,Líber Daniel Quiñones Prieto,545911,4354,Racing Club de Montevideo,11,True,False,0,0,True,True,False,False,True,True,False
+29117,Diego Martín Gurri Bentancor,545912,4363,CA Boston River,8,True,False,0,0,True,False,False,False,False,False,True
+124972,Elbio Maximiliano Pérez Azambuya,545912,4363,CA Boston River,8,True,False,0,1,False,False,False,False,False,False,True
+124972,Elbio Maximiliano Pérez Azambuya,545912,4363,CA Boston River,8,True,False,0,2,False,False,False,False,False,False,True
+124796,Sergio Andrés Felipe Silva,545913,4356,Danubio Fútbol Club,13,True,False,0,0,True,False,False,False,False,False,True
+124959,Emiliano Michael Ghan Carranza,545913,4356,Danubio Fútbol Club,13,True,False,0,1,False,False,False,False,False,False,True
+462030,Carlos Javier Grossmüller,545913,4356,Danubio Fútbol Club,13,True,False,0,2,False,False,False,False,False,False,True
+125077,Briam Eduardo Acosta Arellano,545913,4356,Danubio Fútbol Club,13,True,False,0,3,False,False,False,False,False,False,True
+125063,Gonzalo Montes Calderini,545913,4356,Danubio Fútbol Club,13,True,False,0,4,False,False,False,False,False,False,True
+124823,Delis Matías Vargas Blanco,545915,4355,Rampla Juniors Fútbol Club,16,True,False,0,0,True,False,False,False,False,False,False
+11334,Juan Ángel Albín Leites,545915,4355,Rampla Juniors Fútbol Club,16,True,False,1,0,False,False,False,False,False,False,False
+29380,Sebastián Gerardo Píriz Ribas,545916,4364,Club Atlético River Plate,6,True,False,0,0,True,False,False,False,False,True,True
+200067,Luciano Boggio Albín,545916,4361,Defensor Sporting Club,9,True,False,0,1,False,False,True,True,False,True,False
+11086,Cristian Gabriel Rodríguez Barrotti,545917,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,True,True
+124838,Guzmán Corujo Bríccola,545917,4358,CA Peñarol,2,True,False,0,1,False,False,True,True,False,True,False
+77428,Mathías Damian Riquero Beretta,545918,4378,Club Atlético Progreso,3,True,False,0,0,True,False,False,False,False,False,False
+14113,Gustavo Javier Alles Vila,545918,4378,Club Atlético Progreso,3,True,False,1,0,False,False,False,False,False,False,False
+28911,Rodrigo Pascual Viega Alves,545918,4378,Club Atlético Progreso,3,True,False,2,0,False,False,False,False,False,False,False
+28613,Lucas Ezequiel Viatri,545920,4358,CA Peñarol,2,True,False,0,0,True,False,False,False,False,False,True
+12135,Maximiliano Daniel Pérez Tambasco,545920,4362,Centro Atlético Fénix,14,True,False,0,1,False,False,True,False,False,True,False
+20235,Ignacio Lores Varela,545920,4358,CA Peñarol,2,True,False,1,1,True,True,False,False,False,False,True
+125145,Rodrigo Nahuel Amaral Pereira,545921,4359,Club Nacional de Football,1,True,False,0,0,True,True,False,False,True,True,False
+29380,Sebastián Gerardo Píriz Ribas,545922,4364,Club Atlético River Plate,6,True,False,0,0,True,False,False,False,False,False,False
+21008,Matías Damián Alonso Vallejo,545922,4364,Club Atlético River Plate,6,True,False,1,0,False,False,False,False,False,False,False
+30448,Pablo Daniel Pereira Coitiño,545922,4355,Rampla Juniors Fútbol Club,16,True,False,2,0,False,False,False,False,False,True,True
+124985,Santiago Nicolás Viera Moreira,545923,4360,Club Atlético Cerro,12,True,False,0,0,True,True,False,False,True,True,False
+52743,Cecilio Alfonso Waterman Ruiz,545924,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,False,False,False,False,True,False
+95910,Gonzalo Matías Maulella Rodríguez,545924,4357,Liverpool FC Montevideo,7,True,False,1,0,False,False,True,False,False,False,True
+124851,Federico Andrés Martínez Berroa,545924,4357,Liverpool FC Montevideo,7,True,False,1,1,True,True,False,False,False,False,True
+124901,Federico Andueza Velazco,545925,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,0,True,False,False,False,False,False,True
+124901,Federico Andueza Velazco,545925,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,1,False,False,False,False,False,False,True
+8214,Leandro Joaquín Rodríguez Telechea,545926,4354,Racing Club de Montevideo,11,True,False,0,0,True,False,False,False,False,True,True
+124791,Facundo Bonifazi Castro,545926,4363,CA Boston River,8,True,False,0,1,False,False,True,False,False,False,False
+124972,Elbio Maximiliano Pérez Azambuya,545926,4363,CA Boston River,8,True,False,1,1,True,True,False,False,False,False,False
+50128,Sebastián Sosa Sánchez,545927,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,False,False,False,False,False,True
+50128,Sebastián Sosa Sánchez,545927,4371,Cerro Largo Fútbol Club,5,True,False,0,1,False,False,False,False,False,False,True
+125277,Víctor Hugo Dorrego Coito,545927,4371,Cerro Largo Fútbol Club,5,True,False,0,2,False,False,False,False,False,False,True
+124876,Bruno Foliados Suárez,545927,4363,CA Boston River,8,True,False,0,3,False,False,False,False,False,False,False
+124972,Elbio Maximiliano Pérez Azambuya,545927,4363,CA Boston River,8,True,False,1,3,False,False,False,False,False,False,False
+139735,Santiago Martín Paiva Mattos,545928,4356,Danubio Fútbol Club,13,True,False,0,0,True,False,False,False,False,False,True
+139735,Santiago Martín Paiva Mattos,545928,4356,Danubio Fútbol Club,13,True,False,0,1,False,False,False,False,False,False,True
+151738,Emiliano Hebert Coitiño Dondan,545929,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,0,True,False,False,False,False,False,False
+52743,Cecilio Alfonso Waterman Ruiz,545929,4351,Club Plaza Colonia de Deportes,4,True,False,1,0,False,False,True,False,False,False,True
+77379,Gonzalo Barreto Mastropierro,545929,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,1,True,False,False,False,False,False,False
+52743,Cecilio Alfonso Waterman Ruiz,545929,4351,Club Plaza Colonia de Deportes,4,True,False,2,1,False,False,True,True,False,False,True
+125062,Ronald Daniel Álvarez Magallanes,545930,4360,Club Atlético Cerro,12,True,False,0,0,True,False,False,False,False,False,True
+76092,José Luis Tancredi Malatez,545930,4360,Club Atlético Cerro,12,True,False,0,1,False,False,False,False,False,False,True
+124852,Juan Ignacio Ramírez Polero,545930,4357,Liverpool FC Montevideo,7,True,False,0,2,False,False,False,False,False,False,False
+124852,Juan Ignacio Ramírez Polero,545930,4357,Liverpool FC Montevideo,7,True,False,1,2,False,False,True,True,False,False,False
+174443,Federico Sebastián Viñas Barboza,545931,4365,CA Juventud,15,True,False,0,0,True,False,False,False,False,False,False
+124422,José Pablo Varela Rebollo,545931,4365,CA Juventud,15,True,False,1,0,False,False,False,False,False,False,False
+124828,Diego Gonzalo García Cardozo,545931,4365,CA Juventud,15,True,False,2,0,False,False,False,False,False,False,False
+21008,Matías Damián Alonso Vallejo,545931,4364,Club Atlético River Plate,6,True,False,3,0,False,False,False,False,False,True,True
+124422,José Pablo Varela Rebollo,545931,4365,CA Juventud,15,True,False,3,1,False,False,False,False,False,False,False
+125145,Rodrigo Nahuel Amaral Pereira,545932,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,True
+124907,Paul Matías Zunino Escudero,545932,4359,Club Nacional de Football,1,True,False,0,1,False,False,False,False,False,False,True
+18819,Gonzalo Rubén Bergessio,545932,4359,Club Nacional de Football,1,True,False,0,2,False,False,False,False,False,False,True
+12135,Maximiliano Daniel Pérez Tambasco,545933,4362,Centro Atlético Fénix,14,True,False,0,0,True,False,False,False,False,False,True
+124971,Martín Ernesto Rabuñal Rey,545933,4361,Defensor Sporting Club,9,True,False,0,1,False,False,True,False,False,False,False
+12135,Maximiliano Daniel Pérez Tambasco,545933,4362,Centro Atlético Fénix,14,True,False,1,1,True,False,False,False,False,False,True
+124807,Leonardo Cecilio Fernández López,545933,4362,Centro Atlético Fénix,14,True,False,1,2,False,False,False,False,False,False,True
+203621,Owen Clark Falconis Lima,545933,4361,Defensor Sporting Club,9,True,False,1,3,False,False,False,False,False,False,False
+12135,Maximiliano Daniel Pérez Tambasco,545933,4362,Centro Atlético Fénix,14,True,False,2,3,False,False,False,False,False,False,True
+77428,Mathías Damian Riquero Beretta,545934,4378,Club Atlético Progreso,3,True,False,0,0,True,False,False,False,False,False,True
+179081,Luis Miguel Acevedo Tabárez,545934,4358,CA Peñarol,2,True,False,0,1,False,False,True,False,False,False,False
+77428,Mathías Damian Riquero Beretta,545934,4378,Club Atlético Progreso,3,True,False,1,1,True,False,False,False,False,False,True
+125117,Gabriel Matías Fernández Leites,545934,4358,CA Peñarol,2,True,False,1,2,False,False,True,True,False,False,False
+50128,Sebastián Sosa Sánchez,545935,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,True,False,False,True,True,False
+29600,Mauricio Sebastián Gómez Castro,545936,4361,Defensor Sporting Club,9,True,False,0,0,True,False,False,False,False,False,True
+125122,Bruno Martín Correa Araújo,545936,4361,Defensor Sporting Club,9,True,False,0,1,False,False,False,False,False,False,True
+125122,Bruno Martín Correa Araújo,545936,4361,Defensor Sporting Club,9,True,False,0,2,False,False,False,False,False,False,True
+36020,Leonardo Sebastián Melazzi Pinela,545937,4355,Rampla Juniors Fútbol Club,16,True,False,0,0,True,False,False,False,False,True,True
+124806,Raúl Freddy Ferro Olivera,545937,4362,Centro Atlético Fénix,14,True,False,0,1,False,False,True,False,False,False,False
+78604,Alex Maximiliano Silva Garrel,545937,4362,Centro Atlético Fénix,14,True,False,1,1,True,False,False,False,False,False,False
+12135,Maximiliano Daniel Pérez Tambasco,545937,4362,Centro Atlético Fénix,14,True,False,2,1,False,False,False,False,False,False,False
+18819,Gonzalo Rubén Bergessio,545938,4359,Club Nacional de Football,1,True,False,0,0,True,True,False,False,True,True,False
+124829,Diego Mateo Casas López,545940,4360,Club Atlético Cerro,12,True,False,0,0,True,False,False,False,False,False,False
+123686,Federico Damián Alonso del Monte,545940,4360,Club Atlético Cerro,12,True,False,1,0,False,False,False,False,False,False,False
+52518,Pablo Fernando Olivera Fernández,545940,4360,Club Atlético Cerro,12,True,False,2,0,False,False,False,False,False,False,False
+174437,Francisco Sebastián Ibáñez Velázquez,545941,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,False,False,False,False,False,False
+52743,Cecilio Alfonso Waterman Ruiz,545941,4351,Club Plaza Colonia de Deportes,4,True,False,1,0,False,False,False,False,False,False,False
+52743,Cecilio Alfonso Waterman Ruiz,545941,4351,Club Plaza Colonia de Deportes,4,True,False,2,0,False,False,False,False,False,False,False
+55453,Pablo Martín Lacoste Icardi,545941,4354,Racing Club de Montevideo,11,True,False,3,0,False,False,False,False,False,True,True
+124981,Facundo Federico Waller Martiarena,545941,4351,Club Plaza Colonia de Deportes,4,True,False,3,1,False,False,False,False,False,False,False
+139735,Santiago Martín Paiva Mattos,545942,4356,Danubio Fútbol Club,13,True,False,0,0,True,True,False,False,True,True,False
+150609,Paul Brian Rodríguez Bravo,601621,4358,CA Peñarol,2,True,False,0,0,True,False,False,False,False,False,False
+125108,Darwin Gabriel Núñez Ribeiro,601621,4358,CA Peñarol,2,True,False,1,0,False,False,False,False,False,False,False
+125108,Darwin Gabriel Núñez Ribeiro,601621,4358,CA Peñarol,2,True,False,2,0,False,False,False,False,False,False,False
+125108,Darwin Gabriel Núñez Ribeiro,601621,4358,CA Peñarol,2,True,False,3,0,False,False,False,False,False,False,False
+139735,Santiago Martín Paiva Mattos,601622,4356,Danubio Fútbol Club,13,True,False,0,0,True,False,False,False,False,False,True
+125572,Joaquín Zeballos Machado,601622,4365,CA Juventud,15,True,False,0,1,False,False,True,False,False,False,False
+174443,Federico Sebastián Viñas Barboza,601622,4365,CA Juventud,15,True,False,1,1,True,False,False,False,False,False,False
+139735,Santiago Martín Paiva Mattos,601622,4356,Danubio Fútbol Club,13,True,False,2,1,False,False,True,True,False,False,True
+461068,Gonzalo Castro Irizábal,601623,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,True,False
+125131,Daniel Nicolás González Álvarez,601623,4361,Defensor Sporting Club,9,True,False,1,0,False,False,True,False,False,False,True
+124971,Martín Ernesto Rabuñal Rey,601623,4361,Defensor Sporting Club,9,True,False,1,1,True,True,False,False,False,False,True
+124922,Matías Wolf Rigoleto Arévalo,601625,4362,Centro Atlético Fénix,14,True,False,0,0,True,True,False,False,True,True,False
+52743,Cecilio Alfonso Waterman Ruiz,601626,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,False,False,False,False,False,False
+125052,Leandro Suhr Avondet,601626,4351,Club Plaza Colonia de Deportes,4,True,False,1,0,False,False,False,False,False,False,False
+125101,Francisco Ginella Dabezies,601626,4350,Montevideo Wanderers Fútbol Club,10,True,False,2,0,False,False,False,False,False,True,True
+148720,Agustín Heredia,601627,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,False,False,False,False,False,False
+125281,Alberto Sebastián Assis Silva,601627,4371,Cerro Largo Fútbol Club,5,True,False,1,0,False,False,False,False,False,False,False
+52524,Jonathan David Dos Santos Duré,601627,4371,Cerro Largo Fútbol Club,5,True,False,2,0,False,False,False,False,False,False,False
+33057,Hernán Figueredo Alonzo,601628,4357,Liverpool FC Montevideo,7,True,False,0,0,True,False,False,False,False,False,True
+124852,Juan Ignacio Ramírez Polero,601628,4357,Liverpool FC Montevideo,7,True,False,0,1,False,False,False,False,False,False,True
+125572,Joaquín Zeballos Machado,601629,4365,CA Juventud,15,True,False,0,0,True,False,False,False,False,True,True
+28448,Hugo Mariano Pavone,601629,4361,Defensor Sporting Club,9,True,False,0,1,False,False,True,True,False,True,False
+124931,Gastón Rodríguez Maeso,601631,4358,CA Peñarol,2,True,False,0,0,True,False,False,False,False,True,True
+28911,Rodrigo Pascual Viega Alves,601631,4378,Club Atlético Progreso,3,True,False,0,1,False,False,True,True,False,True,False
+18819,Gonzalo Rubén Bergessio,601632,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,True
+18819,Gonzalo Rubén Bergessio,601632,4359,Club Nacional de Football,1,True,False,0,1,False,False,False,False,False,False,True
+139735,Santiago Martín Paiva Mattos,601632,4356,Danubio Fútbol Club,13,True,False,0,2,False,False,False,False,False,True,False
+125638,Haibrany Nick Ruiz Díaz Minervino,601633,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,False,False,False,False,False,True
+124981,Facundo Federico Waller Martiarena,601633,4351,Club Plaza Colonia de Deportes,4,True,False,0,1,False,False,False,False,False,False,True
+124779,Maureen Javier Franco Alonso,601634,4360,Club Atlético Cerro,12,True,False,0,0,True,True,False,False,True,True,True
+124852,Juan Ignacio Ramírez Polero,601635,4357,Liverpool FC Montevideo,7,True,False,0,0,True,False,False,False,False,False,False
+124851,Federico Andrés Martínez Berroa,601635,4357,Liverpool FC Montevideo,7,True,False,1,0,False,False,False,False,False,False,False
+124947,Brian Lugo Silva,601635,4362,Centro Atlético Fénix,14,True,False,2,0,False,False,False,False,False,True,True
+124851,Federico Andrés Martínez Berroa,601635,4357,Liverpool FC Montevideo,7,True,False,2,1,False,False,False,False,False,False,False
+124852,Juan Ignacio Ramírez Polero,601635,4357,Liverpool FC Montevideo,7,True,False,3,1,False,False,False,False,False,False,False
+124852,Juan Ignacio Ramírez Polero,601635,4357,Liverpool FC Montevideo,7,True,False,4,1,False,False,False,False,False,False,False
+77379,Gonzalo Barreto Mastropierro,601636,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,0,True,False,False,False,False,True,False
+174444,Carlos Roberto Fernández Martínez,601636,4371,Cerro Largo Fútbol Club,5,True,False,1,0,False,False,True,False,False,False,True
+52524,Jonathan David Dos Santos Duré,601636,4371,Cerro Largo Fútbol Club,5,True,False,1,1,True,True,False,False,False,False,True
+179081,Luis Miguel Acevedo Tabárez,601637,4358,CA Peñarol,2,True,False,0,0,True,False,False,False,False,False,False
+28951,Fabricio Orosmán Formiliano Duarte,601637,4358,CA Peñarol,2,True,False,1,0,False,False,False,False,False,False,False
+174443,Federico Sebastián Viñas Barboza,601638,4365,CA Juventud,15,True,False,0,0,True,True,False,False,True,True,False
+28911,Rodrigo Pascual Viega Alves,601639,4378,Club Atlético Progreso,3,True,False,0,0,True,False,False,False,False,False,True
+124907,Paul Matías Zunino Escudero,601639,4359,Club Nacional de Football,1,True,False,0,1,False,False,True,False,False,False,False
+200472,Mathías Nicolás Laborda Malseñido,601639,4359,Club Nacional de Football,1,True,False,1,1,True,False,False,False,False,False,False
+18819,Gonzalo Rubén Bergessio,601639,4359,Club Nacional de Football,1,True,False,2,1,False,False,False,False,False,False,False
+124832,Esteban Ricardo González Maciel,601639,4378,Club Atlético Progreso,3,True,False,3,1,False,False,False,False,False,False,True
+18819,Gonzalo Rubén Bergessio,601639,4359,Club Nacional de Football,1,True,False,3,2,False,False,False,False,False,False,False
+28448,Hugo Mariano Pavone,601640,4361,Defensor Sporting Club,9,True,False,0,0,True,False,False,False,False,True,True
+29380,Sebastián Gerardo Píriz Ribas,601640,4364,Club Atlético River Plate,6,True,False,0,1,False,False,True,False,False,False,False
+125045,Luis Alfredo Urruti Giménez,601640,4364,Club Atlético River Plate,6,True,False,1,1,True,True,False,False,False,False,False
+183572,Ignacio Agustín Pereira González,601641,4362,Centro Atlético Fénix,14,True,False,0,0,True,False,False,False,False,False,False
+124809,Emiliano Gastón Mozzone Sueiro,601641,4362,Centro Atlético Fénix,14,True,False,1,0,False,False,False,False,False,False,False
+124809,Emiliano Gastón Mozzone Sueiro,601641,4362,Centro Atlético Fénix,14,True,False,2,0,False,False,False,False,False,False,False
+124823,Delis Matías Vargas Blanco,601642,4355,Rampla Juniors Fútbol Club,16,True,False,0,0,True,False,False,False,False,False,True
+52743,Cecilio Alfonso Waterman Ruiz,601642,4351,Club Plaza Colonia de Deportes,4,True,False,0,1,False,False,True,False,False,True,False
+11334,Juan Ángel Albín Leites,601642,4355,Rampla Juniors Fútbol Club,16,True,False,1,1,True,True,False,False,False,False,True
+52524,Jonathan David Dos Santos Duré,601643,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,True,False,False,True,True,False
+124779,Maureen Javier Franco Alonso,601644,4360,Club Atlético Cerro,12,True,False,0,0,True,False,False,False,False,True,False
+124793,Nicolás Sosa Sánchez,601644,4354,Racing Club de Montevideo,11,True,False,1,0,False,False,True,False,False,False,True
+29525,Pablo Nicolás Royón Silvera,601644,4354,Racing Club de Montevideo,11,True,False,1,1,True,True,False,False,False,False,True
+124948,José Alberti Loyarte,601645,4365,CA Juventud,15,True,False,0,0,True,False,False,False,False,True,False
+203462,Douglas Matías Arezo Martínez,601645,4364,Club Atlético River Plate,6,True,False,1,0,False,False,True,False,False,False,True
+125045,Luis Alfredo Urruti Giménez,601645,4364,Club Atlético River Plate,6,True,False,1,1,True,True,False,False,False,False,True
+28951,Fabricio Orosmán Formiliano Duarte,601646,4358,CA Peñarol,2,True,False,0,0,True,False,False,False,False,False,True
+124971,Martín Ernesto Rabuñal Rey,601646,4361,Defensor Sporting Club,9,True,False,0,1,False,False,True,False,False,False,False
+28613,Lucas Ezequiel Viatri,601646,4358,CA Peñarol,2,True,False,1,1,True,False,False,False,False,False,True
+12053,Jorge Hernán Menosse Acosta,601646,4361,Defensor Sporting Club,9,True,False,1,2,False,False,True,True,False,False,False
+14113,Gustavo Javier Alles Vila,601648,4378,Club Atlético Progreso,3,True,False,0,0,True,False,False,False,False,False,False
+14113,Gustavo Javier Alles Vila,601648,4378,Club Atlético Progreso,3,True,False,1,0,False,False,False,False,False,False,False
+49789,Leandro Agustín Zazpe Rodríguez,601650,4354,Racing Club de Montevideo,11,True,False,0,0,True,False,False,False,False,False,False
+124793,Nicolás Sosa Sánchez,601650,4354,Racing Club de Montevideo,11,True,False,1,0,False,False,False,False,False,False,False
+79436,Cristian Gonzalo Sena Seveso,601650,4354,Racing Club de Montevideo,11,True,False,2,0,False,False,False,False,False,False,False
+12135,Maximiliano Daniel Pérez Tambasco,601650,4362,Centro Atlético Fénix,14,True,False,3,0,False,False,False,False,False,True,True
+52524,Jonathan David Dos Santos Duré,601651,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,False,False,False,False,True,True
+29398,Carlos Rodrigo Núñez Techera,601651,4355,Rampla Juniors Fútbol Club,16,True,False,0,1,False,False,True,True,False,True,False
+52145,Diego Nicolás Guastavino Bentancour,601652,4357,Liverpool FC Montevideo,7,True,False,0,0,True,False,False,False,False,False,False
+167462,Lucas Agustín Ocampo Galván,601652,4357,Liverpool FC Montevideo,7,True,False,1,0,False,False,False,False,False,False,False
+11314,Christian Daniel Bravo Araneda,601652,4350,Montevideo Wanderers Fútbol Club,10,True,False,2,0,False,False,False,False,False,True,True
+124808,Mathías Alexander Acuña Maciel,601652,4357,Liverpool FC Montevideo,7,True,False,2,1,False,False,False,False,False,False,False
+124875,Guillermo Fratta Cabrera,601654,4363,CA Boston River,8,True,False,0,0,True,False,False,False,False,False,True
+124966,Diego Martín Coelho Díaz,601654,4363,CA Boston River,8,True,False,0,1,False,False,False,False,False,False,True
+125187,Diego Andrés Martiñones Rus,601654,4356,Danubio Fútbol Club,13,True,False,0,2,False,False,False,False,False,True,False
+124408,Danilo Asconeguy Ruiz,601655,4378,Club Atlético Progreso,3,True,False,0,0,True,False,False,False,False,False,False
+124811,Agustín González Pereira,601655,4378,Club Atlético Progreso,3,True,False,1,0,False,False,False,False,False,False,False
+28448,Hugo Mariano Pavone,601655,4361,Defensor Sporting Club,9,True,False,2,0,False,False,False,False,False,True,True
+28911,Rodrigo Pascual Viega Alves,601655,4378,Club Atlético Progreso,3,True,False,2,1,False,False,False,False,False,False,False
+125002,Joaquín Piquerez Moreira,601656,4364,Club Atlético River Plate,6,True,False,0,0,True,False,False,False,False,True,True
+585121,Thiago Vecino Berriel,601656,4359,Club Nacional de Football,1,True,False,0,1,False,False,True,True,False,True,False
+52743,Cecilio Alfonso Waterman Ruiz,601657,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,True,False,False,True,True,True
+29398,Carlos Rodrigo Núñez Techera,601658,4355,Rampla Juniors Fútbol Club,16,True,False,0,0,True,False,False,False,False,False,True
+124823,Delis Matías Vargas Blanco,601658,4355,Rampla Juniors Fútbol Club,16,True,False,0,1,False,False,False,False,False,False,True
+125050,Gonzalo Nicolás Rizzo Sánchez,601658,4355,Rampla Juniors Fútbol Club,16,True,False,0,2,False,False,False,False,False,False,True
+12559,Ignacio María González Gatti,601658,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,3,False,False,False,False,False,False,False
+20639,Hans Axel Müller Odriozola,601658,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,3,False,False,False,False,False,False,False
+20639,Hans Axel Müller Odriozola,601658,4350,Montevideo Wanderers Fútbol Club,10,True,False,2,3,False,False,True,False,False,False,False
+124996,Federico Barrandeguy Martino,601658,4350,Montevideo Wanderers Fútbol Club,10,True,False,3,3,True,True,False,False,False,False,False
+124851,Federico Andrés Martínez Berroa,601659,4357,Liverpool FC Montevideo,7,True,False,0,0,True,False,False,False,False,False,False
+124793,Nicolás Sosa Sánchez,601659,4354,Racing Club de Montevideo,11,True,False,1,0,False,False,True,False,False,True,True
+124852,Juan Ignacio Ramírez Polero,601659,4357,Liverpool FC Montevideo,7,True,False,1,1,True,False,False,False,False,False,False
+124851,Federico Andrés Martínez Berroa,601659,4357,Liverpool FC Montevideo,7,True,False,2,1,False,False,False,False,False,False,False
+78790,Adolfo Justino Lima Camejo,601660,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,False,False,False,False,False,False
+125486,Matías Nicolás Tellechea Pérez,601660,4371,Cerro Largo Fútbol Club,5,True,False,1,0,False,False,False,False,False,False,False
+203462,Douglas Matías Arezo Martínez,601661,4364,Club Atlético River Plate,6,True,False,0,0,True,True,False,False,True,True,False
+18819,Gonzalo Rubén Bergessio,601662,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,True
+52063,Mathías Adolfo Cardacio Alaguich,601662,4359,Club Nacional de Football,1,True,False,0,1,False,False,False,False,False,False,True
+35548,Matías Daniel Malvino Gómez,601663,4361,Defensor Sporting Club,9,True,False,0,0,True,False,False,False,False,False,False
+174439,Juan Manuel Gutiérrez Freire,601663,4356,Danubio Fútbol Club,13,True,False,1,0,False,False,True,False,False,True,True
+18790,Álvaro Rafael González Luengo,601663,4361,Defensor Sporting Club,9,True,False,1,1,True,False,False,False,False,False,False
+28448,Hugo Mariano Pavone,601663,4361,Defensor Sporting Club,9,True,False,2,1,False,False,False,False,False,False,False
+124958,Alexander Mauricio Rosso Génova,601664,4378,Club Atlético Progreso,3,True,False,0,0,True,False,False,False,False,True,True
+124987,Carlos Adrián Valdez Suárez,601664,4363,CA Boston River,8,True,False,0,1,False,False,True,True,False,True,False
+124809,Emiliano Gastón Mozzone Sueiro,601665,4362,Centro Atlético Fénix,14,True,False,0,0,True,True,False,False,True,True,True
+125052,Leandro Suhr Avondet,601666,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,False,False,False,False,False,False
+148720,Agustín Heredia,601666,4371,Cerro Largo Fútbol Club,5,True,False,1,0,False,False,True,False,False,True,True
+125638,Haibrany Nick Ruiz Díaz Minervino,601666,4351,Club Plaza Colonia de Deportes,4,True,False,1,1,True,False,False,False,False,False,False
+52743,Cecilio Alfonso Waterman Ruiz,601666,4351,Club Plaza Colonia de Deportes,4,True,False,2,1,False,False,False,False,False,False,False
+12559,Ignacio María González Gatti,601667,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,0,True,False,False,False,False,False,True
+125064,Michel Daryl Araújo Villar,601667,4354,Racing Club de Montevideo,11,True,False,0,1,False,False,True,False,False,False,False
+124824,Hugo Diego Arismendi Ciapparetta,601667,4354,Racing Club de Montevideo,11,True,False,1,1,True,False,False,False,False,False,False
+12559,Ignacio María González Gatti,601667,4350,Montevideo Wanderers Fútbol Club,10,True,False,2,1,False,False,True,True,False,False,True
+124852,Juan Ignacio Ramírez Polero,601668,4357,Liverpool FC Montevideo,7,True,False,0,0,True,False,False,False,False,False,True
+167462,Lucas Agustín Ocampo Galván,601668,4357,Liverpool FC Montevideo,7,True,False,0,1,False,False,False,False,False,False,True
+11334,Juan Ángel Albín Leites,601668,4355,Rampla Juniors Fútbol Club,16,True,False,0,2,False,False,False,False,False,True,False
+78159,Washington Sebastián Abreu Gallo,601669,4363,CA Boston River,8,True,False,0,0,True,False,False,False,False,False,True
+28448,Hugo Mariano Pavone,601669,4361,Defensor Sporting Club,9,True,False,0,1,False,False,True,False,False,False,False
+28448,Hugo Mariano Pavone,601669,4361,Defensor Sporting Club,9,True,False,1,1,True,False,False,False,False,False,False
+150607,Emiliano Agustín Villar Vidal,601669,4363,CA Boston River,8,True,False,2,1,False,False,True,True,False,False,True
+203462,Douglas Matías Arezo Martínez,601671,4364,Club Atlético River Plate,6,True,False,0,0,True,True,False,False,True,True,True
+461068,Gonzalo Castro Irizábal,601672,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,False
+461068,Gonzalo Castro Irizábal,601672,4359,Club Nacional de Football,1,True,False,1,0,False,False,False,False,False,False,False
+43127,Felipe Ignacio Carballo Ares,601672,4359,Club Nacional de Football,1,True,False,2,0,False,False,False,False,False,False,False
+124846,Mathías Saavedra Perdomo,601673,4355,Rampla Juniors Fútbol Club,16,True,False,0,0,True,False,False,False,False,False,True
+124793,Nicolás Sosa Sánchez,601673,4354,Racing Club de Montevideo,11,True,False,0,1,False,False,True,False,False,False,False
+124846,Mathías Saavedra Perdomo,601673,4355,Rampla Juniors Fútbol Club,16,True,False,1,1,True,False,False,False,False,False,True
+95593,Claudio Matías Mirabaje Correa,601673,4354,Racing Club de Montevideo,11,True,False,1,2,False,False,True,False,False,False,False
+124846,Mathías Saavedra Perdomo,601673,4355,Rampla Juniors Fútbol Club,16,True,False,2,2,True,False,False,False,False,False,True
+30433,Rodrigo Gastón Díaz Rodríguez,601673,4355,Rampla Juniors Fútbol Club,16,True,False,2,3,False,False,False,False,False,False,True
+52145,Diego Nicolás Guastavino Bentancour,601674,4357,Liverpool FC Montevideo,7,True,False,0,0,True,False,False,False,False,False,False
+124852,Juan Ignacio Ramírez Polero,601674,4357,Liverpool FC Montevideo,7,True,False,1,0,False,False,False,False,False,False,False
+124852,Juan Ignacio Ramírez Polero,601674,4357,Liverpool FC Montevideo,7,True,False,2,0,False,False,False,False,False,False,False
+124779,Maureen Javier Franco Alonso,601675,4360,Club Atlético Cerro,12,True,False,0,0,True,True,False,False,True,True,True
+125004,Yeferson Agustín Quintana Alonso,601676,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,True,False,False,True,True,False
+124852,Juan Ignacio Ramírez Polero,714380,4357,Liverpool FC Montevideo,7,True,False,0,0,True,False,False,False,False,False,False
+125002,Joaquín Piquerez Moreira,714380,4364,Club Atlético River Plate,6,True,False,1,0,False,False,True,False,False,False,True
+117181,Bryan Olivera Calvo,714380,4357,Liverpool FC Montevideo,7,True,False,1,1,True,False,False,False,False,False,False
+119570,Gonzalo Viera Davyt,714380,4364,Club Atlético River Plate,6,True,False,2,1,False,False,True,True,False,False,True
+124811,Agustín González Pereira,714385,4378,Club Atlético Progreso,3,True,False,0,0,True,False,False,False,False,False,False
+76104,Julián Enrique Lalinde Rubio,714385,4378,Club Atlético Progreso,3,True,False,1,0,False,False,False,False,False,False,False
+125507,Rodrigo Andrés Piñeiro Silva,714385,4355,Rampla Juniors Fútbol Club,16,True,False,2,0,False,False,False,False,False,False,True
+124909,Matías Fernando Soto de Freitas,714385,4355,Rampla Juniors Fútbol Club,16,True,False,2,1,False,False,True,True,False,False,True
+519,Álvaro Fernández Gay,714386,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,True,False,False,True,True,False
+125004,Yeferson Agustín Quintana Alonso,714387,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,False,False,False,False,False,True
+52524,Jonathan David Dos Santos Duré,714387,4371,Cerro Largo Fútbol Club,5,True,False,0,1,False,False,False,False,False,False,True
+199339,Santiago Nicolás Mederos Pascal,714387,4356,Danubio Fútbol Club,13,True,False,0,2,False,False,False,False,False,True,False
+185313,Armando Jesús Méndez Alcorta,714388,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,False
+124852,Juan Ignacio Ramírez Polero,714388,4357,Liverpool FC Montevideo,7,True,False,1,0,False,False,True,False,False,True,True
+125001,Matías Nicolás Viña Susperreguy,714388,4359,Club Nacional de Football,1,True,False,1,1,True,False,False,False,False,False,False
+125001,Matías Nicolás Viña Susperreguy,714388,4359,Club Nacional de Football,1,True,False,2,1,False,False,False,False,False,False,False
+11182,Sebastián Bruno Fernández Miglierina,714388,4359,Club Nacional de Football,1,True,False,3,1,False,False,False,False,False,False,False
+29600,Mauricio Sebastián Gómez Castro,714389,4361,Defensor Sporting Club,9,True,False,0,0,True,False,False,False,False,False,True
+125122,Bruno Martín Correa Araújo,714389,4361,Defensor Sporting Club,9,True,False,0,1,False,False,False,False,False,False,True
+125122,Bruno Martín Correa Araújo,714389,4361,Defensor Sporting Club,9,True,False,0,2,False,False,False,False,False,False,True
+185314,Ignacio Jesús Laquintana Marsico,714389,4361,Defensor Sporting Club,9,True,False,0,3,False,False,False,False,False,False,True
+186158,Tomás Fernández,714389,4371,Cerro Largo Fútbol Club,5,True,False,0,4,False,False,False,False,False,True,False
+160104,Enzo Gabriel Martínez Suárez,714390,4358,CA Peñarol,2,True,False,0,0,True,False,False,False,False,False,True
+28951,Fabricio Orosmán Formiliano Duarte,714390,4358,CA Peñarol,2,True,False,0,1,False,False,False,False,False,False,True
+29398,Carlos Rodrigo Núñez Techera,714390,4355,Rampla Juniors Fútbol Club,16,True,False,0,2,False,False,False,False,False,True,False
+77428,Mathías Damian Riquero Beretta,714391,4378,Club Atlético Progreso,3,True,False,0,0,True,False,False,False,False,False,True
+125572,Joaquín Zeballos Machado,714391,4365,CA Juventud,15,True,False,0,1,False,False,True,False,False,True,False
+77428,Mathías Damian Riquero Beretta,714391,4378,Club Atlético Progreso,3,True,False,1,1,True,True,False,False,False,False,True
+124851,Federico Andrés Martínez Berroa,714392,4357,Liverpool FC Montevideo,7,True,False,0,0,True,False,False,False,False,True,False
+78604,Alex Maximiliano Silva Garrel,714392,4362,Centro Atlético Fénix,14,True,False,1,0,False,False,True,True,False,True,True
+178544,Brian Alexis Ocampo Ferreira,714393,4359,Club Nacional de Football,1,True,False,0,0,True,True,False,False,True,True,True
+125064,Michel Daryl Araújo Villar,714394,4354,Racing Club de Montevideo,11,True,False,0,0,True,False,False,False,False,True,False
+203462,Douglas Matías Arezo Martínez,714394,4364,Club Atlético River Plate,6,True,False,1,0,False,False,True,True,False,True,True
+124779,Maureen Javier Franco Alonso,714395,4360,Club Atlético Cerro,12,True,False,0,0,True,False,False,False,False,False,True
+78159,Washington Sebastián Abreu Gallo,714395,4363,CA Boston River,8,True,False,0,1,False,False,True,False,False,False,False
+125178,Lucas Guzmán Rodríguez Cardoso,714395,4363,CA Boston River,8,True,False,1,1,True,False,False,False,False,False,False
+124779,Maureen Javier Franco Alonso,714395,4360,Club Atlético Cerro,12,True,False,2,1,False,False,True,True,False,False,True
+52743,Cecilio Alfonso Waterman Ruiz,714396,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,True,False,False,True,True,True
+52743,Cecilio Alfonso Waterman Ruiz,714397,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,True,False,False,True,True,False
+42458,Unknown Player,714398,4356,Danubio Fútbol Club,13,True,False,0,0,True,True,False,False,True,True,True
+471505,Facundo Rodríguez Calleriza,714399,4363,CA Boston River,8,True,False,0,0,True,False,False,False,False,False,True
+125104,Wiston Daniel Fernández Queirolo,714399,4363,CA Boston River,8,True,False,0,1,False,False,False,False,False,False,True
+124875,Guillermo Fratta Cabrera,714399,4363,CA Boston River,8,True,False,0,2,False,False,False,False,False,False,True
+471505,Facundo Rodríguez Calleriza,714399,4363,CA Boston River,8,True,False,0,3,False,False,False,False,False,False,True
+124961,Adrián Eloys Leites López,714399,4364,Club Atlético River Plate,6,True,False,0,4,False,False,False,False,False,True,False
+125001,Matías Nicolás Viña Susperreguy,714400,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,False
+585121,Thiago Vecino Berriel,714400,4359,Club Nacional de Football,1,True,False,1,0,False,False,False,False,False,False,False
+585121,Thiago Vecino Berriel,714400,4359,Club Nacional de Football,1,True,False,2,0,False,False,False,False,False,False,False
+29693,Matías Gastón Castro,714401,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,0,True,False,False,False,False,False,True
+12135,Maximiliano Daniel Pérez Tambasco,714401,4362,Centro Atlético Fénix,14,True,False,0,1,False,False,True,False,False,False,False
+124947,Brian Lugo Silva,714401,4362,Centro Atlético Fénix,14,True,False,1,1,True,False,False,False,False,False,False
+183572,Ignacio Agustín Pereira González,714401,4362,Centro Atlético Fénix,14,True,False,2,1,False,False,False,False,False,False,False
+29693,Matías Gastón Castro,714401,4350,Montevideo Wanderers Fútbol Club,10,True,False,3,1,False,False,False,False,False,False,True
+29693,Matías Gastón Castro,714401,4350,Montevideo Wanderers Fútbol Club,10,True,False,3,2,False,False,True,True,False,False,True
+124811,Agustín González Pereira,714402,4378,Club Atlético Progreso,3,True,False,0,0,True,False,False,False,False,False,False
+77428,Mathías Damian Riquero Beretta,714402,4378,Club Atlético Progreso,3,True,False,1,0,False,False,False,False,False,False,False
+125545,Clementino González Martínez,714402,4357,Liverpool FC Montevideo,7,True,False,2,0,False,False,False,False,False,True,True
+124422,José Pablo Varela Rebollo,714403,4365,CA Juventud,15,True,False,0,0,True,False,False,False,False,True,False
+28951,Fabricio Orosmán Formiliano Duarte,714403,4358,CA Peñarol,2,True,False,1,0,False,False,True,True,False,True,True
+200914,Pedro Gastón Álvarez Sosa,714404,4361,Defensor Sporting Club,9,True,False,0,0,True,True,False,False,True,True,False
+186158,Tomás Fernández,714405,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,False,False,False,False,False,False
+52524,Jonathan David Dos Santos Duré,714405,4371,Cerro Largo Fútbol Club,5,True,False,1,0,False,False,False,False,False,False,False
+199332,Mauro Luna Diale,714405,4371,Cerro Largo Fútbol Club,5,True,False,2,0,False,False,False,False,False,False,False
+29619,Emiliano Martín García Tellechea,714405,4371,Cerro Largo Fútbol Club,5,True,False,3,0,False,False,False,False,False,False,False
+125103,Emanuel Tomás Beltrán Bardas,714405,4355,Rampla Juniors Fútbol Club,16,True,False,4,0,False,False,False,False,False,True,True
+78698,Robinson Martín Ferreira García,714405,4371,Cerro Largo Fútbol Club,5,True,False,4,1,False,False,False,False,False,False,False
+125131,Daniel Nicolás González Álvarez,714406,4361,Defensor Sporting Club,9,True,False,0,0,True,False,False,False,False,False,True
+199338,Alan Jesús Rodríguez Guaglianoni,714406,4361,Defensor Sporting Club,9,True,False,0,1,False,False,False,False,False,False,True
+185314,Ignacio Jesús Laquintana Marsico,714406,4361,Defensor Sporting Club,9,True,False,0,2,False,False,False,False,False,False,True
+124422,José Pablo Varela Rebollo,714406,4365,CA Juventud,15,True,False,0,3,False,False,False,False,False,True,False
+124953,Franco Gastón Romero Ponte,714407,4357,Liverpool FC Montevideo,7,True,False,0,0,True,True,False,False,True,True,False
+124811,Agustín González Pereira,714408,4378,Club Atlético Progreso,3,True,False,0,0,True,True,False,False,True,True,True
+52099,Líber Daniel Quiñones Prieto,714409,4354,Racing Club de Montevideo,11,True,False,0,0,True,False,False,False,False,False,False
+125064,Michel Daryl Araújo Villar,714409,4354,Racing Club de Montevideo,11,True,False,1,0,False,False,False,False,False,False,False
+124793,Nicolás Sosa Sánchez,714409,4354,Racing Club de Montevideo,11,True,False,2,0,False,False,False,False,False,False,False
+124824,Hugo Diego Arismendi Ciapparetta,714409,4354,Racing Club de Montevideo,11,True,False,3,0,False,False,False,False,False,False,False
+78604,Alex Maximiliano Silva Garrel,714409,4362,Centro Atlético Fénix,14,True,False,4,0,False,False,False,False,False,True,True
+26525,Luis Felipe Carvalho da Silva,714410,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,True
+124907,Paul Matías Zunino Escudero,714410,4359,Club Nacional de Football,1,True,False,0,1,False,False,False,False,False,False,True
+139735,Santiago Martín Paiva Mattos,714411,4356,Danubio Fútbol Club,13,True,False,0,0,True,False,False,False,False,True,False
+203462,Douglas Matías Arezo Martínez,714411,4364,Club Atlético River Plate,6,True,False,1,0,False,False,True,True,False,True,True
+52743,Cecilio Alfonso Waterman Ruiz,714412,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,True,False,False,True,True,False
+124863,Washington Omar Aguerre Lima,714413,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,False,False,False,False,False,True
+186158,Tomás Fernández,714413,4371,Cerro Largo Fútbol Club,5,True,False,0,1,False,False,False,False,False,False,True
+53034,Federico Alfredo Cristóforo Pepe,714415,4359,Club Nacional de Football,1,True,False,0,0,True,True,False,False,True,True,False
+124876,Bruno Foliados Suárez,714416,4363,CA Boston River,8,True,False,0,0,True,False,False,False,False,False,True
+124875,Guillermo Fratta Cabrera,714416,4363,CA Boston River,8,True,False,0,1,False,False,False,False,False,False,True
+124809,Emiliano Gastón Mozzone Sueiro,714416,4362,Centro Atlético Fénix,14,True,False,0,2,False,False,False,False,False,True,False
+124958,Alexander Mauricio Rosso Génova,714417,4378,Club Atlético Progreso,3,True,False,0,0,True,False,False,False,False,False,False
+77582,Leandro Sosa Toranza,714417,4378,Club Atlético Progreso,3,True,False,1,0,False,False,False,False,False,False,False
+124793,Nicolás Sosa Sánchez,714417,4354,Racing Club de Montevideo,11,True,False,2,0,False,False,False,False,False,True,True
+28613,Lucas Ezequiel Viatri,714418,4358,CA Peñarol,2,True,False,0,0,True,True,False,False,True,True,False
+124821,Juan de Dios Pintado Leines,714420,4365,CA Juventud,15,True,False,0,0,True,False,False,False,False,False,True
+124948,José Alberti Loyarte,714420,4365,CA Juventud,15,True,False,0,1,False,False,False,False,False,False,True
+125507,Rodrigo Andrés Piñeiro Silva,714420,4355,Rampla Juniors Fútbol Club,16,True,False,0,2,False,False,False,False,False,True,False
+125572,Joaquín Zeballos Machado,714420,4365,CA Juventud,15,True,False,1,2,False,False,False,False,False,False,True
+52524,Jonathan David Dos Santos Duré,714421,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,False,False,False,False,False,False
+52524,Jonathan David Dos Santos Duré,714421,4371,Cerro Largo Fútbol Club,5,True,False,1,0,False,False,False,False,False,False,False
+33057,Hernán Figueredo Alonzo,714422,4357,Liverpool FC Montevideo,7,True,False,0,0,True,True,False,False,True,True,False
+36009,Jonathan Daniel Barboza Bonilla,714423,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,0,True,False,False,False,False,False,False
+12484,Diego Nicolás Riolfo Pérez,714423,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,0,False,False,False,False,False,False,False
+124793,Nicolás Sosa Sánchez,714424,4354,Racing Club de Montevideo,11,True,False,0,0,True,False,False,False,False,False,False
+28613,Lucas Ezequiel Viatri,714424,4358,CA Peñarol,2,True,False,1,0,False,False,True,False,False,False,True
+174441,Marcos Matías De Los Santos Morales,714424,4358,CA Peñarol,2,True,False,1,1,True,False,False,False,False,False,True
+124793,Nicolás Sosa Sánchez,714424,4354,Racing Club de Montevideo,11,True,False,1,2,False,False,True,False,False,False,False
+125064,Michel Daryl Araújo Villar,714424,4354,Racing Club de Montevideo,11,True,False,2,2,True,False,False,False,False,False,False
+174441,Marcos Matías De Los Santos Morales,714424,4358,CA Peñarol,2,True,False,3,2,False,False,True,True,False,False,True
+471505,Facundo Rodríguez Calleriza,714425,4363,CA Boston River,8,True,False,0,0,True,False,False,False,False,True,False
+24822,Emilio Enrique Zeballos Gutiérrez,714425,4378,Club Atlético Progreso,3,True,False,1,0,False,False,True,True,False,True,True
+199339,Santiago Nicolás Mederos Pascal,714426,4356,Danubio Fútbol Club,13,True,False,0,0,True,False,False,False,False,True,False
+28139,Leonardo Henriques Coelho,714426,4362,Centro Atlético Fénix,14,True,False,1,0,False,False,True,True,False,True,True
+18819,Gonzalo Rubén Bergessio,714427,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,True
+18819,Gonzalo Rubén Bergessio,714427,4359,Club Nacional de Football,1,True,False,0,1,False,False,False,False,False,False,True
+124985,Santiago Nicolás Viera Moreira,714428,4360,Club Atlético Cerro,12,True,False,0,0,True,False,False,False,False,False,False
+124842,Nicolás Alejandro Rodríguez Charquero,714428,4364,Club Atlético River Plate,6,True,False,1,0,False,False,True,False,False,False,True
+124780,Franco Sebastián López Taborda,714428,4360,Club Atlético Cerro,12,True,False,1,1,True,False,False,False,False,False,False
+21008,Matías Damián Alonso Vallejo,714428,4364,Club Atlético River Plate,6,True,False,2,1,False,False,True,False,False,False,True
+202791,Alexander Nicolás Machado Aycaguer,714428,4360,Club Atlético Cerro,12,True,False,2,2,True,True,False,False,False,False,False
+119570,Gonzalo Viera Davyt,714429,4364,Club Atlético River Plate,6,True,False,0,0,True,False,False,False,False,False,False
+125002,Joaquín Piquerez Moreira,714429,4364,Club Atlético River Plate,6,True,False,1,0,False,False,False,False,False,False,False
+124842,Nicolás Alejandro Rodríguez Charquero,714429,4364,Club Atlético River Plate,6,True,False,2,0,False,False,False,False,False,False,False
+199332,Mauro Luna Diale,714429,4371,Cerro Largo Fútbol Club,5,True,False,3,0,False,False,False,False,False,False,True
+124939,Borys Santiago Barone Grillo,714429,4371,Cerro Largo Fútbol Club,5,True,False,3,1,False,False,False,False,False,False,True
+178544,Brian Alexis Ocampo Ferreira,714430,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,False
+199320,Santiago Mariano Rodríguez Molina,714430,4359,Club Nacional de Football,1,True,False,1,0,False,False,False,False,False,False,False
+125638,Haibrany Nick Ruiz Díaz Minervino,714431,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,False,False,False,False,False,True
+52743,Cecilio Alfonso Waterman Ruiz,714431,4351,Club Plaza Colonia de Deportes,4,True,False,0,1,False,False,False,False,False,False,True
+29008,Nicolás Pantaleone,714432,4356,Danubio Fútbol Club,13,True,False,0,0,True,False,False,False,False,True,True
+77428,Mathías Damian Riquero Beretta,714432,4378,Club Atlético Progreso,3,True,False,0,1,False,False,True,False,False,False,False
+124811,Agustín González Pereira,714432,4378,Club Atlético Progreso,3,True,False,1,1,True,True,False,False,False,False,False
+11086,Cristian Gabriel Rodríguez Barrotti,714433,4358,CA Peñarol,2,True,False,0,0,True,True,False,False,True,True,False
+185314,Ignacio Jesús Laquintana Marsico,714434,4361,Defensor Sporting Club,9,True,False,0,0,True,False,False,False,False,False,False
+28448,Hugo Mariano Pavone,714434,4361,Defensor Sporting Club,9,True,False,1,0,False,False,False,False,False,False,False
+602058,Cristian Barros Mirabal,714434,4361,Defensor Sporting Club,9,True,False,2,0,False,False,False,False,False,False,False
+28448,Hugo Mariano Pavone,714434,4361,Defensor Sporting Club,9,True,False,3,0,False,False,False,False,False,False,False
+124893,Adrián Nicolás Colombino Rodríguez,714435,4355,Rampla Juniors Fútbol Club,16,True,False,0,0,True,False,False,False,False,True,False
+11314,Christian Daniel Bravo Araneda,714435,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,0,False,False,True,True,False,True,True
+179079,Alan Damián Medina Silva,714437,4357,Liverpool FC Montevideo,7,True,False,0,0,True,False,False,False,False,True,True
+52524,Jonathan David Dos Santos Duré,714437,4371,Cerro Largo Fútbol Club,5,True,False,0,1,False,False,True,True,False,True,False
+36009,Jonathan Daniel Barboza Bonilla,714438,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,0,True,False,False,False,False,False,False
+11314,Christian Daniel Bravo Araneda,714438,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,0,False,False,False,False,False,False,False
+151737,Maximiliano Javier Araújo Vilches,714438,4350,Montevideo Wanderers Fútbol Club,10,True,False,2,0,False,False,False,False,False,False,False
+29525,Pablo Nicolás Royón Silvera,714439,4354,Racing Club de Montevideo,11,True,False,0,0,True,False,False,False,False,False,False
+125507,Rodrigo Andrés Piñeiro Silva,714439,4355,Rampla Juniors Fútbol Club,16,True,False,1,0,False,False,True,False,False,True,True
+52099,Líber Daniel Quiñones Prieto,714439,4354,Racing Club de Montevideo,11,True,False,1,1,True,False,False,False,False,False,False
+95593,Claudio Matías Mirabaje Correa,714439,4354,Racing Club de Montevideo,11,True,False,2,1,False,False,False,False,False,False,False
+124971,Martín Ernesto Rabuñal Rey,714440,4361,Defensor Sporting Club,9,True,False,0,0,True,False,False,False,False,False,True
+98702,Gelmin Javier Rivas Boada,714440,4363,CA Boston River,8,True,False,0,1,False,False,True,False,False,True,False
+28448,Hugo Mariano Pavone,714440,4361,Defensor Sporting Club,9,True,False,1,1,True,False,False,False,False,False,True
+125122,Bruno Martín Correa Araújo,714440,4361,Defensor Sporting Club,9,True,False,1,2,False,False,False,False,False,False,True
+199338,Alan Jesús Rodríguez Guaglianoni,714440,4361,Defensor Sporting Club,9,True,False,1,3,False,False,False,False,False,False,True
+124982,Agustín Canobbio Graviz,714441,4358,CA Peñarol,2,True,False,0,0,True,False,False,False,False,False,True
+11074,Francisco Jiménez Tejada,714441,4358,CA Peñarol,2,True,False,0,1,False,False,False,False,False,False,True
+24822,Emilio Enrique Zeballos Gutiérrez,714442,4378,Club Atlético Progreso,3,True,False,0,0,True,True,False,False,True,True,True
+125148,Ricardo Nahuel Roldán Pinela,714443,4360,Club Atlético Cerro,12,True,False,0,0,True,True,False,False,True,True,False
+88175,Juan Manuel Olivera López,714444,4364,Club Atlético River Plate,6,True,False,0,0,True,False,False,False,False,False,False
+125045,Luis Alfredo Urruti Giménez,714444,4364,Club Atlético River Plate,6,True,False,1,0,False,False,False,False,False,False,False
+18819,Gonzalo Rubén Bergessio,714444,4359,Club Nacional de Football,1,True,False,2,0,False,False,False,False,False,True,True
+124961,Adrián Eloys Leites López,714444,4364,Club Atlético River Plate,6,True,False,2,1,False,False,False,False,False,False,False
+125486,Matías Nicolás Tellechea Pérez,714445,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,True,False,False,True,True,True
+12135,Maximiliano Daniel Pérez Tambasco,714446,4362,Centro Atlético Fénix,14,True,False,0,0,True,True,False,False,True,True,False
+124998,Emanuel Gularte Méndez,714447,4378,Club Atlético Progreso,3,True,False,0,0,True,False,False,False,False,True,False
+76092,José Luis Tancredi Malatez,714447,4360,Club Atlético Cerro,12,True,False,1,0,False,False,True,True,False,True,True
+11074,Francisco Jiménez Tejada,714448,4358,CA Peñarol,2,True,False,0,0,True,False,False,False,False,False,False
+52743,Cecilio Alfonso Waterman Ruiz,714448,4351,Club Plaza Colonia de Deportes,4,True,False,1,0,False,False,True,False,False,True,True
+179081,Luis Miguel Acevedo Tabárez,714448,4358,CA Peñarol,2,True,False,1,1,True,True,False,False,False,False,False
+125131,Daniel Nicolás González Álvarez,714449,4361,Defensor Sporting Club,9,True,False,0,0,True,False,False,False,False,True,False
+29644,Mauricio Bernardo Victorino Dansilio,714449,4356,Danubio Fútbol Club,13,True,False,1,0,False,False,True,False,False,False,True
+29008,Nicolás Pantaleone,714449,4356,Danubio Fútbol Club,13,True,False,1,1,True,True,False,False,False,False,True
+124876,Bruno Foliados Suárez,714450,4363,CA Boston River,8,True,False,0,0,True,True,False,False,True,True,True
+33057,Hernán Figueredo Alonzo,714452,4357,Liverpool FC Montevideo,7,True,False,0,0,True,False,False,False,False,False,False
+124852,Juan Ignacio Ramírez Polero,714452,4357,Liverpool FC Montevideo,7,True,False,1,0,False,False,False,False,False,False,False
+12559,Ignacio María González Gatti,714452,4350,Montevideo Wanderers Fútbol Club,10,True,False,2,0,False,False,False,False,False,False,True
+11314,Christian Daniel Bravo Araneda,714452,4350,Montevideo Wanderers Fútbol Club,10,True,False,2,1,False,False,True,True,False,False,True
+36009,Jonathan Daniel Barboza Bonilla,714453,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,0,True,False,False,False,False,False,True
+29693,Matías Gastón Castro,714453,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,1,False,False,False,False,False,False,True
+124852,Juan Ignacio Ramírez Polero,714454,4357,Liverpool FC Montevideo,7,True,False,0,0,True,False,False,False,False,False,True
+124852,Juan Ignacio Ramírez Polero,714454,4357,Liverpool FC Montevideo,7,True,False,0,1,False,False,False,False,False,False,True
+125572,Joaquín Zeballos Machado,714455,4365,CA Juventud,15,True,False,0,0,True,False,False,False,False,True,True
+471505,Facundo Rodríguez Calleriza,714455,4363,CA Boston River,8,True,False,0,1,False,False,True,False,False,False,False
+98702,Gelmin Javier Rivas Boada,714455,4363,CA Boston River,8,True,False,1,1,True,True,False,False,False,False,False
+124846,Mathías Saavedra Perdomo,714456,4355,Rampla Juniors Fútbol Club,16,True,False,0,0,True,False,False,False,False,True,True
+125187,Diego Andrés Martiñones Rus,714456,4356,Danubio Fútbol Club,13,True,False,0,1,False,False,True,True,False,True,False
+124981,Facundo Federico Waller Martiarena,714457,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,False,False,False,False,False,False
+124981,Facundo Federico Waller Martiarena,714457,4351,Club Plaza Colonia de Deportes,4,True,False,1,0,False,False,False,False,False,False,False
+199310,Jonathan Shaquille González Álvarez,714457,4361,Defensor Sporting Club,9,True,False,2,0,False,False,False,False,False,True,True
+124981,Facundo Federico Waller Martiarena,714457,4351,Club Plaza Colonia de Deportes,4,True,False,2,1,False,False,False,False,False,False,False
+29191,Elías Umere,714457,4351,Club Plaza Colonia de Deportes,4,True,False,3,1,False,False,False,False,False,False,False
+11074,Francisco Jiménez Tejada,714458,4358,CA Peñarol,2,True,False,0,0,True,False,False,False,False,False,True
+11074,Francisco Jiménez Tejada,714458,4358,CA Peñarol,2,True,False,0,1,False,False,False,False,False,False,True
+203778,Facundo Pellistri Rebollo,714458,4358,CA Peñarol,2,True,False,0,2,False,False,False,False,False,False,True
+125148,Ricardo Nahuel Roldán Pinela,714458,4360,Club Atlético Cerro,12,True,False,0,3,False,False,False,False,False,True,False
+125002,Joaquín Piquerez Moreira,714459,4364,Club Atlético River Plate,6,True,False,0,0,True,False,False,False,False,True,False
+124998,Emanuel Gularte Méndez,714459,4378,Club Atlético Progreso,3,True,False,1,0,False,False,True,False,False,False,True
+124958,Alexander Mauricio Rosso Génova,714459,4378,Club Atlético Progreso,3,True,False,1,1,True,True,False,False,False,False,True
+18819,Gonzalo Rubén Bergessio,714460,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,False
+28139,Leonardo Henriques Coelho,714460,4359,Club Nacional de Football,1,True,False,1,0,False,False,False,False,False,False,False
+12135,Maximiliano Daniel Pérez Tambasco,714461,4362,Centro Atlético Fénix,14,True,False,0,0,True,False,False,False,False,True,False
+78698,Robinson Martín Ferreira García,714461,4371,Cerro Largo Fútbol Club,5,True,False,1,0,False,False,True,True,False,True,True
+200472,Mathías Nicolás Laborda Malseñido,714462,4359,Club Nacional de Football,1,True,False,0,0,True,True,False,False,True,True,True
+11086,Cristian Gabriel Rodríguez Barrotti,714463,4358,CA Peñarol,2,True,False,0,0,True,True,False,False,True,True,False
+200495,Nahuel Santana Silva,714464,4360,Club Atlético Cerro,12,True,False,0,0,True,False,False,False,False,True,True
+199338,Alan Jesús Rodríguez Guaglianoni,714464,4361,Defensor Sporting Club,9,True,False,0,1,False,False,True,True,False,True,False
+29191,Elías Umere,714465,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,True,False,False,True,True,True
+124793,Nicolás Sosa Sánchez,714468,4354,Racing Club de Montevideo,11,True,False,0,0,True,False,False,False,False,False,True
+124786,Ángelo Paolo Rodríguez Da Silva,714468,4354,Racing Club de Montevideo,11,True,False,0,1,False,False,False,False,False,False,True
+52524,Jonathan David Dos Santos Duré,714469,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,False,False,False,False,False,False
+52524,Jonathan David Dos Santos Duré,714469,4371,Cerro Largo Fútbol Club,5,True,False,1,0,False,False,False,False,False,False,False
+124793,Nicolás Sosa Sánchez,714469,4354,Racing Club de Montevideo,11,True,False,2,0,False,False,False,False,False,True,True
+203548,Mauro Andrés Méndez Acosta,714470,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,0,True,False,False,False,False,False,True
+471505,Facundo Rodríguez Calleriza,714470,4363,CA Boston River,8,True,False,0,1,False,False,True,False,False,True,False
+20975,Nicolás Gabriel Albarracín Basil,714470,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,1,True,False,False,False,False,False,True
+20975,Nicolás Gabriel Albarracín Basil,714470,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,2,False,False,False,False,False,False,True
+29625,Matías Martín Jones Mourigian,714471,4356,Danubio Fútbol Club,13,True,False,0,0,True,False,False,False,False,True,False
+124852,Juan Ignacio Ramírez Polero,714471,4357,Liverpool FC Montevideo,7,True,False,1,0,False,False,True,False,False,False,True
+124808,Mathías Alexander Acuña Maciel,714471,4357,Liverpool FC Montevideo,7,True,False,1,1,True,True,False,False,False,False,True
+125353,Franco Acosta Machado,714472,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,True,False,False,True,True,False
+11334,Juan Ángel Albín Leites,714473,4355,Rampla Juniors Fútbol Club,16,True,False,0,0,True,True,False,False,True,True,True
+21008,Matías Damián Alonso Vallejo,714474,4364,Club Atlético River Plate,6,True,False,0,0,True,True,False,False,True,True,False
+12135,Maximiliano Daniel Pérez Tambasco,714476,4362,Centro Atlético Fénix,14,True,False,0,0,True,False,False,False,False,True,False
+14113,Gustavo Javier Alles Vila,714476,4378,Club Atlético Progreso,3,True,False,1,0,False,False,True,False,False,False,True
+14113,Gustavo Javier Alles Vila,714476,4378,Club Atlético Progreso,3,True,False,1,1,True,True,False,False,False,False,True
+125277,Víctor Hugo Dorrego Coito,714477,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,True,False,False,True,True,True
+124991,Roberto Nicolás Fernández Fagúndez,714478,4362,Centro Atlético Fénix,14,True,False,0,0,True,False,False,False,False,True,True
+28613,Lucas Ezequiel Viatri,714478,4358,CA Peñarol,2,True,False,0,1,False,False,True,False,False,False,False
+11074,Francisco Jiménez Tejada,714478,4358,CA Peñarol,2,True,False,1,1,True,True,False,False,False,False,False
+43127,Felipe Ignacio Carballo Ares,714479,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,True,True
+29600,Mauricio Sebastián Gómez Castro,714479,4361,Defensor Sporting Club,9,True,False,0,1,False,False,True,False,False,False,False
+29600,Mauricio Sebastián Gómez Castro,714479,4361,Defensor Sporting Club,9,True,False,1,1,True,True,False,False,False,False,False
+124904,Luis Santiago Gáspari Vázquez,714480,4355,Rampla Juniors Fútbol Club,16,True,False,0,0,True,False,False,False,False,False,False
+88175,Juan Manuel Olivera López,714480,4364,Club Atlético River Plate,6,True,False,1,0,False,False,True,False,False,False,True
+11334,Juan Ángel Albín Leites,714480,4355,Rampla Juniors Fútbol Club,16,True,False,1,1,True,False,False,False,False,False,False
+88175,Juan Manuel Olivera López,714480,4364,Club Atlético River Plate,6,True,False,2,1,False,False,True,True,False,False,True
+78199,Gonzalo Reyes,714481,4365,CA Juventud,15,True,False,0,0,True,False,False,False,False,False,False
+125572,Joaquín Zeballos Machado,714481,4365,CA Juventud,15,True,False,1,0,False,False,False,False,False,False,False
+124422,José Pablo Varela Rebollo,714481,4365,CA Juventud,15,True,False,2,0,False,False,False,False,False,False,False
+124829,Diego Mateo Casas López,714481,4360,Club Atlético Cerro,12,True,False,3,0,False,False,False,False,False,False,True
+139753,Gastón Nicolás Vitancurt Evora,714481,4365,CA Juventud,15,True,False,3,1,False,False,False,False,False,False,False
+76092,José Luis Tancredi Malatez,714481,4360,Club Atlético Cerro,12,True,False,4,1,False,False,False,False,False,False,True
+30602,Federico Pérez Silvera,714482,4351,Club Plaza Colonia de Deportes,4,True,False,0,0,True,True,False,False,True,True,True
+29693,Matías Gastón Castro,714483,4350,Montevideo Wanderers Fútbol Club,10,True,False,0,0,True,False,False,False,False,False,False
+124837,Facundo Labandeira Castro,714483,4356,Danubio Fútbol Club,13,True,False,1,0,False,False,True,False,False,True,True
+11314,Christian Daniel Bravo Araneda,714483,4350,Montevideo Wanderers Fútbol Club,10,True,False,1,1,True,True,False,False,False,False,False
+124966,Diego Martín Coelho Díaz,714484,4363,CA Boston River,8,True,False,0,0,True,True,False,False,True,True,True
+125486,Matías Nicolás Tellechea Pérez,714485,4371,Cerro Largo Fútbol Club,5,True,False,0,0,True,True,False,False,True,True,False
+125187,Diego Andrés Martiñones Rus,714486,4356,Danubio Fútbol Club,13,True,False,0,0,True,False,False,False,False,False,False
+29625,Matías Martín Jones Mourigian,714486,4356,Danubio Fútbol Club,13,True,False,1,0,False,False,False,False,False,False,False
+52099,Líber Daniel Quiñones Prieto,714486,4354,Racing Club de Montevideo,11,True,False,2,0,False,False,False,False,False,False,True
+29525,Pablo Nicolás Royón Silvera,714486,4354,Racing Club de Montevideo,11,True,False,2,1,False,False,True,False,False,False,True
+125187,Diego Andrés Martiñones Rus,714486,4356,Danubio Fútbol Club,13,True,False,2,2,True,True,False,False,False,False,False
+124808,Mathías Alexander Acuña Maciel,714488,4357,Liverpool FC Montevideo,7,True,False,0,0,True,False,False,False,False,False,True
+124851,Federico Andrés Martínez Berroa,714488,4357,Liverpool FC Montevideo,7,True,False,0,1,False,False,False,False,False,False,True
+88175,Juan Manuel Olivera López,714489,4364,Club Atlético River Plate,6,True,False,0,0,True,True,False,False,True,True,False
+125001,Matías Nicolás Viña Susperreguy,714490,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,False
+125507,Rodrigo Andrés Piñeiro Silva,714490,4355,Rampla Juniors Fútbol Club,16,True,False,1,0,False,False,True,False,False,False,True
+18819,Gonzalo Rubén Bergessio,714490,4359,Club Nacional de Football,1,True,False,1,1,True,False,False,False,False,False,False
+124846,Mathías Saavedra Perdomo,714490,4355,Rampla Juniors Fútbol Club,16,True,False,2,1,False,False,True,False,False,False,True
+199320,Santiago Mariano Rodríguez Molina,714490,4359,Club Nacional de Football,1,True,False,2,2,True,False,False,False,False,False,False
+124904,Luis Santiago Gáspari Vázquez,714490,4355,Rampla Juniors Fútbol Club,16,True,False,3,2,False,False,True,False,False,False,True
+11182,Sebastián Bruno Fernández Miglierina,714490,4359,Club Nacional de Football,1,True,False,3,3,True,True,False,False,False,False,False
+200067,Luciano Boggio Albín,714491,4361,Defensor Sporting Club,9,True,False,0,0,True,False,False,False,False,False,True
+28139,Leonardo Henriques Coelho,714491,4362,Centro Atlético Fénix,14,True,False,0,1,False,False,True,False,False,False,False
+28139,Leonardo Henriques Coelho,714491,4362,Centro Atlético Fénix,14,True,False,1,1,True,False,False,False,False,False,False
+28448,Hugo Mariano Pavone,714491,4361,Defensor Sporting Club,9,True,False,2,1,False,False,True,False,False,False,True
+28139,Leonardo Henriques Coelho,714491,4362,Centro Atlético Fénix,14,True,False,2,2,True,True,False,False,False,False,False
+179081,Luis Miguel Acevedo Tabárez,714493,4358,CA Peñarol,2,True,False,0,0,True,False,False,False,False,False,False
+125277,Víctor Hugo Dorrego Coito,714493,4371,Cerro Largo Fútbol Club,5,True,False,1,0,False,False,True,False,False,True,True
+20235,Ignacio Lores Varela,714493,4358,CA Peñarol,2,True,False,1,1,True,True,False,False,False,False,False
+185314,Ignacio Jesús Laquintana Marsico,714494,4361,Defensor Sporting Club,9,True,False,0,0,True,False,False,False,False,False,False
+199338,Alan Jesús Rodríguez Guaglianoni,714494,4361,Defensor Sporting Club,9,True,False,1,0,False,False,False,False,False,False,False
+199310,Jonathan Shaquille González Álvarez,714494,4378,Club Atlético Progreso,3,True,False,2,0,False,False,False,False,False,False,True
+14113,Gustavo Javier Alles Vila,714494,4378,Club Atlético Progreso,3,True,False,2,1,False,False,True,False,False,False,True
+124811,Agustín González Pereira,714494,4378,Club Atlético Progreso,3,True,False,2,2,True,False,False,False,False,False,True
+124832,Esteban Ricardo González Maciel,714494,4378,Club Atlético Progreso,3,True,False,2,3,False,False,False,False,False,False,True
+125017,Juan Ignacio Panzariello Cambre,714495,4355,Rampla Juniors Fútbol Club,16,True,False,0,0,True,False,False,False,False,False,False
+623716,Mateo Abeijón Porto,714495,4355,Rampla Juniors Fútbol Club,16,True,False,1,0,False,False,False,False,False,False,False
+28139,Leonardo Henriques Coelho,714495,4362,Centro Atlético Fénix,14,True,False,2,0,False,False,False,False,False,True,True
+18819,Gonzalo Rubén Bergessio,714496,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,True
+199320,Santiago Mariano Rodríguez Molina,714496,4359,Club Nacional de Football,1,True,False,0,1,False,False,False,False,False,False,True
+18819,Gonzalo Rubén Bergessio,714496,4359,Club Nacional de Football,1,True,False,0,2,False,False,False,False,False,False,True
+88175,Juan Manuel Olivera López,714497,4364,Club Atlético River Plate,6,True,False,0,0,True,True,False,False,True,True,True
+78552,Facundo Peraza Fontana,714498,4360,Club Atlético Cerro,12,True,False,0,0,True,False,False,False,False,False,True
+125148,Ricardo Nahuel Roldán Pinela,714498,4360,Club Atlético Cerro,12,True,False,0,1,False,False,False,False,False,False,True
+174442,Agustín Oliveros Cano,714499,4354,Racing Club de Montevideo,11,True,False,0,0,True,False,False,False,False,False,False
+125064,Michel Daryl Araújo Villar,714499,4354,Racing Club de Montevideo,11,True,False,1,0,False,False,False,False,False,False,False
+52743,Cecilio Alfonso Waterman Ruiz,714499,4351,Club Plaza Colonia de Deportes,4,True,False,2,0,False,False,False,False,False,False,True
+125040,Facundo Kidd Álvarez,714499,4354,Racing Club de Montevideo,11,True,False,2,1,False,False,False,False,False,False,False
+125052,Leandro Suhr Avondet,714499,4351,Club Plaza Colonia de Deportes,4,True,False,3,1,False,False,False,False,False,False,True
+471505,Facundo Rodríguez Calleriza,714500,4363,CA Boston River,8,True,False,0,0,True,False,False,False,False,False,False
+462030,Carlos Javier Grossmüller,714500,4356,Danubio Fútbol Club,13,True,False,1,0,False,False,True,False,False,True,True
+124966,Diego Martín Coelho Díaz,714500,4363,CA Boston River,8,True,False,1,1,True,False,False,False,False,False,False
+124966,Diego Martín Coelho Díaz,714500,4363,CA Boston River,8,True,False,2,1,False,False,False,False,False,False,False
+124809,Emiliano Gastón Mozzone Sueiro,725403,4362,Centro Atlético Fénix,14,True,False,0,0,True,False,False,False,False,False,False
+125572,Joaquín Zeballos Machado,725403,4365,CA Juventud,15,True,False,1,0,False,False,True,False,False,False,True
+124809,Emiliano Gastón Mozzone Sueiro,725403,4362,Centro Atlético Fénix,14,True,False,1,1,True,False,False,False,False,False,False
+125572,Joaquín Zeballos Machado,725403,4365,CA Juventud,15,True,False,2,1,False,False,True,True,False,False,True
+21008,Matías Damián Alonso Vallejo,725404,4364,Club Atlético River Plate,6,True,False,0,0,True,False,False,False,False,False,False
+125045,Luis Alfredo Urruti Giménez,725404,4364,Club Atlético River Plate,6,True,False,1,0,False,False,False,False,False,False,False
+203462,Douglas Matías Arezo Martínez,725404,4364,Club Atlético River Plate,6,True,False,2,0,False,False,False,False,False,False,False
+12484,Diego Nicolás Riolfo Pérez,725404,4350,Montevideo Wanderers Fútbol Club,10,True,False,3,0,False,False,False,False,False,True,True
+76092,José Luis Tancredi Malatez,725405,4360,Club Atlético Cerro,12,True,False,0,0,True,True,False,False,True,True,False
+11086,Cristian Gabriel Rodríguez Barrotti,725406,4358,CA Peñarol,2,True,False,0,0,True,True,False,False,True,True,False
+461068,Gonzalo Castro Irizábal,804232,4359,Club Nacional de Football,1,True,False,0,0,True,False,False,False,False,False,True
+124838,Guzmán Corujo Bríccola,804232,4359,Club Nacional de Football,1,True,False,0,1,False,False,False,False,False,False,True
+124907,Paul Matías Zunino Escudero,808254,4359,Club Nacional de Football,1,True,False,0,0,True,True,False,False,True,True,False
