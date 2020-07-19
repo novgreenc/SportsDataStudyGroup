@@ -1,14 +1,19 @@
-﻿Provider,Payment_Model,Quality_of_data,Depth_of_data,Accessibility_of_data,Price,Access,Audience,League_data,Player_data,Event_data_basic,Event_data_detailed,Performance_data,Injury_data,Insights
-Who Scored?,Free,7,5,2,1,Web,Casual,Yes,Yes,No,No,No,No,No
-American Soccer Analytics,Free,6,5,6,1,Export,Analyst,Yes,Yes,No,No,No,No,Maybe
-Football-Data.co.uk,Free,7,3,4,1,Export,Betting,Yes,No,No,No,No,No,No
-Footy Stats,Freemium,7,4,8,6,Export & API,Analyst,Yes,Yes,Yes,No,No,No,No
-Injuries & Suspensions,Freemium,6,5,3,5,Web,Betting,No,No,No,No,No,Yes,No
-Stats Perform,B2B,9,9,9,9,Export & API,Any,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
-Opta Sports Pro,B2B,9,9,9,9,Export & API,Any,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
-Kaggle - EA Fifa XX,Free,5,4,6,1,Export,Casual,No,Yes,No,No,No,No,No
-Kaggle - European Soccer,Free,5,3,6,1,Export,Casual,Yes,No,No,No,No,No,No
-Kaggle - Premier League Results,Free,5,3,6,1,Export,Casual,Yes,No,No,No,No,No,No
-Soccer - Sports Open Data,Freemium,5,3,6,4,Export & API,Analyst,Yes,No,Yes,No,No,Maybe,No
-Statista,Freemium,7,7,7,6,Export & API,Analyst,Yes,Yes,Yes,Yes,No,No,Yes
-Statsbomb,Paid,9,9,9,9,Export & API,Any,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+﻿Provider,Payment_Model,Quality_of_data,Depth_of_data,Accessibility_of_data,Scope_of_data,Price,Access,Audience,League_data,Player_data,Event_data_basic,Event_data_detailed,Performance_data,Injury_data,Insights
+Who Scored?,Free,7,5,2,5,1,Web,Casual,Yes,Yes,No,No,No,No,No
+American Soccer Analytics,Free,6,5,6,4,1,Export,Analyst,Yes,Yes,No,No,No,No,Maybe
+Football-Data.co.uk,Free,7,3,4,3,1,Export,Betting,Yes,No,No,No,No,No,No
+Footy Stats,Freemium,7,4,8,4,5,Export & API,Analyst,Yes,Yes,Yes,No,No,No,No
+Injuries & Suspensions,Freemium,6,5,3,2,5,Web,Betting,No,No,No,No,No,Yes,No
+Stats Perform,B2B,9,9,9,9,9,Export & API,Any,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+Opta Sports Pro,B2B,9,9,9,9,9,Export & API,Any,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+wyscout,B2B,9,9,8,9,6,API,Any,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+Kaggle - EA Fifa XX,Free,5,4,6,1,1,Export,Casual,No,Yes,No,No,No,No,No
+Kaggle - European Soccer,Free,5,3,6,2,1,Export,Casual,Yes,No,No,No,No,No,No
+Kaggle - Premier League Results,Free,5,3,6,1,1,Export,Casual,Yes,No,No,No,No,No,No
+Soccer - Sports Open Data,Freemium,5,3,6,2,4,Export & API,Analyst,Yes,No,Yes,No,No,Maybe,No
+Statista,Freemium,7,7,7,4,5,Export & API,Analyst,Yes,Yes,Yes,Yes,No,No,Yes
+Statsbomb,Paid,9,9,9,9,9,Export & API,Any,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+Statsbomb open data,Free,9,9,6,5,1,Export,Any,No,No,Yes,Yes,No,No,No
+LastRow,Free,7,8,6,3,1,Export,Any,No,No,Yes,Yes,No,No,No
+Metrica Sports,B2B,9,9,8,9,8,API,Any,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+smarterscout,Paid,9,6,2,6,7,Web,Analyst,No,Yes,No,No,Yes,No,Yes
